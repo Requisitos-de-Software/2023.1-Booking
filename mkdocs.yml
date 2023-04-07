@@ -1,3 +1,17 @@
 site_name: RS
 theme:
   name: material
+
+site_name: RS 2023.1
+
+repo_name: "2023.1 grupo 2"
+repo_url: "https://github.com/Requisitos-de-Software/2023.1-Grupo02"
+
+copyright: "Copyright &copy; 2023 rs"
+
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Planejamento:
+      - Ferramentas: planejamento/ferramentas.md
