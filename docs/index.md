@@ -20,4 +20,4 @@ Este repositório está destinado ao desenvolvimento da documentação do projet
 ## Histórico de Versão
 | Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
 |--------|------------|----------------------|-----------|-------------|
-| 1.0    | 07/04/2023 | Criação Página Inicial | Henrique     | ...         |
+| 1.1    | 07/04/2023 | Criação Página Inicial | Henrique     | ...         |
