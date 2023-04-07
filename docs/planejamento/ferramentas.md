@@ -22,4 +22,4 @@ As ferramentas que iremos utilizar estão ilustradas na tabela 1 a seguir:
 
 | Data | Descrição | Autor(es) | Revisor(es) | Versão |
 | ---- | ----------| ------| --------| -------|
-| 03/04/2023 | Criação da página de ferramentas | Pedro Henrique | Chaydson | 1.0 |
+| 07/04/2023 | Criação da página de ferramentas | Pedro Henrique | Chaydson | 1.0 |
