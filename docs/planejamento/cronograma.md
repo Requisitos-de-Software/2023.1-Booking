@@ -92,4 +92,4 @@ Tabela 2 - Cronograma da entrega 1.
 | Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
 |--------|------------|----------------------|-----------|-------------|
 | 1.0    | 01/04/2023 | Criação do documento | Chaydson  | ...         |
-| 1.1    | 07/04/2023 | Cronograma geral, planejamento, ferramentos e equipe  | Chaydson, Pedro e Henrique     | ...         |
+| 1.1    | 07/04/2023 | Cronograma geral     | Chaydson  | Grupo        |
