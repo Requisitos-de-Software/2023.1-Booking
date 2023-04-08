@@ -8,9 +8,16 @@ O objetivo do cronograma é viabilizar a organização visual das atividades, re
 
 <!-- Inicio tabela cronograma geral-->
 
-| Fase | Atividade    | Descrição                                                                                                                                                                                          | Data Limite de Entrega | Data Limite Revisão | Início da Realização | Fim da Realização |
-| ---- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------- | ----------------------- | ------------------- |
-| 1    | Planejamento | Planejamento do Projeto, equipe, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma detalhado das atividades do projeto | 22/04/2023             | 23/04/2023           | 01/04                   | ...                 |
+|               Entrega               |         Entrega         |
+|:-----------------------------------:|:-----------------------:|
+|             Planejamento            |        12/04/2023       |
+|              Elicitação             | 30/04/2023 à 01/05/2023 |
+|   Modelagem de Requisitos - Padrão  |        17/05/2023       |
+|    Modelagem de Requisitos - Ágil   |        24/05/2023       |
+| Verificação e Validação – Grupo + 1 |        07/06/2023       |
+|       Verificação e Validação       |        14/06/2023       |
+|  Pós-Rastreabilidade - Gerência II  |        21/06/2023       |
+|            Entrega Final            |        05/07/2023       |
 
 <!-- Fim tabela cronograma geral -->
 
@@ -44,6 +51,8 @@ Tabela 2 - Cronograma da entrega 1.
 | Gravação da apresentação                                   | Grupo              | 28/04/2023                  | 28/04/2023               | Chaydson  |
 | Finalização                                                  | Grupo              | 29/04/2023                  | 30/04/2023 à 01/05/2023 | Grupo     |
 
+Tabela 3 - Cronograma da entrega 1.
+
 ## Entrega 3 - Modelagem de Requisitos - Padrão
 
 | Tarefa                       | Autor(es)           | Período de desenvolvimento | Período de revisão     | Revisores |
@@ -55,6 +64,8 @@ Tabela 2 - Cronograma da entrega 1.
 | Gravação da apresentação | Grupo               | 14/05/2023                  | 15/05/2023               | Gabriel   |
 | Finalização                | Grupo               | 16/05/2023                  | 17/05/2023               | Grupo     |
 
+Tabela 4 - Cronograma da entrega 1.
+
 ## Entrega 4 - Modelagem de Requisitos - Ágil
 
 | Tarefa                       | Autor(es)         | Período de desenvolvimento | Período de revisão | Revisores |
@@ -65,6 +76,8 @@ Tabela 2 - Cronograma da entrega 1.
 | Gravação da apresentação | Grupo             | 24/05/2023                  | 24/05/2023           | Lucas     |
 | Finalização                | Grupo             | 24/05/2023                  | 24/05/2023           | Grupo     |
 
+Tabela 5 - Cronograma da entrega 1.
+
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação – Grupo + 1
 
 | Tarefa                                  | Autor(es) | Período de desenvolvimento | Período de revisão | Revisores |
@@ -72,6 +85,8 @@ Tabela 2 - Cronograma da entrega 1.
 | Verificação e Validação - Grupo + 1 | Grupo     | 25/05/2023 à 05/06/2023    | 06/06/2023           | Grupo     |
 | Gravação da apresentação            | Grupo     | 06/06/2023                  | 06/06/2023           | Grupo     |
 | Finalização                           | Grupo     | 07/06/2023                  | 07/06/2023           | Grupo     |
+
+Tabela 6 - Cronograma da entrega 1.
 
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação
 
@@ -81,6 +96,8 @@ Tabela 2 - Cronograma da entrega 1.
 | Gravação da apresentação | Grupo     | 13/06/2023                  | 13/06/2023           | Grupo     |
 | Finalização                | Grupo     | 14/06/2023                  | 14/06/2023           | Grupo     |
 
+Tabela 7 - Cronograma da entrega 1.
+
 ## Entrega 6 - Pós-Rastreabilidade - Gerência II
 
 | Tarefa                             | Autor(es) | Período de desenvolvimento | Período de revisão | Revisores |
@@ -89,13 +106,17 @@ Tabela 2 - Cronograma da entrega 1.
 | Gravação da apresentação       | Grupo     | 20/06/2023                  | 20/06/2023           | Grupo     |
 | Finalização                      | Grupo     | 21/06/2023                  | 21/06/2023           | Grupo     |
 
+Tabela 8 - Cronograma da entrega 1.
+
 ## Entrega Final
 
 | Tarefa                       | Autor(es) | Período de desenvolvimento | Período de revisão | Revisores |
 | ---------------------------- | --------- | --------------------------- | -------------------- | --------- |
 | Correção geral             | Grupo     | 22/06/2023 à 02/07/2023    | 03/07/2023           | Grupo     |
 | Gravação da apresentação | Grupo     | 04/07/2023                  | 04/07/2023           | Grupo     |
-| Finalização                | Grupo     | 04/07/2023                  | 05/07/2023           | Grupo     |
+| Finalização                | Grupo     | 04/07/2023                  | 05/07/2023           | Grupo 
+
+Tabela 9 - Cronograma da entrega 1.
 
 ## Histórico de Versão
 
