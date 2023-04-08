@@ -20,6 +20,7 @@ As ferramentas que iremos utilizar estão ilustradas na tabela 1 a seguir:
 
 # Histórico de Versão
 
-| Data | Descrição | Autor(es) | Revisor(es) | Versão |
-| ---- | ----------| ------| --------| -------|
-| 07/04/2023 | Criação da página de ferramentas | Pedro Henrique | Chaydson | 1.0 |
+| Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
+|--------|------------|----------------------|-----------|-------------|
+| 1.0    | 01/04/2023 | Criação do documento | Chaydson  | ...         |
+| 1.1    | 07/04/2023 | Criação da página de ferramentas     | Pedro Henrique   | Chaydson       |
