@@ -14,7 +14,7 @@ O aplicativo Booking foi escolhido para o projeto na disciplina de requisitos de
 
 ![Imagens do aplicativo Booking](../assets/appSelecionado/imagensBooking.jpg)
 
-Disponível em: [https://apps.apple.com/br/app/ofertas-de-viagem-booking-com/id367003839](). Acesso em: 11 de abril de 2023.
+Disponível em: [https://apps.apple.com/br/app/ofertas-de-viagem-booking-com/id367003839](https://apps.apple.com/br/app/ofertas-de-viagem-booking-com/id367003839). Acesso em: 11 de abril de 2023.
 
 ## Histórico de Versão
 
