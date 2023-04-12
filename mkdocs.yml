@@ -1,18 +1,36 @@
-site_name: RS
-theme:
-  name: material
+site_name: RS Booking
 
-site_name: RS 2023.1
+site_name: Booking
 
-repo_name: "2023.1 grupo 2"
-repo_url: "https://github.com/Requisitos-de-Software/2023.1-Grupo02"
+repo_name: "2023.1 Booking"
+repo_url: "https://github.com/Requisitos-de-Software/2023.1-Booking"
 
 copyright: "Copyright &copy; 2023 rs"
 
 theme:
   name: material
+  logo: images/bookingIcon.png
+  favicon: images/bookingIcon.png
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Trocar para o modo escuro
+
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Trocar para o modo claro
+    
 nav:
   - Home: index.md
+  - Atas: 
+      - 01/04/2023: atas/ata_01_04.md
+      - 07/04/2023: atas/ata_07_04.md
   - Planejamento:
       - Aplicativos analisados: planejamento/aplicativosAnalisados.md
       - Ferramentas: planejamento/ferramentas.md
