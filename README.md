@@ -17,6 +17,7 @@ Este repositório está destinado ao desenvolvimento da documentação do projet
     <figure>
       <img  src="https://github.com/HenriPucci.png" alt="Henrique Pucci" width="220px" style="border-radius: 6%">
       <figcaption style="font-weight: bold; color: #000000;">Henrique Pucci</figcaption>
+      <br/>
     </figure>
   </a>
 
