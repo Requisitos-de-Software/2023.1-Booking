@@ -10,3 +10,9 @@ O aplicativo escolhido é o booking, que oferece diversas opções de hospedagem
 
 O aplicativo Booking foi escolhido para o projeto na disciplina de requisitos de software devido à sua grande popularidade e ampla utilização em todo o mundo. Com uma ampla gama de acomodações disponíveis em diferentes países e cidades, ele oferece uma variedade de funcionalidades e recursos, incluindo pesquisa e reserva de acomodações, gerenciamento de reservas, suporte ao cliente e muito mais. Estudar os requisitos de software de um aplicativo tão complexo pode ser uma oportunidade valiosa para aprender técnicas de elicitação e análise de requisitos, bem como desenvolver habilidades em gerenciamento de projetos de software e boas práticas de engenharia de software. Portanto, o Booking pode ser um desafio significativo e uma oportunidade de aplicar conceitos e metodologias aprendidos na disciplina de requisitos de software.
 
+## Imagens do aplicativo
+
+![Imagens do aplicativo Booking](../assets/appSelecionado/imagensBooking.jpg)
+
+Disponível em: [https://apps.apple.com/br/app/ofertas-de-viagem-booking-com/id367003839](). Acesso em: 11 de abril de 2023.
+
