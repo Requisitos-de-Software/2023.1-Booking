@@ -56,3 +56,21 @@ Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.pop
 
 App Store: [Clique aqui](https://apps.apple.com/br/app/calend%C3%A1rio-menstrual-ovula%C3%A7%C3%A3o/id896501514)
 
+## Dívida Aberta
+
+### Descrição do aplicativo
+
+O Dívida Aberta é um aplicativo gratuito que permite aos usuários gerenciar suas dívidas de forma fácil e eficiente. Através dele, é possível acompanhar as dívidas em aberto, negociar descontos e até mesmo quitar as dívidas pelo celular. O aplicativo conecta os usuários com empresas que desejam negociar as dívidas, proporcionando um processo mais rápido e conveniente. Além disso, o Dívida Aberta oferece ferramentas para ajudar os usuários a organizar suas dívidas, criar um planejamento financeiro e monitorar seus gastos, visando uma vida financeira mais saudável e equilibrada.
+
+### Rich Picture
+
+Autor: Henrique Pucci
+
+[![Rich picture Dívida Aberta](../../assets/richPicture/avaliacaoSites/DividaAberta.jpg)](https://imgur.com/gxFcuOC)
+
+### Mais informações
+
+Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=br.gov.serpro.pgfn.devedores&hl=pt_BR&gl=US)
+
+App Store: [Clique aqui](https://apps.apple.com/br/app/d%C3%ADvida-aberta/id1485407516)
+
