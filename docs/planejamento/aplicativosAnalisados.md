@@ -110,3 +110,8 @@ Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.pin
 
 App Store: [Clique aqui](https://apps.apple.com/br/app/pinterest/id429047995)
 
+## Histórico de Versão
+
+| Versão | Data       | Descrição            | Autor(es)       | Revisor(es) |
+| ------ | ---------- | -------------------- | --------------- | ----------- |
+| 1.0    | 11/05/2023 | Criação do documento | Samuel          | Grupo       |
