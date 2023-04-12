@@ -19,3 +19,22 @@ Autor: Lucas Lopes
 Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.booking&hl=pt_BR&gl=US)
 
 App Store: [Clique aqui](https://apps.apple.com/br/app/ofertas-de-viagem-booking-com/id367003839)
+
+## Cadastro Único
+
+### Descrição do aplicativo
+
+O Cadastro Único (CadÚnico) é um aplicativo criado pelo Governo Federal do Brasil com o objetivo de reunir informações de famílias de baixa renda e em situação de vulnerabilidade social, para que possam ter acesso a programas sociais do governo, como o Bolsa Família, por exemplo. O aplicativo permite que as famílias se cadastrem ou atualizem seus dados, informando informações pessoais, renda, moradia, escolaridade e outras informações relevantes. Além disso, o CadÚnico também é utilizado pelos governos estaduais e municipais para identificar as demandas da população mais carente e direcionar recursos e políticas públicas de forma mais eficiente. O aplicativo é uma importante ferramenta de inclusão social e combate à pobreza no Brasil.
+
+### Rich Picture
+
+Autor: Gabriel Ferreira
+
+[![Rich picture CadÚnico](../../assets/richPicture/avaliacaoSites/cadUnico.jpg)](https://imgur.com/HwLseEZ)
+
+### Mais informações
+
+Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&hl=pt_BR&gl=US)
+
+App Store: [Clique aqui](https://apps.apple.com/br/app/cadastro-%C3%BAnico/id1605659516)
+
