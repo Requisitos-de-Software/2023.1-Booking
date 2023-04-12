@@ -74,3 +74,21 @@ Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=br.gov.
 
 App Store: [Clique aqui](https://apps.apple.com/br/app/d%C3%ADvida-aberta/id1485407516)
 
+## Localiza
+
+### Descrição do aplicativo
+
+O Localiza é um aplicativo que permite alugar carros de forma simples e rápida. Disponível para smartphones Android e iOS, o aplicativo oferece diversas opções de veículos, desde compactos até utilitários esportivos, além de contar com um sistema de geolocalização que ajuda o usuário a encontrar a loja mais próxima. Além disso, o aplicativo permite realizar todo o processo de locação, desde a escolha do veículo até o pagamento, de forma online e sem burocracias, tornando a experiência do usuário muito mais prática e conveniente.
+
+### Rich Picture
+
+Autor: Samuel Gomes
+
+[![Rich Picture Localiza](../../assets/richPicture/avaliacaoSites/Localiza.jpg)](https://imgur.com/u0TYxtY)
+
+### Mais informações
+
+Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.localiza.mobile&hl=pt_BR&gl=US)
+
+App Store: [Clique aqui](https://apps.apple.com/br/app/localiza-aluguel-de-carros/id429739212)
+
