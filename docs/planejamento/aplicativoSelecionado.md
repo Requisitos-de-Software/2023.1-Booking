@@ -16,3 +16,8 @@ O aplicativo Booking foi escolhido para o projeto na disciplina de requisitos de
 
 Disponível em: [https://apps.apple.com/br/app/ofertas-de-viagem-booking-com/id367003839](). Acesso em: 11 de abril de 2023.
 
+## Histórico de Versão
+
+| Versão | Data       | Descrição            | Autor(es)    | Revisor(es) |
+| ------- | ---------- | ---------------------- | ------------ | ----------- |
+| 1.0     | 11/05/2023 | Criação do documento | Samuel Gomes | Lucas Lopes |
