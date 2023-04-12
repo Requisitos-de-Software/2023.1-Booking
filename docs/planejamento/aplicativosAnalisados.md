@@ -92,3 +92,21 @@ Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.loc
 
 App Store: [Clique aqui](https://apps.apple.com/br/app/localiza-aluguel-de-carros/id429739212)
 
+## Pinterest
+
+### Descrição do aplicativo
+
+O Pinterest é um aplicativo de rede social e plataforma de compartilhamento de imagens que permite aos usuários criar quadros personalizados para organizar e salvar imagens e vídeos de interesse. Com uma função de pesquisa poderosa e um feed personalizado, os usuários podem descobrir e compartilhar inspirações sobre diversos tópicos, desde moda até gastronomia. O aplicativo também oferece recursos adicionais, como compras e publicidade, tornando-o uma plataforma abrangente para inspiração, descoberta e marketing.
+
+### Rich Picture
+
+Autor: Pedro Henrique
+
+[![Rich Picture Pinterest](../../assets/richPicture/avaliacaoSites/Pinterest.jpg)](https://imgur.com/7vKVQDI)
+
+### Mais informações
+
+Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.pinterest&hl=pt_BR&gl=US)
+
+App Store: [Clique aqui](https://apps.apple.com/br/app/pinterest/id429047995)
+
