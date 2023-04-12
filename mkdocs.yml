@@ -14,6 +14,8 @@ theme:
 nav:
   - Home: index.md
   - Planejamento:
+      - Aplicativos analisados: planejamento/aplicativosAnalisados.md
       - Ferramentas: planejamento/ferramentas.md
       - Cronograma planejado: planejamento/cronograma.md
       - Rich Picture: planejamento/richPicture.md
+      
