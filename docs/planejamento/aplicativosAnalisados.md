@@ -38,3 +38,21 @@ Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=br.gov.
 
 App Store: [Clique aqui](https://apps.apple.com/br/app/cadastro-%C3%BAnico/id1605659516)
 
+## Calendário Menstrual
+
+### Descrição do aplicativo
+
+O aplicativo "Calendário Menstrual - Period Tracker" é uma ferramenta para acompanhar o ciclo menstrual das mulheres. Ele permite que as usuárias registrem e monitorem o início e o fim do período menstrual, o período fértil e o momento da ovulação, bem como sintomas como dores, humor e peso. Além disso, o aplicativo oferece previsões para os próximos ciclos menstruais com base nas informações fornecidas pelas usuárias, permitindo que elas se planejem para eventos importantes ou consultas médicas. A interface é intuitiva e fácil de usar, com gráficos e tabelas que mostram o histórico menstrual e a evolução dos sintomas ao longo do tempo.
+
+### Rich Picture
+
+Autor: Chaydson Ferreira
+
+[![Rich picture calendário menstrual](../../assets/richPicture/avaliacaoSites/CalendarioMenstrual.jpg)](https://imgur.com/EQOXggF)
+
+### Mais informações
+
+Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.popularapp.periodcalendar&hl=pt_BR&gl=US)
+
+App Store: [Clique aqui](https://apps.apple.com/br/app/calend%C3%A1rio-menstrual-ovula%C3%A7%C3%A3o/id896501514)
+
