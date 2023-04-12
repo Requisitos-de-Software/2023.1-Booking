@@ -12,7 +12,7 @@ O Booking é um aplicativo de reserva de acomodações e viagens disponível par
 
 Autor: Lucas Lopes
 
-[![Rich picture Booking](../../assets/richPicture/Booking_1.png)](https://imgur.com/a/avmCHWg)
+[![Rich picture Booking](../assets/richPicture/Booking_1.png)](https://imgur.com/a/avmCHWg)
 
 ### Mais Informações
 
@@ -30,7 +30,7 @@ O Cadastro Único (CadÚnico) é um aplicativo criado pelo Governo Federal do Br
 
 Autor: Gabriel Ferreira
 
-[![Rich picture CadÚnico](../../assets/richPicture/avaliacaoSites/cadUnico.jpg)](https://imgur.com/HwLseEZ)
+[![Rich picture CadÚnico](../assets/richPicture/avaliacaoSites/cadUnico.jpg)](https://imgur.com/HwLseEZ)
 
 ### Mais informações
 
@@ -48,7 +48,7 @@ O aplicativo "Calendário Menstrual - Period Tracker" é uma ferramenta para aco
 
 Autor: Chaydson Ferreira
 
-[![Rich picture calendário menstrual](../../assets/richPicture/avaliacaoSites/CalendarioMenstrual.jpg)](https://imgur.com/EQOXggF)
+[![Rich picture calendário menstrual](../assets/richPicture/avaliacaoSites/CalendarioMenstrual.jpg)](https://imgur.com/EQOXggF)
 
 ### Mais informações
 
@@ -66,7 +66,7 @@ O Dívida Aberta é um aplicativo gratuito que permite aos usuários gerenciar s
 
 Autor: Henrique Pucci
 
-[![Rich picture Dívida Aberta](../../assets/richPicture/avaliacaoSites/DividaAberta.jpg)](https://imgur.com/gxFcuOC)
+[![Rich picture Dívida Aberta](../assets/richPicture/avaliacaoSites/DividaAberta.jpg)](https://imgur.com/gxFcuOC)
 
 ### Mais informações
 
@@ -84,7 +84,7 @@ O Localiza é um aplicativo que permite alugar carros de forma simples e rápida
 
 Autor: Samuel Gomes
 
-[![Rich Picture Localiza](../../assets/richPicture/avaliacaoSites/Localiza.jpg)](https://imgur.com/u0TYxtY)
+[![Rich Picture Localiza](../assets/richPicture/avaliacaoSites/Localiza.jpg)](https://imgur.com/u0TYxtY)
 
 ### Mais informações
 
@@ -102,7 +102,7 @@ O Pinterest é um aplicativo de rede social e plataforma de compartilhamento de 
 
 Autor: Pedro Henrique
 
-[![Rich Picture Pinterest](../../assets/richPicture/avaliacaoSites/Pinterest.jpg)](https://imgur.com/7vKVQDI)
+[![Rich Picture Pinterest](../assets/richPicture/avaliacaoSites/Pinterest.jpg)](https://imgur.com/7vKVQDI)
 
 ### Mais informações
 
