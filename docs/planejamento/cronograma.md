@@ -10,7 +10,7 @@ O objetivo do cronograma é viabilizar a organização visual das atividades, re
 
 | Entrega                                  |  Início  | Entrega    |
 | :--------------------------------------- | :--------: | ---------- |
-| Planejamento                             | 01/04/2023 | 12/04/2023 |
+| Planejamento                             | 01/04/2023 | 13/04/2023 |
 | Elicitação                             | 12/04/2023 | 01/05/2023 |
 | Modelagem de Requisitos - Padrão        | 02/05/2023 | 17/05/2023 |
 | Modelagem de Requisitos - Ágil          | 18/05/2023 | 24/05/2023 |
@@ -37,8 +37,8 @@ Tabela 1 - Cronograma geral da equipe.
 | Ferramentas do projeto                                       |      Pedro      |  03/04/2023 à 11/04/2023  |      12/04/2023      | Chaydson |
 | Cronograma detalhado das atividades do projeto               |    Chaydson    |  03/04/2023 à 11/04/2023  |      12/04/2023      |   Grupo   |
 | Rich Picture                                                 | Lucas - Gabriel |  03/04/2023 à 11/04/2023  |      12/04/2023      | Henrique |
-| Gravação da apresentação                                 |      Grupo      |         11/04/2023         |      12/04/2023      |  Samuel  |
-| Finalização                                                |      Grupo      |         12/04/2023         |      12/04/2023      |   Grupo   |
+| Gravação da apresentação                                 |      Grupo      |         12/04/2023         |      13/04/2023      |  Samuel  |
+| Finalização                                                |      Grupo      |         13/04/2023         |      13/04/2023      |   Grupo   |
 
 Tabela 2 - Cronograma da entrega 1.
 
