@@ -1,4 +1,9 @@
 # Página Inicial - Booking
+<div  class="HomeLogo" style="justify-content: center; display: flex;">
+
+  <img  src="../assets/homeLogo/logoBooking.png" alt="Booking Logo" width="350px">
+
+</div>
 
 ## Informações sobre o Projeto
 
@@ -57,3 +62,4 @@ Este repositório está destinado ao desenvolvimento da documentação do projet
 | ------- | ---------- | ------------------------- | --------- | ----------- |
 | 1.0     | 07/04/2023 | Criação Página Inicial | Henrique  | ...         |
 | 1.1     | 11/04/2023 | Atualização da equipe | Chaydson  | Pedro Henrique         |
+| 1.2     | 12/04/2023 | Logo do aplicativo adicionada | Henrique  | Chaydson         |
