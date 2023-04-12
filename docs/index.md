@@ -4,8 +4,6 @@
 
 Este repositório está destinado ao desenvolvimento da documentação do projeto da disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, na Universidade de Brasília - FGA, durante o período 2023.1. Esse projeto tem como principal objetivo analisar o aplicativo Booking e utilizar técnicas de elicitação e modelagem de requisitos.
 
-## Informações sobre o Aplicativo
-
 ## Colaboradores
 <div  class="HomeProfiles" style="justify-content: space-around; flex-wrap: wrap; display: flex;">
 
