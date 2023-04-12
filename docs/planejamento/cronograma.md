@@ -38,7 +38,7 @@ Tabela 1 - Cronograma geral da equipe.
 | Cronograma detalhado das atividades do projeto               |    Chaydson    |  03/04/2023 à 11/04/2023  |      12/04/2023      |   Grupo   |
 | Rich Picture                                                 | Lucas - Gabriel |  03/04/2023 à 11/04/2023  |      12/04/2023      | Henrique |
 | Gravação da apresentação                                 |      Grupo      |         11/04/2023         |      12/04/2023      |  Samuel  |
-| Finalização                                                |      Grupo      |  03/04/2023 à 11/04/2023  |      12/04/2023      |   Grupo   |
+| Finalização                                                |      Grupo      |         12/04/2023         |      12/04/2023      |   Grupo   |
 
 Tabela 2 - Cronograma da entrega 1.
 
