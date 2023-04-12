@@ -8,16 +8,18 @@ O objetivo do cronograma é viabilizar a organização visual das atividades, re
 
 <!-- Inicio tabela cronograma geral-->
 
-|               Entrega               |         Entrega         |
-|:-----------------------------------:|:-----------------------:|
-|             Planejamento            |        12/04/2023       |
-|              Elicitação             | 30/04/2023 à 01/05/2023 |
-|   Modelagem de Requisitos - Padrão  |        17/05/2023       |
-|    Modelagem de Requisitos - Ágil   |        24/05/2023       |
-| Verificação e Validação – Grupo + 1 |        07/06/2023       |
-|       Verificação e Validação       |        14/06/2023       |
-|  Pós-Rastreabilidade - Gerência II  |        21/06/2023       |
-|            Entrega Final            |        05/07/2023       |
+| Entrega                                  |  Início  | Entrega    |
+| :--------------------------------------- | :--------: | ---------- |
+| Planejamento                             | 01/04/2023 | 12/04/2023 |
+| Elicitação                             | 12/04/2023 | 01/05/2023 |
+| Modelagem de Requisitos - Padrão        | 02/05/2023 | 17/05/2023 |
+| Modelagem de Requisitos - Ágil          | 18/05/2023 | 24/05/2023 |
+| Verificação e Validação – Grupo + 1 | 25/05/2023 | 07/06/2023 |
+| Verificação e Validação              | 08/06/2023 | 14/06/2023 |
+| Pós-Rastreabilidade - Gerência II      | 15/06/2023 | 21/06/2023 |
+| Entrega Final                            | 22/06/2023 | 05/07/2023 |
+
+
 
 <!-- Fim tabela cronograma geral -->
 
@@ -114,13 +116,14 @@ Tabela 8 - Cronograma da entrega 1.
 | ---------------------------- | --------- | --------------------------- | -------------------- | --------- |
 | Correção geral             | Grupo     | 22/06/2023 à 02/07/2023    | 03/07/2023           | Grupo     |
 | Gravação da apresentação | Grupo     | 04/07/2023                  | 04/07/2023           | Grupo     |
-| Finalização                | Grupo     | 04/07/2023                  | 05/07/2023           | Grupo 
+| Finalização                | Grupo     | 04/07/2023                  | 05/07/2023           | Grupo     |
 
 Tabela 9 - Cronograma da entrega 1.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
-| ------- | ---------- | ---------------------- | --------- | ----------- |
-| 1.0     | 01/04/2023 | Criação do documento | Chaydson  | ...         |
-| 1.1     | 07/04/2023 | Cronograma geral       | Chaydson  | Grupo       |
+| Versão | Data       | Descrição                  | Autor(es) | Revisor(es)    |
+| ------- | ---------- | ---------------------------- | --------- | -------------- |
+| 1.0     | 01/04/2023 | Criação do documento       | Chaydson  | ...            |
+| 1.1     | 07/04/2023 | Cronograma geral             | Chaydson  | Grupo          |
+| 1.2     | 11/04/2023 | Padronização do cronograma | Chaydson  | Pedro Henrique |
