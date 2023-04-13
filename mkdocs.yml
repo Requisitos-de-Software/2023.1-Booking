@@ -32,6 +32,7 @@ nav:
       - 01/04/2023: atas/ata_01_04.md
       - 07/04/2023: atas/ata_07_04.md
   - Planejamento:
+      - Aplicativo selecionado: planejamento/aplicativoSelecionado.md
       - Ferramentas: planejamento/ferramentas.md
       - Cronograma planejado: planejamento/cronograma.md
-  - Rich Picture: planejamento/richPicture.md
+      - Rich Picture: planejamento/richPicture.md
