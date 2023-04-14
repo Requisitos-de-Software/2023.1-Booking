@@ -1,4 +1,5 @@
 # 2023.1-Booking
+
 https://requisitos-de-software.github.io/2023.1-Booking/
 
 ## Informações sobre o Projeto
@@ -8,12 +9,12 @@ Este repositório está destinado ao desenvolvimento da documentação do projet
 ## Informações sobre o Aplicativo
 
 ## Colaboradores
-| Foto |                 Nome                 |
-|:----:|:------------------------------------:|
-|   <img src="https://github.com/chaydson.png"  style="width: 10vw">  |    Chaydson Ferreira Da Aparecida    |
-|   <img src="https://github.com/oo7gabriel.png"  style="width: 10vw">  |       Gabriel Ferreira Da Silva      |
-|   <img src="https://github.com/HenriPucci.png"  style="width: 10vw">  |     Henri Pucci     |
-|   <img src="https://github.com/lucaslopesfrazao.png"  style="width: 10vw">  |          Lucas Lopes Frazao          |
-|   <img src="https://github.com/PedroHenrique2077.png" style="width: 10vw">  | Pedro Henrique Rodrigues De Carvalho |
-|   <img src="https://github.com/SamuelGSouza.png" style="width: 10vw">  | Samuel Gomes De Souza                |
 
+|                                     Foto                                     |                 Nome                 |
+| :--------------------------------------------------------------------------: | :----------------------------------: |
+|     `<img src="https://github.com/chaydson.png"  style="width: 10vw">`     |    Chaydson Ferreira Da Aparecida    |
+|    `<img src="https://github.com/oo7gabriel.png"  style="width: 10vw">`    |      Gabriel Ferreira Da Silva      |
+|    `<img src="https://github.com/HenriPucci.png"  style="width: 10vw">`    |    Henrique Pucci Da Silva Pinto    |
+| `<img src="https://github.com/lucaslopesfrazao.png"  style="width: 10vw">` |          Lucas Lopes Frazao          |
+| `<img src="https://github.com/PedroHenrique2077.png" style="width: 10vw">` | Pedro Henrique Rodrigues De Carvalho |
+|   `<img src="https://github.com/SamuelGSouza.png" style="width: 10vw">`   |        Samuel Gomes De Souza        |
