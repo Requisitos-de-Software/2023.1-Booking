@@ -8,7 +8,7 @@ O Rich Picture é uma ferramenta valiosa para analisar problemas e comunicar ide
 
 Clique na imagem para ser redirecionando ao site imgur e ver a imagem em tamanho maior.
 
-[<img src="../../assets/richPicture/Booking_1.png">](https://imgur.com/a/avmCHWg)
+[`<img src="../../assets/richPicture/Booking_1.png">`](https://imgur.com/a/avmCHWg)
 
 Autor: Lucas
 
@@ -17,6 +17,18 @@ Autor: Lucas
 <img src="../../assets/richPicture/legenda_1.png">
 
 Autor: Lucas
+
+## Versão 2
+
+<img src="../../assets/richPicture/Booking_2.png">
+
+Autor: Gabriel e Lucas
+
+### Legenda
+
+<img src="../../assets/richPicture/legenda_2.png">
+
+Autor: Gabriel
 
 ## Bibliografia
 
@@ -29,5 +41,5 @@ Autor: Lucas
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)       | Revisor(es) |
-| ------ | ---------- | -------------------- | --------------- | ----------- |
-| 1.0    | 10/05/2023 | Criação do documento | Lucas e Gabriel | Henrique    |
+| ------- | ---------- | ---------------------- | --------------- | ----------- |
+| 1.0     | 10/05/2023 | Criação do documento | Lucas e Gabriel | Henrique    |
