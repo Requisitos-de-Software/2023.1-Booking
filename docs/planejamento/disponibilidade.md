@@ -8,16 +8,16 @@ A metodologia utilizada para o desenvolvimento da tabela de disponibilidade foi 
 
 ## Tabela de Disponibilidade
 
-[Imagem ou IFRAME]
+<iframe width="1250px" height="350px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTgtFb4sKcl7fYha4p1nUQsYGMh-RSyRnAt0s_V4Jv8W9QYf-SirB4rDoFBLWoUvHE6UtfwoJCOO4FX/pubhtml?widget=true&amp;headers=false" style="overflow: hidden; margin-bottom: 5px;"></iframe>
 
 ## Bibliografia
 
-[01] https://saa.unb.br/destaques/134-cepe-unb-128-2021. Acesso em 13 de Abril de 2023.
+[1] https://saa.unb.br/destaques/134-cepe-unb-128-2021. Acesso em 13 de Abril de 2023.
 
-[02] https://help.qlik.com/pt-BR/sense/February2023/Subsystems/Hub/Content/Sense_Hub/Visualizations/VisualizationBundle/heatmap-chart.htm.Acesso em 13 de Abril de 2023.
+[2] https://help.qlik.com/pt-BR/sense/February2023/Subsystems/Hub/Content/Sense_Hub/Visualizations/VisualizationBundle/heatmap-chart.htm.Acesso em 13 de Abril de 2023.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição          | Autor(es) | Revisor(es) |
 | ------- | ---------- | -------------------- | --------- | ----------- |
-| 1.0     | 13/04/2023 | Criação da Página | Gabriel   | ---         |
+| 1.0     | 13/04/2023 | Criação da Página | Gabriel   | Lucas         |
