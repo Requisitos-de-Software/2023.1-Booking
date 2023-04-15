@@ -42,4 +42,5 @@ Autor: Gabriel
 
 | Versão | Data       | Descrição            | Autor(es)       | Revisor(es) |
 | ------- | ---------- | ---------------------- | --------------- | ----------- |
-| 1.0     | 10/05/2023 | Criação do documento | Lucas e Gabriel | Henrique    |
+| 1.0     | 10/04/2023 | Criação do documento | Lucas e Gabriel | Henrique    |
+| 1.1     | 14/04/2023 | Atualização          | Gabriel e Lucas | Pedro       |
