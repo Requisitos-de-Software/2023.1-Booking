@@ -18,6 +18,18 @@ Autor: Lucas
 
 Autor: Lucas
 
+## Versão 2
+
+[<img src="../../assets/richPicture/Booking_2.png">](https://imgur.com/wQ6Vs4A)
+
+Autor: Gabriel e Lucas
+
+### Legenda
+
+[<img src="../../assets/richPicture/legenda_2.jpeg">
+
+Autor: Gabriel
+
 ## Bibliografia
 
 [1] Slides da aula “Requisitos – Aula 04” dos professores Milene Serrano e Maurício Serrano, Acessado em: 06 de abril de 2023.
@@ -29,5 +41,6 @@ Autor: Lucas
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)       | Revisor(es) |
-| ------ | ---------- | -------------------- | --------------- | ----------- |
-| 1.0    | 10/05/2023 | Criação do documento | Lucas e Gabriel | Henrique    |
+| ------- | ---------- | ---------------------- | --------------- | ----------- |
+| 1.0     | 10/04/2023 | Criação do documento | Lucas e Gabriel | Henrique    |
+| 1.1     | 14/04/2023 | Atualização          | Gabriel e Lucas | Pedro       |

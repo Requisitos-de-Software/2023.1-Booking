@@ -15,16 +15,6 @@ theme:
     - scheme: default
       primary: blue
       accent: light blue
-      toggle:
-        icon: material/weather-night
-        name: Trocar para o modo escuro
-
-    - scheme: slate
-      primary: blue
-      accent: light blue
-      toggle:
-        icon: material/weather-sunny
-        name: Trocar para o modo claro
     
 nav:
   - Home: index.md
