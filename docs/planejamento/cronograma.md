@@ -161,4 +161,4 @@ Tabela 9 - Cronograma da entrega 1.
 | 1.0     | 01/04/2023 | Criação do documento       | Chaydson  | ...         |
 | 1.1     | 07/04/2023 | Cronograma geral             | Chaydson  | Grupo       |
 | 1.2     | 11/04/2023 | Padronização do cronograma | Chaydson  | Pedro       |
-| 1.3     | 16/04/2023 | Detalhamento do cronograma   | Chaydson  | Grupo       |
+| 1.3     | 16/04/2023 | Detalhamento do cronograma   | Chaydson  | Gabriel     |
