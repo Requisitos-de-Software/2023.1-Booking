@@ -1,0 +1,13 @@
+# Introdução
+
+Nessa página está localizado o primeiro video de apresentação do projeto referente a Etapa 1 - Planejamento do projeto.
+
+## Video da Apresentação
+
+Em desenvolvimento
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição          | Autor(es) | Revisor(es) |
+| ------- | ---------- | -------------------- | --------- | ----------- |
+| 1.0     | 17/04/2023 | Criação da Página | Grupo     | Samuel      |
