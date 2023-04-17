@@ -1,10 +1,7 @@
 # Página Inicial - Booking
 
 <div  class="HomeLogo" style="justify-content: center; display: flex;">
-  <figure>
-    <img  src="../assets/homeLogo/logoBooking.png" alt="Booking Logo" width="200vw">
-  </figure>
-
+    <img  src="../../images/logoBooking.png" alt="Booking Logo" width="200vw">
 </div>
 
 ## Informações sobre o Projeto
