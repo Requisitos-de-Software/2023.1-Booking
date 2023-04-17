@@ -26,7 +26,7 @@ Autor: Gabriel e Lucas
 
 ### Legenda
 
-[<img src="../../assets/richPicture/legenda_2.jpeg">
+<img src="../../assets/richPicture/legenda_2.jpeg">
 
 Autor: Gabriel
 
