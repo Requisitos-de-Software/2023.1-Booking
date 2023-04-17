@@ -47,16 +47,16 @@ Tabela 2 - Cronograma da entrega 1.
 | ---------------------------- | ------------------ | --------------------------- | ------------------------ | --------- |
 | Perfil dos usuários         | Pedro e Henrique   | 12/04/2023 à 19/04/2023    | 20/04/2023 à 21/04/2023 | Gabriel   |
 | Personas                     | Chaydson e Gabriel | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Lucas     |
-| Storytelling                 | Lucas e Samuel     | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Samuel    |
-| Observação                 | Pedro e Chaydson   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique  |
-| Brainstorming                | Samuel e Gabriel   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Gabriel   |
+| Storytelling                 | Lucas e Samuel     | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Gabriel   |
+| Observação                 | Pedro e Chaydson   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Samuel    |
+| Brainstorming                | Samuel e Gabriel   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique  |
 | Three Level-Scale            | Henrique e Lucas   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Pedro     |
 | In or Out                    | Samuel e Pedro    | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Lucas     |
 | Gravação da apresentação | Grupo              | 28/04/2023                  | 28/04/2023               | Chaydson  |
 | Atas                         | Gabriel            | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique  |
 | Finalização                | Grupo              | 29/04/2023                  | 30/04/2023 à 01/05/2023 | Grupo     |
 
-Tabela 3 - Cronograma da entrega 1.
+Tabela 3 - Cronograma da entrega 2.
 
 ## Entrega 3 - Modelagem de Requisitos - Padrão
 
@@ -70,7 +70,7 @@ Tabela 3 - Cronograma da entrega 1.
 | Gravação da apresentação | Grupo               | 14/05/2023                  | 15/05/2023               | Gabriel   |
 | Finalização                | Grupo               | 16/05/2023                  | 17/05/2023               | Grupo     |
 
-Tabela 4 - Cronograma da entrega 1.
+Tabela 4 - Cronograma da entrega 3.
 
 ## Entrega 4 - Modelagem de Requisitos - Ágil
 
@@ -83,7 +83,7 @@ Tabela 4 - Cronograma da entrega 1.
 | Gravação da apresentação | Grupo             | 24/05/2023                  | 24/05/2023           | Lucas     |
 | Finalização                | Grupo             | 24/05/2023                  | 24/05/2023           | Grupo     |
 
-Tabela 5 - Cronograma da entrega 1.
+Tabela 5 - Cronograma da entrega 4.
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação – Grupo + 1
 
@@ -92,9 +92,9 @@ Tabela 5 - Cronograma da entrega 1.
 | Rich Picture                 | Samuel, Pedro     | 25/05/2023 à 05/06/2023    | 06/06/2023           | Henrique  |
 | Personas                     | Lucas, Chaydson   | 25/05/2023 à 05/06/2023    | 06/06/2023           | Gabriel   |
 | Storytelling                 | Henrique, Gabriel | 25/05/2023 à 05/06/2023    | 06/06/2023           | Chaydson  |
-| Entrevista                   | Pedro, Lucas      | 25/05/2023 à 05/06/2023    | 06/06/2023           | Samuel    |
+| Entrevista                   | Pedro, Lucas      | 25/05/2023 à 05/06/2023    | 06/06/2023           | Lucas     |
 | Brainstorming                | Gabriel, Samuel   | 25/05/2023 à 05/06/2023    | 06/06/2023           | Pedro     |
-| First Things First           | Lucas, Chaydson   | 25/05/2023 à 05/06/2023    | 06/06/2023           | Lucas     |
+| First Things First           | Lucas, Chaydson   | 25/05/2023 à 05/06/2023    | 06/06/2023           | Samuel    |
 | Moscow                       | Samuel, Henrique  | 25/05/2023 à 05/06/2023    | 06/06/2023           | Chaydson  |
 | Cenários                    | Chaydson, Gabriel | 25/05/2023 à 05/06/2023    | 06/06/2023           | Henrique  |
 | Léxicos                     | Lucas, Henrique   | 25/05/2023 à 05/06/2023    | 06/06/2023           | Gabriel   |
@@ -107,7 +107,7 @@ Tabela 5 - Cronograma da entrega 1.
 | Gravação da apresentação | Grupo             | 06/06/2023                  | 06/06/2023           | Grupo     |
 | Finalização                | Grupo             | 07/06/2023                  | 07/06/2023           | Grupo     |
 
-Tabela 6 - Cronograma da entrega 1.
+Tabela 6 - Cronograma da entrega 5.1.
 
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação
 
@@ -132,7 +132,7 @@ Tabela 6 - Cronograma da entrega 1.
 | Gravação da apresentação | Grupo             | 13/06/2023                  | 13/06/2023           | Grupo     |
 | Finalização                | Grupo             | 14/06/2023                  | 14/06/2023           | Grupo     |
 
-Tabela 7 - Cronograma da entrega 1.
+Tabela 7 - Cronograma da entrega 5.2.
 
 ## Entrega 6 - Pós-Rastreabilidade - Gerência II
 
@@ -142,7 +142,7 @@ Tabela 7 - Cronograma da entrega 1.
 | Gravação da apresentação       | Grupo     | 20/06/2023                  | 20/06/2023           | Grupo     |
 | Finalização                      | Grupo     | 21/06/2023                  | 21/06/2023           | Grupo     |
 
-Tabela 8 - Cronograma da entrega 1.
+Tabela 8 - Cronograma da entrega 6.
 
 ## Entrega Final
 
@@ -152,7 +152,7 @@ Tabela 8 - Cronograma da entrega 1.
 | Gravação da apresentação | Grupo     | 04/07/2023                  | 04/07/2023           | Grupo     |
 | Finalização                | Grupo     | 04/07/2023                  | 05/07/2023           | Grupo     |
 
-Tabela 9 - Cronograma da entrega 1.
+Tabela 9 - Cronograma da entrega final.
 
 ## Histórico de Versão
 
