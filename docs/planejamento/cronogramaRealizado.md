@@ -16,6 +16,7 @@
 | Quadro de Disponibilidade de Membros           |     Gabriel     |  03/04/2023 à 11/04/2023  |      12/04/2023      |     Lucas     |
 | Metodologia e Politicas                        |     Gabriel     |  03/04/2023 à 11/04/2023  |      12/04/2023      |   Henrique   |
 | Gravação da apresentação                   |      Grupo      |         12/04/2023         |      13/04/2023      |    Samuel    |
+| Criação do cronograma realizado              |      Lucas      |  03/04/2023 à 11/04/2023  |      13/04/2023      |   Chaydson   |
 | Finalização                                  |      Grupo      |         13/04/2023         |      13/04/2023      |     Grupo     |
 
 Tabela 1 - Cronograma da entrega 1.
@@ -24,4 +25,4 @@ Tabela 1 - Cronograma da entrega 1.
 
 | Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
 | ------- | ---------- | ---------------------- | --------- | ----------- |
-| 1.0     | 17/04/2023 | Criação do documento | Lucas     | Chaydson    |
+| 1.0     | 17/04/2023 | Criação do documento | Chaydson  | Lucas       |
