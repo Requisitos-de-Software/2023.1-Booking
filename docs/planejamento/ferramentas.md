@@ -16,7 +16,7 @@ As ferramentas que iremos utilizar estão ilustradas na tabela 1 a seguir:
 | <img src="../../images/mkdocsMaterial.png" width="80px"/> | É um tema de documentação para o MkDocs que oferece uma aparência moderna e responsiva para a documentação do projeto.                                                                    |
 |<img src="../../images/teams.png" width="80px" />                                                               | O Teams é um aplicativo web e app para realizar reuniões de pessoas desenvolvida pela microsoft, sendo utilizada no projeto como principal ferramenta para a reunião semanal e gravações |
 |<img src="../../images/officerViewer.png" width="80px"/>                                                               | O Officer Viewer(Markdown Editor) é uma extensão do Visual Studio Code utilizada para editar de maneira mais fácil documento com extensão  .md(markdown)                                  |
-
+|<img src="../../images/googleForms.png" width="80px"/>                                                               | O Google Forms é uma ferramenta de criação de formulários on-line gratuita oferecida pelo Google. Será utilizado para fazer questionários para a pesquisa de perfil de ususário do projeto.                                  |
 
 <p style="margin-left: 38%;">Tabela 1: Ferramentas</p>
 
@@ -26,3 +26,4 @@ As ferramentas que iremos utilizar estão ilustradas na tabela 1 a seguir:
 | ------- | ---------- | --------------------------------------- | -------------- | ----------- |
 | 1.0     | 07/04/2023 | Criação da página de ferramentas     | Pedro Henrique | Chaydson    |
 | 1.1     | 17/04/2023 | Atualização de Ferramentas Utilizadas | Gabriel        | ---         |
+| 1.2     | 18/04/2023 | Atualização de Ferramentas Utilizadas | Henrique        | ---         |
