@@ -4,7 +4,7 @@ Nessa página está localizado o primeiro video de apresentação do projeto ref
 
 ## Video da Apresentação
 
-Em desenvolvimento
+A apresentação se encontra no [link](https://www.youtube.com/watch?v=UrGXgPkrcv0)
 
 ## Histórico de Versão
 
