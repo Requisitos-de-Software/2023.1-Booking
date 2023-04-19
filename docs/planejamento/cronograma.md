@@ -4,7 +4,16 @@
 
 ## Cronograma geral
 
-O objetivo do cronograma é viabilizar a organização visual das atividades, recursos e prazos de um projeto através de tabelas. No presente caso, os cronogramas foram elaborados com base nas datas e prazos estabelecidos para o semestre letivo (2023.1) da disciplina.
+O objetivo do cronograma é viabilizar a organização visual das atividades, recursos e prazos de um projeto através de tabelas.
+
+Para a elaboração do cronograma, foram pegos cronogramas de projetos já realizados na matéria de Requisitos de Software, para se seguir como referência para o detalhamento das entregas que deverão ser  feitas futuramente. Esses projetos foram:
+
+<a href="https://requisitos-de-software.github.io/2022.2-Grasshopper/planejamento/cronograma/" target="_blank">2022.2-Grasshopper</a>
+
+<a href="https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/cronograma/" target="_blank">2022.2-Lichess</a>
+
+
+No presente caso, os cronogramas foram elaborados com base nas datas e prazos estabelecidos para o semestre letivo (2023.1) da disciplina.
 
 <!-- Inicio tabela cronograma geral-->
 
