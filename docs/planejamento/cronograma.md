@@ -166,6 +166,12 @@ Tabela 8 - Cronograma da entrega 6.
 
 Tabela 9 - Cronograma da entrega final.
 
+## Referências
+
+Requisitos de Software. "Grasshopper" Requisitos de Software. Acessado em 16 de abril de 2023. <https://requisitos-de-software.github.io/2022.2-Grasshopper/>.
+
+Requisitos de Software. "Linchess" Requisitos de Software. Acessado em 16 de abril de 2023. <https://requisitos-de-software.github.io/2022.2-Lichess/>.
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                  | Autor(es) | Revisor(es) |
