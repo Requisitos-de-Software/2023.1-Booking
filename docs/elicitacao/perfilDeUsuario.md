@@ -6,6 +6,19 @@ O perfil de usuário é uma descrição detalhada das características, interess
 
 ## Metodologia
 
+Para a coleta de dados, foram empregadas duas técnicas: um questionário virtual e uma pesquisa baseada em estudos realizados pela plataforma SimilarWeb, que é especializada em análise de dados. O questionário foi criado utilizando o Google Forms, e os dados coletados foram apresentados em gráficos, o questionário foi divulgado em grupos do Facebook, WhatsApp e Telegram, a fim de alcançar um público diversificado e obter uma amostra mais representativa da população estudada. Os resultados estatísticos dos gráficos foram comparados com os dados da pesquisa da SimilarWeb, a fim de aumentar a precisão dos resultados obtidos.
+
+## Resultados
+
+## Análise dos resultados
+
+## Referências
+
+Similarweb. Disponível em: <https://www.similarweb.com/website/booking.com/#geography>. Acesso em: 19 abr. 2023.
+
+BARBOSA, Simone; SILVA, INTERAÇÃO HUMANO-COMPUTADOR. Local de publicação: Elsevier Editora Ltda, 2010.
+
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)       | Revisor(es) |
