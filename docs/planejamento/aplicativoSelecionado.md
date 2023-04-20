@@ -20,19 +20,17 @@ Disponível em: [Apple Store](https://apps.apple.com/br/app/ofertas-de-viagem-bo
 
 O aplicativo do Booking, possui uma politica de uso, no seus termos, sendo localizado em seu site, pode ser localizado no termo A14(A14.2 e A14.3), que  as únicas restrições quanto ao uso da plataforma do Booking.com referece a proibição do uso comercial do mesmo, sem a expressa autorização assinada de pessoas licenciadas ou do próprio booking.com, o nosso objetivo é apenas de apredizado, ficando claro que o projeto não tem nenhum objetivo comercial apenas de aprendizado. Abaixo está imagem dos termos encontrados e nas referências bibliográficas o link para site do mesmo.
 
-
 ![1682005235388](image/aplicativoSelecionado/1682005235388.png)
 
 **Figura 2: Direito de Propriedade Intelectual. Fonte: Booking.com**
 
-
 ## Referências Bibliográfica
 
-[1] Termos e Condições do Bookinkg.com. https://www.booking.com/content/terms.pt-br.html#nov2021_terms_all_ipr_subheading .Acesso em 20 de abril de 2023.
+[1] Termos e Condições do Bookinkg.com. https://www.booking.com/content/terms.pt-br.html.Acesso em 20 de abril de 2023.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição              | Autor(es)    | Revisor(es) |
 | ------- | ---------- | ------------------------ | ------------ | ----------- |
 | 1.0     | 11/05/2023 | Criação do documento   | Samuel Gomes | Lucas Lopes |
-| 1.1     | 20/04/2023 | Atualização da Escolha | Gabriel      | Lucas       |
+| 1.1     | 20/05/2023 | Atualização da Escolha | Gabriel      | Lucas       |
