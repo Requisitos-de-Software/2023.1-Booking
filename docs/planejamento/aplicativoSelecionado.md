@@ -25,4 +25,5 @@ Disponível em: [Apple Store](https://apps.apple.com/br/app/ofertas-de-viagem-bo
 | Versão | Data       | Descrição            | Autor(es)    | Revisor(es) |
 | ------- | ---------- | ---------------------- | ------------ | ----------- |
 | 1.0     | 11/05/2023 | Criação do documento | Samuel Gomes | Lucas Lopes |
-| 1.1     | 20/04/2023 | Adicionando legendas nas imagens                  | Lucas     | Henrique       |
+| 1.1     | 20/04/2023 | Atualização da Escolha | Gabriel      | Lucas       |
+| 1.2     | 20/04/2023 | Adicionando legendas nas imagens                  | Lucas     | Henrique       |
