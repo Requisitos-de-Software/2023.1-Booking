@@ -4,6 +4,10 @@
     <img  src="images/logoBooking.png" alt="Booking Logo" width="200vw">
 </div>
 
+<div style="text-align: center">
+<p> Figura 1: Logo do booking. </p>
+</div>
+
 ## Informações sobre o Projeto
 
 Este repositório está destinado ao desenvolvimento da documentação do projeto da disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, na Universidade de Brasília - FGA, durante o período 2023.1. Esse projeto tem como principal objetivo analisar o aplicativo Booking e utilizar técnicas de elicitação e modelagem de requisitos.
@@ -53,7 +57,10 @@ Este repositório está destinado ao desenvolvimento da documentação do projet
       <figcaption style="font-weight: bold; color: #000000;">Samuel Gomes</figcaption>
     </figure>
   </a>
+</div>
 
+<div style="text-align: center">
+<p> Figura 2: Membros do grupo. </p>
 </div>
 
 ## Histórico de Versão
@@ -64,3 +71,4 @@ Este repositório está destinado ao desenvolvimento da documentação do projet
 | 1.1     | 11/04/2023 | Atualização da equipe                | Chaydson  | Pedro Henrique |
 | 1.2     | 12/04/2023 | Logo do aplicativo adicionada          | Henrique  | Chaydson       |
 | 1.3     | 17/04/2023 | Atualização de implantaçaõ de logo | Gabriel   | ---            |
+| 1.4     | 20/04/2023 | Adicionando legendas nas imagens                  | Lucas     | Henrique       |

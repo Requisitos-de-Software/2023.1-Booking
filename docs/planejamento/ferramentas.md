@@ -1,8 +1,10 @@
-# Introdução
+# Ferramentas
+
+## Introdução
 
 Bem-vindo à página de ferramentas do projeto! Aqui você encontrará uma lista de ferramentas e recursos que serão utilizados ao longo do desenvolvimento do projeto. Essas ferramentas foram selecionadas para ajudar a maximizar a eficiência e a qualidade do projeto, tornando o processo de desenvolvimento mais ágil e eficaz. Cada ferramenta listada nesta página tem um propósito específico e irá desempenhar um papel importante em todo o processo.
 
-# Ferramentas
+## Ferramentas
 
 As ferramentas que iremos utilizar estão ilustradas na tabela 1 a seguir:
 
@@ -21,9 +23,11 @@ As ferramentas que iremos utilizar estão ilustradas na tabela 1 a seguir:
 | <img src="../../images/lucidchart.png" width="80px"/>              | O Lucidchart é usado para fazer a diagramação e visualização de informações.                                                                                                             |
 | <img src="../../images/whiteboard.png" width="100px"/>             | O WhiteBoard é usado para fazer diagramas e organizar informações.                                                                                                                       |
 
-<p style="margin-left: 38%;">Tabela 1: Ferramentas</p>
+<div style="text-align: center">
+<p> Tabela 1: Ferramentas utilizadas durante o projeto (Fonte: Autor, 2023). </p>
+</div>
 
-# Referências
+## Referências
 
 Build software better, together. Disponível em: <https://github.com/>. Acesso em: 19 abr. 2023.
 
@@ -55,10 +59,11 @@ Microsoft White Board | Quadro Interativo| App Lousa Digital. Disponível em: <h
 ‌
 ‌
 
-# Histórico de Versão
+## Histórico de Versão
 
 | Versão | Data       | Descrição                                  | Autor(es)      | Revisor(es) |
 | ------ | ---------- | ------------------------------------------ | -------------- | ----------- |
 | 1.0    | 07/04/2023 | Criação da página de ferramentas           | Pedro Henrique | Chaydson    |
 | 1.1    | 17/04/2023 | Atualização de Ferramentas Utilizadas      | Gabriel        | ---         |
 | 1.2    | 19/04/2023 | Adicionando mais ferramentas e referências | Pedro Henrique | Samuel      |
+| 1.3     | 20/04/2023 | Adicionando legendas nas tabelas| Lucas | Henrique       |

@@ -14,6 +14,10 @@ O aplicativo Booking foi escolhido para o projeto na disciplina de requisitos de
 
 ![Imagens do aplicativo Booking](../assets/appSelecionado/imagensBooking.jpg)
 
+<div style="text-align: center">
+<p> Figura 1: Imagens do aplicativo (Fonte: Apple store, 2023). </p>
+</div>
+
 Disponível em: [Apple Store](https://apps.apple.com/br/app/ofertas-de-viagem-booking-com/id367003839)
 
 ## Histórico de Versão
@@ -21,3 +25,4 @@ Disponível em: [Apple Store](https://apps.apple.com/br/app/ofertas-de-viagem-bo
 | Versão | Data       | Descrição            | Autor(es)    | Revisor(es) |
 | ------- | ---------- | ---------------------- | ------------ | ----------- |
 | 1.0     | 11/05/2023 | Criação do documento | Samuel Gomes | Lucas Lopes |
+| 1.1     | 20/04/2023 | Adicionando legendas nas imagens                  | Lucas     | Henrique       |
