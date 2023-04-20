@@ -10,6 +10,51 @@ Para a coleta de dados, foram empregadas duas técnicas: um questionário virtua
 
 ## Resultados
 
+Com relação à pergunta 1 - "Qual é o seu gênero?", constatou-se que 60% dos usuários do booking.com se identificam como homens, enquanto os demais 40% se identificam como mulheres.
+
+<img src="../../assets/graficosQuestionario/genero.png"/>
+<p style="margin-left: 30%;">Figura 1 - Grafico de setores da pergunta 1</p>
+
+Com relação à pergunta 2 - "Qual é a sua idade?", verificou-se que a faixa etária mais representativa entre os participantes é de 25 a 34 anos, abrangendo 50% do total.
+
+<img src="../../assets/graficosQuestionario/idade.png"/>
+<p style="margin-left: 30%;">Figura 2 - Grafico de setores da pergunta 2</p>
+
+Com relação à pergunta 3 - "Qual é o seu estado civil?", constatou-se que metade das pessoas que responderam são solteiras, enquanto 30% são casadas.
+
+<img src="../../assets/graficosQuestionario/estadoCivil.png"/>
+<p style="margin-left: 30%;">Figura 3 - Grafico de setores da pergunta 3</p>
+
+Com relação à pergunta 4 - "Com que frequência você utiliza o Booking.com?", observou-se que mais da metade dos participantes utilizam o aplicativo algumas vezes no mês.
+
+<img src="../../assets/graficosQuestionario/frequenciaApp.png"/>
+<p style="margin-left: 30%;">Figura 4 - Grafico de setores da pergunta 4</p>
+
+Com relação à pergunta 5 - "Em que tipo de acomodação você costuma se hospedar ao reservar pelo booking.com?", constatou-se que metade dos participantes preferem se hospedar em hotéis.
+
+<img src="../../assets/graficosQuestionario/tipoAcomodacao.png"/>
+<p style="margin-left: 30%;">Figura 5 - Grafico de setores da pergunta 5</p>
+
+Com relação à pergunta 6 - "Qual é o seu principal motivo para usar o Booking.com?", verificou-se que a maioria dos indivíduos utiliza a plataforma para viajar a lazer.
+
+<img src="../../assets/graficosQuestionario/principalMotivo.png"/>
+<p style="margin-left: 30%;">Figura 6 - Grafico de setores da pergunta 6</p>
+
+Com relação à pergunta 7 - Quanto tempo antes da viagem você costuma fazer sua reserva pelo Booking.com?, é possivel notar que os dados são mais distribuidos, porém existem mais pessoas que fazem sua reserva entre 1 e 4 semanas de antecedência.
+
+<img src="../../assets/graficosQuestionario/antesDaViagem.png"/>
+<p style="margin-left: 30%;">Figura 7 - Grafico de setores da pergunta 7</p>
+
+Com relação à pergunta 8 - Qual é a duração média da sua estadia em um hotel?, notamos uma semelhança com as proporções do gráfico anterior com a prevalência de uma média entre 2 e 5 noites de duração da estadia.
+
+<img src="../../assets/graficosQuestionario/tempoEstadia.png"/>
+<p style="margin-left: 30%;">Figura 8 - Grafico de setores da pergunta 8</p>
+
+Com relação à pergunta 9 - Qual principal criterio que vc usa para selecionar um hotel no aplicativo?, é possivel notar que 50% dos participantes tem a localização como criterio de seleção de um hotel.
+
+<img src="../../assets/graficosQuestionario/criterioEscolhaHotel.png"/>
+<p style="margin-left: 30%;">Figura 9 - Grafico de setores da pergunta 9</p>
+
 ## Análise dos resultados
 
 ## Referências
