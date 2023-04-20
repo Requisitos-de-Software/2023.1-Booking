@@ -22,7 +22,9 @@ O aplicativo do Booking, possui uma politica de uso, no seus termos, sendo local
 
 ![1682005235388](image/aplicativoSelecionado/1682005235388.png)
 
-**Figura 2: Direito de Propriedade Intelectual. Fonte: Booking.com**
+<div style="text-align: center">
+<p> Figura 2: Direito de Propriedade Intelectual (Fonte: Booking.com, 2023). </p>
+</div>
 
 ## Referências Bibliográfica
 
