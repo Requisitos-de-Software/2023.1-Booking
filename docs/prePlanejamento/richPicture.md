@@ -10,25 +10,34 @@ Clique na imagem para ser redirecionando ao site imgur e ver a imagem em tamanho
 
 [<img src="../../assets/richPicture/Booking_1.png">](https://imgur.com/a/avmCHWg)
 
-Autor: Lucas
+<div style="text-align: center">
+<p> Figura 1: Rich Picture do aplicativo Booking (Fonte: Lucas, 2023). </p>
+</div>
 
 ### Legenda
 
 <img src="../../assets/richPicture/legenda_1.png">
 
-Autor: Lucas
+<div style="text-align: center">
+<p> Figura 2: Legenda do Rich Picture do aplicativo Booking (Fonte: Lucas, 2023). </p>
+</div>
 
 ## Versão 2
 
 [<img src="../../assets/richPicture/Booking_2.png">](https://imgur.com/wQ6Vs4A)
 
-Autor: Gabriel e Lucas
+<div style="text-align: center">
+<p> Figura 3: Rich Picture melhotado do aplicativo Booking (Fonte: Autores, 2023). </p>
+</div>
 
 ### Legenda
 
 <img src="../../assets/richPicture/legenda_2.jpeg">
 
-Autor: Gabriel
+<div style="text-align: center">
+<p> Figura 4: Legenda do Rich Picture melhorado do aplicativo Booking (Fonte: Autores, 2023). </p>
+</div>
+
 
 ## Bibliografia
 
@@ -44,3 +53,4 @@ Autor: Gabriel
 | ------- | ---------- | ---------------------- | --------------- | ----------- |
 | 1.0     | 10/04/2023 | Criação do documento | Lucas e Gabriel | Henrique    |
 | 1.1     | 14/04/2023 | Atualização          | Gabriel e Lucas | Pedro       |
+| 1.2     | 20/04/2023 | Adicionando legendas nas imagems| Lucas | Henrique       |

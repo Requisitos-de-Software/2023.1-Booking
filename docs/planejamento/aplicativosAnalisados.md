@@ -14,6 +14,10 @@ Autor: Lucas Lopes
 
 [![Rich picture Booking](../assets/richPicture/Booking_1.png)](https://imgur.com/a/avmCHWg)
 
+<div style="text-align: center">
+<p> Figura 1: Rich Picture do aplicativo Booking (Fonte: Lucas, 2023). </p>
+</div>
+
 ### Mais Informações
 
 Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.booking&hl=pt_BR&gl=US)
@@ -31,6 +35,10 @@ O Cadastro Único (CadÚnico) é um aplicativo criado pelo Governo Federal do Br
 Autor: Gabriel Ferreira
 
 [![Rich picture CadÚnico](../assets/richPicture/avaliacaoSites/cadUnico.jpg)](https://imgur.com/HwLseEZ)
+
+<div style="text-align: center">
+<p> Figura 2: Rich Picture do aplicativo Cadastro Único (Fonte: Gabriel, 2023). </p>
+</div>
 
 ### Mais informações
 
@@ -50,6 +58,10 @@ Autor: Chaydson Ferreira
 
 [![Rich picture calendário menstrual](../assets/richPicture/avaliacaoSites/CalendarioMenstrual.jpg)](https://imgur.com/EQOXggF)
 
+<div style="text-align: center">
+<p> Figura 3: Rich Picture do aplicativo Calendario menstrual (Fonte: Chaydson, 2023). </p>
+</div>
+
 ### Mais informações
 
 Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.popularapp.periodcalendar&hl=pt_BR&gl=US)
@@ -67,6 +79,10 @@ O Dívida Aberta é um aplicativo gratuito que permite aos usuários gerenciar s
 Autor: Henrique Pucci
 
 [![Rich picture Dívida Aberta](../assets/richPicture/avaliacaoSites/DividaAberta.jpg)](https://imgur.com/gxFcuOC)
+
+<div style="text-align: center">
+<p> Figura 4: Rich Picture do aplicativo Divida Aberta (Fonte: Henrique, 2023). </p>
+</div>
 
 ### Mais informações
 
@@ -86,6 +102,10 @@ Autor: Samuel Gomes
 
 [![Rich Picture Localiza](../assets/richPicture/avaliacaoSites/Localiza.jpg)](https://imgur.com/u0TYxtY)
 
+<div style="text-align: center">
+<p> Figura 5: Rich Picture do aplicativo Localiza (Fonte: Samuel, 2023). </p>
+</div>
+
 ### Mais informações
 
 Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.localiza.mobile&hl=pt_BR&gl=US)
@@ -104,6 +124,10 @@ Autor: Pedro Henrique
 
 [![Rich Picture Pinterest](../assets/richPicture/avaliacaoSites/Pinterest.jpg)](https://imgur.com/7vKVQDI)
 
+<div style="text-align: center">
+<p> Figura 6: Rich Picture do aplicativo Pinterest (Fonte: Pedro, 2023). </p>
+</div>
+
 ### Mais informações
 
 Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.pinterest&hl=pt_BR&gl=US)
@@ -115,3 +139,4 @@ App Store: [Clique aqui](https://apps.apple.com/br/app/pinterest/id429047995)
 | Versão | Data       | Descrição            | Autor(es)       | Revisor(es) |
 | ------ | ---------- | -------------------- | --------------- | ----------- |
 | 1.0    | 11/05/2023 | Criação do documento | Samuel          | Grupo       |
+| 1.1     | 20/04/2023 | Adicionando legendas nas imagems| Lucas | Henrique       |

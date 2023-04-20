@@ -25,4 +25,4 @@ Tabela 1 - Cronograma da entrega 1.
 
 | Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
 | ------- | ---------- | ---------------------- | --------- | ----------- |
-| 1.0     | 17/04/2023 | Criação do documento | Chaydson  | Lucas       |
+| 1.0     | 17/04/2023 | Criação do documento | Lucas  | Chaydson       |
