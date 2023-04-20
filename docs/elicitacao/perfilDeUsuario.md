@@ -18,6 +18,9 @@ Similarweb. Disponível em: <https://www.similarweb.com/website/booking.com/#geo
 
 BARBOSA, Simone; SILVA, INTERAÇÃO HUMANO-COMPUTADOR. Local de publicação: Elsevier Editora Ltda, 2010.
 
+## Conclusão
+
+Dessa forma, através dos resultados que foram mostrados pelo questionário, vemos que o perfil de usuário do aplicativo abrange tanto pessoas com menos de 18 anos até pessoas com 49 anos, com quantidade de usuários homens ou mulheres quase semelhantes, tendo uma maior quantidade de usuários na faixa entre os 25 e 34 anos, em sua maior parte solteiros(as). Esses usuários utilizam o aplicativo para reservar principalemnte hotéis, priorizando, em sua maior parte, a localização de sua reserva.
 
 ## Histórico de Versão
 
