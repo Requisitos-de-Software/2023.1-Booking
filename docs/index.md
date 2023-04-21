@@ -65,10 +65,10 @@ Este repositório está destinado ao desenvolvimento da documentação do projet
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                            | Autor(es) | Revisor(es)    |
-| ------- | ---------- | -------------------------------------- | --------- | -------------- |
-| 1.0     | 07/04/2023 | Criação Página Inicial              | Henrique  | ...            |
-| 1.1     | 11/04/2023 | Atualização da equipe                | Chaydson  | Pedro Henrique |
-| 1.2     | 12/04/2023 | Logo do aplicativo adicionada          | Henrique  | Chaydson       |
-| 1.3     | 17/04/2023 | Atualização de implantaçaõ de logo | Gabriel   | ---            |
-| 1.4     | 20/04/2023 | Adicionando legendas nas imagens                  | Lucas     | Henrique       |
+| Versão | Data       | Descrição                             | Autor(es) | Revisor(es)    |
+| ------- | ---------- | --------------------------------------- | --------- | -------------- |
+| 1.0     | 07/04/2023 | Criação Página Inicial               | Henrique  | Chaydson       |
+| 1.1     | 11/04/2023 | Atualização da equipe                 | Chaydson  | Pedro Henrique |
+| 1.2     | 12/04/2023 | Logo do aplicativo adicionada           | Henrique  | Chaydson       |
+| 1.3     | 17/04/2023 | Atualização de implantação de logo | Gabriel   | Chaydson       |
+| 1.4     | 20/04/2023 | Adicionando legendas nas imagens        | Lucas     | Henrique       |
