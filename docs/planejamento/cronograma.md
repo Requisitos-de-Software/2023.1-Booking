@@ -60,18 +60,19 @@ Cada um desses elementos é fundamental para o sucesso do projeto e deve ser cui
 
 A priorização é fundamental para garantir que as funcionalidades mais importantes sejam implementadas primeiro. Dessa forma, as tarefas referentes a segunda entrega estão apresentadas na Tabela 3 as técnicas de priorização utilizadas no projeto.
 
-| Tarefa                       | Autor(es)          | Período de desenvolvimento | Período de revisão     | Revisores |
-| ---------------------------- | ------------------ | --------------------------- | ------------------------ | --------- |
-| Perfil dos usuários         | Pedro e Henrique   | 12/04/2023 à 19/04/2023    | 20/04/2023 à 21/04/2023 | Gabriel   |
-| Personas                     | Chaydson e Gabriel | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Lucas     |
-| Storytelling                 | Lucas e Samuel     | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Gabriel   |
-| Observação                 | Pedro e Chaydson   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Samuel    |
-| Brainstorming                | Samuel e Gabriel   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique  |
-| Three Level-Scale            | Henrique e Lucas   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Pedro     |
-| In or Out                    | Samuel e Pedro    | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Lucas     |
-| Gravação da apresentação | Grupo              | 28/04/2023                  | 28/04/2023               | Chaydson  |
-| Atas                         | Gabriel            | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique  |
-| Finalização                | Grupo              | 29/04/2023                  | 30/04/2023 à 01/05/2023 | Grupo     |
+| Tarefa                       | Autor(es)                  | Período de desenvolvimento | Período de revisão     | Revisores |
+| ---------------------------- | -------------------------- | --------------------------- | ------------------------ | --------- |
+| Perfil dos usuários         | Pedro e Henrique           | 12/04/2023 à 19/04/2023    | 20/04/2023 à 21/04/2023 | Gabriel   |
+| Personas                     | Chaydson e Gabriel         | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Lucas     |
+| Storytelling                 | Lucas e Samuel             | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Gabriel   |
+| Observação                 | Pedro e Chaydson           | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Samuel    |
+| Brainstorming                | Samuel e Gabriel           | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique  |
+| Three Level-Scale            | Henrique e Lucas           | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Pedro     |
+| In or Out                    | Samuel e Pedro            | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Lucas     |
+| MoSCoW                       | Chaydson, Lucas e Henrique | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Pedro     |
+| Gravação da apresentação | Grupo                      | 28/04/2023                  | 28/04/2023               | Chaydson  |
+| Atas                         | Gabriel                    | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique  |
+| Finalização                | Grupo                      | 29/04/2023                  | 30/04/2023 à 01/05/2023 | Grupo     |
 
 <div style="text-align: center">
     <p> Tabela 3 - Cronograma da entrega 2. (Fonte: Autores. 2023).</p>
@@ -125,10 +126,11 @@ O planejamento completo está presente na Tabela 6.
 | Verificar Rich Picture                | Samuel, Pedro     | 25/05/2023 à 05/06/2023    | 06/06/2023           | Henrique  |
 | Verificar Personas                    | Lucas, Chaydson   | 25/05/2023 à 05/06/2023    | 06/06/2023           | Gabriel   |
 | Verificar Storytelling                | Henrique, Gabriel | 25/05/2023 à 05/06/2023    | 06/06/2023           | Chaydson  |
-| Verificar Entrevista                  | Pedro, Lucas      | 25/05/2023 à 05/06/2023    | 06/06/2023           | Lucas     |
+| Verificar Observação                | Pedro, Lucas      | 25/05/2023 à 05/06/2023    | 06/06/2023           | Lucas     |
 | Verificar Brainstorming               | Gabriel, Samuel   | 25/05/2023 à 05/06/2023    | 06/06/2023           | Pedro     |
-| Verificar First Things First          | Lucas, Chaydson   | 25/05/2023 à 05/06/2023    | 06/06/2023           | Samuel    |
-| Verificar Moscow                      | Samuel, Henrique  | 25/05/2023 à 05/06/2023    | 06/06/2023           | Chaydson  |
+| Verificar Three Level-Scale           | Lucas, Chaydson   | 25/05/2023 à 05/06/2023    | 06/06/2023           | Samuel    |
+| Verificar In or Out                   | Samuel, Henrique  | 25/05/2023 à 05/06/2023    | 06/06/2023           | Chaydson  |
+| Verificar MoSCoW                      | Samuel, Gabriel   | 25/05/2023 à 05/06/2023    | 06/06/2023           | Pedro     |
 | Verificar Cenários                   | Chaydson, Gabriel | 25/05/2023 à 05/06/2023    | 06/06/2023           | Henrique  |
 | Verificar Léxicos                    | Lucas, Henrique   | 25/05/2023 à 05/06/2023    | 06/06/2023           | Gabriel   |
 | Verificar Use Case                    | Gabriel, Pedro    | 25/05/2023 à 05/06/2023    | 06/06/2023           | Lucas     |
@@ -139,6 +141,8 @@ O planejamento completo está presente na Tabela 6.
 | Atas                                  | Samuel            | 25/05/2023 à 05/06/2023    | 06/06/2023           | Lucas     |
 | Gravação da apresentação          | Grupo             | 06/06/2023                  | 06/06/2023           | Grupo     |
 | Finalização                         | Grupo             | 07/06/2023                  | 07/06/2023           | Grupo     |
+
+
 
 <div style="text-align: center">
     <p> Tabela 6 - Cronograma da entrega 5.1. (Fonte: Autores. 2023).</p>
@@ -155,8 +159,9 @@ O planejamento completo está presente na Tabela 6.
 | Verificar Storytelling                | Gabriel, Samuel   | 08/06/2023 à 12/06/2023    | 12/06/2023           | Lucas     |
 | Verificar Observação                | Pedro, Chaydson   | 08/06/2023 à 12/06/2023    | 12/06/2023           | Gabriel   |
 | Verificar Brainstorming               | Lucas, Henrique   | 08/06/2023 à 12/06/2023    | 12/06/2023           | Chaydson  |
-| Verificar In or Out                   | Gabriel, Pedro    | 08/06/2023 à 12/06/2023    | 12/06/2023           | Henrique  |
-| Verificar Three Level-Scale           | Lucas, Henrique   | 08/06/2023 à 12/06/2023    | 12/06/2023           | Samuel    |
+| Verificar Three Level-Scale           | Gabriel, Pedro    | 08/06/2023 à 12/06/2023    | 12/06/2023           | Henrique  |
+| Verificar In or Out                   | Lucas, Henrique   | 08/06/2023 à 12/06/2023    | 12/06/2023           | Samuel    |
+| Verificar MoSCoW                      | Pedro, Samuel     | 08/06/2023 à 12/06/2023    | 12/06/2023           | Gabriel   |
 | Verificar Cenários                   | Chaydson, Gabriel | 08/06/2023 à 12/06/2023    | 12/06/2023           | Pedro     |
 | Verificar Léxicos                    | Samuel, Henrique  | 08/06/2023 à 12/06/2023    | 12/06/2023           | Lucas     |
 | Verificar Use Case                    | Lucas, Chaydson   | 08/06/2023 à 12/06/2023    | 12/06/2023           | Gabriel   |
@@ -219,3 +224,9 @@ Requisitos de Software. "Linchess" Requisitos de Software. Acessado em 16 de abr
 | 1.3     | 16/04/2023 | Detalhamento do cronograma                                                | Chaydson  | Gabriel     |
 | 1.4     | 19/04/2023 | Addicionando Referências                                                 | Henrique  | Chaydson    |
 | 1.5     | 22/04/2023 | Colocando texto para todas as entregas e padronizando legenda das tabelas | Chaydson  | Henrique    |
+
+| Verificar Observação |
+| ---------------------- |
+
+| Verificar Observação |
+| ---------------------- |
