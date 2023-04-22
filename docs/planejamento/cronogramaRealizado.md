@@ -2,6 +2,8 @@
 
 ## Entrega 1 - Planejamento
 
+Esse tópico é referente ao que o grupo efetivamente conseguiu entregar durante a Entrega 1 e quais foram os prazos reais para tal. Segue na Tabela 1 os detalhes.
+
 | Tarefa                                         |    Autor(es)    | Período de desenvolvimento | Período de revisão |   Revisores   |
 | ---------------------------------------------- | :-------------: | :-------------------------: | :------------------: | :-----------: |
 | Criação da documentação do projeto         |    Chaydson    |  01/04/2023 à 03/04/2023  |      12/04/2023      |     Lucas     |
@@ -19,10 +21,13 @@
 | Criação do cronograma realizado              |      Lucas      |  03/04/2023 à 11/04/2023  |      13/04/2023      |   Chaydson   |
 | Finalização                                  |      Grupo      |         13/04/2023         |      13/04/2023      |     Grupo     |
 
-Tabela 1 - Cronograma da entrega 1.
+<div style="text-align: center">
+    <p> Tabela 1 - Cronograma da entrega 1. (Fonte: Autores. 2023).</p>
+</div>
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
 | ------- | ---------- | ---------------------- | --------- | ----------- |
 | 1.0     | 17/04/2023 | Criação do documento | Chaydson  | Lucas       |
+| 1.1     | 22/04/2023 | Adicionando texto e padronizando legenda da tabela | Chaydson  | Henrique       |
