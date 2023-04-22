@@ -17,8 +17,8 @@ Esse tópico é referente ao que o grupo efetivamente conseguiu entregar durante
 | Rich Picture                                   | Lucas - Gabriel |  03/04/2023 à 11/04/2023  |      12/04/2023      |   Henrique   |
 | Quadro de Disponibilidade de Membros           |     Gabriel     |  03/04/2023 à 11/04/2023  |      12/04/2023      |     Lucas     |
 | Metodologia e Politicas                        |     Gabriel     |  03/04/2023 à 11/04/2023  |      12/04/2023      |   Henrique   |
-| Gravação da apresentação                   |      Grupo      |         12/04/2023         |      13/04/2023      |    Samuel    |
-| Criação do cronograma realizado              |      Lucas      |  03/04/2023 à 11/04/2023  |      13/04/2023      |   Chaydson   |
+| Gravação da apresentação                   |      Grupo      |         17/04/2023         |      17/04/2023      |    Samuel    |
+| Criação do cronograma realizado              |      Lucas      |         17/04/2023         |      17/04/2023      |   Chaydson   |
 | Finalização                                  |      Grupo      |   17/04/2023 - 21/04/2023   |      22/04/2023      |     Grupo     |
 
 <div style="text-align: center">
@@ -27,7 +27,7 @@ Esse tópico é referente ao que o grupo efetivamente conseguiu entregar durante
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
-| ------- | ---------- | ---------------------- | --------- | ----------- |
-| 1.0     | 17/04/2023 | Criação do documento | Lucas  | Chaydson       |
-| 1.1     | 22/04/2023 | Adicionando texto e padronizando legenda da tabela | Chaydson  | Henrique       |
+| Versão | Data       | Descrição                                        | Autor(es) | Revisor(es) |
+| ------- | ---------- | -------------------------------------------------- | --------- | ----------- |
+| 1.0     | 17/04/2023 | Criação do documento                             | Lucas     | Chaydson    |
+| 1.1     | 22/04/2023 | Adicionando texto e padronizando legenda da tabela | Chaydson  | Henrique    |
