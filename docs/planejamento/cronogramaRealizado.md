@@ -29,5 +29,5 @@ Esse tópico é referente ao que o grupo efetivamente conseguiu entregar durante
 
 | Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
 | ------- | ---------- | ---------------------- | --------- | ----------- |
-| 1.0     | 17/04/2023 | Criação do documento | Chaydson  | Lucas       |
+| 1.0     | 17/04/2023 | Criação do documento | Lucas  | Chaydson       |
 | 1.1     | 22/04/2023 | Adicionando texto e padronizando legenda da tabela | Chaydson  | Henrique       |
