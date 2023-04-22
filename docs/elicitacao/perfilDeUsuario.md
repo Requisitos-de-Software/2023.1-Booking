@@ -65,7 +65,7 @@ BARBOSA, Simone; SILVA, INTERAÇÃO HUMANO-COMPUTADOR. Local de publicação: El
 
 ## Conclusão
 
-Dessa forma, através dos resultados que foram mostrados pelo questionário, vemos que o perfil de usuário do aplicativo abrange tanto pessoas com menos de 18 anos até pessoas com 49 anos, com quantidade de usuários homens ou mulheres quase semelhantes, tendo uma maior quantidade de usuários na faixa entre os 25 e 34 anos, em sua maior parte solteiros(as). Esses usuários utilizam o aplicativo para reservar principalemnte hotéis, priorizando, em sua maior parte, a localização de sua reserva.
+Com base nos resultados obtidos através do questionário, foi possível identificar o perfil dos usuários do aplicativo, que inclui tanto pessoas com menos de 18 anos quanto pessoas com 49 anos, com uma proporção quase igual de usuários homens e mulheres. A maioria dos usuários adultos se encontra na faixa etária entre 25 e 34 anos e são, em sua maioria, solteiros. Analisando o gráfico de frequência de utilização, é possível observar que a maioria dos usuários é composta por novatos em relação à experiência de uso do aplicativo. Esses usuários utilizam o aplicativo principalmente para reservar hotéis e dão prioridade, em sua maioria, à localização da reserva.
 
 ## Histórico de Versão
 
