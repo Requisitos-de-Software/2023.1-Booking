@@ -222,11 +222,6 @@ Requisitos de Software. "Linchess" Requisitos de Software. Acessado em 16 de abr
 | 1.1     | 07/04/2023 | Cronograma geral                                                          | Chaydson  | Grupo       |
 | 1.2     | 11/04/2023 | Padronização do cronograma                                              | Chaydson  | Pedro       |
 | 1.3     | 16/04/2023 | Detalhamento do cronograma                                                | Chaydson  | Gabriel     |
-| 1.4     | 19/04/2023 | Addicionando Referências                                                 | Henrique  | Chaydson    |
+| 1.4     | 19/04/2023 | Adicionando Referências                                                  | Henrique  | Chaydson    |
 | 1.5     | 22/04/2023 | Colocando texto para todas as entregas e padronizando legenda das tabelas | Chaydson  | Henrique    |
-
-| Verificar Observação |
-| ---------------------- |
-
-| Verificar Observação |
-| ---------------------- |
+| 1.6     | 22/04/2023 | Adicionando correções ao cronograma                                     | Chaydson  | Pedro       |
