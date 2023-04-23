@@ -6,13 +6,13 @@ Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de
 
 ## Personas
 
-|                                                                                                   ![1682280379785](image/personas/1682280379785.png)                                                                                                   |
+|                                                                                                   ![Paulo Persona](../images/personaPaulo.png)                                                                                                   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                            **Nome:** Fernando Ribas                                                                                                            |
+|                                                                                                        **Nome:** Paulo Fernando Ribas                                                                                                        |
 |                                                                                                             **Gênero:** Masculino                                                                                                             |
 |                                                                                                                 **Idade: 20**                                                                                                                 |
 |                                                                                                     **Escolaridade:** Superior incompleto                                                                                                     |
-|                                                                                                          **Profissão:** Estagiário                                                                                                          |
+|                                                                                                  **Profissão:** Estagiário de Programação                                                                                                  |
 |                                                                                                   **Relacionamentos:** Solteiro, sem filhos                                                                                                   |
 |                                                                                                         **Status:** Persona primária                                                                                                         |
 |                                                            **Objetivos:** Fernando Ribas é um jovem que ama viajar, pois ama conhecer novos lugares e aprender com outras culturas                                                            |
@@ -21,7 +21,12 @@ Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de
 |                                                      **Requisitos:** Fernando gostaria que as reservas de hoteis e pousadas fossem menos burocráticas e feitas de maneira mais eficiente                                                      |
 |                                                                      **Expectativas:** Ele acredita que o booking.com pode lhe dar as melhores promoções de hospedagem                                                                      |
 
-|                                                                                         ![1682280535973](image/personas/1682280535973.png)                                                                                         |
+
+<div style="text-align: center">
+<p> Tabela 1: Persona Primária 1, versão 1. (Fonte: Autores. 2023).</p>
+</div>
+
+|                                                                                         ![Daniela Persona](../images/personaDaniela.png)                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                               **Nome:** Daniela Stella Melo                                                                                               |
 |                                                                                                        Gênero: Feminino                                                                                                        |
@@ -36,39 +41,51 @@ Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de
 |                                         **Requisitos:** Daniela gostaria que fosse possível adicionar companheiros de viagem para facilitar na hora de fazer a reserva do local.                                         |
 |               **Expectativas:** Daniela acha que com o Booking.com a sua família terá mais segurança ao realizar a reserva, porque ficará mais fácil de fazer a gestão de pessoas que irão na viagem               |
 
-| ![1682280690946](image/personas/1682280690946.png) |
-| :----------------------------------------------: |
-|                   Identidade:                   |
-|                 **Nome:**                 |
-|                 **Idade:**                 |
-|              **Profissão:**              |
-|            **Relacionamentos:**            |
-|                **Status:**                |
-|               **Objetivos:**               |
-|              **Habilidades:**              |
-|                **Tarefas:**                |
-|               **Requisitos**               |
-|             **Expectativas:**             |
+<div style="text-align: center">
+<p> Tabela 2: Persona Secundária 1, versão 1. (Fonte: Autores. 2023).</p>
+</div>
 
-## Antipersonas
+|                                                                                                                ![Sebastião Perosona](../images/personaSebastiao.png)                                                                                                                |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                     **Nome: **Sebastião Leonardo Freitas                                                                                                                     |
+|                                                                                                                          **Gênero:** Masculino                                                                                                                          |
+|                                                                                                                              **Idade:** 45                                                                                                                              |
+|                                                                                                                    **Escolaridade:** Ensino Superior                                                                                                                    |
+|                                                                                                                   **Profissão:** Professor de Física                                                                                                                   |
+|                                                                                                                 **Relacionamentos:** Divorciado, 1 Filha                                                                                                                 |
+|                                                                                                                      **Status:** Persona Primária                                                                                                                      |
+| **Objetivos:** Sebastião realiza trabalhos para feiras cientificas e por esse motivo tem que viajar para diversos lugares do mundo, levando até sua filha em algumas viagens. Por isso, ele sempre aluga um carro a depender do local, faz reserva de voo e hospedagem |
+|                                                                         **Habilidades:** Por viajar muito, Sebastião tem conhecimento sobre aplicativos de hospedagem para saber eles funcionam                                                                         |
+|                   **Tarefas:** Ele trabalha com sua pesquisa das 8:00 às 15:00, logo em seguida realiza suas atividades diárias como fazer exercícios, conversa com a sua filha, e verificar se existe algum problema com os seus planos de viagem.                   |
+|                                                               **Requisitos:** Sebastião gostaria de poder alugar modelos de carros potentes e viagens e hospedagens em locais pertos de irá trabalhar                                                                |
+|                                                                       **Expectativas:** Sebastião quer poder viaja sem muitas preocupações com  o local e transporte utilizando o Booking.com                                                                       |
 
-| ![1682280578724](image/personas/1682280578724.png) |  |
-| :----------------------------------------------: | - |
-|                   Identidade:                   |  |
-|                 **Nome:**                 |  |
-|                 **Idade:**                 |  |
-|              **Profissão:**              |  |
-|            **Relacionamentos:**            |  |
-|                **Status:**                |  |
-|               **Objetivos:**               |  |
-|              **Habilidades:**              |  |
-|                **Tarefas:**                |  |
-|               **Requisitos**               |  |
-|             **Expectativas:**             |  |
+<div style="text-align: center">
+<p> Tabela 3: Persona Primária 2, versão 1. (Fonte: Autores. 2023).</p>
+</div>
+
+## Antipersona
+
+|                                                                                                                                                                                  ![Augusto Persona](../images/personaAugusto.png)                                                                                                                                                                                  |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                                                                       **Nome: **Augusto Bento Calebe Farias                                                                                                                                                                                       |
+|                                                                                                                                                                                            **Gênero:** Masculino                                                                                                                                                                                            |
+|                                                                                                                                                                                                 **Idade: 55**                                                                                                                                                                                                 |
+|                                                                                                                                                                              **Escolaridade:** Ensino Fundamental (Incompleto))                                                                                                                                                                              |
+|                                                                                                                                                                                   **Profissão:** Aposentado(por Invalidez)                                                                                                                                                                                   |
+|                                                                                                                                                                                     **Relacionamentos:** Viúvo, 1 Filha                                                                                                                                                                                     |
+|                                                                                                                                                                                            **Status:** Antipersona                                                                                                                                                                                            |
+|      **Objetivos:** Augusto é um homem caseiro, se aposentou aos 54 anos devido a um acidente em viagem ao exterior em que perdeu a esposa e lhe fez ficar de cadeira de rodas e sentir dores crônicas, conseguindo assim se aposentar por invalidez quando retornou. O mesmo apesar de  antes gostasse de viajar ganhou um trauma depois da viagem por esse motivo se abstem de pensar em viagens.      |
+|                                                                         **Habilidades:** Augusto não era adepto da tecnlogia, tinha pouco contato com mesma, por não possui ensino fundamental completo, dificultava ele conseguir mexer nas novas tecnlogias, que fazia reserva de viagens e ajeitava tudo era sua esposa e filha.                                                                         |
+| **Tarefas:** No dia-a-dia de Augusto ele se tornou um homem caseiro, o qual gosta de fazer passeios no bairro da sua cidade, apesar de suas dificuldades, esses passeios costumam se das 8:00 às 9:00, depois ele vai para sua fisioterapia que acontece das 10:00 ao 13:00, e passa o restante do dia assisitindo tv algo para passar o dia, apesar de ter ganhado um recente interesse em começar a ler. |
+|                                                                                                                                                         **Expectativas:** Não tem interesses em utilizar o aplicativo devido a trauma com  viagens                                                                                                                                                         |
+<div style="text-align: center">
+<p> Tabela 4: Antipersona 1, versão 1. (Fonte: Autores. 2023).</p>
+</div>
 
 ## Referências
 
-‌
+‌[1]  BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010. Acesso em 23 de abril de 2023.
 
 ‌
 
