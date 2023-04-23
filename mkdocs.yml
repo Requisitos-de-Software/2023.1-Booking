@@ -46,3 +46,5 @@ nav:
   - Elicitação:
       - Perfil de usuário: elicitacao/perfilDeUsuario.md
       - Personas: elicitacao/personas.md
+      - Observação: elicitacao/observacao.md
+      - Storytelling: elicitacao/storytelling.md
