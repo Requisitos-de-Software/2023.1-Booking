@@ -1,5 +1,9 @@
 # Cronograma Realizado
 
+## Introdução
+
+Seja bem-vindo à página do Cronograma Realizado. Aqui você encontrará o registro completo das Tarefas que foram efetivamente entregues ao longo de cada entrega planejada em [Cronograma Planejado](cronograma.md)! 
+
 ## Entrega 1 - Planejamento
 
 Esse tópico é referente ao que o grupo efetivamente conseguiu entregar durante a Entrega 1 e quais foram os prazos reais para tal. Segue na Tabela 1 os detalhes.
@@ -31,3 +35,4 @@ Esse tópico é referente ao que o grupo efetivamente conseguiu entregar durante
 | ------- | ---------- | -------------------------------------------------- | --------- | ----------- |
 | 1.0     | 17/04/2023 | Criação do documento                             | Lucas     | Chaydson    |
 | 1.1     | 22/04/2023 | Adicionando texto e padronizando legenda da tabela | Chaydson  | Henrique    |
+| 1.2     | 22/04/2023 | Adicionando introdução | Henrique  |     |

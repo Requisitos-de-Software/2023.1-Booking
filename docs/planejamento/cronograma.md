@@ -1,5 +1,10 @@
 # Cronograma
 
+## Introdução
+
+Seja bem-vindo à página do Cronograma Planejado. Aqui você encontrará o registro completo das Tarefas planejadas, que serão realizadas em cada entrega ao longo so semestre. Para cada Tarefa, estará detalhado seu: autor(a), período de desenvolvimento, período de revisão e revisor(a). 
+
+
 ## Cronograma geral
 
 O objetivo do cronograma é viabilizar a organização visual das atividades, recursos e prazos de um projeto através de tabelas.
@@ -225,3 +230,4 @@ Requisitos de Software. "Linchess" Requisitos de Software. Acessado em 16 de abr
 | 1.4     | 19/04/2023 | Adicionando Referências                                                  | Henrique  | Chaydson    |
 | 1.5     | 22/04/2023 | Colocando texto para todas as entregas e padronizando legenda das tabelas | Chaydson  | Henrique    |
 | 1.6     | 22/04/2023 | Adicionando correções ao cronograma                                     | Chaydson  | Pedro       |
+| 1.7     | 22/04/2023 | Adicionando introdução                                     | Henrique  |        |
