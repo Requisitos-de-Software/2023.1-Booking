@@ -45,4 +45,5 @@ nav:
       - Rich Picture: prePlanejamento/richPicture.md
   - Elicitação:
       - Perfil de usuário: elicitacao/perfilDeUsuario.md
+      - Observação: elicitacao/observacao.md
       - Storytelling: elicitacao/storytelling.md
