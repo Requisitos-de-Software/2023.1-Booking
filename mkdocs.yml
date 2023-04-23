@@ -43,3 +43,5 @@ nav:
       - Metodologia: planejamento/metodologia.md
   - Pré-Rastreabilidade:
       - Rich Picture: prePlanejamento/richPicture.md
+  - Elicitação:
+      - Perfil de usuário: elicitacao/perfilDeUsuario.md

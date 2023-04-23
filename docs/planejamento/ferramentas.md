@@ -8,20 +8,21 @@ Bem-vindo à página de ferramentas do projeto! Aqui você encontrará uma lista
 
 As ferramentas que iremos utilizar estão ilustradas na tabela 1 a seguir:
 
-| Logo                                                                       | Descrição                                                                                                                                                                                     |
-| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `<figure><img src="../../images/github.png" width="80px"/>``</figure>` | O GitHub é usado para hospedar o projeto em um repositório público.                                                                                                                          |
-| `<img src="../../images/git.png" width="90px"/>`                         | O Git é usado para controlar as versões do projeto.                                                                                                                                           |
-| `<img src="../../images/telegram.png" width="80px"/>`                    | O Telegram é usado para a comunicação entre os colaboradores do projeto.                                                                                                                     |
-| `<img src="../../images/discord.png" width="80px"/>`                     | O Discord é usado para a comunicação por voz e texto entre os colaboradores do projeto.                                                                                                      |
-| `<img src="../../images/mkdocs.png" width="80px"/>`                      | O MkDocs é usado para criar documentação de projetos em formato HTML ou outros formatos, a partir de arquivos em formato Markdown                                                            |
-| `<img src="../../images/mkdocsMaterial.png" width="80px"/>`              | É um tema de documentação para o MkDocs que oferece uma aparência moderna e responsiva para a documentação do projeto.                                                                    |
-| `<img src="../../images/teams.png" width="80px" />`                      | O Teams é um aplicativo web e app para realizar reuniões de pessoas desenvolvida pela microsoft, sendo utilizada no projeto como principal ferramenta para a reunião semanal e gravações |
-| `<img src="../../images/officerViewer.png" width="80px"/>`               | O Officer Viewer(Markdown Editor) é uma extensão do Visual Studio Code utilizada para editar de maneira mais fácil documento com extensão  .md(markdown)                                  |
-| `<img src="../../images/vscode.png" width="80px"/>`                      | O VsCode é usado para editar o código markdown que gera a página.                                                                                                                            |
-| `<img src="../../images/youtube.png" width="80px"/>`                     | O YouTube é o site pelo qual o grupo hospeda as gravações.                                                                                                                                   |
-| `<img src="../../images/lucidchart.png" width="80px"/>`                  | O Lucidchart é usado para fazer a diagramação e visualização de informações.                                                                                                             |
-| `<img src="../../images/whiteboard.png" width="100px"/>`                 | O WhiteBoard é usado para fazer diagramas e organizar informações.                                                                                                                           |
+| Logo                                                          | Descrição                                                                                                                                                                                     |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <figure><img src="../../images/github.png" width="80px"/></figure>         | O GitHub é usado para hospedar o projeto em um repositório público.                                                                                                                          |
+| <img src="../../images/git.png" width="90px"/>            | O Git é usado para controlar as versões do projeto.                                                                                                                                           |
+| <img src="../../images/telegram.png" width="80px"/>       | O Telegram é usado para a comunicação entre os colaboradores do projeto.                                                                                                                     |
+| <img src="../../images/discord.png" width="80px"/>        | O Discord é usado para a comunicação por voz e texto entre os colaboradores do projeto.                                                                                                      |
+| <img src="../../images/mkdocs.png" width="80px"/>         | O MkDocs é usado para criar documentação de projetos em formato HTML ou outros formatos, a partir de arquivos em formato Markdown                                                            |
+| <img src="../../images/mkdocsMaterial.png" width="80px"/> | É um tema de documentação para o MkDocs que oferece uma aparência moderna e responsiva para a documentação do projeto.                                                                    |
+|<img src="../../images/teams.png" width="80px" />                                                               | O Teams é um aplicativo web e app para realizar reuniões de pessoas desenvolvida pela microsoft, sendo utilizada no projeto como principal ferramenta para a reunião semanal e gravações |
+|<img src="../../images/officerViewer.png" width="80px"/>                                                               | O Officer Viewer(Markdown Editor) é uma extensão do Visual Studio Code utilizada para editar de maneira mais fácil documento com extensão  .md(markdown)                                  |
+|<img src="../../images/googleForms.png" width="80px"/>                                                               | O Google Forms é uma ferramenta de criação de formulários on-line gratuita oferecida pelo Google. Será utilizado para fazer questionários para a pesquisa de perfil de ususário do projeto.                                  |
+| <img src="../../images/vscode.png" width="80px"/>                       | O VsCode é usado para editar o código markdown que gera a página.                                                                                                                            |
+| `<img src="../../images/youtube.png" width="80px"/>                      | O YouTube é o site pelo qual o grupo hospeda as gravações.                                                                                                                                   |
+| <img src="../../images/lucidchart.png" width="80px"/>                  | O Lucidchart é usado para fazer a diagramação e visualização de informações.                                                                                                             |
+| <img src="../../images/whiteboard.png" width="80px"/>                 | O WhiteBoard é usado para fazer diagramas e organizar informações.                                                                                                                           |
 
 <div style="text-align: center">
 <p> Tabela 1: Ferramentas utilizadas durante o projeto (Fonte: Autor, 2023). </p>
@@ -45,6 +46,9 @@ DONATH, M. Material for MkDocs. Disponível em: [https://squidfunk.github.io/mkd
 
 ‌Office Viewer(Markdown Editor) - Visual Studio Marketplace. Disponível em: [https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office). Acesso em: 19 abr. 2023.
 
+DE. Formulários Google: criação de formulários on-line para empresas | Google Workspace. Disponível em: <https://acesse.one/wMpVj>. Acesso em: 23 abr. 2023.
+
+
 ‌MICROSOFT. Visual Studio Code. Disponível em: [https://code.visualstudio.com/](https://code.visualstudio.com/). Acesso em: 19 abr. 2023.
 
 ‌FRTTT, M. YouTube. YouTube, 2023. Disponível em: [https://www.youtube.com/](https://www.youtube.com/). Acesso em: 19 abr. 2023.
@@ -64,6 +68,7 @@ Microsoft White Board | Quadro Interativo| App Lousa Digital. Disponível em: [h
 | Versão | Data       | Descrição                                 | Autor(es)      | Revisor(es) |
 | ------- | ---------- | ------------------------------------------- | -------------- | ----------- |
 | 1.0     | 07/04/2023 | Criação da página de ferramentas         | Pedro Henrique | Chaydson    |
-| 1.1     | 17/04/2023 | Atualização de Ferramentas Utilizadas     | Gabriel        | Lucas       |
-| 1.2     | 19/04/2023 | Adicionando mais ferramentas e referências | Pedro Henrique | Samuel      |
-| 1.3     | 20/04/2023 | Adicionando legendas nas tabelas            | Lucas          | Henrique    |
+| 1.1     | 17/04/2023 | Atualização de Ferramentas Utilizadas     | Gabriel        | Lucas, Pedro       |
+| 1.2     | 18/04/2023 | Atualização de Ferramentas Utilizadas | Henrique        | Pedro         |
+| 1.3     | 19/04/2023 | Adicionando mais ferramentas e referências | Pedro Henrique | Samuel      |
+| 1.4     | 20/04/2023 | Adicionando legendas nas tabelas            | Lucas          | Henrique    |
