@@ -14,6 +14,10 @@ Assim sendo, foram utilizadas para criar o heatmap abaixo, um padrão 0 a 6, con
 
 <iframe width="1250px" height="350px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTgtFb4sKcl7fYha4p1nUQsYGMh-RSyRnAt0s_V4Jv8W9QYf-SirB4rDoFBLWoUvHE6UtfwoJCOO4FX/pubhtml?widget=true&headers=false" style="overflow: hidden; margin-bottom: 5px;"></iframe>
 
+<div style="text-align: center">
+<p> Tabela 1: Disponibilidade dos membros (Fonte: Autor, 2023). </p>
+</div>
+
 ## Bibliografia
 
 [1] UNIVERSIDADE DE BRASÍLIA. Cepe/UnB 128/2021. Disponível em: https://saa.unb.br/destaques/134-cepe-unb-128-2021. Acesso em: 13 abr. 2023.
@@ -25,3 +29,4 @@ Assim sendo, foram utilizadas para criar o heatmap abaixo, um padrão 0 a 6, con
 | Versão | Data       | Descrição          | Autor(es) | Revisor(es) |
 | ------- | ---------- | -------------------- | --------- | ----------- |
 | 1.0     | 13/04/2023 | Criação da Página | Gabriel   | Lucas       |
+| 1.1     | 20/04/2023 | Adicionando legendas nas imagems| Lucas | Henrique       |
