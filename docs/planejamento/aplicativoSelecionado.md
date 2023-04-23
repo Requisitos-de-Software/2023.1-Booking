@@ -12,6 +12,8 @@ O aplicativo Booking foi escolhido para o projeto na disciplina de requisitos de
 
 ## Imagens do aplicativo
 
+Abaixo, na figura 1, podemos ver algumas imagens demonstrando algumas funcionalidades do aplicativo booking.
+
 ![Imagens do aplicativo Booking](../assets/appSelecionado/imagensBooking.jpg)
 
 <div style="text-align: center">
@@ -22,7 +24,7 @@ Disponível em: [Apple Store](https://apps.apple.com/br/app/ofertas-de-viagem-bo
 
 ## Direito de Uso ou Propriedade Intelectual
 
-O aplicativo do Booking, possui uma politica de uso, no seus termos, sendo localizado em seu site, pode ser localizado no termo A14(A14.2 e A14.3), que  as únicas restrições quanto ao uso da plataforma do Booking.com referece a proibição do uso comercial do mesmo, sem a expressa autorização assinada de pessoas licenciadas ou do próprio booking.com, o nosso objetivo é apenas de apredizado, ficando claro que o projeto não tem nenhum objetivo comercial apenas de aprendizado. Abaixo está imagem dos termos encontrados e nas referências bibliográficas o link para site do mesmo.
+O aplicativo do Booking, possui uma politica de uso, no seus termos, sendo localizado em seu site, pode ser localizado no termo A14(A14.2 e A14.3), que  as únicas restrições quanto ao uso da plataforma do Booking.com referece a proibição do uso comercial do mesmo, sem a expressa autorização assinada de pessoas licenciadas ou do próprio booking.com, o nosso objetivo é apenas de apredizado, ficando claro que o projeto não tem nenhum objetivo comercial apenas de aprendizado. Abaixo, na Figura 2, está a imagem dos termos encontrados e nas referências bibliográficas o link para site do mesmo.
 
 ![1682005235388](image/aplicativoSelecionado/1682005235388.png)
 
