@@ -32,18 +32,18 @@ Harry está pronto para viajar e aproveitar sua estadia no Rio de Janeiro. Ele c
 
 Na tabela 1, é possível encontrar os requisitos funcionais que foram obtidos a partir da história relatada pelo Harry, e que foram identificados como necessários para o desenvolvimento do sistema. Esses requisitos funcionais são uma lista abrangente de funcionalidades e recursos que o sistema deve possuir para atender às necessidades do usuário.
 
-| ID    | Nome                      | Descrição                                                                                                                                                                    |
-| ----- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| FST01 | Cadastro de conta         | o aplicativo deve permitir que os usuários se registrem fornecendo informações básicas, como nome, sobrenome, endereço de e-mail e senha.                                    |
-| FST02 | Pesquisa de acomodações   | o aplicativo deve permitir que os usuários pesquisem acomodações com base em critérios específicos, como localização, datas de check-in e check-out, tipo de quarto e preço. |
-| FST03 | Reserva de acomodações    | o aplicativo deve permitir que os usuários reservem acomodações selecionadas, inserindo as informações de pagamento e confirmando a reserva.                                 |
-| FST04 | Cancelamento de reservas  | o aplicativo deve permitir que os usuários cancelem suas reservas de acomodação, desde que sejam feitas dentro dos termos e condições estabelecidos pela empresa.            |
-| FST05 | Pesquisa de voos          | o aplicativo deve permitir que os usuários pesquisem voos com base em critérios específicos, como origem, destino, datas e número de passageiros.                            |
-| FST06 | Reserva de voos           | o aplicativo deve permitir que os usuários reservem voos selecionados, inserindo as informações de pagamento e confirmando a reserva.                                        |
-| FST07 | Aluguel de carros         | o aplicativo deve permitir que os usuários pesquisem e reservem carros de aluguel com base em critérios específicos, como localização, datas e tipo de veículo.              |
-| FST08 | Gerenciamento de reservas | o aplicativo deve permitir que os usuários gerenciem suas reservas existentes, incluindo a visualização de detalhes da reserva, alterações de datas e cancelamentos.         |
-| FST09 | Avaliação de acomodações  | o aplicativo deve permitir que os usuários avaliem acomodações após a conclusão da estadia, fornecendo uma classificação e feedback por escrito.                             |
-| FST10 | Histórico de reservas     | o aplicativo deve permitir que os usuários visualizem seu histórico de reservas anteriores, incluindo informações como datas, acomodações e voos reservados.                 |
+| ID    | Nome                         | Descrição                                                                                                                                                                          |
+| ----- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| FST01 | Cadastro de conta            | o aplicativo deve permitir que os usuários se registrem fornecendo informações básicas, como nome, sobrenome, endereço de e-mail e senha.                                       |
+| FST02 | Pesquisa de acomodações    | o aplicativo deve permitir que os usuários pesquisem acomodações com base em critérios específicos, como localização, datas de check-in e check-out, tipo de quarto e preço. |
+| FST03 | Reserva de acomodações     | o aplicativo deve permitir que os usuários reservem acomodações selecionadas, inserindo as informações de pagamento e confirmando a reserva.                                    |
+| FST04 | Cancelamento de reservas     | o aplicativo deve permitir que os usuários cancelem suas reservas de acomodação, desde que sejam feitas dentro dos termos e condições estabelecidos pela empresa.               |
+| FST05 | Pesquisa de voos             | o aplicativo deve permitir que os usuários pesquisem voos com base em critérios específicos, como origem, destino, datas e número de passageiros.                                |
+| FST06 | Reserva de voos              | o aplicativo deve permitir que os usuários reservem voos selecionados, inserindo as informações de pagamento e confirmando a reserva.                                             |
+| FST07 | Aluguel de carros            | o aplicativo deve permitir que os usuários pesquisem e reservem carros de aluguel com base em critérios específicos, como localização, datas e tipo de veículo.                |
+| FST08 | Gerenciamento de reservas    | o aplicativo deve permitir que os usuários gerenciem suas reservas existentes, incluindo a visualização de detalhes da reserva, alterações de datas e cancelamentos.            |
+| FST09 | Avaliação de acomodações | o aplicativo deve permitir que os usuários avaliem acomodações após a conclusão da estadia, fornecendo uma classificação e feedback por escrito.                              |
+| FST10 | Histórico de reservas       | o aplicativo deve permitir que os usuários visualizem seu histórico de reservas anteriores, incluindo informações como datas, acomodações e voos reservados.                   |
 
 <div style="text-align: center">
 <p> Tabela 1: Requisitos funcionais elicitados pela história do Harry. </p>
@@ -53,15 +53,15 @@ Na tabela 1, é possível encontrar os requisitos funcionais que foram obtidos a
 
 Na tabela 2, estão listados os requisitos não funcionais que foram identificados a partir da história do Harry, e que devem ser considerados no desenvolvimento do sistema. Esses requisitos não funcionais descrevem as características e propriedades do sistema que não estão relacionadas diretamente às suas funcionalidades, mas que são importantes para garantir sua qualidade e desempenho. Esses requisitos incluem aspectos como segurança, desempenho, usabilidade e compatibilidade, entre outros, e devem ser cuidadosamente considerados durante todo o processo de desenvolvimento do sistema.
 
-| ID     | Nome            | Descrição                                                                                                      |
-| ------ | --------------- | -------------------------------------------------------------------------------------------------------------- |
-| NFST01 | Usabilidade     | o aplicativo deve ser fácil de usar, com interface intuitiva e navegação clara.                                |
-| NFST02 | Desempenho      | o aplicativo deve ser rápido e responsivo, com tempo de carregamento mínimo e tempos de resposta rápidos.      |
-| NFST03 | Disponibilidade | o aplicativo deve estar disponível para uso em todos os momentos, com tempos de inatividade mínimos.           |
-| NFST04 | Segurança       | o aplicativo deve ser seguro, protegendo as informações dos usuários e garantindo a privacidade.               |
+| ID     | Nome            | Descrição                                                                                                     |
+| ------ | --------------- | --------------------------------------------------------------------------------------------------------------- |
+| NFST01 | Usabilidade     | o aplicativo deve ser fácil de usar, com interface intuitiva e navegação clara.                              |
+| NFST02 | Desempenho      | o aplicativo deve ser rápido e responsivo, com tempo de carregamento mínimo e tempos de resposta rápidos.    |
+| NFST03 | Disponibilidade | o aplicativo deve estar disponível para uso em todos os momentos, com tempos de inatividade mínimos.          |
+| NFST04 | Segurança      | o aplicativo deve ser seguro, protegendo as informações dos usuários e garantindo a privacidade.             |
 | NFST05 | Confiabilidade  | o aplicativo deve ser confiável, com alta disponibilidade e poucas falhas.                                     |
 | NFST06 | Compatibilidade | o aplicativo deve ser compatível com uma ampla variedade de dispositivos, navegadores e sistemas operacionais. |
-| NFST07 | Localização     | o aplicativo deve estar disponível em diferentes idiomas e adaptar-se a diferentes regiões e culturas.         |
+| NFST07 | Localização   | o aplicativo deve estar disponível em diferentes idiomas e adaptar-se a diferentes regiões e culturas.        |
 
 <div style="text-align: center">
 <p> Tabela 2: Requisitos não funcionais elicitados pela história do Harry. </p>
@@ -85,10 +85,8 @@ Storytelling - Guiabolso. Disponível em: https://fga-disciplinas.github.io/2019
 
 Storytelling - Guardiões da saúde. Disponível em: https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/elicitacao/elicitacao_tecnicas/storytelling/. Acesso em: 23 abr. 2023.
 
-
-
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)      | Revisor(es) |
-| ------ | ---------- | -------------------- | -------------- | ----------- |
-| 1.0    | 07/04/2023 | Criação do documento | Lucas e Samuel | Gabriel     |
+| ------- | ---------- | ---------------------- | -------------- | ----------- |
+| 1.0     | 23/04/2023 | Criação do documento | Lucas e Samuel | Gabriel     |
