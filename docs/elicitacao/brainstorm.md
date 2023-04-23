@@ -95,6 +95,6 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - C
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                         | Autor(es)        | Revisor(es) |
-| ------- | ---------- | ----------------------------------- | ---------------- | ----------- |
-| 1.0     | 23/04/2023 | Criação da página de ferramentas | Gabriel e Samuel | Henrique    |
+| Versão | Data       | Descrição                        | Autor(es)        | Revisor(es) |
+| ------- | ---------- | ---------------------------------- | ---------------- | ----------- |
+| 1.0     | 23/04/2023 | Criação da página de brainstorm | Gabriel e Samuel | Henrique    |
