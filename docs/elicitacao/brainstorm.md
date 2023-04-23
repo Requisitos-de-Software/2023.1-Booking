@@ -8,6 +8,8 @@ Bem-vindo à página de brainstorm, nela está contida, o brainstorm realizado c
 | ------------- | ---------- | ------------- |
 | Teams         | 23/04/2023 | 14:00 - 14:41 |
 
+Tabela 1: Horário do Brainstorm
+
 | Participantes     |
 | ----------------- |
 | Chaydson Ferreira |
@@ -17,9 +19,13 @@ Bem-vindo à página de brainstorm, nela está contida, o brainstorm realizado c
 | Pedro Henrique    |
 | Samuel Gomes      |
 
+Tabela 2: Participantes da Reunião de Brainstorm
+
 ## Video da Reunião
 
 **[Video do Brainstorm](https://youtu.be/_ClVvGYA8Bk)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_ClVvGYA8Bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Requisitos
 
@@ -62,9 +68,30 @@ Os requisitos elicitados provenientes da reunião de brainstorm estão localizad
 | FB31 | Deve existir uma pesquisa por comando de voz                                                           |
 | FB32 | O usuário deve poder adicionar itens ao aluguel do carro                                              |
 
+Tabela 3: Requisitos Funcionais
+
 ### Requisitos Não Funcionais
 
-## Referências Bibliográficas
+| Id    | Requisito                                                       |
+| ----- | --------------------------------------------------------------- |
+| NFB01 | O sistema deve ser seguro                                       |
+| NFB02 | O sistema deve ter um suporte que funciona 24 horas             |
+| NFB03 | O sistema deve garantir a privacidade e segurança dos clientes |
+| NFB04 | O sistema deve ter acessibilidade para pessoas cegas            |
+| NFB05 | O sistema deve ser multiplataforma: Android e iOS               |
+| NFB06 | O sistema deve ter escalabilidade                               |
+
+Tabela 4: Requisitos Não funcionais
+
+Legendas
+
+FB - Requisito Funcional Brainstorm
+
+NFB -  Requisito Não Funcional Brainstorm
+
+## Bibliografia
+
+BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010.
 
 ## Histórico de Versão
 
