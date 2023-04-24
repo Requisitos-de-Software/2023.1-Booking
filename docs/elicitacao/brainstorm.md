@@ -2,7 +2,8 @@
 
 ## Introdução
 
-Bem-vindo à página de brainstorm, nela está contida, o brainstorm realizado com a equipe na reunião do dia 23 de abril de 2023, a reunião demorou cerca de 40 minutos para se trazer ideias sobre o sistema booking.com, a partir deste foram elicitados os requisitos funcionais e não funcionais. A ideia do brainstorm é trazer ideias, sem criticas as mesmas para se gerar uma discussão em cima da mesma.
+Bem-vindo à página de brainstorm, nela está contida, o brainstorm realizado com a equipe na reunião do dia 23 de abril de 2023, a reunião demorou cerca de 40 minutos para se trazer ideias sobre o sistema booking.com, a partir deste foram elicitados os requisitos funcionais e não funcionais. A ideia do brainstorm é trazer ideias, sem criticas as mesmas para se gerar uma discussão em cima da mesma. A reunião para a dinâmica foi feita pela plataforma e data especificada na Tabela 1, tendo a participação dos memebros citados na Tabela 2.
+
 
 | Localização | Data       | Hora          |
 | ------------- | ---------- | ------------- |
@@ -29,7 +30,7 @@ Tabela 2: Participantes da Reunião de Brainstorm
 
 ## Requisitos
 
-Os requisitos elicitados provenientes da reunião de brainstorm estão localizados no tópico abaixo com os nomes para requisitos funcionais FB e NFB.
+Os requisitos elicitados provenientes da reunião de brainstorm estão localizados no tópico abaixo. Sendo FB os Requisitos Funcionais, ordenados na Tabela 3, e NFB os Requisitos Não Funcionais, ordenados na Tabela 4.
 
 ### Requisitos Funcionais
 
@@ -68,7 +69,7 @@ Os requisitos elicitados provenientes da reunião de brainstorm estão localizad
 | FB31 | Deve existir uma pesquisa por comando de voz                                                           |
 | FB32 | O usuário deve poder adicionar itens ao aluguel do carro                                              |
 
-Tabela 3: Requisitos Funcionais
+<p style="margin-left: 30%;">Tabela 3: Requisitos Funcionais</p>
 
 ### Requisitos Não Funcionais
 
