@@ -32,4 +32,4 @@ Abaixo, na Tabela 1, podemos ver o mapa de calor utilizado pela equipe, assim, s
 | ------- | ---------- | -------------------- | --------- | ----------- |
 | 1.0     | 13/04/2023 | Criação da Página | Gabriel   | Lucas       |
 | 1.1     | 20/04/2023 | Adicionando legendas nas imagems| Lucas | Henrique       |
-| 1.2     | 23/04/2023 | Adicionando descrição para tabela| Henrique |        |
+| 1.2     | 23/04/2023 | Adicionando descrição para tabela| Henrique |  Lucas      |

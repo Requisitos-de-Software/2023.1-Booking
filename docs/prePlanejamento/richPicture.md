@@ -58,4 +58,4 @@ Contudo, após maiores análises sobre o aplicativo, e seu respectivo Rich Pictu
 | 1.0     | 10/04/2023 | Criação do documento | Lucas e Gabriel | Henrique    |
 | 1.1     | 14/04/2023 | Atualização          | Gabriel e Lucas | Pedro       |
 | 1.2     | 20/04/2023 | Adicionando legendas nas imagems| Lucas | Henrique       |
-| 1.3     | 23/04/2023 | Adicionando descrição para imagens| Henrique  |       |
+| 1.3     | 23/04/2023 | Adicionando descrição para imagens| Henrique  |  Lucas     |

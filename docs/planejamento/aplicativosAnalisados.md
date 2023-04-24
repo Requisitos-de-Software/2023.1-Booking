@@ -152,4 +152,4 @@ App Store: [Clique aqui](https://apps.apple.com/br/app/pinterest/id429047995)
 | ------ | ---------- | -------------------- | --------------- | ----------- |
 | 1.0    | 11/05/2023 | Criação do documento | Samuel          | Grupo       |
 | 1.1     | 20/04/2023 | Adicionando legendas nas imagens| Lucas | Henrique       |
-| 1.2     | 23/04/2023 | Adicionando descrição para imagens| Henrique  |       |
+| 1.2     | 23/04/2023 | Adicionando descrição para imagens| Henrique  |  Lucas     |

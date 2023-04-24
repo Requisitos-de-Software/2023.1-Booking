@@ -43,4 +43,4 @@ O aplicativo do Booking, possui uma politica de uso, no seus termos, sendo local
 | 1.0     | 11/05/2023 | Criação do documento | Samuel Gomes | Lucas Lopes |
 | 1.1     | 20/04/2023 | Atualização da Escolha | Gabriel      | Lucas       |
 | 1.2     | 20/04/2023 | Adicionando legendas nas imagens                  | Lucas     | Henrique       |
-| 1.3     | 23/04/2023 | Adicionando descrição para imagem                | Henrique     |       |
+| 1.3     | 23/04/2023 | Adicionando descrição para imagem                | Henrique     |   Lucas    |
