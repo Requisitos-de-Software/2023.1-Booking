@@ -27,7 +27,6 @@ Será utilizado o aplicativo Lucidchart para a criação da matriz de priorizaç
 
 Para a aplicação do three-level scale, será utilizada a ténica de interpretação, encontrada na tabela 1, onde os participantes irão interpretar alguma das personas criadas anteriormente, e assim, irão definir quais são os requisitos mais importantes e urgentes para a persona interpretada.
 
-
 | Participante | Persona interpretada |
 | ------------ | -------------------- |
 | Lucas        | -                    |
@@ -35,6 +34,52 @@ Para a aplicação do three-level scale, será utilizada a ténica de interpreta
 
 <div style="text-align: center">
 <p> Tabela 1: Participante da encenação e sua respectiva persona (Fonte: Autores, 2023). </p>
+</div>
+
+### Requisitos de Média Prioridade
+
+A partir da priorização Three Level-Scale, foi obtido como requisitos de média prioridade os seguintes requisitos descritos na Tabela 4.
+
+| ID     | Requisitos                                                                                                                                                            |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| FST07  | o aplicativo deve permitir que os usuários pesquisem e reservem carros de aluguel com base em critérios específicos, como localização, datas e tipo de veículo. |
+| FST09  | o aplicativo deve permitir que os usuários avaliem acomodações após a conclusão da estadia, fornecendo uma classificação e feedback por escrito.               |
+| FB08   | Enviar email sobre o status da reserva                                                                                                                                |
+| FB10   | O sistema deve possuir uma lista de favoritos para aluguel de carro, hospedagem e voos                                                                                |
+| FB11   | O sistema deve possuir uma lista de desejos para aluguel de carro, hospedagem e voos                                                                                  |
+| FB14   | O sistema deve possuir um mapa interativo                                                                                                                             |
+| FB15   | O sistema deve possuir uma carteira digital                                                                                                                           |
+| FB18   | O sistema deve possuir uma moeda própria                                                                                                                             |
+| FB19   | O usuário deve poder comprar moedas do sistema                                                                                                                       |
+| FB20   | O sistema deve oferecer uma opção de conta premium                                                                                                                  |
+| FB21   | O usuário deve poder selecionar o idioma do sistema                                                                                                                  |
+| FB29   | O sistema deve notificar sobre ofertas                                                                                                                                |
+| FB30   | O sistema deve ter filtragem de pesquisa de hospedagens, alugueis de carros e voos                                                                                    |
+| FB32   | O usuário deve poder adicionar itens ao aluguel do carro                                                                                                             |
+| FOBS01 | Deve ser possível criar uma conta com o google, facebook ou email pessoal.                                                                                           |
+| FOBS09 | Deve ser possível contratar serviços de táxi.                                                                                                                      |
+| FOBS11 | Deve ser possível agendar visitas à atrações turísticas.                                                                                                         |
+| FOBS16 | O aplicativo deve possuir sistema de carteira virtual.                                                                                                                |
+| FOBS18 | O aplicativo deve possuir um sistema de ofertas.                                                                                                                      |
+| FOBS19 | O aplicativo deve possuir um sistema de configurações do aplicativo.                                                                                                |
+
+<div style="text-align: center">
+    <p> Tabela 4 - Tabela de Requisitos de média prioridade. (Fonte: Autores. 2023).</p>
+</div>
+
+## Requisitos de Baixa Prioridade
+
+A partir da priorização Three Level-Scale, foi obtido como requisitos de baixa prioridade os seguintes requisitos descritos na Tabela 5.
+
+| ID      | Requisitos                                               |
+| ------- | -------------------------------------------------------- |
+| FB16    | O sistema deve exibir dicas sobre os locais e carros     |
+| FB17    | O sistema deve mostrar notícias relacionadas ao turismo |
+| NFB06   | O sistema deve ter escalabilidade                        |
+| NFOBS05 | Deve ser escalável.                                     |
+
+<div style="text-align: center">
+    <p> Tabela 5 - Tabela de Requisitos de média prioridade. (Fonte: Autores. 2023).</p>
 </div>
 
 ## Bibliografias
