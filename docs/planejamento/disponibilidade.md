@@ -12,6 +12,8 @@ Assim sendo, foram utilizadas para criar o heatmap abaixo, um padrão 0 a 6, con
 
 ## Tabela de Disponibilidade
 
+Abaixo, na Tabela 1, podemos ver o mapa de calor utilizado pela equipe, assim, sendo possível análisar os horários de maior disponibilidade da equipe.
+
 <iframe width="1250px" height="350px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTgtFb4sKcl7fYha4p1nUQsYGMh-RSyRnAt0s_V4Jv8W9QYf-SirB4rDoFBLWoUvHE6UtfwoJCOO4FX/pubhtml?widget=true&headers=false" style="overflow: hidden; margin-bottom: 5px;"></iframe>
 
 <div style="text-align: center">
@@ -30,3 +32,4 @@ Assim sendo, foram utilizadas para criar o heatmap abaixo, um padrão 0 a 6, con
 | ------- | ---------- | -------------------- | --------- | ----------- |
 | 1.0     | 13/04/2023 | Criação da Página | Gabriel   | Lucas       |
 | 1.1     | 20/04/2023 | Adicionando legendas nas imagems| Lucas | Henrique       |
+| 1.2     | 23/04/2023 | Adicionando descrição para tabela| Henrique |  Lucas      |

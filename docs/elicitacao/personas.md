@@ -2,9 +2,11 @@
 
 ## Introdução
 
-Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de personas e antipersonas que serão utilizados para projeto. Essas personas são pessoas ficticias para definir nosso público-alvo, o qual forma selecionadas e baseadas no perfil de usuário, assim tendo base para definir as personas.
+Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de personas e antipersonas que serão utilizados para projeto. Essas personas são pessoas ficticias, para definir nosso público-alvo, o qual foram selecionadas e baseadas no perfil de usuário, assim tendo base para definir as personas.
 
 ## Personas
+
+Primeiramente, na Tabela 1, temos as características de nossa primeira Persona, Paulo Fernando:
 
 |                                                                                                   ![Paulo Persona](../images/personaPaulo.png)                                                                                                   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -26,6 +28,8 @@ Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de
 <p> Tabela 1: Persona Primária 1, versão 1. (Fonte: Autores. 2023).</p>
 </div>
 
+A seguir, na Tabela 2, temos as características de nossa segunda Persona, Daniela Stella:
+
 |                                                                                         ![Daniela Persona](../images/personaDaniela.png)                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                               **Nome:** Daniela Stella Melo                                                                                               |
@@ -44,6 +48,8 @@ Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de
 <div style="text-align: center">
 <p> Tabela 2: Persona Secundária 1, versão 1. (Fonte: Autores. 2023).</p>
 </div>
+
+Por último, na Tabela 3, temos as características de nossa terceira e última Persona, Sebastião Leonardo:
 
 |                                                                                                                ![Sebastião Perosona](../images/personaSebastiao.png)                                                                                                                |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -65,6 +71,8 @@ Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de
 </div>
 
 ## Antipersona
+
+Agora, na Tabela 4, temos as características de nossa Antipersona, Augusto Bento Calebe:
 
 |                                                                                                                                                                                  ![Augusto Persona](../images/personaAugusto.png)                                                                                                                                                                                  |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -94,3 +102,4 @@ Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de
 | Versão | Data       | Descrição                      | Autor(es)          | Revisor(es) |
 | ------- | ---------- | -------------------------------- | ------------------ | ----------- |
 | 1.0     | 23/04/2023 | Criação da página de personas | Chaydson e Gabriel | Lucas       |
+| 1.3     | 24/04/2023 | Adicionando referênciação para as tabelas| Henrique |   Lucas     |
