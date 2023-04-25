@@ -122,7 +122,7 @@ FOBS: Requisito funcional da Observação
 
 NFOBS: Requisito não funcional da Observação
 
-## Referências
+## Bibliografia
 
 In or Out - Grasshopper. Disponível em: [https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/priorizacao/in-or-out/](). Acesso em: 24 abr. 2023.
 
