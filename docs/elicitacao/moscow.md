@@ -127,6 +127,15 @@ A seguir, na tabela 2, estão listadas todas as siglas com seus respectivos sign
 <p> Tabela 2: Tabela de siglas com seus respectivos significados. (Fonte: Autores, 2023). </p>
 </div>
 
+## Bibliografia
+
+- SILVA, A. L. da. MoSCoW: uma técnica de priorização de requisitos. Disponível em: <https://www.devmedia.com.br/moscow-uma-tecnica-de-priorizacao-de-requisitos/28191>. Acesso em: 25 abr. 2023.
+- SANTOS, R. F. dos. Como priorizar requisitos usando a técnica MoSCoW. Disponível em: <https://blog.mastertech.com.br/como-priorizar-requisitos-usando-a-tecnica-moscow/>. Acesso em: 25 abr. 2023.
+- OLIVEIRA, M. A. de. Priorização de requisitos com MoSCoW: o que é e como aplicar? Disponível em: <https://www.euax.com.br/2019/06/priorizacao-de-requisitos-com-moscow/>. Acesso em: 25 abr. 2023.
+- SOUZA, R. C. de. Técnica MoSCoW para priorização de requisitos de software. Disponível em: <https://www.tiespecialistas.com.br/tecnica-moscow-para-priorizacao-de-requisitos-de-software/>. Acesso em: 25 abr. 2023.
+- ALVES, T. P. MoSCoW: como priorizar requisitos de forma eficiente? Disponível em: <https://sitecampus.com.br/moscow-como-priorizar-requisitos-de-forma-eficiente/>. Acesso em: 25 abr. 2023.
+- Moscow do grupo Lichess. Disponível em: <https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/priorizacao/#moscow>. Acesso em 25 abr. 2023.
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição          | Autor(es)                  | Revisor(es) |
