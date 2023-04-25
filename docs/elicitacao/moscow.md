@@ -1,5 +1,29 @@
 # Moscow
 
+## Introdução
+
+A técnica de priorização moscow é uma ferramenta útil para gerenciar as expectativas dos stakeholders e definir as prioridades de um projeto. Ela consiste em classificar os requisitos ou as tarefas em quatro categorias, de acordo com a sua importância: Must have (deve ter), Should have (deveria ter), Could have (poderia ter) e Won’t have (não terá). Essas categorias formam o acrônimo moscow.
+
+## Must have (deve ter)
+
+São os requisitos ou as tarefas que são indispensáveis para o projeto, sem os quais ele não pode ser considerado concluído ou satisfatório. Eles representam as necessidades básicas dos stakeholders e devem ser atendidos em primeiro lugar.
+
+## Should have (deveria ter)
+
+São os requisitos ou as tarefas que são importantes para o projeto, mas que não são críticos para o seu funcionamento ou para a sua aceitação. Eles representam as expectativas dos stakeholders e devem ser atendidos se possível, mas podem ser negociados ou comprometidos se necessário.
+
+## Could have (poderia ter)
+
+São os requisitos ou as tarefas que são desejáveis para o projeto, mas que não têm um impacto significativo no seu resultado ou na sua qualidade. Eles representam as preferências dos stakeholders e devem ser atendidos somente se houver tempo e recursos disponíveis, mas podem ser facilmente descartados ou adiados se não houver.
+
+## Won’t have (não terá)
+
+São os requisitos ou as tarefas que estão fora do escopo do projeto, que não agregam valor ou que são inviáveis de serem realizados. Eles representam as ideias dos stakeholders que devem ser explicitamente excluídas ou rejeitadas, para evitar confusão ou desperdício de esforço.
+
+## Aplicação
+
+A técnica do moscow foi utilizada para definir as prioridades dos requisitos levantados para o projeto. A tabela 1 apresenta os requisitos e suas respectivas categorias de prioridade.
+
 | ID      | requisito                                                                                                                                                                    |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | FST01   | o aplicativo deve permitir que os usuários se registrem fornecendo informações básicas, como nome, sobrenome, endereço de e-mail e senha.                                    |
@@ -58,34 +82,53 @@
 | NFB02   | O sistema deve ter um suporte que funciona 24 horas                                                                                                                          |
 | NFB03   | O sistema deve garantir a privacidade e segurança dos clientes                                                                                                               |
 | NFB04   | O sistema deve ter acessibilidade para pessoas cegas                                                                                                                         |
-| NFB05   | O sistema deve ser multiplataforma: Android e iOS
-| FST07  | o aplicativo deve permitir que os usuários pesquisem e reservem carros de aluguel com base em critérios específicos, como localização, datas e tipo de veículo. |
-| FST09  | o aplicativo deve permitir que os usuários avaliem acomodações após a conclusão da estadia, fornecendo uma classificação e feedback por escrito.               |
-| FB08   | Enviar email sobre o status da reserva                                                                                                                                |
-| FB10   | O sistema deve possuir uma lista de favoritos para aluguel de carro, hospedagem e voos                                                                                |
-| FB11   | O sistema deve possuir uma lista de desejos para aluguel de carro, hospedagem e voos                                                                                  |
-| FB14   | O sistema deve possuir um mapa interativo                                                                                                                             |
-| FB15   | O sistema deve possuir uma carteira digital                                                                                                                           |
-| FB18   | O sistema deve possuir uma moeda própria                                                                                                                             |
-| FB19   | O usuário deve poder comprar moedas do sistema                                                                                                                       |
-| FB20   | O sistema deve oferecer uma opção de conta premium                                                                                                                  |
-| FB21   | O usuário deve poder selecionar o idioma do sistema                                                                                                                  |
-| FB29   | O sistema deve notificar sobre ofertas                                                                                                                                |
-| FB30   | O sistema deve ter filtragem de pesquisa de hospedagens, alugueis de carros e voos                                                                                    |
-| FB32   | O usuário deve poder adicionar itens ao aluguel do carro                                                                                                             |
-| FOBS01 | Deve ser possível criar uma conta com o google, facebook ou email pessoal.                                                                                           |
-| FOBS09 | Deve ser possível contratar serviços de táxi.                                                                                                                      |
-| FOBS11 | Deve ser possível agendar visitas à atrações turísticas.                                                                                                         |
-| FOBS16 | O aplicativo deve possuir sistema de carteira virtual.                                                                                                                |
-| FOBS18 | O aplicativo deve possuir um sistema de ofertas.                                                                                                                      |
-| FOBS19 | O aplicativo deve possuir um sistema de configurações do aplicativo.      
-| FB16    | O sistema deve exibir dicas sobre os locais e carros     |
-| FB17    | O sistema deve mostrar notícias relacionadas ao turismo |
-| NFB06   | O sistema deve ter escalabilidade                        |
-| NFOBS05 | Deve ser escalável.                                     |
+| NFB05   | O sistema deve ser multiplataforma: Android e iOS                                                                                                                            |
+| FST07   | o aplicativo deve permitir que os usuários pesquisem e reservem carros de aluguel com base em critérios específicos, como localização, datas e tipo de veículo.              |
+| FST09   | o aplicativo deve permitir que os usuários avaliem acomodações após a conclusão da estadia, fornecendo uma classificação e feedback por escrito.                             |
+| FB08    | Enviar email sobre o status da reserva                                                                                                                                       |
+| FB10    | O sistema deve possuir uma lista de favoritos para aluguel de carro, hospedagem e voos                                                                                       |
+| FB11    | O sistema deve possuir uma lista de desejos para aluguel de carro, hospedagem e voos                                                                                         |
+| FB14    | O sistema deve possuir um mapa interativo                                                                                                                                    |
+| FB15    | O sistema deve possuir uma carteira digital                                                                                                                                  |
+| FB18    | O sistema deve possuir uma moeda própria                                                                                                                                     |
+| FB19    | O usuário deve poder comprar moedas do sistema                                                                                                                               |
+| FB20    | O sistema deve oferecer uma opção de conta premium                                                                                                                           |
+| FB21    | O usuário deve poder selecionar o idioma do sistema                                                                                                                          |
+| FB29    | O sistema deve notificar sobre ofertas                                                                                                                                       |
+| FB30    | O sistema deve ter filtragem de pesquisa de hospedagens, alugueis de carros e voos                                                                                           |
+| FB32    | O usuário deve poder adicionar itens ao aluguel do carro                                                                                                                     |
+| FOBS01  | Deve ser possível criar uma conta com o google, facebook ou email pessoal.                                                                                                   |
+| FOBS09  | Deve ser possível contratar serviços de táxi.                                                                                                                                |
+| FOBS11  | Deve ser possível agendar visitas à atrações turísticas.                                                                                                                     |
+| FOBS16  | O aplicativo deve possuir sistema de carteira virtual.                                                                                                                       |
+| FOBS18  | O aplicativo deve possuir um sistema de ofertas.                                                                                                                             |
+| FOBS19  | O aplicativo deve possuir um sistema de configurações do aplicativo.                                                                                                         |
+| FB16    | O sistema deve exibir dicas sobre os locais e carros                                                                                                                         |
+| FB17    | O sistema deve mostrar notícias relacionadas ao turismo                                                                                                                      |
+| NFB06   | O sistema deve ter escalabilidade                                                                                                                                            |
+| NFOBS05 | Deve ser escalável.                                                                                                                                                          |
+
+<div style="text-align: center">
+<p> Tabela 1: Requisitos levantados e sua importância utilizando a técnica do moscow (Fonte: autores, 2023). </p>
+</div>
+
+A seguir, na tabela 2, estão listadas todas as siglas com seus respectivos significados.
+
+| Sigla | Significado                             |
+| ----- | --------------------------------------- |
 | FST   | Requisito funcional de Storytelling     |
 | NFST  | Requisito NÃO funcional de Storytelling |
 | FB    | Requisito Funcional Brainstorm          |
 | NFB   | Requisito Não Funcional Brainstorm      |
 | FOBS  | Requisito funcional da Observação       |
 | NFOBS | Requisito não funcional da Observação   |
+
+<div style="text-align: center">
+<p> Tabela 2: Tabela de siglas com seus respectivos significados. (Fonte: Autores, 2023). </p>
+</div>
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição         | Autor(es)                   | Revisor(es) |
+| ------ | ---------- | ----------------- | --------------------------- | ----------- |
+| 1.0    | 25/04/2023 | Criação da página | Lucas, Henrique e Chaydson | Pedro       |
