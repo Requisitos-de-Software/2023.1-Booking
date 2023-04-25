@@ -131,4 +131,4 @@ A seguir, na tabela 2, estão listadas todas as siglas com seus respectivos sign
 
 | Versão | Data       | Descrição          | Autor(es)                  | Revisor(es) |
 | ------- | ---------- | -------------------- | -------------------------- | ----------- |
-| 1.0     | 25/04/2023 | Criação da página | Lucas, Henrique e Chaydson | Pedro       |
+| 1.0     | 25/04/2023 | Criação da página | Lucas, Henrique e Chaydson | Pedro, Samuel       |
