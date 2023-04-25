@@ -20,12 +20,6 @@ Autor: Lucas Lopes
 <p> Figura 1: Rich Picture do aplicativo Booking (Fonte: Lucas, 2023). </p>
 </div>
 
-### Mais Informações
-
-Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.booking&hl=pt_BR&gl=US)
-
-App Store: [Clique aqui](https://apps.apple.com/br/app/ofertas-de-viagem-booking-com/id367003839)
-
 ## Cadastro Único
 
 ### Descrição do aplicativo
@@ -43,12 +37,6 @@ Autor: Gabriel Ferreira
 <div style="text-align: center">
 <p> Figura 2: Rich Picture do aplicativo Cadastro Único (Fonte: Gabriel, 2023). </p>
 </div>
-
-### Mais informações
-
-Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&hl=pt_BR&gl=US)
-
-App Store: [Clique aqui](https://apps.apple.com/br/app/cadastro-%C3%BAnico/id1605659516)
 
 ## Calendário Menstrual
 
@@ -68,12 +56,6 @@ Autor: Chaydson Ferreira
 <p> Figura 3: Rich Picture do aplicativo Calendario menstrual (Fonte: Chaydson, 2023). </p>
 </div>
 
-### Mais informações
-
-Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.popularapp.periodcalendar&hl=pt_BR&gl=US)
-
-App Store: [Clique aqui](https://apps.apple.com/br/app/calend%C3%A1rio-menstrual-ovula%C3%A7%C3%A3o/id896501514)
-
 ## Dívida Aberta
 
 ### Descrição do aplicativo
@@ -91,12 +73,6 @@ Autor: Henrique Pucci
 <div style="text-align: center">
 <p> Figura 4: Rich Picture do aplicativo Divida Aberta (Fonte: Henrique, 2023). </p>
 </div>
-
-### Mais informações
-
-Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=br.gov.serpro.pgfn.devedores&hl=pt_BR&gl=US)
-
-App Store: [Clique aqui](https://apps.apple.com/br/app/d%C3%ADvida-aberta/id1485407516)
 
 ## Localiza
 
@@ -116,12 +92,6 @@ Autor: Samuel Gomes
 <p> Figura 5: Rich Picture do aplicativo Localiza (Fonte: Samuel, 2023). </p>
 </div>
 
-### Mais informações
-
-Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.localiza.mobile&hl=pt_BR&gl=US)
-
-App Store: [Clique aqui](https://apps.apple.com/br/app/localiza-aluguel-de-carros/id429739212)
-
 ## Pinterest
 
 ### Descrição do aplicativo
@@ -140,16 +110,27 @@ Autor: Pedro Henrique
 <p> Figura 6: Rich Picture do aplicativo Pinterest (Fonte: Pedro, 2023). </p>
 </div>
 
-### Mais informações
+## Referências
 
-Google Play: [Clique aqui](https://play.google.com/store/apps/details?id=com.pinterest&hl=pt_BR&gl=US)
+BOOKING.COM B.V. Booking.com: Hotéis, casas e muito mais. Disponível em: <https://play.google.com/store/apps/details?id=com.booking&hl=pt_BR&gl=US>. Acesso em: 11 abr. 2023.
 
-App Store: [Clique aqui](https://apps.apple.com/br/app/pinterest/id429047995)
+DATAPREV. Meu CadÚnico. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&hl=pt_BR&gl=US>. Acesso em: 11 abr. 2023.
+
+GOVERNO DO BRASIL. Cadastro Único. Disponível em: <https://apps.apple.com/br/app/cadastro-%C3%BAnico/id1605659516>. Acesso em: 11 abr. 2023.
+
+POPULAR APPS. Calendário Menstrual - Calendário do ciclo menstrual. Disponível em: <https://play.google.com/store/apps/details?id=com.popularapp.periodcalendar&hl=pt_BR&gl=US>. Acesso em: 11 abr. 2023.
+
+PROCURADORIA-GERAL DA FAZENDA NACIONAL (PGFN). Dívida Aberta - PGFN. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.serpro.pgfn.devedores&hl=pt_BR&gl=US>. Acesso em: 11 abr. 2023.
+
+LOCALIZA HERTZ S.A. Localiza Hertz - Aluguel de carros e venda de seminovos. Disponível em: <https://play.google.com/store/apps/details?id=com.localiza.mobile&hl=pt_BR&gl=US>. Acesso em: 11 abr. 2023.
+
+PINTEREST, INC. Pinterest - Ideias criativas para todos os projetos da vida. Disponível em: <https://play.google.com/store/apps/details?id=com.pinterest&hl=pt_BR&gl=US>. Acesso em: 11 abr. 2023.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)       | Revisor(es) |
 | ------ | ---------- | -------------------- | --------------- | ----------- |
 | 1.0    | 11/05/2023 | Criação do documento | Samuel          | Grupo       |
-| 1.1     | 20/04/2023 | Adicionando legendas nas imagens| Lucas | Henrique       |
-| 1.2     | 23/04/2023 | Adicionando descrição para imagens| Henrique  |  Lucas     |
+| 1.1     | 20/04/2023 | Adicionando legendas nas imagems| Lucas | Henrique       |
+| 1.2    | 24/04/2023 | Padronizando referências   | Samuel    | Pedro       |
+| 1.3     | 24/04/2023 | Adicionando descrição para imagens| Henrique  |  Lucas     |
