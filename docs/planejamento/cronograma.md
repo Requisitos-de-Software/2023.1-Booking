@@ -230,4 +230,4 @@ Requisitos de Software. "Linchess" Requisitos de Software. Acessado em 16 de abr
 | 1.4     | 19/04/2023 | Adicionando Referências                                                  | Henrique  | Chaydson    |
 | 1.5     | 22/04/2023 | Colocando texto para todas as entregas e padronizando legenda das tabelas | Chaydson  | Henrique    |
 | 1.6     | 22/04/2023 | Adicionando correções ao cronograma                                     | Chaydson  | Pedro       |
-| 1.7     | 22/04/2023 | Adicionando introdução                                     | Henrique  |        |
+| 1.7     | 22/04/2023 | Adicionando introdução                                     | Henrique  |   Samuel     |

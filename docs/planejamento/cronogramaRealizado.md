@@ -35,4 +35,4 @@ Esse tópico é referente ao que o grupo efetivamente conseguiu entregar durante
 | ------- | ---------- | -------------------------------------------------- | --------- | ----------- |
 | 1.0     | 17/04/2023 | Criação do documento                             | Lucas     | Chaydson    |
 | 1.1     | 22/04/2023 | Adicionando texto e padronizando legenda da tabela | Chaydson  | Henrique    |
-| 1.2     | 22/04/2023 | Adicionando introdução | Henrique  |     |
+| 1.2     | 22/04/2023 | Adicionando introdução | Henrique  |  Samuel   |

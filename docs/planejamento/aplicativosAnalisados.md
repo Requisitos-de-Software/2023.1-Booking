@@ -8,7 +8,9 @@ Seja bem-vindo à página de aplicativos analisados! Aqui, você encontrará uma
 
 O Booking é um aplicativo de reserva de acomodações e viagens disponível para iOS e Android. Com uma interface fácil de usar, os usuários podem pesquisar e reservar hotéis, resorts, apartamentos, casas de temporada, albergues e outros tipos de acomodações em todo o mundo. Além disso, o aplicativo oferece a opção de reservar voos, aluguéis de carros e atividades turísticas. O Booking fornece avaliações de clientes e fotos dos alojamentos para ajudar os usuários a tomarem decisões informadas sobre onde ficar.
 
-### Rich Picture
+### Rich Picture:
+
+Abaixo, na Figura 1, podemos ver o Rich Picture feito, para a análise da equipe, do aplicativo Booking.
 
 Autor: Lucas Lopes
 
@@ -24,7 +26,9 @@ Autor: Lucas Lopes
 
 O Cadastro Único (CadÚnico) é um aplicativo criado pelo Governo Federal do Brasil com o objetivo de reunir informações de famílias de baixa renda e em situação de vulnerabilidade social, para que possam ter acesso a programas sociais do governo, como o Bolsa Família, por exemplo. O aplicativo permite que as famílias se cadastrem ou atualizem seus dados, informando informações pessoais, renda, moradia, escolaridade e outras informações relevantes. Além disso, o CadÚnico também é utilizado pelos governos estaduais e municipais para identificar as demandas da população mais carente e direcionar recursos e políticas públicas de forma mais eficiente. O aplicativo é uma importante ferramenta de inclusão social e combate à pobreza no Brasil.
 
-### Rich Picture
+### Rich Picture:
+
+Abaixo, na Figura 2, podemos ver o Rich Picture feito, para a análise da equipe, do aplicativo Cadastro Único.
 
 Autor: Gabriel Ferreira
 
@@ -40,7 +44,9 @@ Autor: Gabriel Ferreira
 
 O aplicativo "Calendário Menstrual - Period Tracker" é uma ferramenta para acompanhar o ciclo menstrual das mulheres. Ele permite que as usuárias registrem e monitorem o início e o fim do período menstrual, o período fértil e o momento da ovulação, bem como sintomas como dores, humor e peso. Além disso, o aplicativo oferece previsões para os próximos ciclos menstruais com base nas informações fornecidas pelas usuárias, permitindo que elas se planejem para eventos importantes ou consultas médicas. A interface é intuitiva e fácil de usar, com gráficos e tabelas que mostram o histórico menstrual e a evolução dos sintomas ao longo do tempo.
 
-### Rich Picture
+### Rich Picture:
+
+Abaixo, na Figura 3, podemos ver o Rich Picture feito, para a análise da equipe, do aplicativo Calendário Menstrual.
 
 Autor: Chaydson Ferreira
 
@@ -56,7 +62,9 @@ Autor: Chaydson Ferreira
 
 O Dívida Aberta é um aplicativo gratuito que permite aos usuários gerenciar suas dívidas de forma fácil e eficiente. Através dele, é possível acompanhar as dívidas em aberto, negociar descontos e até mesmo quitar as dívidas pelo celular. O aplicativo conecta os usuários com empresas que desejam negociar as dívidas, proporcionando um processo mais rápido e conveniente. Além disso, o Dívida Aberta oferece ferramentas para ajudar os usuários a organizar suas dívidas, criar um planejamento financeiro e monitorar seus gastos, visando uma vida financeira mais saudável e equilibrada.
 
-### Rich Picture
+### Rich Picture:
+
+Abaixo, na Figura 4, podemos ver o Rich Picture feito, para a análise da equipe, do aplicativo Dívida Aberta.
 
 Autor: Henrique Pucci
 
@@ -72,7 +80,9 @@ Autor: Henrique Pucci
 
 O Localiza é um aplicativo que permite alugar carros de forma simples e rápida. Disponível para smartphones Android e iOS, o aplicativo oferece diversas opções de veículos, desde compactos até utilitários esportivos, além de contar com um sistema de geolocalização que ajuda o usuário a encontrar a loja mais próxima. Além disso, o aplicativo permite realizar todo o processo de locação, desde a escolha do veículo até o pagamento, de forma online e sem burocracias, tornando a experiência do usuário muito mais prática e conveniente.
 
-### Rich Picture
+### Rich Picture:
+
+Abaixo, na Figura 5, podemos ver o Rich Picture feito, para a análise da equipe, do aplicativo Localiza.
 
 Autor: Samuel Gomes
 
@@ -88,7 +98,9 @@ Autor: Samuel Gomes
 
 O Pinterest é um aplicativo de rede social e plataforma de compartilhamento de imagens que permite aos usuários criar quadros personalizados para organizar e salvar imagens e vídeos de interesse. Com uma função de pesquisa poderosa e um feed personalizado, os usuários podem descobrir e compartilhar inspirações sobre diversos tópicos, desde moda até gastronomia. O aplicativo também oferece recursos adicionais, como compras e publicidade, tornando-o uma plataforma abrangente para inspiração, descoberta e marketing.
 
-### Rich Picture
+### Rich Picture:
+
+Abaixo, na Figura 6, podemos ver o Rich Picture feito, para a análise da equipe, do aplicativo Pinterest.
 
 Autor: Pedro Henrique
 
@@ -121,3 +133,4 @@ PINTEREST, INC. Pinterest - Ideias criativas para todos os projetos da vida. Dis
 | 1.0    | 11/05/2023 | Criação do documento | Samuel          | Grupo       |
 | 1.1     | 20/04/2023 | Adicionando legendas nas imagems| Lucas | Henrique       |
 | 1.2    | 24/04/2023 | Padronizando referências   | Samuel    | Pedro       |
+| 1.3     | 24/04/2023 | Adicionando descrição para imagens| Henrique  |  Lucas     |
