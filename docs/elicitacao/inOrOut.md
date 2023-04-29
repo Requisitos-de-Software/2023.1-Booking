@@ -126,6 +126,10 @@ NFOBS: Requisito não funcional da Observação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PMOJM1eJptY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Termo de consentimento
+
+[Termo de consentimento](../assets/pdfs/termo%20de%20consentimento%20(1)%20-%20Clicksign.pdf)
+
 ## Bibliografia
 
 In or Out - Grasshopper. Disponível em: [https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/priorizacao/in-or-out/](). Acesso em: 24 abr. 2023.
