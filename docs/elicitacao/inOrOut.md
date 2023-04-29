@@ -132,6 +132,7 @@ In or Out - Grasshopper. Disponível em: [https://requisitos-de-software.github.
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                       | Autor(es)              | Revisor(es) |
-| ------- | ---------- | --------------------------------- | ---------------------- | ----------- |
-| 1.0     | 24/04/2023 | Criação da página do In or Out | Pedro Henrique, Samuel | Lucas       |
+| Versão | Data       | Descrição                                   | Autor(es)              | Revisor(es) |
+| ------- | ---------- | --------------------------------------------- | ---------------------- | ----------- |
+| 1.0     | 24/04/2023 | Criação da página do In or Out             | Pedro Henrique, Samuel | Lucas       |
+| 1.1     | 28/04/2023 | Atualização da priorização com o usuário | Pedro Henrique, Samuel | Lucas       |
