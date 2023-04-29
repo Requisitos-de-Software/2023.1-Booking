@@ -15,22 +15,22 @@ Abaixo está apresentada a Tabela 1, com a lista dos Requisitos Funcionais elici
 | FOBS01  | Deve ser possível criar uma conta com o google, facebook ou email pessoal.                            | Observação | in         |
 | FOBS02  | Deve ser possível realizar pesquisas.                                                                 | Observação | in         |
 | FOBS03  | Deve possuir um sistema de fidelidade.                                                                 | Observação | out        |
-| FOBS04  | Deve possuir um sistema de informações e recomendações.                                            | Observação | out        |
+| FOBS04  | Deve possuir um sistema de informações e recomendações.                                            | Observação | in         |
 | FOBS05  | Deve ser possível filtrar as pesquisas.                                                               | Observação | in         |
 | FOBS06  | Deve ser possível agendar hospedagem.                                                                 | Observação | in         |
-| FOBS07  | Deve ser possível agendar voos.                                                                       | Observação | out        |
-| FOBS08  | Deve ser possível alugar carros.                                                                      | Observação | out        |
+| FOBS07  | Deve ser possível agendar voos.                                                                       | Observação | in         |
+| FOBS08  | Deve ser possível alugar carros.                                                                      | Observação | in         |
 | FOBS09  | Deve ser possível contratar serviços de táxi.                                                       | Observação | out        |
-| FOBS010 | O aplicativo deve ter mapa interativo.                                                                 | Observação | out        |
-| FOBS011 | Deve ser possível agendar visitas à atrações turísticas.                                          | Observação | out        |
-| FOBS012 | O aplicativo deve ter uma aba de favoritos.                                                            | Observação | out        |
+| FOBS010 | O aplicativo deve ter mapa interativo.                                                                 | Observação | in         |
+| FOBS011 | Deve ser possível agendar visitas à atrações turísticas.                                          | Observação | in         |
+| FOBS012 | O aplicativo deve ter uma aba de favoritos.                                                            | Observação | in         |
 | FOBS013 | O aplicativo deve possuir um histórico de reservas.                                                   | Observação | in         |
 | FOBS014 | O aplicativo deve possuir uma central de ajuda ao usuário.                                            | Observação | in         |
 | FOBS015 | O aplicativo deve possuir uma área administrativa da conta.                                           | Observação | in         |
 | FOBS016 | O aplicativo deve possuir sistema de carteira virtual.                                                 | Observação | out        |
 | FOBS017 | Deve ser possível entrar em contato com o responsável pelo serviço.                                 | Observação | in         |
-| FOBS018 | O aplicativo deve possuir um sistema de ofertas.                                                       | Observação | out        |
-| FOBS019 | O aplicativo deve possuir um sistema de configurações do aplicativo.                                 | Observação | in         |
+| FOBS018 | O aplicativo deve possuir um sistema de ofertas.                                                       | Observação | in         |
+| FOBS019 | O aplicativo deve possuir um sistema de configurações do aplicativo.                                 | Observação | out        |
 | FOBS020 | O aplicativo deve apresentar as informações legais sobre o uso para o usuário.                      | Observação | in         |
 | FOBS021 | O aplicativo deve permitir que o usuário cadastre uma propriedade.                                    | Observação | in         |
 | FOBS022 | O aplicativo deve permitir que o usuário saia da conta.                                               | Observação | in         |
@@ -46,8 +46,8 @@ Abaixo está apresentada a Tabela 1, com a lista dos Requisitos Funcionais elici
 | FB10    | O sistema deve possuir uma lista de favoritos para aluguel de carro, hospedagem e voos                | Brainstorm   | out        |
 | FB11    | O sistema deve possuir uma lista de desejos para aluguel de carro, hospedagem e voos                   | Brainstorm   | out        |
 | FB12    | Permitir visualização de imagens do local pelo usuário                                              | Brainstorm   | in         |
-| FB13    | Permitir visualização de imagens do carro pelo usuário                                              | Brainstorm   | out        |
-| FB14    | O sistema deve possuir um mapa interativo                                                              | Brainstorm   | out        |
+| FB13    | Permitir visualização de imagens do carro pelo usuário                                              | Brainstorm   | in         |
+| FB14    | O sistema deve possuir um mapa interativo                                                              | Brainstorm   | in         |
 | FB15    | O sistema deve possuir uma carteira digital                                                            | Brainstorm   | out        |
 | FB16    | O sistema deve exibir dicas sobre os locais e carros                                                   | Brainstorm   | out        |
 | FB17    | O sistema deve mostrar notícias relacionadas ao turismo                                               | Brainstorm   | out        |
@@ -62,17 +62,17 @@ Abaixo está apresentada a Tabela 1, com a lista dos Requisitos Funcionais elici
 | FB26    | O sistema deve ter um sistema de pontuação ligada ao usuário                                        | Brainstorm   | out        |
 | FB27    | O usuário deve poder denunciar contas                                                                 | Brainstorm   | in         |
 | FB28    | O usuário deve poder avaliar e comentar reservas                                                      | Brainstorm   | in         |
-| FB29    | O sistema deve notificar sobre ofertas                                                                 | Brainstorm   | out        |
+| FB29    | O sistema deve notificar sobre ofertas                                                                 | Brainstorm   | in         |
 | FB30    | O sistema deve ter filtragem de pesquisa de hospedagens, alugueis de carros e voos                     | Brainstorm   | in         |
-| FB31    | Deve existir uma pesquisa por comando de voz                                                           | Brainstorm   | out        |
+| FB31    | Deve existir uma pesquisa por comando de voz                                                           | Brainstorm   | in         |
 | FB32    | O usuário deve poder adicionar itens ao aluguel do carro                                              | Brainstorm   | out        |
 | FST01   | Cadastro de conta                                                                                      | Storytelling | in         |
 | FST02   | Pesquisa de acomodações                                                                              | Storytelling | in         |
 | FST03   | Reserva de acomodações                                                                               | Storytelling | in         |
 | FST04   | Cancelamento de reservas                                                                               | Storytelling | in         |
-| FST05   | Pesquisa de voos                                                                                       | Storytelling | out        |
-| FST06   | Reserva de voos                                                                                        | Storytelling | out        |
-| FST07   | Aluguel de carros                                                                                      | Storytelling | out        |
+| FST05   | Pesquisa de voos                                                                                       | Storytelling | in         |
+| FST06   | Reserva de voos                                                                                        | Storytelling | in         |
+| FST07   | Aluguel de carros                                                                                      | Storytelling | in         |
 | FST08   | Gerenciamento de reservas                                                                              | Storytelling | in         |
 | FST09   | Avaliação de acomodações                                                                           | Storytelling | in         |
 | FST10   | Histórico de reservas                                                                                 | Storytelling | in         |
@@ -86,23 +86,23 @@ Abaixo está apresentada a Tabela 2, com a lista dos Requisitos Não Funcionais 
 | Id      | Requisitos                                                            | Técnica     | Prioridade |
 | ------- | --------------------------------------------------------------------- | ------------ | ---------- |
 | NFOBS01 | A inteface deve ser responsiva.                                       | Observação | in         |
-| NFOBS02 | O sistema deve rodar nas principais plataformas mobile Android e iOS. | Observação | out        |
+| NFOBS02 | O sistema deve rodar nas principais plataformas mobile Android e iOS. | Observação | in         |
 | NFOBS03 | O sistema deve ser seguro.                                            | Observação | in         |
 | NFOBS04 | Deve possuir acessibilidade.                                          | Observação | in         |
-| NFOBS05 | Deve ser escalável.                                                  | Observação | out        |
+| NFOBS05 | Deve ser escalável.                                                  | Observação | in         |
 | NFB01   | O sistema deve ser seguro                                             | Brainstorm   | in         |
 | NFB02   | O sistema deve ter um suporte que funciona 24 horas                   | Brainstorm   | in         |
 | NFB03   | O sistema deve garantir a privacidade e segurança dos clientes       | Brainstorm   | in         |
 | NFB04   | O sistema deve ter acessibilidade para pessoas cegas                  | Brainstorm   | in         |
-| NFB05   | O sistema deve ser multiplataforma: Android e iOS                     | Brainstorm   | out        |
-| NFB06   | O sistema deve ter escalabilidade                                     | Brainstorm   | out        |
+| NFB05   | O sistema deve ser multiplataforma: Android e iOS                     | Brainstorm   | in         |
+| NFB06   | O sistema deve ter escalabilidade                                     | Brainstorm   | in         |
 | NFST01  | Usabilidade                                                           | Storytelling | in         |
 | NFST02  | Desempenho                                                            | Storytelling | in         |
 | NFST03  | Disponibilidade                                                       | Storytelling | in         |
 | NFST04  | Segurança                                                            | Storytelling | in         |
 | NFST05  | Confiabilidade                                                        | Storytelling | in         |
 | NFST06  | Compatibilidade                                                       | Storytelling | in         |
-| NFST07  | Localização                                                         | Storytelling | out        |
+| NFST07  | Localização                                                         | Storytelling | in         |
 
 <div style="text-align: center">
 <p> Tabela 2: Requisitos Não Funcionais (Fonte: Autor, 2023). </p>
@@ -121,6 +121,10 @@ FST: Requisito NÃO funcional de Storytelling
 FOBS: Requisito funcional da Observação
 
 NFOBS: Requisito não funcional da Observação
+
+## Video da entrevista
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PMOJM1eJptY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bibliografia
 
