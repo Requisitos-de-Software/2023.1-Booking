@@ -4,7 +4,7 @@ A técnica In or Out na priorização de requisitos é uma abordagem que busca i
 
 ## Metodologia
 
-Para aplicar a técnica de In or Out na priorização de requisitos funcionais e não-funcionais, os participantes Pedro Henrique Rodrigues e Samuel Gomes se conectaram remotamente através da plataforma Discord. Durante a reunião, ambos os participantes avaliaram cada um dos requisitos de forma binária, decidindo se ele deveria ser colocado como prioritário no projeto. Essa avaliação foi realizada com base em critérios pré-estabelecidos, como impacto no negócio, esforço de implementação e outros fatores relevantes. Com essa abordagem, a equipe pôde priorizar de forma eficiente os requisitos mais críticos e garantir a entrega de um produto final de qualidade.
+Para aplicar a técnica de In or Out na priorização de requisitos funcionais e não-funcionais, os participantes Pedro Henrique Rodrigues, Samuel Gomes e Yan Werlley de Freitas Paulo se conectaram remotamente através da plataforma Teams. Durante a reunião, o convidado Yan avaliou cada um dos requisitos de forma binária, decidindo se ele deveria ser colocado como prioritário no projeto. Essa avaliação foi realizada com base em critérios pré-estabelecidos, como impacto no negócio, esforço de implementação e outros fatores relevantes.
 
 ## Resultados
 
@@ -34,6 +34,7 @@ Abaixo está apresentada a Tabela 1, com a lista dos Requisitos Funcionais elici
 | FOBS020 | O aplicativo deve apresentar as informações legais sobre o uso para o usuário.                      | Observação | in         |
 | FOBS021 | O aplicativo deve permitir que o usuário cadastre uma propriedade.                                    | Observação | in         |
 | FOBS022 | O aplicativo deve permitir que o usuário saia da conta.                                               | Observação | in         |
+| FOBS023 | Deve ser possivel comprar um pacote de viagens(hospedagens, voos e etc).                               | Observação | out        |
 | FB01    | O sistema deve permitir que o usuário possa cadastrar uma conta                                       | Brainstorm   | in         |
 | FB02    | O sistema deve possuir escolha do método de pagamento                                                 | Brainstorm   | in         |
 | FB03    | Possibilitar o cadastro de reserva(s) pelo usuário                                                    | Brainstorm   | in         |
