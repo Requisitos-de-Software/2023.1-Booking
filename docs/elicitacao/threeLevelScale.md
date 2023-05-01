@@ -47,7 +47,7 @@ Conforme indicado na Tabela 1, os membros do projeto realizaram a análise das n
 
 **[Video do Three Level-Scale](https://www.youtube.com/watch?v=4dyfl386uHo)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=4dyfl386uHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4dyfl386uHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <img src="../../images/threeLevelScale/lucidchartPronto.png"/>
 <div style="text-align: center">
