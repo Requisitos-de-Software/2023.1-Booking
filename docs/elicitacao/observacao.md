@@ -74,7 +74,7 @@ NFOBS: Requisito não funcional da Observação
 
 [Termo de consentimento](../assets/pdfs/termo%20de%20consentimento%20observacaoAssinado.pdf)
 
-## Referências
+## Bibliografia
 
 Observação - Grasshopper. Disponível em: [https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/](https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/observacao/). Acesso em: 23 abr. 2023.
 
