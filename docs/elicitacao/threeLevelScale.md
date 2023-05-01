@@ -51,7 +51,7 @@ Conforme indicado na Tabela 1, os membros do projeto realizaram a análise das n
 
 <img src="../../images/threeLevelScale/lucidchartPronto.png"/>
 <div style="text-align: center">
-<p>Figura 2 - Resultados do Three Level-Scale</p>
+<p>Figura 2 - Resultados do Three Level-Scale (Fonte: Autores, 2023). </p>
 </div>
 
 ### Alta prioridade

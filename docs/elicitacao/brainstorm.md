@@ -9,7 +9,7 @@ Bem-vindo à página de brainstorm, nela está contida, o brainstorm realizado c
 | ------------- | ---------- | ------------- |
 | Teams         | 23/04/2023 | 14:00 - 14:41 |
 
-Tabela 1: Horário do Brainstorm
+Tabela 1: Horário do Brainstorm. (Fonte: Autores, 2023).
 
 | Participantes     |
 | ----------------- |
@@ -20,7 +20,7 @@ Tabela 1: Horário do Brainstorm
 | Pedro Henrique    |
 | Samuel Gomes      |
 
-Tabela 2: Participantes da Reunião de Brainstorm
+Tabela 2: Participantes da Reunião de Brainstorm. (Fonte: Autores, 2023).
 
 ## Video da Reunião
 
@@ -69,7 +69,7 @@ Os requisitos elicitados provenientes da reunião de brainstorm estão localizad
 | FB31 | Deve existir uma pesquisa por comando de voz                                                           |
 | FB32 | O usuário deve poder adicionar itens ao aluguel do carro                                              |
 
-<p style="margin-left: 30%;">Tabela 3: Requisitos Funcionais</p>
+<p style="margin-left: 30%;">Tabela 3: Requisitos Funcionais. (Fonte: Autores, 2023).</p>
 
 ### Requisitos Não Funcionais
 
@@ -82,7 +82,7 @@ Os requisitos elicitados provenientes da reunião de brainstorm estão localizad
 | NFB05 | O sistema deve ser multiplataforma: Android e iOS               |
 | NFB06 | O sistema deve ter escalabilidade                               |
 
-Tabela 4: Requisitos Não funcionais
+Tabela 4: Requisitos Não funcionais. (Fonte: Autores, 2023).
 
 Legendas
 

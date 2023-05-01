@@ -46,7 +46,7 @@ Na tabela 1, é possível encontrar os requisitos funcionais que foram obtidos a
 | FST10 | Histórico de reservas       | o aplicativo deve permitir que os usuários visualizem seu histórico de reservas anteriores, incluindo informações como datas, acomodações e voos reservados.                   |
 
 <div style="text-align: center">
-<p> Tabela 1: Requisitos funcionais elicitados pela história do Harry. </p>
+<p> Tabela 1: Requisitos funcionais elicitados pela história do Harry. (Fonte: Autores, 2023). </p>
 </div>
 
 ### Requisitos não funcionais
@@ -64,7 +64,7 @@ Na tabela 2, estão listados os requisitos não funcionais que foram identificad
 | NFST07 | Localização   | o aplicativo deve estar disponível em diferentes idiomas e adaptar-se a diferentes regiões e culturas.        |
 
 <div style="text-align: center">
-<p> Tabela 2: Requisitos não funcionais elicitados pela história do Harry. </p>
+<p> Tabela 2: Requisitos não funcionais elicitados pela história do Harry. (Fonte: Autores, 2023). </p>
 </div>
 
 ### Legendas
