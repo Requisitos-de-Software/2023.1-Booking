@@ -4,11 +4,21 @@ A técnica In or Out na priorização de requisitos é uma abordagem que busca i
 
 ## Metodologia
 
-Para aplicar a técnica de In or Out na priorização de requisitos funcionais e não-funcionais, os participantes Pedro Henrique Rodrigues, Samuel Gomes e Yan Werlley de Freitas Paulo se conectaram remotamente através da plataforma Teams. Durante a reunião, o convidado Yan avaliou cada um dos requisitos de forma binária, decidindo se ele deveria ser colocado como prioritário no projeto. Essa avaliação foi realizada com base em critérios pré-estabelecidos, como impacto no negócio, esforço de implementação e outros fatores relevantes.
+Para aplicar a técnica de In or Out na priorização de requisitos funcionais e não-funcionais, os participantes Pedro Henrique Rodrigues, Samuel Gomes e Yan Werlley de Freitas Paulo se conectaram remotamente através da plataforma Teams, conforme cronograma apresentado na tabela 1. Durante a reunião, o convidado Yan avaliou cada um dos requisitos de forma binária, decidindo se ele deveria ser colocado como prioritário no projeto. Essa avaliação foi realizada com base em critérios pré-estabelecidos, como impacto no negócio, esforço de implementação e outros fatores relevantes.
+
+### Cronograma
+
+| Local | Dia        | Horário |
+| ----- | ---------- | -------- |
+| TEAMS | 28/04/2023 | 21:00    |
+
+<div style="text-align: center">
+<p> Tabela 1: Cronograma planejado para entrevista com usuário do aplicativo (Fonte: autores, 2023). </p>
+</div>
 
 ## Resultados
 
-Abaixo está apresentada a Tabela 1, com a lista dos Requisitos Funcionais elicitados por prioridade.
+Abaixo está apresentada a Tabela 2, com a lista dos Requisitos Funcionais elicitados por prioridade.
 
 | Id      | Requisitos                                                                                             | Técnica     | Prioridade |
 | ------- | ------------------------------------------------------------------------------------------------------ | ------------ | ---------- |
@@ -79,10 +89,10 @@ Abaixo está apresentada a Tabela 1, com a lista dos Requisitos Funcionais elici
 | FST10   | Histórico de reservas                                                                                 | Storytelling | in         |
 
 <div style="text-align: center">
-<p> Tabela 1: Requisitos Funcionais (Fonte: Autor, 2023). </p>
+<p> Tabela 2: Requisitos Funcionais (Fonte: Autor, 2023). </p>
 </div>
 
-Abaixo está apresentada a Tabela 2, com a lista dos Requisitos Não Funcionais elicitados por prioridade.
+Abaixo está apresentada a Tabela 3, com a lista dos Requisitos Não Funcionais elicitados por prioridade.
 
 | Id      | Requisitos                                                            | Técnica     | Prioridade |
 | ------- | --------------------------------------------------------------------- | ------------ | ---------- |
@@ -106,7 +116,7 @@ Abaixo está apresentada a Tabela 2, com a lista dos Requisitos Não Funcionais 
 | NFST07  | Localização                                                         | Storytelling | in         |
 
 <div style="text-align: center">
-<p> Tabela 2: Requisitos Não Funcionais (Fonte: Autor, 2023). </p>
+<p> Tabela 3: Requisitos Não Funcionais (Fonte: Autor, 2023). </p>
 </div>
 
 ### Legendas

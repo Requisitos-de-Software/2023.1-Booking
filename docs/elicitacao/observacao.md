@@ -4,15 +4,25 @@ A técnica de observação para elicitar requisitos é uma abordagem que consist
 
 ## Metodologia
 
-Para realizar a técnica de elicitação de requisitos do aplicativo, Pedro Henrique Rodrigues e Chaydson Ferreira se reuniram remotamente no Teams com o usuario Yan Werlley de Freitas Paulo. Durante a reunião, o usuario navegou pelo aplicativo, explorando suas funcionalidades e recursos. Enquanto navegava, ele registrou e foi discutido os requisitos funcionais e os requisitos não funcionais.
+Para realizar a técnica de elicitação de requisitos do aplicativo, Pedro Henrique Rodrigues e Chaydson Ferreira se reuniram remotamente no Teams com o usuario Yan Werlley de Freitas Paulo, conforme cronograma apresentado na tabela 1. Durante a reunião, o usuario navegou pelo aplicativo, explorando suas funcionalidades e recursos. Enquanto navegava, ele registrou e foi discutido os requisitos funcionais e os requisitos não funcionais.
+
+### Cronograma
+
+| Local | Dia        | Horário |
+| ----- | ---------- | -------- |
+| TEAMS | 30/04/2023 | 14:00    |
+
+<div style="text-align: center">
+<p> Tabela 1: Cronograma planejado para entrevista com usuário do aplicativo (Fonte: autores, 2023). </p>
+</div>
 
 ## Resultados
 
-Utilizando a técnica de Observação, foram elicitados os requisitos funcionais na Tabela 1 e requisitos não funcionais na Tabela 2.
+Utilizando a técnica de Observação, foram elicitados os requisitos funcionais na Tabela 2 e requisitos não funcionais na Tabela 3.
 
 ## Requisitos Funcionais
 
-A Tabela 1 a seguir contém os Requisitos funcionais elicitados através da Observação.
+A Tabela 2 a seguir contém os Requisitos funcionais elicitados através da Observação.
 
 | Id      | Requisitos                                                                        |
 | ------- | --------------------------------------------------------------------------------- |
@@ -41,12 +51,12 @@ A Tabela 1 a seguir contém os Requisitos funcionais elicitados através da Obse
 | FOBS023 | Deve ser possivel comprar um pacote de viagens(hospedagens, voos e etc).          |
 
 <div style="text-align: center">
-<p> Tabela 1: Requisitos Funcionais utilizando a técnica Observação (Fonte: Autor, 2023). </p>
+<p> Tabela 2: Requisitos Funcionais utilizando a técnica Observação (Fonte: Autor, 2023). </p>
 </div>
 
 ## Requisitos Não Funcionais
 
-A Tabela 2 a seguir contém os Requisitos não funcionais elicitados através da Observação.
+A Tabela 3 a seguir contém os Requisitos não funcionais elicitados através da Observação.
 
 | Id      | Requisitos                                                            |
 | ------- | --------------------------------------------------------------------- |
@@ -57,7 +67,7 @@ A Tabela 2 a seguir contém os Requisitos não funcionais elicitados através da
 | NFOBS05 | Deve ser escalável.                                                  |
 
 <div style="text-align: center">
-<p> Tabela 2: Requisitos não Funcionais utilizando a técnica Observação (Fonte: Autor, 2023). </p>
+<p> Tabela 3: Requisitos não Funcionais utilizando a técnica Observação (Fonte: Autor, 2023). </p>
 </div>
 
 ## Legendas
