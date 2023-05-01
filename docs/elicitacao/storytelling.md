@@ -71,7 +71,7 @@ Na tabela 2, estão listados os requisitos não funcionais que foram identificad
 
 FST: Requisito funcional de Storytelling
 
-FST: Requisito NÃO funcional de Storytelling
+NFST: Requisito NÃO funcional de Storytelling
 
 ## Bibliografia
 
