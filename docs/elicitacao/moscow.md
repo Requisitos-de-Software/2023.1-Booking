@@ -33,6 +33,8 @@ Uma parente de um dos membros do projeto, Dária, foi entrevistada sobre a neces
   Your browser does not support the audio element.
 </audio>
 
+[Termo de consentimento](../assets/pdfs/consentimento_moscow_assinado.pdf)
+
 <div style="text-align: center">
 <p> Audio 1: Gravação da entrevista com a Dária para priorização dos requisitos utilizando a técnica do moscow. (Fonte: Autores, 2023). </p>
 </div>
