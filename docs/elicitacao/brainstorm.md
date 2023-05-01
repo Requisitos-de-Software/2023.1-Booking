@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Bem-vindo à página de brainstorm, nela está contida, o brainstorm realizado com a equipe na reunião do dia 23 de abril de 2023, a reunião demorou cerca de 40 minutos para se trazer ideias sobre o sistema booking.com, a partir deste foram elicitados os requisitos funcionais e não funcionais. A ideia do brainstorm é trazer ideias, sem criticas as mesmas para se gerar uma discussão em cima da mesma. A reunião para a dinâmica foi feita pela plataforma e data especificada na Tabela 1, tendo a participação dos memebros citados na Tabela 2.
+Bem-vindo à página de brainstorm, nela está contida, o brainstorm realizado com a equipe na reunião do dia 23 de abril de 2023, a reunião demorou cerca de 40 minutos para se trazer ideias sobre o sistema booking.com, a partir deste foram elicitados os requisitos funcionais e não funcionais. A ideia do brainstorm é trazer ideias, sem criticas as mesmas para se gerar uma discussão em cima da mesma. A reunião para a dinâmica foi feita pela plataforma e data especificada na Tabela 1, tendo a participação dos membros citados na Tabela 2.
 
 
 | Localização | Data       | Hora          |
