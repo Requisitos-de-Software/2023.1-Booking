@@ -57,9 +57,9 @@ Com relação à pergunta 9 - Qual principal criterio que vc usa para selecionar
 
 ## Análise dos resultados
 
-## Referências
+## Bibliografia
 
-Similarweb. Disponível em: <https://www.similarweb.com/website/booking.com/#geography>. Acesso em: 19 abr. 2023.
+Similarweb. Disponível em: [https://www.similarweb.com/website/booking.com/#geography](https://www.similarweb.com/website/booking.com/#geography). Acesso em: 19 abr. 2023.
 
 BARBOSA, Simone; SILVA, INTERAÇÃO HUMANO-COMPUTADOR. Local de publicação: Elsevier Editora Ltda, 2010.
 
@@ -69,6 +69,6 @@ Com base nos resultados obtidos através do questionário, foi possível identif
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)       | Revisor(es) |
-| ------ | ---------- | -------------------- | --------------- | ----------- |
-| 1.0    | 18/04/2023 | Criação da página Perfil de Usuário | Henrique e Pedro Henrique  | Gabriel      |
+| Versão | Data       | Descrição                             | Autor(es)                 | Revisor(es) |
+| ------- | ---------- | --------------------------------------- | ------------------------- | ----------- |
+| 1.0     | 18/04/2023 | Criação da página Perfil de Usuário | Henrique e Pedro Henrique | Gabriel     |
