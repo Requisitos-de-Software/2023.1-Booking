@@ -41,6 +41,14 @@ Para a aplicação do three-level scale, será utilizada a ténica de interpreta
 
 No fim do Three Level-Scale, obtimos o seguinte resultado encontrado na figura 2, vale ressaltar que por mais que alguns requisitos, na gravação foram colocadas como não importante e não urgente, na finalização, foram movidos estes requisitos para o terceiro quadrante, você consegue acessar esse arquivo em: [LucidChart](https://lucid.app/lucidspark/dd8cc0ff-db66-442f-bbb2-f3ff08a9e4e0/edit?viewport_loc=-2726%2C-2007%2C6405%2C3357%2C0_0&invitationId=inv_70208c40-ba78-49d5-85f0-ccbb38edb092)
 
+### Entrevista com o usuário
+
+Conforme indicado na Tabela 1, os membros do projeto realizaram a análise das necessidades dos usuários, o que permitiu definir a seguinte ordem de prioridade, conforme descrito no Vídeo 1:
+
+**[Video do Three Level-Scale](https://www.youtube.com/watch?v=4dyfl386uHo)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=4dyfl386uHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <img src="../../images/threeLevelScale/lucidchartPronto.png"/>
 <div style="text-align: center">
 <p>Figura 2 - Resultados do Three Level-Scale</p>
