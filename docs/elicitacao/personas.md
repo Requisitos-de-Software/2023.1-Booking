@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de personas e antipersonas que serão utilizados para projeto. Essas personas são pessoas ficticias, para definir nosso público-alvo, o qual foram selecionadas e baseadas no perfil de usuário[3], assim tendo base para definir as personas, a partir dos formulários de pesquisa contidos no perfil de usuário, gerando-se 3 personas e antipersona que não utilizará o sistema por características pessoais, como base no livro Interação humano computador[1].
+Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de personas e antipersonas que serão utilizados para projeto. Essas personas são pessoas ficticias, para definir nosso público-alvo, o qual foram selecionadas e baseadas no perfil de usuário[1], assim tendo base para definir as personas, a partir dos formulários de pesquisa contidos no perfil de usuário, gerando-se 3 personas e antipersona que não utilizará o sistema por características pessoais, como base no livro Interação humano computador[2].
 
 ## Personas
 
@@ -91,15 +91,16 @@ Agora, na Tabela 4, temos as características de nossa Antipersona, Augusto Bent
 <p> Tabela 4: Antipersona 1, versão 1. (Fonte: Autores. 2023).</p>
 </div>
 
+## Referência Bibliográfica
+
+[1] Perfil de Usuário. Disponível em :  https://requisitos-de-software.github.io/2023.1-Booking/elicitacao/perfilDeUsuario/ .Acesso em 23 de abril de 2023‌
+
+[2]  BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010. Acesso em 23 de abril de 2023..
+
 ## Bibliografia
 
-‌[1]  BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010. Acesso em 23 de abril de 2023.
+‌This Person Does not exist. Disponível em: https://this-person-does-not-exist.com/en. Acesso em 23 de abril de 2023.
 
-[2] This Person Does not exist. Disponível em: https://this-person-does-not-exist.com/en. Acesso em 23 de abril de 2023.
-
-[3] Perfil de Usuário. Disponível em :  https://requisitos-de-software.github.io/2023.1-Booking/elicitacao/perfilDeUsuario/ .Acesso em 23 de abril de 2023.
-
-‌
 
 ## Histórico de Versão
 
