@@ -35,16 +35,17 @@ nav:
       - 28/04/2023: atas/ata_28_04.md
   - Apresentações: 
       - Primeira Apresentação: apresentacoes/primeiraApresentacao.md
+      - Segunda Apresentação: apresentacoes/segundaApresentacao.md
+  - Pré-Rastreabilidade:
+      - Rich Picture: prePlanejamento/richPicture.md
   - Planejamento:
       - Aplicativo selecionado: planejamento/aplicativoSelecionado.md
       - Aplicativos analisados: planejamento/aplicativosAnalisados.md
       - Ferramentas: planejamento/ferramentas.md
       - Disponibilidade dos membros: planejamento/disponibilidade.md
+      - Metodologia: planejamento/metodologia.md
       - Cronograma planejado: planejamento/cronograma.md
       - Cronograma realizado: planejamento/cronogramaRealizado.md
-      - Metodologia: planejamento/metodologia.md
-  - Pré-Rastreabilidade:
-      - Rich Picture: prePlanejamento/richPicture.md
   - Elicitação:
       - Perfil de usuário: elicitacao/perfilDeUsuario.md
       - Personas: elicitacao/personas.md

@@ -214,7 +214,7 @@ A entrega final do projeto é um momento aguardado por toda a equipe, pois repre
 
 Requisitos de Software. "Grasshopper" Requisitos de Software. Acessado em 16 de abril de 2023. [https://requisitos-de-software.github.io/2022.2-Grasshopper/](https://requisitos-de-software.github.io/2022.2-Grasshopper/).
 
-Requisitos de Software. "Linchess" Requisitos de Software. Acessado em 16 de abril de 2023. [https://requisitos-de-software.github.io/2022.2-Lichess/](https://requisitos-de-software.github.io/2022.2-Lichess/).
+Requisitos de Software. "Lichess" Requisitos de Software. Acessado em 16 de abril de 2023. [https://requisitos-de-software.github.io/2022.2-Lichess/](https://requisitos-de-software.github.io/2022.2-Lichess/).
 
 ## Histórico de Versão
 
