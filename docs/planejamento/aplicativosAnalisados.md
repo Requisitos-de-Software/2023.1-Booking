@@ -112,25 +112,25 @@ Autor: Pedro Henrique
 
 ## Referências
 
-BOOKING.COM B.V. Booking.com: Hotéis, casas e muito mais. Disponível em: <https://play.google.com/store/apps/details?id=com.booking&hl=pt_BR&gl=US>. Acesso em: 11 abr. 2023.
+BOOKING.COM B.V. Booking.com: Hotéis, casas e muito mais. Disponível em: [https://play.google.com/store/apps/details?id=com.booking&amp;hl=pt_BR&amp;gl=US](https://play.google.com/store/apps/details?id=com.booking&hl=pt_BR&gl=US). Acesso em: 11 abr. 2023.
 
-DATAPREV. Meu CadÚnico. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&hl=pt_BR&gl=US>. Acesso em: 11 abr. 2023.
+DATAPREV. Meu CadÚnico. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&amp;hl=pt_BR&amp;gl=US](https://play.google.com/store/apps/details?id=br.gov.dataprev.meucadunico&hl=pt_BR&gl=US). Acesso em: 11 abr. 2023.
 
-GOVERNO DO BRASIL. Cadastro Único. Disponível em: <https://apps.apple.com/br/app/cadastro-%C3%BAnico/id1605659516>. Acesso em: 11 abr. 2023.
+GOVERNO DO BRASIL. Cadastro Único. Disponível em: [https://apps.apple.com/br/app/cadastro-%C3%BAnico/id1605659516](https://apps.apple.com/br/app/cadastro-%C3%BAnico/id1605659516). Acesso em: 11 abr. 2023.
 
-POPULAR APPS. Calendário Menstrual - Calendário do ciclo menstrual. Disponível em: <https://play.google.com/store/apps/details?id=com.popularapp.periodcalendar&hl=pt_BR&gl=US>. Acesso em: 11 abr. 2023.
+POPULAR APPS. Calendário Menstrual - Calendário do ciclo menstrual. Disponível em: [https://play.google.com/store/apps/details?id=com.popularapp.periodcalendar&amp;hl=pt_BR&amp;gl=US](https://play.google.com/store/apps/details?id=com.popularapp.periodcalendar&hl=pt_BR&gl=US). Acesso em: 11 abr. 2023.
 
-PROCURADORIA-GERAL DA FAZENDA NACIONAL (PGFN). Dívida Aberta - PGFN. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.serpro.pgfn.devedores&hl=pt_BR&gl=US>. Acesso em: 11 abr. 2023.
+PROCURADORIA-GERAL DA FAZENDA NACIONAL (PGFN). Dívida Aberta - PGFN. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.serpro.pgfn.devedores&amp;hl=pt_BR&amp;gl=US](https://play.google.com/store/apps/details?id=br.gov.serpro.pgfn.devedores&hl=pt_BR&gl=US). Acesso em: 11 abr. 2023.
 
-LOCALIZA HERTZ S.A. Localiza Hertz - Aluguel de carros e venda de seminovos. Disponível em: <https://play.google.com/store/apps/details?id=com.localiza.mobile&hl=pt_BR&gl=US>. Acesso em: 11 abr. 2023.
+LOCALIZA HERTZ S.A. Localiza Hertz - Aluguel de carros e venda de seminovos. Disponível em: [https://play.google.com/store/apps/details?id=com.localiza.mobile&amp;hl=pt_BR&amp;gl=US](https://play.google.com/store/apps/details?id=com.localiza.mobile&hl=pt_BR&gl=US). Acesso em: 11 abr. 2023.
 
-PINTEREST, INC. Pinterest - Ideias criativas para todos os projetos da vida. Disponível em: <https://play.google.com/store/apps/details?id=com.pinterest&hl=pt_BR&gl=US>. Acesso em: 11 abr. 2023.
+PINTEREST, INC. Pinterest - Ideias criativas para todos os projetos da vida. Disponível em: [https://play.google.com/store/apps/details?id=com.pinterest&amp;hl=pt_BR&amp;gl=US](https://play.google.com/store/apps/details?id=com.pinterest&hl=pt_BR&gl=US). Acesso em: 11 abr. 2023.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)       | Revisor(es) |
-| ------ | ---------- | -------------------- | --------------- | ----------- |
-| 1.0    | 11/05/2023 | Criação do documento | Samuel          | Grupo       |
-| 1.1     | 20/04/2023 | Adicionando legendas nas imagems| Lucas | Henrique       |
-| 1.2    | 24/04/2023 | Padronizando referências   | Samuel    | Pedro       |
-| 1.3     | 24/04/2023 | Adicionando descrição para imagens| Henrique  |  Lucas     |
+| Versão | Data       | Descrição                          | Autor(es) | Revisor(es)                                        |
+| ------- | ---------- | ------------------------------------ | --------- | -------------------------------------------------- |
+| 1.0     | 11/05/2023 | Criação do documento               | Samuel    | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| 1.1     | 20/04/2023 | Adicionando legendas nas imagems     | Lucas     | Henrique                                           |
+| 1.2     | 24/04/2023 | Padronizando referências            | Samuel    | Pedro                                              |
+| 1.3     | 24/04/2023 | Adicionando descrição para imagens | Henrique  | Lucas                                              |
