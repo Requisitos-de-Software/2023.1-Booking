@@ -8,6 +8,6 @@ A apresentação se encontra no [link](https://www.youtube.com/watch?v=UrGXgPkrc
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição          | Autor(es) | Revisor(es) |
-| ------- | ---------- | -------------------- | --------- | ----------- |
-| 1.0     | 17/04/2023 | Criação da Página | Grupo     | Samuel      |
+| Versão | Data       | Descrição          | Autor(es)                                           | Revisor(es) |
+| ------- | ---------- | -------------------- | --------------------------------------------------- | ----------- |
+| 1.0     | 17/04/2023 | Criação da Página | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | Samuel      |
