@@ -2,13 +2,13 @@
 
 ## Introdução
 
-Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de personas e antipersonas que serão utilizados para projeto. Essas personas são pessoas ficticias, para definir nosso público-alvo, o qual foram selecionadas e baseadas no perfil de usuário, assim tendo base para definir as personas.
+Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de personas e antipersonas que serão utilizados para projeto. Essas personas são pessoas ficticias, para definir nosso público-alvo, o qual foram selecionadas e baseadas no perfil de usuário[3], assim tendo base para definir as personas, a partir dos formulários de pesquisa contidos no perfil de usuário, gerando-se 3 personas e antipersona que não utilizará o sistema por características pessoais, como base no livro Interação humano computador[1].
 
 ## Personas
 
 Primeiramente, na Tabela 1, temos as características de nossa primeira Persona, Paulo Fernando:
 
-|                                                                                                   ![Paulo Persona](../images/personaPaulo.png)                                                                                                   |
+|                                                                                                      ![Paulo Persona](../images/personaPaulo.png)                                                                                                      |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                        **Nome:** Paulo Fernando Ribas                                                                                                        |
 |                                                                                                             **Gênero:** Masculino                                                                                                             |
@@ -23,14 +23,13 @@ Primeiramente, na Tabela 1, temos as características de nossa primeira Persona,
 |                                                      **Requisitos:** Fernando gostaria que as reservas de hoteis e pousadas fossem menos burocráticas e feitas de maneira mais eficiente                                                      |
 |                                                                      **Expectativas:** Ele acredita que o booking.com pode lhe dar as melhores promoções de hospedagem                                                                      |
 
-
 <div style="text-align: center">
 <p> Tabela 1: Persona Primária 1, versão 1. (Fonte: Autores. 2023).</p>
 </div>
 
 A seguir, na Tabela 2, temos as características de nossa segunda Persona, Daniela Stella:
 
-|                                                                                         ![Daniela Persona](../images/personaDaniela.png)                                                                                         |
+|                                                                                          ![Daniela Persona](../images/personaDaniela.png)                                                                                          |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                               **Nome:** Daniela Stella Melo                                                                                               |
 |                                                                                                        Gênero: Feminino                                                                                                        |
@@ -51,7 +50,7 @@ A seguir, na Tabela 2, temos as características de nossa segunda Persona, Danie
 
 Por último, na Tabela 3, temos as características de nossa terceira e última Persona, Sebastião Leonardo:
 
-|                                                                                                                ![Sebastião Perosona](../images/personaSebastiao.png)                                                                                                                |
+|                                                                                                              ![Sebastião Perosona](../images/personaSebastiao.png)                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                     **Nome: **Sebastião Leonardo Freitas                                                                                                                     |
 |                                                                                                                          **Gênero:** Masculino                                                                                                                          |
@@ -74,7 +73,7 @@ Por último, na Tabela 3, temos as características de nossa terceira e última 
 
 Agora, na Tabela 4, temos as características de nossa Antipersona, Augusto Bento Calebe:
 
-|                                                                                                                                                                                  ![Augusto Persona](../images/personaAugusto.png)                                                                                                                                                                                  |
+|                                                                                                                                                                                   ![Augusto Persona](../images/personaAugusto.png)                                                                                                                                                                                   |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                                                                       **Nome: **Augusto Bento Calebe Farias                                                                                                                                                                                       |
 |                                                                                                                                                                                            **Gênero:** Masculino                                                                                                                                                                                            |
@@ -87,19 +86,24 @@ Agora, na Tabela 4, temos as características de nossa Antipersona, Augusto Bent
 |                                                                         **Habilidades:** Augusto não era adepto da tecnlogia, tinha pouco contato com mesma, por não possui ensino fundamental completo, dificultava ele conseguir mexer nas novas tecnlogias, que fazia reserva de viagens e ajeitava tudo era sua esposa e filha.                                                                         |
 | **Tarefas:** No dia-a-dia de Augusto ele se tornou um homem caseiro, o qual gosta de fazer passeios no bairro da sua cidade, apesar de suas dificuldades, esses passeios costumam se das 8:00 às 9:00, depois ele vai para sua fisioterapia que acontece das 10:00 ao 13:00, e passa o restante do dia assisitindo tv algo para passar o dia, apesar de ter ganhado um recente interesse em começar a ler. |
 |                                                                                                                                                         **Expectativas:** Não tem interesses em utilizar o aplicativo devido a trauma com  viagens                                                                                                                                                         |
+
 <div style="text-align: center">
 <p> Tabela 4: Antipersona 1, versão 1. (Fonte: Autores. 2023).</p>
 </div>
 
-## Referências
+## Bibliografia
 
 ‌[1]  BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010. Acesso em 23 de abril de 2023.
+
+[2] This Person Does not exist. Disponível em: https://this-person-does-not-exist.com/en. Acesso em 23 de abril de 2023.
+
+[3] Perfil de Usuário. Disponível em :  https://requisitos-de-software.github.io/2023.1-Booking/elicitacao/perfilDeUsuario/ .Acesso em 23 de abril de 2023.
 
 ‌
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                      | Autor(es)          | Revisor(es) |
-| ------- | ---------- | -------------------------------- | ------------------ | ----------- |
-| 1.0     | 23/04/2023 | Criação da página de personas | Chaydson e Gabriel | Lucas       |
-| 1.3     | 24/04/2023 | Adicionando referênciação para as tabelas| Henrique |   Lucas     |
+| Versão | Data       | Descrição                                  | Autor(es)          | Revisor(es) |
+| ------- | ---------- | -------------------------------------------- | ------------------ | ----------- |
+| 1.0     | 23/04/2023 | Criação da página de personas             | Chaydson e Gabriel | Lucas       |
+| 1.3     | 24/04/2023 | Adicionando referênciação para as tabelas | Henrique           | Lucas       |
