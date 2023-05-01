@@ -95,7 +95,7 @@ Agora, na Tabela 4, temos as características de nossa Antipersona, Augusto Bent
 
 [1] Perfil de Usuário. Disponível em :  https://requisitos-de-software.github.io/2023.1-Booking/elicitacao/perfilDeUsuario/ .Acesso em 23 de abril de 2023‌
 
-[2]  BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010. Acesso em 23 de abril de 2023..
+[2]  BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010. Acesso em 23 de abril de 2023.
 
 ## Bibliografia
 
