@@ -135,7 +135,7 @@ NFOBS: Requisito não funcional da Observação
 
 In or Out - Grasshopper. Disponível em: [https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/priorizacao/in-or-out/](). Acesso em: 24 abr. 2023.
 
-Aprender 3: Log in to the site . Disponível em: [https://aprender3.unb.br/pluginfile.php/2523072/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf](https://aprender3.unb.br/pluginfile.php/2523072/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 1 maio. 2023.
+Wiegers, K. E., & Beatty, J. (2013). Software Requirements (3rd ed.). Microsoft Press.
 
 ‌
 
