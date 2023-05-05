@@ -51,6 +51,24 @@ A priorização é fundamental para garantir que as funcionalidades mais importa
     <p> Tabela 2 - Cronograma da entrega 2. (Fonte: Autores. 2023).</p>
 </div>
 
+## Entrega 3 - Modelagem de Requisitos - Padrão
+
+Nesta entrega, serão apresentados os cenários, o léxico, o use case e a especificação suplementar que foram definidos durante o desenvolvimento do projeto. Cada um desses elementos é fundamental para garantir que os requisitos do projeto sejam entendidos e atendidos corretamente, garantindo a qualidade e efetividade do produto final. Encontra-se na Tabela 4 o planejamento dessa entrega.
+
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento | Período de revisão     | Revisores                                          |
+| ---------------------------- | -------------------------------------------------- | --------------------------- | ------------------------ | -------------------------------------------------- |
+| Cenários                    | Lucas e Gabriel                                    | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Chaydson                                           |
+| Léxico                      | Pedro e Chaydson                                   | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Lucas                                              |
+| Use Case                     | Samuel                                             | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Henrique                                           |
+| Especificação Suplementar  | Chaydson e Henrique                                | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Pedro                                              |
+| Atas                         | Lucas                                              | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Samuel                                             |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 17/05/2023                  | 17/05/2023               | Gabriel                                            |
+| Finalização                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 18/05/2023                  | 19/05/2023               | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+
+<div style="text-align: center">
+    <p> Tabela 3 - Cronograma da entrega 3. (Fonte: Autores. 2023).</p>
+</div>
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                        | Autor(es) | Revisor(es)                                 |
