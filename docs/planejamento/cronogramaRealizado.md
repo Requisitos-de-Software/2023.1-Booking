@@ -77,3 +77,4 @@ Nesta entrega, serão apresentados os cenários, o léxico, o use case e a espec
 | 1.1     | 22/04/2023 | Adicionando texto e padronizando legenda da tabela | Chaydson  | Henrique                                    |
 | 1.2     | 22/04/2023 | Adicionando introdução                           | Henrique  | Samuel                                      |
 | 2.0     | 01/05/2023 | Adicionando entrega 2                              | Lucas     | Chaydson, Gabriel, Samuel, Henrique e Pedro |
+| 2.1     | 05/05/2023 | Adicionando entrega 3                              | Lucas     | Chaydson, Gabriel, Samuel, Henrique e Pedro |
