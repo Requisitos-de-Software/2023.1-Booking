@@ -53,19 +53,34 @@ TEMPO DE RESPOSTA
 
 ### 5. Suportabilidade
 
+- o aplicativo deve ser compatível com uma ampla variedade de dispositivos e sistemas operacionais.
+- O sistema deve rodar nas principais plataformas mobile Android e iOS.
+- O sistema deve possuir uma responsividade para os diferentes tipos de aparelhos e dispositivos.
+
 ### 6. Design
+
+- O sistema deve seguir um conjunto consistente de diretrizes visuais, incluindo a escolha de cores, tipografia, ícones e outros elementos de design pré-estabelecidos pela equipe de design.
+- O sistema deve refletir a marca da empresa ou organização que o desenvolveu. Para isso, deve-se incluir a escolha de cores e estilos de design que estejam alinhados com a marca e a identidade visual da empresa. 
 
 ### 7. Implementação
 
+- O aplicativo deve ser contruído seguindo o padrão proposto pela empresa que o desenvolve.
+- O aplicativo deve seguir o padrão de arquitetura proposto pela equipe de arquitetura presente no projeto.
+
 ### 8. Requisitos de Interface
 
+- O aplicativo deve ter uma interface intuitiva, com uma navegação clara e objetiva.
+- A interface do usuário deve ter uma hierarquia visual clara e fornecer feedback imediato para as ações realizadas pelo usuário.
+
 ### 9. Requisitos Físicos
+
+- O dispositivo Android deve estar em uma versão 4.4 ou superior.
 
 
 ## Bibliografia
 YOUNG, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003.
 
-FURPS+. [S. l.], 10 jul. 2008. Disponível em: https://qualidadebr.wordpress.com/. Acesso em: 13 maio 2023.
+FURPS+. [S. l.], 10 jul. 2008. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/#:~:text=FURPS%2B%20%C3%A9%20um%20sistema%20para,Rational%20Unified%20Process%20(RUP)%3A. Acesso em: 13 maio 2023.
 
 ## Histórico de versão
 
