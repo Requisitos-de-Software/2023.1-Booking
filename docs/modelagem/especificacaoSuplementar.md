@@ -74,7 +74,8 @@ TEMPO DE RESPOSTA
 
 ### 9. Requisitos Físicos
 
-- O dispositivo Android deve estar em uma versão 4.4 ou superior.
+- O dispositivo Android deve estar em uma versão 5.5 ou superior.
+- O dispositivo IOS deve estar em uma versão 6.x ou superior.
 
 
 ## Bibliografia
