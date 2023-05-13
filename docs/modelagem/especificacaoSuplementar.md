@@ -35,21 +35,43 @@ No nosso projeto, cada categoria do acrônimo - Funcionalidade, Usabilidade, Con
 ## Especificação Suplementar
 
 ### 1. Funcionalidades
+As funcionalidades já foram definidas nos outros documentos de modelagem.
 
 ### 2. Usabilidade
 
 #### 2.1 Facilidade de uso
+- o sistema deve ser intuitivo.
+- o sistema deve ser facilmente aprendido pelo usuário.
 
 #### 2.2 Visibilidade do status do sistema 
+- o sistema deve deve dar feedbacks ao usuário sobre o que está acontecendo enquanto ele está realizando ações no software.
+
+#### 2.3 Eficiência
+- as tarefas devem ser realizadas rapidamente e  com poucos cliques e etapas. 
+
+#### 2.4 Satisfação do usuário
+- o software proporciona uma experiência agradável, intuitiva, feedback adequado e sensação de controle sobre as ações realizadas.
+
+#### 2.5 Acessibilidade
+- o software deve ser capaz de atender pessoas com necessidades especiais de uso.
 
 ### 3. Confiabilidade
 
-#### 3.1 Garantia de Disponibilidade
+#### 3.1 Segurança dos dados
+- o sistema deve manter os dados seguros de ataques.
+- o sistema deve garantir a integridade dos dados, ou seja, não permitir que modificações não autorizadas.
 
-#### 3.2 Proteção de Dados
+#### 3.2 Privacidade dos dados
+-  O sistema deve estar em conformidade com as leis e regulamentações de privacidade de dados aplicáveis.
+
+#### 3.3 Disponibilidade
+- o sistema deve estar disponível todos os dias em todas as horas do dia.
 
 ### 4. Performance
-TEMPO DE RESPOSTA
+- o sistema não deve ter um tempo de resposta maior que 2 segundos.
+- o sistema não deve sobrecarregar o processador do dispositivo.
+- o sistema deve ser capaz de suportar um aumento de 100% na média de usuários simultâneos sem degradar o desempenho.
+-  o sistema deve ter um baixo consumo energético.
 
 ### 5. Suportabilidade
 
@@ -64,7 +86,7 @@ TEMPO DE RESPOSTA
 
 ### 7. Implementação
 
-- O aplicativo deve ser contruído seguindo o padrão proposto pela empresa que o desenvolve.
+- O aplicativo deve ser construído seguindo o padrão proposto pela empresa que o desenvolve.
 - O aplicativo deve seguir o padrão de arquitetura proposto pela equipe de arquitetura presente no projeto.
 
 ### 8. Requisitos de Interface
@@ -75,13 +97,15 @@ TEMPO DE RESPOSTA
 ### 9. Requisitos Físicos
 
 - O dispositivo Android deve estar em uma versão 5.5 ou superior.
-- O dispositivo IOS deve estar em uma versão 6.x ou superior.
+- O dispositivo iOS deve estar em uma versão 6.x ou superior.
 
 
 ## Bibliografia
 YOUNG, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003.
 
-FURPS+. [S. l.], 10 jul. 2008. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/#:~:text=FURPS%2B%20%C3%A9%20um%20sistema%20para,Rational%20Unified%20Process%20(RUP)%3A. Acesso em: 13 maio 2023.
+FURPS+. [S. l.], 10 jul. 2008. Disponível em: https://qualidadebr.wordpress.com. Acesso em: 13 maio 2023.
+
+GRASSHOPPER. Fevereiro de 2023. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/especificao-suplementar/. Acesso em: 13 maio 2023.
 
 ## Histórico de versão
 
