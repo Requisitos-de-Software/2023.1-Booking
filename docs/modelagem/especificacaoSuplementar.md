@@ -7,38 +7,38 @@ FURPS+
 
 ## Especificação Suplementar
 
-### Funcionalidades
+### 1. Funcionalidades
 
-### 1. Usabilidade
+### 2. Usabilidade
 
-#### 1.1 Facilidade de uso
+#### 2.1 Facilidade de uso
 
+#### 2.2 Visibilidade do status do sistema 
 
-#### 1.2 Visibilidade do status do sistema 
+### 3. Confiabilidade
 
-### 2. Confiabilidade
+#### 3.1 Garantia de Disponibilidade
 
-#### 2.1 Garantia de Disponibilidade
+#### 3.2 Proteção de Dados
 
-#### 2.2 Proteção de Dados
-
-
-### 3. Desempenho
+### 4. Performance
 TEMPO DE RESPOSTA
 
-### 4. Suportabilidade
+### 5. Suportabilidade
+
+### 6. Design
+
+### 7. Implementação
+
+### 8. Requisitos de Interface
+
+### 9. Requisitos Físicos
 
 
-### 5. Design
+## Bibliografia
+YOUNG, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003.
 
-
-### 6. Implementação
-
-### 7. Performance
-
-
-## Referências bibliográficas
-
+FURPS+. [S. l.], 10 jul. 2008. Disponível em: https://qualidadebr.wordpress.com/. Acesso em: 13 maio 2023.
 
 ## Histórico de versão
 
