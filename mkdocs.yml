@@ -56,3 +56,5 @@ nav:
       - Three Level-Scale: elicitacao/threeLevelScale.md
       - Moscow: elicitacao/moscow.md
       - In or Out: elicitacao/inOrOut.md
+  - Modelagem:
+      - Especificação Suplementar: modelagem/especificacaoSuplementar.md
