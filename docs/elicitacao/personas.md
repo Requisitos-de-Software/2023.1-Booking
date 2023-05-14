@@ -2,7 +2,11 @@
 
 ## Introdução
 
-Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de personas e antipersonas que serão utilizados para projeto. Essas personas são pessoas ficticias, para definir nosso público-alvo, o qual foram selecionadas e baseadas no perfil de usuário[1], assim tendo base para definir as personas, a partir dos formulários de pesquisa contidos no perfil de usuário, gerando-se 3 personas e antipersona que não utilizará o sistema por características pessoais, como base no livro Interação humano computador[2].
+Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de personas e antipersonas que serão utilizados para projeto. Essas personas são pessoas ficticias, para definir nosso público-alvo, o qual foram selecionadas e baseadas no perfil de usuário[1]. 
+
+Segundo o livro Interação Humano - Computador[2], o objetivo de usar personas é almejar uma compreensão mais profunda dos usuários finais e a criar empatia com os usuários finais, sendo assim, permitindo nos colocássemos no lugar deles, por tanto entendendo melhor suas perspectivas, experiências e necessidades. Outro grande motivo do uso de personas é para manter o foco nos usuários finais e a criar soluções que atendam às suas necessidades de maneira eficaz e centrada no usuário. Por isso, nós enxergamos como fundamental a elaboração de personas para a construção da elicitação de requisitos.
+
+Escolhemos trabalhos com 3 personas, pois de acordo com Courage e Baxter (2005), esse é o valor mínimo de personas para se construir uma boa analíse. Uma antipersona também foi criada para que tenhamos sempre em mente qual será o tipo de usuário que não utilizará o sistema.
 
 ## Personas
 
@@ -97,6 +101,10 @@ Agora, na Tabela 4, temos as características de nossa Antipersona, Augusto Bent
 
 [2]  BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010. Acesso em 23 de abril de 2023.
 
+Courage, Catherine e Baxter, Kathy (2005). Understanding Your Users: A Practical Guide to User
+Requirements Methods, Tools, and Techniques. Morgan Kaufmann Publishers Inc., San Francisco,
+CA, USA, 1st edition.
+
 ## Bibliografia
 
 ‌This Person Does not exist. Disponível em: https://this-person-does-not-exist.com/en. Acesso em 23 de abril de 2023.
@@ -108,3 +116,4 @@ Agora, na Tabela 4, temos as características de nossa Antipersona, Augusto Bent
 | ------- | ---------- | -------------------------------------------- | ------------------ | ----------- |
 | 1.0     | 23/04/2023 | Criação da página de personas             | Chaydson e Gabriel | Lucas       |
 | 1.3     | 24/04/2023 | Adicionando referênciação para as tabelas | Henrique           | Lucas       |
+| 1.4     | 10/05/2023 | Adicionando correções apontadas pós apresentação | Chaydson           | Lucas e Gabriel       |
