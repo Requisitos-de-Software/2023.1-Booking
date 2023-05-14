@@ -8,7 +8,7 @@ Storytelling pode ser usada em processos de desenvolvimento ágil, como o extrem
 
 ## Metodologia
 
-A partir das personas criadas, vamos elaborar algumas narrativas que ilustrem como esses perfis se relacionam com o uso do aplicativo. Assim, poderemos compreender melhor as expectativas e as necessidades dos usuários e criar requisitos que ofereçam uma experiência satisfatória e adequada para cada um deles.
+A partir das personas criadas, Lucas e Samuel elaboraram uma história que ilustra como esses perfis se relacionam com o uso do aplicativo. Assim, poderemos compreender melhor as expectativas e as necessidades dos usuários e criar requisitos que ofereçam uma experiência satisfatória e adequada para cada um deles.
 
 ## História
 
