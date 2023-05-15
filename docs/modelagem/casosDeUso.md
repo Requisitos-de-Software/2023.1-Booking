@@ -172,8 +172,19 @@ Foi realizado a validação do Diagrama de Casos de Uso por meio da interpretaç
 
 [Termo de consentimento](../assets/pdfs/Termo%20de%20Consentimento%20Validacao%20Diagrama%20de%20Casos%20de%20Uso%20-%20Clicksign.pdf)
 
+## Bibliografia
+
+COCKBURN, A. Escrevendo casos de uso eficazes: um guia prático para os requisitos de software. 2. ed. Porto Alegre: Bookman, 2005.
+
+JACOBSON, I.; BOOCH, G.; RUMBAUGH, J. O processo unificado explicado. São Paulo: Addison Wesley, 2000.
+
+Engenharia de Software Moderna. Casos de uso. <https://engsoftmoderna.info/cap4.html>. Acesso em: 14 maio 2023.
+
 ## Histórico de versão
 
 | Versão |    Data    |      Descrição      | Autor | Revisor |
 | :-----: | :--------: | :--------------------: | :----: | :------: |
 |   1.0   | 14/05/2023 | Criação do documento | Samuel | Henrique |
+
+
+
