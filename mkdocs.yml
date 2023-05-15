@@ -61,3 +61,4 @@ nav:
   - Modelagem:
       - Cenários: modelagem/cenarios.md
       - Especificação Suplementar: modelagem/especificacaoSuplementar.md
+      - Casos de uso: modelagem/casosDeUso.md
