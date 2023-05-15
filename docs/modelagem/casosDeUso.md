@@ -34,3 +34,17 @@ A Figura 1 mostra o diagrama de casos de uso do sistema do aplicativo Booking.
 <p> Figura 1: Diagrama de Casos de Uso (Fonte: Autor, 2023). </p>
 </div>
 
+## Especificação do diagrama de caso de uso
+
+As informações contidas nas especificações do diagrama de caso de uso são essenciais para o sucesso do processo de desenvolvimento de software. Elas apresentam detalhes sobre os atores envolvidos, suas funções e interações com o sistema, além de fornecer descrições minuciosas dos casos de uso e suas relações com outros casos de uso.
+
+### Legenda
+
+UC: Use Case (caso de uso)
+
+FST: Requisito funcional de Storytelling
+
+FOBS: Requisito funcional da Observação
+
+FB - Requisito Funcional Brainstorm
+
