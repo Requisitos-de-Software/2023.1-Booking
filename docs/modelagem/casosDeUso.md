@@ -143,3 +143,22 @@ As especificações para o caso de uso "Alugar carros" são apresentadas na Tabe
 <p> Tabela 5: especificações para o caso de uso "Alugar carros" (Fonte: Autor, 2023). </p>
 </div>
 
+### UC06 - Agendar voos
+
+As especificações para o caso de uso "Agendar voos" são apresentadas na Tabela 6.
+
+| UC06                            | Agendar voos                                                                                                                                                                                                                                                                    |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Atores**                | Hóspede e Companhia aérea                                                                                                                                                                                                                                                     |
+| **Requisitos**            | O Hóspede deve estar logado no sistema e deve haver pelo menos um voo disponível para reserva.                                                                                                                                                                                |
+| **Condição de entrada** | O Hóspede seleciona um voo disponível para reserva.                                                                                                                                                                                                                           |
+| **Fluxo principal**       | 1. O Hóspede seleciona um voo disponível que atenda às suas necessidades.<br />2. O sistema exibe um formulário de reserva de voo para o Hóspede preencher.<br />3. O Hóspede confirma a reserva de voo.<br />4. O sistema notifica a Companhia Aérea sobre a reserva. |
+| **Fluxos alternativos**   | 2a. Se o voo selecionado já não estiver disponível, o sistema exibe uma mensagem informando que o voo já foi reservado por outro hóspede.                                                                                                                                  |
+| **Fluxos de exceção**   | 3a. Se o Hóspede não confirma a reserva, a reserva não é efetivada e o sistema exibe uma mensagem de confirmação.                                                                                                                                                         |
+| **Pós-condição**       | O Hóspede tem uma reserva de voo confirmada na data selecionada.                                                                                                                                                                                                               |
+| **Rastreabilidade**       | [FOBS07](../elicitacao/observacao.md)                                                                                                                                                                                                                                              |
+
+<div style="text-align: center">
+<p> Tabela 6: especificações para o caso de uso "Agendar voos" (Fonte: Autor, 2023). </p>
+</div>
+
