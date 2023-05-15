@@ -183,9 +183,118 @@ A apresentação dos léxicos seguirá o modelo exemplificado na tabela 1.
 
 </center>
 
+<center style="max-width: 500px; margin: auto; align-items: center;">
+
+### L11 - Busca
+
+| L11                       | Busca                                                                                                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Autor**           | Samuel Gomes                                                                                                                                                                    |
+| **Classificação** | Verbo                                                                                                                                                                           |
+| **Sinônimos**      | Procurar, pesquisar, investigar                                                                                                                                                 |
+| **Noção**         | Ação de buscar por acomodações ou atividades disponíveis no aplicativo.                                                                                                    |
+| **Impacto**         | A busca é a primeira etapa para que o usuário possa encontrar e reservar acomodações ou atividades de interesse, portanto, é fundamental para a usabilidade do aplicativo. |
+| **Rastro**          | [FOBS02](../elicitacao/observacao.md)                                                                                                                                              |
+
+<div style="text-align: center">
+    <p> Tabela 12: Léxico 11. (Fonte: Autores. 2023).</p>
+</div>
+
+### L12 - Cancelamento
+
+| L12                       | Cancelamento                                                                                                                                                           |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Autor**           | Samuel Gomes                                                                                                                                                           |
+| **Classificação** | Verbo                                                                                                                                                                  |
+| **Sinônimos**      | Desmarcar, anular, rescindir                                                                                                                                           |
+| **Noção**         | Ação de cancelar uma reserva previamente feita.                                                                                                                      |
+| **Impacto**         | O cancelamento pode ter impacto financeiro na plataforma e também afetar a experiência do usuário, sendo importante que o processo seja claro e fácil de realizar. |
+| **Rastro**          | [FB04](../elicitacao/brainstorm.md)                                                                                                                                       |
+
+<div style="text-align: center">
+    <p> Tabela 13: Léxico 12. (Fonte: Autores. 2023).</p>
+</div>
+
+### L13 - Pagamento
+
+| L13                       | Pagamento                                                                                                                                                  |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ator**            | Samuel Gomes                                                                                                                                               |
+| **Classificação** | Verbo                                                                                                                                                      |
+| **Sinônimos**      | Quitar, pagar, liquidar                                                                                                                                    |
+| **Noção**         | Ação de realizar o pagamento pela acomodação ou atividade reservada.                                                                                   |
+| **Impacto**         | O pagamento é uma etapa importante da reserva e deve ser seguro e fácil para o usuário, a fim de evitar problemas e garantir a satisfação do cliente. |
+| **Rastro**          | [FB02](../elicitacao/brainstorm.md)                                                                                                                           |
+
+<div style="text-align: center">
+    <p> Tabela 14: Léxico 13. (Fonte: Autores. 2023).</p>
+</div>
+
+### L14 - Mapa
+
+| L14                       | Mapa                                                                                                                                                                        |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ator**            | Samuel Gomes                                                                                                                                                                |
+| **Classificação** | Objeto                                                                                                                                                                      |
+| **Sinônimos**      | Localizador, guia, roteiro                                                                                                                                                  |
+| **Noção**         | Ferramenta de visualização das acomodações, atividades e atrações disponíveis em determinada região.                                                                |
+| **Impacto**         | O mapa é importante para ajudar os usuários a localizarem as opções disponíveis e também para oferecer uma visão geral da oferta disponível em determinada região. |
+| **Rastro**          | [FOBS010](../elicitacao/observacao.md)                                                                                                                                         |
+
+<div style="text-align: center">
+    <p> Tabela 15: Léxico 14. (Fonte: Autores. 2023).</p>
+</div>
+
+### L15 - Ajuda
+
+| L15                       | Ajuda                                                                                                                                                                       |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ator**            | Samuel Gomes                                                                                                                                                                |
+| **Classificação** | Objeto                                                                                                                                                                      |
+| **Sinônimos**      | Suporte, assistência, orientação                                                                                                                                         |
+| **Noção**         | Seção de ajuda no aplicativo, onde os usuários podem encontrar respostas para suas dúvidas e soluções para problemas técnicos.                                       |
+| **Impacto**         | A seção de ajuda é fundamental para garantir que os usuários possam utilizar o aplicativo de forma eficiente e também para reduzir a sobrecarga de suporte ao cliente. |
+| **Rastro**          | [FOBS014](../elicitacao/observacao.md)                                                                                                                                         |
+
+<div style="text-align: center">
+    <p> Tabela 16: Léxico 15. (Fonte: Autores. 2023).</p>
+</div>
+
+### L16 - Aluguel de carros
+
+| L16                       | Aluguel de carros                                                                                                                                                                                         |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ator**            | Samuel Gomes                                                                                                                                                                                              |
+| **Classificação** | Objeto                                                                                                                                                                                                    |
+| **Sinônimos**      | Locação de veículos                                                                                                                                                                                    |
+| **Noção**         | Opção de aluguel de carros no aplicativo, onde os usuários podem encontrar e reservar veículos disponíveis em diferentes locais e datas.                                                             |
+| **Impacto**         | O aluguel de carros é uma opção importante para muitos usuários que precisam se deslocar durante suas viagens e sua inclusão no aplicativo pode aumentar a atratividade e a utilidade da plataforma. |
+| **Rastro**          | [FOBS08](../elicitacao/observacao.md)                                                                                                                                                                        |
+
+<div style="text-align: center">
+    <p> Tabela 17: Léxico 16. (Fonte: Autores. 2023).</p>
+</div>
+
+### L17 - Agendamento de voos
+
+| L17                       | Agendamento de voos                                                                                                                                                                                                                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ator**            | Samuel Gomes                                                                                                                                                                                                                                                                                                  |
+| **Classificação** | Objeto                                                                                                                                                                                                                                                                                                        |
+| **Sinônimos**      | Reserva de voos, marcação de passagens aéreas, agendamento de viagens aéreas                                                                                                                                                                                                                              |
+| **Noção**         | Opção de agendamento de voos no aplicativo, onde os usuários podem encontrar e reservar passagens aéreas para diferentes destinos e datas.                                                                                                                                                                |
+| **Impacto**         | O agendamento de voos é uma das principais opções de viagem para muitos usuários e sua inclusão no aplicativo pode torná-lo mais completo e útil para seus usuários. Além disso, pode aumentar o número de reservas de outros serviços relacionados, como aluguel de carros e reservas de hotéis. |
+| **Rastro**          | [FOBS07](../elicitacao/observacao.md)                                                                                                                                                                                                                                                                            |
+
+<div style="text-align: center">
+    <p> Tabela 18: Léxico 17. (Fonte: Autores. 2023).</p>
+</div>
+
+</center>
+
 ## Conclusão
 
-...
+Foi apresentado os lexicos que descrevem os principais símbolos e conceitos relacionados ao aplicativo booking. Esses lexicos servem para facilitar a comunicação entre os envolvidos no projeto e para documentar as características e funcionalidades do software. Cada lexico possui uma noção, que explica o que ele significa no domínio da aplicação, um impacto, que indica como ele afeta ou é afetado pela aplicação, um sinônimo, que é outra forma de se referir ao mesmo símbolo, uma classificação, que indica se ele é um objeto, um verbo ou um estado, e um rastro, que mostra a origem do lexico.
 
 ## Bibliografia
 
