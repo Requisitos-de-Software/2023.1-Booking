@@ -172,3 +172,8 @@ Foi realizado a validação do Diagrama de Casos de Uso por meio da interpretaç
 
 [Termo de consentimento](../assets/pdfs/Termo%20de%20Consentimento%20Validacao%20Diagrama%20de%20Casos%20de%20Uso%20-%20Clicksign.pdf)
 
+## Histórico de versão
+
+| Versão |    Data    |      Descrição      | Autor | Revisor |
+| :-----: | :--------: | :--------------------: | :----: | :------: |
+|   1.0   | 14/05/2023 | Criação do documento | Samuel | Henrique |
