@@ -162,3 +162,13 @@ As especificações para o caso de uso "Agendar voos" são apresentadas na Tabel
 <p> Tabela 6: especificações para o caso de uso "Agendar voos" (Fonte: Autor, 2023). </p>
 </div>
 
+## Validação do Diagrama de Casos de Uso com o cliente
+
+Foi realizado a validação do Diagrama de Casos de Uso por meio da interpretação de um cliente por um convidado externo, sem vínculo com o grupo. A validação completa pode ser encontrada no video abaixo:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnYu-vbHGOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Termo de consentimento
+
+[Termo de consentimento](../assets/pdfs/Termo%20de%20Consentimento%20Validacao%20Diagrama%20de%20Casos%20de%20Uso%20-%20Clicksign.pdf)
+
