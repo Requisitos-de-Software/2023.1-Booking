@@ -89,7 +89,7 @@ Nesta entrega, serão apresentados os cenários, o léxico, o use case e a espec
 | Tarefa                       | Autor(es)                                          | Período de desenvolvimento | Período de revisão     | Revisores                                          |
 | ---------------------------- | -------------------------------------------------- | --------------------------- | ------------------------ | -------------------------------------------------- |
 | Cenários                    | Lucas e Gabriel                                    | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Chaydson                                           |
-| Léxico                      | Pedro                                              | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Lucas                                              |
+| Léxico                      | Pedro e Samuel                                             | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Lucas                                              |
 | Use Case                     | Samuel                                             | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Henrique                                           |
 | Especificação Suplementar  | Chaydson e Henrique                                | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Pedro                                              |
 | Atas                         | Lucas                                              | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Samuel                                             |
