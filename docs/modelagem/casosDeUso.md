@@ -24,3 +24,13 @@ A Tabela 1 fornece uma visão geral dos componentes de um diagrama de caso de us
 <p> Tabela 1: Componentes do Diagrama de Casos de Uso (Fonte: Autor, 2023). </p>
 </div>
 
+## Digrama de Casos de Uso
+
+A Figura 1 mostra o diagrama de casos de uso do sistema do aplicativo Booking.
+
+![Texto alternativo da imagem](../images/casosDeUso/diagrama.svg)
+
+<div style="text-align: center">
+<p> Figura 1: Diagrama de Casos de Uso (Fonte: Autor, 2023). </p>
+</div>
+
