@@ -86,3 +86,22 @@ As especificações para o caso de uso "Realizar pesquisa" são apresentadas na 
 <p> Tabela 2: especificações para o caso de uso "Realizar pesquisa" (Fonte: Autor, 2023). </p>
 </div>
 
+### UC03 - Reservar acomodação
+
+As especificações para o caso de uso "Reservar acomodação" são apresentadas na Tabela 3.
+
+| UC03                            | Reservar acomodação                                                                                                                                                                                                                                                                  |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ator**                  | Hóspede                                                                                                                                                                                                                                                                               |
+| **Requisitos**            | O Hóspede deve estar logado no sistema e haver pelo menos uma acomodação disponível para as datas selecionadas.                                                                                                                                                                    |
+| **Condição de entrada** | O Hóspede seleciona uma acomodação disponível para reserva.                                                                                                                                                                                                                        |
+| **Fluxo principal**       | 1. O Hóspede seleciona uma acomodação disponível que atenda às suas necessidades.<br />2. O sistema exibe um formulário de reserva para o Hóspede preencher.<br />3. O Hóspede confirma a reserva.<br />4. O sistema notifica o Proprietário da acomodação sobre a reserva. |
+| **Fluxos alternativos**   | 2a. Se a acomodação selecionada já não estiver disponível, o sistema exibe uma mensagem informando que a acomodação já foi reservada por outro hóspede.                                                                                                                       |
+| **Fluxos de exceção**   | 3a. Se o Hóspede não confirma a reserva, a reserva não é efetivada e o sistema exibe uma mensagem de confirmação.                                                                                                                                                                |
+| **Pós-condição**       | O Hóspede tem uma reserva confirmada na acomodação selecionada.                                                                                                                                                                                                                     |
+| **Rastreabilidade**       | [FST03](../elicitacao/storytelling.md)                                                                                                                                                                                                                                                    |
+
+<div style="text-align: center">
+<p> Tabela 3: especificações para o caso de uso "Reservar acomodação" (Fonte: Autor, 2023). </p>
+</div>
+
