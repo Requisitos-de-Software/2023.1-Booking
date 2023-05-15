@@ -58,4 +58,4 @@ nav:
       - In or Out: elicitacao/inOrOut.md
   - Modelagem:
       - Especificação Suplementar: modelagem/especificacaoSuplementar.md
-      - Casos de uso: modelagem/casosDeUso
+      - Casos de uso: modelagem/casosDeUso.md
