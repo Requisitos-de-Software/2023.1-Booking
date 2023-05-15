@@ -67,3 +67,22 @@ As especificações para o caso de uso "criar conta" são apresentadas na Tabela
 <p> Tabela 1: especificações para o caso de uso "criar conta" (Fonte: Autor, 2023). </p>
 </div>
 
+### UC02 - Realizar pesquisa
+
+As especificações para o caso de uso "Realizar pesquisa" são apresentadas na Tabela 2.
+
+| UC02                            | Realizar pesquisa                                                                                                                                                                                                                                                                            |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ator**                  | Hóspede                                                                                                                                                                                                                                                                                     |
+| **Requisitos**            | O sistema deve possuir a funcionalidade de pesquisa de acomodações                                                                                                                                                                                                                         |
+| **Condição de entrada** | O Hóspede acessa a página de pesquisa do sistema.                                                                                                                                                                                                                                          |
+| **Fluxo principal**       | 1. O Hóspede insere os critérios de pesquisa, como localização, data de check-in, data de check-out e número de hóspedes.<br />2. O sistema busca por acomodações que atendam aos critérios de pesquisa do Hóspede.<br />3. O sistema exibe os resultados da pesquisa ao Hóspede. |
+| **Fluxos alternativos**   | 3a. Se não houver acomodações disponíveis que atendam aos critérios de pesquisa, o sistema exibe uma mensagem informando que não há acomodações disponíveis para as datas selecionadas.                                                                                            |
+| **Fluxos de exceção**   | Nenhum                                                                                                                                                                                                                                                                                       |
+| **Pós-condição**       | O Hóspede visualiza os resultados da pesquisa de acomodações disponíveis.                                                                                                                                                                                                                |
+| **Rastreabilidade**       | [FOBS02](../elicitacao/observacao.md)                                                                                                                                                                                                                                                           |
+
+<div style="text-align: center">
+<p> Tabela 2: especificações para o caso de uso "Realizar pesquisa" (Fonte: Autor, 2023). </p>
+</div>
+
