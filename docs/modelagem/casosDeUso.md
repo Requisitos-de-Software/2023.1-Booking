@@ -124,3 +124,22 @@ As especificações para o caso de uso "Realizar pagamento" são apresentadas na
 <p> Tabela 4: especificações para o caso de uso "Realizar pagamento" (Fonte: Autor, 2023). </p>
 </div>
 
+### UC05 - Alugar carros
+
+As especificações para o caso de uso "Alugar carros" são apresentadas na Tabela 5.
+
+| UC05                            | Alugar carros                                                                                                                                                                                                                                                       |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ator**                  | Hóspede e Locadora de Carros                                                                                                                                                                                                                                       |
+| **Requisitos**            | O Hóspede deve estar logado no sistema e deve haver pelo menos um carro disponível para aluguel.                                                                                                                                                                  |
+| **Condição de entrada** | O Hóspede seleciona um carro disponível para aluguel.                                                                                                                                                                                                             |
+| **Fluxo principal**       | 1. O Hóspede seleciona um carro disponível que atenda às suas necessidades.<br />2. O sistema exibe um formulário de aluguel para o Hóspede preencher.<br />3. O Hóspede confirma o aluguel.<br />4. O sistema notifica a Locadora de Carros sobre o aluguel. |
+| **Fluxos alternativos**   | 2a. Se o carro selecionado já não estiver disponível, o sistema exibe uma mensagem informando que o carro já foi alugado por outro hóspede.                                                                                                                    |
+| **Fluxos de exceção**   | 3a. Se o Hóspede não confirma o aluguel, o aluguel não é efetivado e o sistema exibe uma mensagem de confirmação.                                                                                                                                             |
+| **Pós-condição**       | O Hóspede tem um aluguel de carro confirmado na data selecionada.                                                                                                                                                                                                  |
+| **Rastreabilidade**       | [FST07](../elicitacao/storytelling.md)                                                                                                                                                                                                                                 |
+
+<div style="text-align: center">
+<p> Tabela 5: especificações para o caso de uso "Alugar carros" (Fonte: Autor, 2023). </p>
+</div>
+
