@@ -48,3 +48,22 @@ FOBS: Requisito funcional da Observação
 
 FB - Requisito Funcional Brainstorm
 
+### UC01 - Criar conta
+
+As especificações para o caso de uso "criar conta" são apresentadas na Tabela 1.
+
+| UC01                            | Criar conta                                                                                                                                                                                                                                        |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ator**                  | Hóspede                                                                                                                                                                                                                                           |
+| **Requisitos**            | O Hóspede deve fornecer informações pessoais e de contato válidas.                                                                                                                                                                             |
+| **Condição de entrada** | O Hóspede acessa a página de registro do sistema.                                                                                                                                                                                                |
+| **Fluxo principal**       | 1. O Hóspede preenche o formulário de registro com suas informações pessoais e de contato.<br />2. O Hóspede confirma as informações e envia o formulário.<br />3. O sistema verifica as informações e cria uma conta para o Hóspede. |
+| **Fluxos alternativos**   | 3a. Se as informações fornecidas pelo Hóspede são inválidas ou incompletas, o sistema exibe uma mensagem de erro e solicita que o Hóspede corrija o formulário.                                                                             |
+| **Fluxos de exceção**   | Nenhum.                                                                                                                                                                                                                                            |
+| **Pós-condição**       | O Hóspede tem uma conta registrada no sistema.                                                                                                                                                                                                    |
+| **Rastreabilidade**       | [FST01](../elicitacao/storytelling.md)                                                                                                                                                                                                                |
+
+<div style="text-align: center">
+<p> Tabela 1: especificações para o caso de uso "criar conta" (Fonte: Autor, 2023). </p>
+</div>
+
