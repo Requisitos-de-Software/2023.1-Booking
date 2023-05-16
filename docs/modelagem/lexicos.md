@@ -6,9 +6,9 @@ O léxico desempenha um papel fundamental na compreensão e definição precisa 
 
 ## Metodologia
 
-A partir da elicitação e priorização dos requisitos, bem como do uso do aplicativo Booking, foram identificados os léxicos. Será adotado o princípio do vocabulário mínimo, que busca descrever de forma clara e concisa, juntamente com o princípio circular, que incentiva a referência a outros léxicos na descrição.
+A partir da identificação e priorização dos requisitos, juntamente com o uso do aplicativo Booking, foram elicitados léxicos que podem ser observados nas Tabelas 2 a 18. Na descrição desses léxicos, adotaremos o princípio do vocabulário mínimo, buscando uma descrição clara e concisa. Além disso, seguiremos o princípio circular, incentivando a referência a outros léxicos na descrição. 
 
-A apresentação dos léxicos seguirá o modelo exemplificado na tabela 1.
+O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tabela 1.
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
