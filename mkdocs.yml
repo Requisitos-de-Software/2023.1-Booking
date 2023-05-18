@@ -60,6 +60,6 @@ nav:
       - In or Out: elicitacao/inOrOut.md
   - Modelagem:
       - Cenários: modelagem/cenarios.md
-      - Especificação Suplementar: modelagem/especificacaoSuplementar.md
       - Léxicos: modelagem/lexicos.md
       - Casos de uso: modelagem/casosDeUso.md
+      - Especificação Suplementar: modelagem/especificacaoSuplementar.md
