@@ -55,9 +55,21 @@ Com relação à pergunta 9, mostrada na Figura 9 - Qual principal criterio que 
 <img src="../../assets/graficosQuestionario/criterioEscolhaHotel.png"/>
 <p style="text-align: center">Figura 9 - Grafico de setores da pergunta 9.(Fonte: Autores. 2023).</p>
 
+Com base em uma consulta à pesquisa realizada pelo SimilarWeb, conforme ilustrado na Figura 10, é possível observar que 49,92% do público é composto por mulheres, enquanto 50,08% são homens. Além disso, a faixa etária predominante do público está entre 25 e 34 anos.
+
+<img src="../../assets/similarWeb/graficoIdadeGenero.png"/>
+<p style="text-align: center">Figura 10 - Graficos de idade e gênero.(Fonte: SimilarWeb. 2017).</p>
+
+Baseado em uma consulta à pesquisa realizada pelo SimilarWeb, conforme ilustrado na Figura 11, é possível observar que o Booking.com recebe a maior parte do seu tráfego de mídia social do Facebook, seguido pelo YouTube e WhatsApp Webapp (Desktop).
+
+<img src="../../assets/similarWeb/redesSociais.png"/>
+<p style="text-align: center">Figura 11 - Grafico de Tráfego de mídia social para booking.(Fonte: SimilarWeb. 2017).</p>
+
+
+
 ## Conclusão
 
-Com base nos resultados obtidos através do questionário, foi possível identificar o perfil dos usuários do aplicativo, que inclui tanto pessoas com menos de 18 anos quanto pessoas com 49 anos, com uma proporção quase igual de usuários homens e mulheres. A maioria dos usuários adultos se encontra na faixa etária entre 25 e 34 anos e são, em sua maioria, solteiros. Analisando o gráfico de frequência de utilização, é possível observar que a maioria dos usuários é composta por novatos em relação à experiência de uso do aplicativo. Esses usuários utilizam o aplicativo principalmente para reservar hotéis e dão prioridade, em sua maioria, à localização da reserva.
+Com base nos resultados obtidos através do questionário, foi possível identificar o perfil dos usuários do aplicativo, que inclui tanto pessoas com menos de 18 anos quanto pessoas com 49 anos, com uma proporção quase igual de usuários homens e mulheres. A maioria dos usuários adultos se encontra na faixa etária entre 25 e 34 anos e são, em sua maioria, solteiros. Analisando o gráfico de frequência de utilização, é possível observar que a maioria dos usuários possui um nível intermediário de experiência em relação ao uso do aplicativo. Esses usuários têm alguma familiaridade com a tecnologia e são capazes de explorar as funcionalidades básicas do aplicativo. Eles utilizam o aplicativo principalmente para reservar hotéis e dão prioridade, em sua maioria, à localização da reserva.
 
 ## Bibliografia
 
@@ -70,3 +82,4 @@ BARBOSA, Simone; SILVA, INTERAÇÃO HUMANO-COMPUTADOR. Local de publicação: El
 | Versão | Data       | Descrição                             | Autor(es)                 | Revisor(es) |
 | ------- | ---------- | --------------------------------------- | ------------------------- | ----------- |
 | 1.0     | 18/04/2023 | Criação da página Perfil de Usuário | Henrique e Pedro Henrique | Gabriel     |
+| 1.1     | 10/05/2023 | Adicionando a tecnofilia do usuario | Henrique e Pedro Henrique | Samuel     |

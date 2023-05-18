@@ -33,6 +33,7 @@ nav:
       - 07/04/2023: atas/ata_07_04.md
       - 21/04/2023: atas/ata_21_04.md
       - 28/04/2023: atas/ata_28_04.md
+      - 05/05/2023: atas/ata_05_05.md
   - Apresentações: 
       - Primeira Apresentação: apresentacoes/primeiraApresentacao.md
       - Segunda Apresentação: apresentacoes/segundaApresentacao.md
@@ -44,8 +45,9 @@ nav:
       - Ferramentas: planejamento/ferramentas.md
       - Disponibilidade dos membros: planejamento/disponibilidade.md
       - Metodologia: planejamento/metodologia.md
-      - Cronograma planejado: planejamento/cronograma.md
-      - Cronograma realizado: planejamento/cronogramaRealizado.md
+      - Cronogramas:
+        - Cronograma planejado: planejamento/cronograma.md
+        - Cronograma realizado: planejamento/cronogramaRealizado.md
   - Elicitação:
       - Perfil de usuário: elicitacao/perfilDeUsuario.md
       - Personas: elicitacao/personas.md
@@ -57,5 +59,7 @@ nav:
       - Moscow: elicitacao/moscow.md
       - In or Out: elicitacao/inOrOut.md
   - Modelagem:
+      - Cenários: modelagem/cenarios.md
       - Especificação Suplementar: modelagem/especificacaoSuplementar.md
       - Léxicos: modelagem/lexicos.md
+      - Casos de uso: modelagem/casosDeUso.md
