@@ -6,7 +6,7 @@ O léxico desempenha um papel fundamental na compreensão e definição precisa 
 
 ## Metodologia
 
-A partir da identificação e priorização dos requisitos, juntamente com o uso do aplicativo Booking, foram elicitados léxicos que podem ser observados nas Tabelas 2 a 18. Na descrição desses léxicos, adotaremos o princípio do vocabulário mínimo, buscando uma descrição clara e concisa. Além disso, seguiremos o princípio circular, incentivando a referência a outros léxicos na descrição. 
+A partir da identificação e priorização dos requisitos, juntamente com o uso do aplicativo Booking, foram elicitados léxicos que podem ser observados nas Tabelas 2 a 18. Na descrição desses léxicos, adotaremos o princípio do vocabulário mínimo, buscando uma descrição clara e concisa. Além disso, seguiremos o princípio circular, incentivando a referência a outros léxicos na descrição.
 
 O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tabela 1.
 
@@ -114,7 +114,7 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Classificação** | _Objeto_                                                                                                                                               |
 | **Sinônimos**      | _Indicação, orientação, conselho_                                                                                                                  |
 | **Noção**         | São informações diversas para o usuário, desde como usar o aplicativo até a quais lugares são recomendados para visitar e realizar uma hospedagem. |
-| **Impacto**         | _O usuário é informado sobre funcionalidades do aplicativo e sobre lugares novos para poder visitar.                                                   |
+| **Impacto**         | O usuário é informado sobre funcionalidades do aplicativo e sobre lugares novos para poder visitar.                                                    |
 | **Rastro**          | [OBS016](../elicitacao/brainstorm.md)                                                                                                                       |
 
 <div style="text-align: center">
