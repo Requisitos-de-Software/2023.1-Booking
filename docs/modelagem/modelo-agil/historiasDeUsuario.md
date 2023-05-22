@@ -8,11 +8,11 @@ Foi desenvolvido um modelo comum para criar as narrativas dos usuários, conform
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-| **ID**             | _Nome_                                     |
-| :------------------------ | :------------------------------------------------------- |
-| **Descrição**           | _Título_                                     |
-| **Critérios de Aceitação** | _Eu, como ______, gostaria..._ |
-| **Critérios de Aceitação**      | _Deve ser possivel..._                    |
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
 
 </center>
 
@@ -26,14 +26,211 @@ Para validar as histórias de usuário desenvolvidas pela equipe da disciplina d
 
 ## Histórias de Usuário
 
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
+### US X - 
+
+| **ID**                        | _Nome_                         |
+| :---------------------------------- | :------------------------------- |
+| **Título**                   | Cadastro de Usuário             |
+| **Descrição**               | _Eu, como ______, gostaria..._ |
+| **Critérios de Aceitação** | _Deve ser possivel..._         |
+
+</center>
+
+<div style="text-align: center">
+    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+</div>
+
 ## Bibliografia
 
-Histórias de Usuário - MEI. Disponível em: <https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/>. Acesso em: 20 maio. 2023.
+Histórias de Usuário - MEI. Disponível em: [https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/](https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/UserCases/). Acesso em: 20 maio. 2023.
 
 ‌SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. 46 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição      | Autor | Revisor |
-| :-----: | :--------: | :--------------------: | :----: | :------: |
+| Versão |    Data    |      Descrição      |      Autor      | Revisor |
+| :-----: | :--------: | :--------------------: | :-------------: | :-----: |
 |   1.0   | 23/05/2023 | Criação do documento | Pedro e Gabriel | Samuel |
