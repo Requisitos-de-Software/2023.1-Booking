@@ -180,22 +180,22 @@ Eu, como usuário, gostaria de ser informado sobre as questões legais do aplica
   <tr>
     <td>Eu, como usuário, gostaria de poder ter um filtro de acomodações com base na localização, datas de check-in e check-out, tipo de quarto e preço para verificar acomodações para reservar</td>
     <td>US 22</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td>Eu, eu como usuário, gostaria de poder denunciar contas de locadores e empresas, para tornar ou avisar ao sistema quando alguma politica de reserva, algum serviço oferecido pelo Booking foi violada por algum locador ou empresa.</td>
     <td>US 32</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td>Eu, como usuário, gostaria de pesquisa reserva feita ou em andamento por comando de voz, para tornar mais acessível o aplicativo</td>
     <td>US 33</td>
-    <td></td>
+    <td>Should</td>
   </tr>
   <tr>
     <td>Eu, como usuário, desejo realizar a atividade de gerenciamento de companheiros de viagem para facilitar e deixa previamente salvo as definições de quantidade e informações extras de pessoas a qual estarei acompanhado, para facilitar reservas e ter um bom uso do aplicativo</td>
     <td>US 35</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td rowspan="7">EP09</td>
@@ -240,7 +240,7 @@ Eu, como usuário, gostaria de ser informado sobre as questões legais do aplica
   <tr>
     <td>Eu, como usuário, gostaria de realizar a reserva do voo, para pode realizar compras no aplicativo.</td>
     <td>US 23</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td rowspan="2">EP10</td>
@@ -288,7 +288,7 @@ Eu, como usuário, gostaria de ser informado sobre as questões legais do aplica
   <tr>
     <td>Como um usuário do sistema interessado em explorar destinos turísticos, quero ter acesso a um mapa interativo para que eu possa visualizar informações sobre diferentes locais e planejar minhas viagens de maneira mais eficiente.</td>
     <td>US 12</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td rowspan="14">Controle de contas</td>
@@ -305,71 +305,71 @@ Eu, como usuário, gostaria de ser informado sobre as questões legais do aplica
   <tr>
     <td>Como um usuário do aplicativo interessado em economizar dinheiro, quero ter acesso a um sistema de ofertas para que eu possa encontrar e aproveitar descontos e promoções em produtos e serviços relacionados ao turismo.</td>
     <td>US 04</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td>Como um usuário do sistema interessado em realizar transações dentro do sistema, quero poder comprar moedas do sistema para que eu possa usá-las para adquirir produtos e serviços oferecidos pelo sistema.</td>
     <td>US 11</td>
-    <td></td>
+    <td>Could</td>
   </tr>
   <tr>
     <td>Como um usuário do aplicativo, quero ter acesso a um sistema de configurações para que eu possa personalizar minha experiência de uso do aplicativo de acordo com minhas preferências.</td>
     <td>US 03</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td></td>
     <td>Como um usuário do sistema interessado em ter acesso a recursos e benefícios exclusivos, quero poder assinar uma conta premium para que eu possa aproveitar ao máximo minha experiência de uso do sistema.</td>
     <td>US 10</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td></td>
     <td>Como um usuário do sistema interessado em realizar transações dentro do sistema, quero poder comprar moedas do sistema para que eu possa usá-las para adquirir produtos e serviços oferecidos pelo sistema.</td>
     <td>US 11</td>
-    <td></td>
+    <td>Should</td>
   </tr>
   <tr>
     <td></td>
     <td>Como um usuário do sistema interessado em planejar minhas viagens, quero poder adicionar opções de aluguel de carro, hospedagem e voos à minha lista de favoritos para que eu possa salvar minhas opções preferidas e acessá-las facilmente mais tarde.</td>
     <td>US 14</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td></td>
     <td>Como usuário do aplicativo, quero poder sair da minha conta a qualquer momento.</td>
     <td>US 17</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td></td>
     <td>Como usuário do aplicativo, quero poder acessar uma área administrativa da minha conta para gerenciar minhas informações e preferências.</td>
     <td>US 19</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td></td>
     <td>Como usuário do aplicativo, quero poder acessar uma central de ajuda para obter informações e suporte sobre o uso do aplicativo.</td>
     <td>US 20</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td></td>
     <td>Eu, como usuário, desejo deletar minha conta, para não deixar dados meus no aplicativo e por não ter mais uso para mim</td>
     <td>US 37</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td>EP12</td>
     <td>Como usuário do aplicativo, quero poder acessar as informações legais sobre o uso do aplicativo.</td>
     <td>US 18</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td></td>
     <td>Eu, como usuário, gostaria de participar de um chat para realizar perguntas sobre dúvidas que possuo, para poder responder dpuvidas que eu tenha sobre o aplicativo, ou as politicas de reservas feitas</td>
     <td>US 30</td>
-    <td></td>
+    <td>Must</td>
   </tr>
   <tr>
     <td rowspan="2">Recomendação</td>
