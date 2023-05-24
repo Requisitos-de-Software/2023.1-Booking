@@ -15,6 +15,22 @@ O principal objetivo do framework é fornecer uma estrutura para armazenar o des
 <img src="../../images/nfr/Softgoals.png"/>
 <p style="text-align: center">Figura 1 - Legenda de Softgoals.(Fonte: Autores. 2023).</p>
 
+## Contribuições
+
+As contribuições representam como um softgoal descendente contribui para a satisfação de um softgoal ascendente, podendo ser positivas ou negativas, ou até mesmo satisfazendo por completo o ascendente.
+
+Tipos de contribuições utilizadas pelo framework:
+
+- AND: O ascendente é satisfeito se somente se todos os descendentes forem satisfeitos
+- OR: O ascendente é satisfeito se um dos descendentes for satisfeito
+- MAKE(++): O descendente com contribuição tão positiva a ponto de satisfazer o ascendente
+- BREAK(--): O descendente com contribuição tão negativa a ponto de negar o ascendente
+- HELP(+): O descendente com contribuição positiva parcial, que sozinho não satisfaz o ascendente
+- HURT(-): O descendente com contribuição negativa parcial, que sozinha não chega a negar o ascendente
+- UNKNOWN: O ascendente não afeta o pai
+- EQUAL: Determina que o softgoal descendente só será satisfeito se o softgoal ascendente for satisfeito e que softgoal descendente será negado se o softgoal ascendente for negado.
+- SOME(+/-): O descendente com contribuição (positiva ou negativa), onde a intensidade não se pode determinar
+
 ## Cartões de Especiicação
 
 
