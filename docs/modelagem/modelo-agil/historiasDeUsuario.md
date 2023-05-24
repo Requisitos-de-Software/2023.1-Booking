@@ -26,7 +26,7 @@ Para validar as histórias de usuário desenvolvidas pela equipe da disciplina d
 
 ## Histórias de Usuário
 
-A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicitadas para o Booking.
+A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicitadas para o Booking.
 
 ### US 01 - Notícias do turismo
 
