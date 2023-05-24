@@ -284,7 +284,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
 | **Título**                   | Apresentação de informações legais                                                                                                                                                                                                                                                               |
 | **Descrição**               | Como usuário do aplicativo, quero poder acessar as informações legais sobre o uso do aplicativo.                                                                                                                                                                                                  |
 | **Critérios de Aceitação** | - O aplicativo deve ter uma seção dedicada às informações legais sobre o uso do aplicativo.<br />- O usuário deve ser capaz de acessar facilmente essa seção a partir do menu do aplicativo.<br />- As informações legais devem ser apresentadas de forma clara e concisa para o usuário. |
-| **Rastreabilidade**                | OBS20                                                                                                                                                                                                                                                                                                |
+| **Rastreabilidade**           | OBS20                                                                                                                                                                                                                                                                                                |
 
 <div style="text-align: center">
     <p> Tabela 18: História de Usuário 18 (Fonte: Autores. 2023).</p>
@@ -323,7 +323,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
 | **Título**                   | Histórico de reservas                                                                                                                                                                                                                                                                                       |
 | **Descrição**               | Como usuário do aplicativo, quero poder visualizar meu histórico de reservas para acompanhar minhas atividades passadas.                                                                                                                                                                                   |
 | **Critérios de Aceitação** | - O aplicativo deve manter um registro das reservas feitas pelo usuário.<br />- O usuário deve ser capaz de acessar seu histórico de reservas a partir do menu do aplicativo.<br />- O histórico de reservas deve exibir informações detalhadas sobre cada reserva, incluindo datas, locais e valores. |
-| **Rastreabilidade**                | OBS13                                                                                                                                                                                                                                                                                                        |
+| **Rastreabilidade**           | OBS13                                                                                                                                                                                                                                                                                                        |
 
 <div style="text-align: center">
     <p> Tabela 21: História de Usuário 21 (Fonte: Autores. 2023).</p>
@@ -548,7 +548,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 36: História de Usuário 36 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 37 - Deleta conta
+### US 37 - Deletar conta
 
 | **ID**                        | 37                                                                                                                                  |
 | :---------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
