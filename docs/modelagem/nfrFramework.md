@@ -31,9 +31,140 @@ Tipos de contribuições utilizadas pelo framework:
 - EQUAL: Determina que o softgoal descendente só será satisfeito se o softgoal ascendente for satisfeito e que softgoal descendente será negado se o softgoal ascendente for negado.
 - SOME(+/-): O descendente com contribuição (positiva ou negativa), onde a intensidade não se pode determinar
 
-## Cartões de Especiicação
+## Metodologia
+
+Para a implementação do Framework NFR, foram selecionados os requisitos não funcionais elicitados anteriormente com base em sua relevância para o sistema. Esses requisitos foram obtidos por meio do artefato de [Especificação Suplementar](../modelagem/especificacaoSuplementar.md). Os Softgoal Interdependency Graphs (SIGs) foram construídos com base nos SIGs validados da dissertação de mestrado de Reinaldo Antônio da Silva [1].
+
+Os requisitos não funcionais selecionados foram: confiabilidade, desempenho e usabilidade.
+
+## Non-Functional-Requirements (NFR)
+
+A seguir estão os Softgoal Interdependency Graphs (SIGs), as propagações de impactos e os cartões de especificação do NFR.
+
+Os diagramas apresentados nas Figuras 2 a 7 foram elaborados com base nos diagramas apresentados na dissertação de mestrado intitulada "**NFR4ES**: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados" [1], escrita por Reinaldo Antônio da Silva.
+
+### NFR01 - Confiabilidade
+
+A Figura 2 apresenta o SIG de confiabilidade.
+
+![Dragrama do NRF de confiabilidade](../images/nfrFramework/CONFIABILIDADE_DIAGRAMA.png)
+
+<div style="text-align: center">
+<p> Figura 2: SIG de confiabilidade (adaptado)<br>
+Fonte: Adaptado de Figura 21 – Requisito de Confiabilidade - Refinamentos e Correlações por Reinaldo Antônio da Silva</p>
+</div>
+
+#### Propagação de Impacto
+
+A Figura 3 apresenta a propagação de impacto do NFR de confiabilidade.
+
+![Propagação do NRF de confiabilidade](../images/nfrFramework/CONFIABILIDADE_PROPAGACAO.png)
+
+<div style="text-align: center">
+<p> Figura 3: Propagação de impacto do NFR de confiabilidade (adaptado)<br>
+Fonte: Adaptado de Figura 21 – Requisito de Confiabilidade - Refinamentos e Correlações por Reinaldo Antônio da Silva</p>
+</div>
+
+#### Cartão de Especificação
+
+| Cartão de Especificação | NFR Confiabilidade                                                                                                                                                                                                                                                                                                                                       |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Número do Requisito       | 01                                                                                                                                                                                                                                                                                                                                                       |
+| Classificação            | Confiabilidade                                                                                                                                                                                                                                                                                                                                           |
+| Descrição                | O sistema deve garantir que os dados sejam armazenados e recuperados de forma segura e consistente, sem perda ou corrupção.                                                                                                                                                                                                                            |
+| Justificativa              | O sistema do wikipédia é uma fonte de informação amplamente utilizada por milhões de usuários em todo o mundo, que esperam encontrar conteúdo confiável e atualizado. Portanto, é essencial que o sistema garanta a confiabilidade dos dados, evitando perdas ou corrupções que possam afetar a qualidade e a credibilidade da informação. |
+| Critério de aceitação   | O sistema deve passar por testes de carga, estresse e recuperação de falhas, comprovando que pode suportar altas demandas e situações adversas sem comprometer a integridade dos dado                                                                                                                                                                |
+| Origem do requisito        | [Especificação Suplementar](../../modelagem/especificacaoSuplementar/#3-confiabilidade)                                                                                                                                                                                                                                                                   |
+| Prioridade                 | Alta                                                                                                                                                                                                                                                                                                                                                     |
+
+<div style="text-align: center">
+<p> Tabela 1: Cartão de especificação do NFR de confiabilidade (Fonte: autores, 2023). </p>
+</div>
+
+### NFR02 - Desempenho
+
+A Figura 4 apresenta o SIG de NFR de confiabilidade.
+
+![Diagrama NFR confiabilidade](../images/nfrFramework/DESEMPENHO_DIAGRAMA.png)
+
+<div style="text-align: center">
+<p> Figura 4: SIG de desempenho (adaptado)<br>
+Fonte: Adaptado de Figura 27 – Requisito de Desempenho - contribuições e correlações por Reinaldo Antônio da Silva</p>
+</div>
+
+#### Propagação de Impacto
+
+A Figura 5 apresenta a propagação de impacto do NFR de confiabilidade.
+
+![Propagação do NFR de Desempenho](../images/nfrFramework/DESEMPENHO_PROPAGACAO.png)
+
+<div style="text-align: center">
+<p> Figura 5: Propagação de impacto do NFR de desempenho (adaptado)<br>
+Fonte: Adaptado de Figura 27 – Requisito de Desempenho - contribuições e correlações por Reinaldo Antônio da Silva</p>
+</div>
+
+#### Cartão de Especificação
+
+| Cartão de Especificação | NFR Desempenho                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Número do Requisito       | 02                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Classificação            | Desempenho                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Descrição                | O sistema deve responder às solicitações dos usuários de forma rápida e eficiente, sem causar atrasos ou travamentos.                                                                                                                                                                                                                                                                                                                                                                         |
+| Justificativa              | O sistema do wikipédia é acessado por milhões de usuários simultaneamente, que realizam consultas e edições nos artigos disponíveis. Além disso, o sistema possui um grande volume de dados armazenados, que devem ser processados e entregues aos usuários de forma eficaz. Portanto, é fundamental que o sistema tenha um bom desempenho, garantindo que os usuários tenham uma experiência satisfatória e não desistam de usar o serviço por causa de lentidão ou instabilidade |
+| Critério de aceitação   | O sistema deve atender aos padrões de tempo de resposta e taxa de transferência definidos pelo cliente, medidos por ferramentas de monitoramento e avaliação de desempenho.                                                                                                                                                                                                                                                                                                                    |
+| Origem do requisito        | [Especificação Suplementar](../../modelagem/especificacaoSuplementar/)                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Prioridade                 | Alta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+<div style="text-align: center">
+<p> Tabela 2: Cartão de especificação do NFR de desempenho (Fonte: autores, 2023). </p>
+</div>
+
+### NFR03 - Usabilidade
+
+A Figura 6 apresenta o SIG de confiabilidade.
+
+![SIG de confiabilidade](../images/nfrFramework/USABILIDADE_DIAGRAMA.png)
+
+<div style="text-align: center">
+<p> Figura 6: SIG de Usabilidade (adaptado)<br>
+Fonte: Adaptado de Figura 86 – Usabilidade - contribuições e operacionalizações por Reinaldo Antônio da Silva</p>
+</div>
+
+#### Propagação de Impacto
+
+A Figura 7 apresenta a propagação de impacto do NFR de confiabilidade.
+
+![Propagação do NRF de Usabilidade](../images/nfrFramework/USABILIDADE_PROPAGACAO.png)
+
+<div style="text-align: center">
+<p> Figura 7: Propagação de impacto do NFR de desempenho (adaptado)<br>
+Fonte: Adaptado de Figura 86 – Usabilidade - contribuições e operacionalizações por Reinaldo Antônio da Silva</p>
+</div>
+
+#### Cartão de Especificação
+
+| Cartão de Especificação | NFR Usabilidade                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Número do Requisito       | 03                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Classificação            | Usabilidade                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Descrição                | O sistema deve responder às solicitações dos usuários de forma rápida e eficiente, sem causar atrasos ou travamentos.                                                                                                                                                                                                                                                                                                                                                                         |
+| Justificativa              | O sistema do wikipédia é acessado por milhões de usuários simultaneamente, que realizam consultas e edições nos artigos disponíveis. Além disso, o sistema possui um grande volume de dados armazenados, que devem ser processados e entregues aos usuários de forma eficaz. Portanto, é fundamental que o sistema tenha um bom desempenho, garantindo que os usuários tenham uma experiência satisfatória e não desistam de usar o serviço por causa de lentidão ou instabilidade |
+| Critério de aceitação   | O sistema deve atender aos padrões de tempo de resposta e taxa de transferência definidos pelo cliente, medidos por ferramentas de monitoramento e avaliação de desempenho.                                                                                                                                                                                                                                                                                                                    |
+| Origem do requisito        | [Especificação Suplementar](../../modelagem/especificacaoSuplementar/#2-usabilidade)                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Prioridade                 | Alta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+<div style="text-align: center">
+<p> Tabela 2: Cartão de especificação do NFR de usabilidade (Fonte: autores, 2023). </p>
+</div>
+
+## Referência Bibliográfica
+
+[1] Silva, Reinaldo Antônio da. **NFR4ES: um Catálogo de Requisitos Não-Funcionais para
+Sistemas Embarcados**. [Dissertação de mestrado]. Universidade Federal de Pernambuco, Recife, 2019.
 
 
+## Histórico de versão
 
-
-
+| Versão |    Data    |      Descrição      |       Autor       | Revisor |
+| :-----: | :--------: | :--------------------: | :---------------: | :------: |
+|   1.0   | 23/05/2023 | Criação do documento | Henrique e Samuel | Chaydson |
