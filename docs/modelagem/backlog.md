@@ -144,5 +144,6 @@ Eu, como usuário, desejo comprar ingressos para as atrações turísticas pelo 
 
 #### EP13 - Atendimento direto
 Eu, como usuário, desejo me comunicar diretamente com o prestador de serviços pelo aplicativo, para tirar dúvidas e resolver problemas de maneira segura e eficiênte.
-EP13 - Agendar táxi
+
+#### EP14 - Agendar táxi
 Eu, como usuário, desejo agendar táxis, para conseguir me locomover de forma rápida.
