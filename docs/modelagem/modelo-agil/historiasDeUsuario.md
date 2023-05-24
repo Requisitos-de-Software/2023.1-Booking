@@ -496,7 +496,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
 
 ### US 33 - Fitro por Comando de Voz
 
-| **ID**                        | _Nome_                                                                                                                                          |
+| **ID**                        | 33                                                                                                                                                |
 | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Título**                   | Fitro por Comando de Voz                                                                                                                          |
 | **Descrição**               | Eu, como usuário, gostaria de pesquisa reserva feita ou em andamento por comando de voz, para tornar mais acessível o aplicativo               |
