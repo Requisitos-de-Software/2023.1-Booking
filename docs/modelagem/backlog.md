@@ -13,6 +13,7 @@ O backlog é geralmente composto por histórias de usuários, tarefas, bugs, mel
 A criação do backlog do produto foi baseada na avaliação e verificação dos requisitos funcionais coletados, seguida pela organização desses requisitos em temas e épicos. Esses temas e épicos serviram como base para a definição das histórias de usuário e consequentemente, a criação do backlog.
 
 ## Requisitos elicitados
+
 Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo de elicitação, juntamente com a rastreabilidade de cada requisito.
 
 | ID   | requisito                                                                                                                                                                    | priorização |
@@ -88,62 +89,184 @@ Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo
 ## Backlog
 
 ### Temas
+
 Um tema é uma categoria de requisitos relacionados a uma área específica do sistema. Ele representa um conjunto amplo de requisitos relacionados, agrupados em torno de um tópico, ajudando a identificar áreas principais do sistema.
 
 Os temas identificados no Booking foram:
 
 - Estadia
-
 - Voos
-
 - Aluguel de carros
-
-- Atrações turísticas 
-
+- Atrações turísticas
 - Controle financeiro
-
 - Recomendação
+- Contratação de táxi
 
 ### Épicos
+
 Um épico representa uma funcionalidade muito grande. Devido a sua natureza complexa, ele é dividido em tarefas menores e mais gerenciáveis para facilitar o acompanhamento da evolução e desenvolvimento da demanda.
 
 Os épicos identificados no Booking foram:
 
 #### EP01 - Realizar reserva de acomodações
+
 Eu, como usuário, desejo reservar acomodações, para poder poder me hospedar.
 
-#### EP02 - Exibir dados básicos das acomodações 
+#### EP02 - Exibir dados básicos das acomodações
+
 Eu, como usuário, desejo visualizar informações básicas das acomodações, por exemplo fotos, endereço, quantidade de quartos, horários de check-in e check-out e avaliação de outros usuários, para poder julgar se o ambiente atende as minhas necessidades.
 
 #### EP03 - Exibir recomendações de acomodações personalizadas
+
 Eu, como usuário, desejo visualizar recomendações personalizadas para o meu perfil, com base nas minhas escolhas anteriores.
 
 #### EP04 - Realizar reserva de voos
+
 Eu, como usuário, desejo reservar voos, para viajar.
 
 #### EP05 - Comparação de preços entre voos
+
 Eu, como usuário, desejo comparar preços de voos semelhantes, para realizar a melhor compra.
 
-#### EP06 - Comparação de preços entre voos
-Eu, como usuário, desejo comparar preços de voos semelhantes, para realizar a melhor compra.
+#### EP06 - Alugar carro
 
-#### EP07 - Exibir etapas para conclusão do voo
-Eu, como usuário, desejo saber quais são as etapas necessárias para a conclusão do voo, por exemplo, itinerário, conexões e autotransferência, para concluir o voo com sucesso.
-
-#### EP08 - Alugar carro
 Eu, como usuário, desejo alugar um ou mais carros, para realizar minhas atividades.
 
-#### EP09 - Personalizar o carro
+#### EP07 - Personalizar o carro
+
 Eu, como usuário, desejo poder personalizar o carro alugada, com opcionais, como cadeira para crianças, combustível, adaptações para pessoas com necessidades especiais, para ter um veículo que me satisfaça.
 
-#### EP11 - Informações sobre atrações turísticas
+#### EP08 - Informações sobre atrações turísticas
+
 Eu, como usuário, desejo visualizar informações detalhadas sobre as atrações turísticas de um determinado lugar, para decidir quais atividades participar.
 
-#### EP12 - Compra de ingressos
+#### EP09 - Compra de ingressos
+
 Eu, como usuário, desejo comprar ingressos para as atrações turísticas pelo booking, para centralizar o planejamento da minha viagem.
 
-#### EP13 - Atendimento direto
+#### EP10 - Atendimento direto
+
 Eu, como usuário, desejo me comunicar diretamente com o prestador de serviços pelo aplicativo, para tirar dúvidas e resolver problemas de maneira segura e eficiênte.
 
-#### EP14 - Agendar táxi
+#### EP11 - Contratação de táxi
+
 Eu, como usuário, desejo agendar táxis, para conseguir me locomover de forma rápida.
+
+#### EP12 - Gestão financeira
+
+Eu, como usuário, desejo gerir meus gastos no aplicativos, para ter controle sobre minhas finanças.
+
+<table>
+<thead>
+  <tr>
+    <th colspan="6">Backlog do produto</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Tema</td>
+    <td>Épico</td>
+    <td>História de Usuário (US)</td>
+    <td>ID</td>
+    <td>Prioriedade</td>
+    <td>Origem</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Estadia</td>
+    <td>EP01</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>EP02</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>EP10</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Voos</td>
+    <td>EP04</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>EP05</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Aluguel de carros</td>
+    <td>EP06</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>EP07</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Atrações turísticas</td>
+    <td>EP08</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>EP09</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Contratação de táxi</td>
+    <td>EP11</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Controle financeiro</td>
+    <td>EP12</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Recomendação</td>
+    <td>EP03</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+<div style="text-align: center">
+<p>
+Tabela 2: Backlog do produto (Fonte: autor, 2023).
+</p>
+</div>
