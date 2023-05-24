@@ -308,21 +308,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 21: História de Usuário 21 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 22 - Cadastro de Usuário
-
-| **ID**                        | 22                                                                                                                                                                                                                                                                                                                                                           |
-| :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Cadastro de Usuário                                                                                                                                                                                                                                                                                                                                         |
-| **Descrição**               | _Eu, como **usuário**_, gostaria de poder me cadastrar utilizando somente nome, sobrenome, endereço de e-mail e uma senha, para poder realiza as atividades do aplicativo                                                                                                                                                                          |
-| **Critérios de Aceitação** | - Deve ser possivel digitar o nome com mínimo de 2 caracteres a 30 caracteres.<br />- Deve ser possivel digitar o sobrenome com mínimo de 2 caracteres a 50 caracteres.<br />- Deve ser possível digitar a senha com mínimo 3 caracteres a 20 caracteres.<br />- Os e-mails aceitos devem ser gmail, hotmail, outlook.<br />- O email deve ser único. |
-
-</center>
-
-<div style="text-align: center">
-    <p> Tabela 22: História de Usuário 22 (Fonte: Autores. 2023).</p>
-</div>
-
-### US X - Pesquisa de Acomadações Específica
+### US 22 - Pesquisa de Acomadações Específica
 
 | **ID**                        | 23                                                                                                                                                                                                                                                                                                                                                                               |
 | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -336,7 +322,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 23: História de Usuário 23 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 24 - Cadastro de Cartão de Crédito
+### US 23 - RESERVAAAAAAAAA
 
 | **ID**                        | 24                                                                                                                                                                                                                                                                                                                                                                                            |
 | :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -350,7 +336,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 24: História de Usuário 24 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 25 - Cancelamento de Reserva
+### US 24 - Cancelamento de Reserva
 
 | **ID**                        | 25                                                                                                           |
 | :---------------------------------- | :----------------------------------------------------------------------------------------------------------- |
@@ -364,7 +350,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 25: História de Usuário 25 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 26 - Filtro de Voo
+### US 25 - Filtro de Voo
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -378,7 +364,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 26: História de Usuário 26 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 27 - Reserva de Voo
+### US 26 - Reserva de Voo
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                   |
 | :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -392,7 +378,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 27: História de Usuário 27 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 28 - Gerenciamento de Reservas
+### US 27 - Gerenciamento de Reservas
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                               |
 | :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -406,7 +392,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 28: História de Usuário 28 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 29 - Filtro de Histórico de Reservas
+### US 28 - Filtro de Histórico de Reservas
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                         |
 | :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -420,7 +406,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 29: História de Usuário 29 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 30 - Escolha de Pagamento
+### US 29 - Escolha de Pagamento
 
 | **ID**                        | _Nome_                                                                                                                                                     |
 | :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -434,7 +420,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 30: História de Usuário 30 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 31 - Perguntas Frequentes
+### US 30 - Perguntas Frequentes
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                                                          |
 | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -448,7 +434,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 31: História de Usuário 31 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 32 - Bate-Papo com o locador ou empresa
+### US 31 - Bate-Papo com o locador ou empresa
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                  |
 | :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -462,7 +448,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 32: História de Usuário 32 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 33 - Denúncia de Contas
+### US 32 - Denúncia de Contas
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                        |
 | :---------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -476,7 +462,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 33: História de Usuário 33 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 34 - Fitro por Comando de Voz
+### US 33 - Fitro por Comando de Voz
 
 | **ID**                        | _Nome_                                                                                                                                          |
 | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -488,10 +474,11 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 34: História de Usuário 34 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 35 - Reserva de Hospedagem
+### US 34 - Reserva de Hospedagem
 
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Título**                   | Reserva de Hospedagem                                                                                                                                                                                                                                                                                                                                                                                                             |
 | **Descrição**               | Eu, como usuário, desejo realizar uma reserva de hospedagem definindo quantas pessoas e acomodações, para poder realizar a reserva de um quarto                                                                                                                                                                                                                                                                                |
 | **Critérios de Aceitação** | - As categorias de quarto devem ser separados em duas categorias os quarto de adultos para pessoas de 10 a 65+ anos de idades e de crianças de 0 a 9 anos de idade<br />- Deve ser possível inserir infomações cartão de crédito como código de segurança para confirmar a reserva<br />- Deve ser possível confirmar a reserva apenas digitando o número de segurança do cartão de crédito, sendo 3 caracteres |
@@ -502,7 +489,7 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 35: História de Usuário 35 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 36 - Gerenciamento de Companheiros de Viagem
+### US 35 - Gerenciamento de Companheiros de Viagem
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                                                 |
 | :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -513,7 +500,6 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
 <div style="text-align: center">
     <p> Tabela 36: História de Usuário 36 (Fonte: Autores. 2023).</p>
 </div>
-
 
 ## Bibliografia
 
