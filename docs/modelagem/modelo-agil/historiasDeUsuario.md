@@ -329,13 +329,14 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 21: História de Usuário 21 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 22 - Cadastro de Usuário
+### US 22 - Pesquisa de Acomadações Específica
 
-| **ID**                        | 22                                                                                                                                                                                                                                                                                                                                                           |
-| :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Cadastro de Usuário                                                                                                                                                                                                                                                                                                                                         |
-| **Descrição**               | _Eu, como **usuário**_, gostaria de poder me cadastrar utilizando somente nome, sobrenome, endereço de e-mail e uma senha, para poder realiza as atividades do aplicativo                                                                                                                                                                          |
-| **Critérios de Aceitação** | - Deve ser possivel digitar o nome com mínimo de 2 caracteres a 30 caracteres.<br />- Deve ser possivel digitar o sobrenome com mínimo de 2 caracteres a 50 caracteres.<br />- Deve ser possível digitar a senha com mínimo 3 caracteres a 20 caracteres.<br />- Os e-mails aceitos devem ser gmail, hotmail, outlook.<br />- O email deve ser único. |
+| **ID**                        | 22                                                                                                                                                                                                                                                                                                                                                                               |
+| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Filtro de Acomadações                                                                                                                                                                                                                                                                                                                                                          |
+| **Descrição**               | Eu, como usuário, gostaria de poder ter um filtro de acomodações com base na localização, datas de check-in e check-out, tipo de quarto e preço para verificar acomodações para reservar                                                                                                                                                                                 |
+| **Critérios de Aceitação** | - Deve ser possivel ligar e desligar a localização do usuário<br />- Não deve ser possível colocar a data de check-in antes da data do sistema operacional do dispositivo móvel <br />- Deve ser possível selecionar o tipo de quarto disponibilizado pelo empresa hospelareira.<br />- Deve ser possível ser possível escolher a acomadação de acordo com o preço. |
+| Rastreabilidade                     | FST02                                                                                                                                                                                                                                                                                                                                                                            |
 
 </center>
 
@@ -343,13 +344,14 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 22: História de Usuário 22 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Pesquisa de Acomadações Específica
+### US 23 - Cadastro de Cartão de Crédito
 
-| **ID**                        | 23                                                                                                                                                                                                                                                                                                                                                                               |
-| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Filtro de Acomadações                                                                                                                                                                                                                                                                                                                                                          |
-| **Descrição**               | Eu, como usuário, gostaria de poder ter um filtro de acomodações com base na localização, datas de check-in e check-out, tipo de quarto e preço para verificar acomodações para reservar                                                                                                                                                                                 |
-| **Critérios de Aceitação** | - Deve ser possivel ligar e desligar a localização do usuário<br />- Não deve ser possível colocar a data de check-in antes da data do sistema operacional do dispositivo móvel <br />- Deve ser possível selecionar o tipo de quarto disponibilizado pelo empresa hospelareira.<br />- Deve ser possível ser possível escolher a acomadação de acordo com o preço. |
+| **ID**                        | 23                                                                                                                                                                                                                                                                                                                                                                                            |
+| :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Cadastro de Cartão de Crédito                                                                                                                                                                                                                                                                                                                                                               |
+| **Descrição**               | Eu, como usuário, gostaria de registrar um cartão de crédito, para realizar pagamentos de forma ágil                                                                                                                                                                                                                                                                                      |
+| **Critérios de Aceitação** | - Deve ser possível cadastrar o número de cartão de crédito, entre 13 e 16 caracteres númericos<br />- Deve ser possível selecionar a bandeira do cartão de crédito entre Americann Express, Visa, Mastercard e UnionPay<br />- Deve ser possível colocar o nome do titular do cartão<br />- Deve ser possível colocar a data de validade do cartão com campo para mês e ano.  |
+| Rastreabilidade                     | FST03                                                                                                                                                                                                                                                                                                                                                                                         |
 
 </center>
 
@@ -357,13 +359,14 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 23: História de Usuário 23 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 24 - Cadastro de Cartão de Crédito
+### US 24 - Cancelamento de Reserva
 
-| **ID**                        | 24                                                                                                                                                                                                                                                                                                                                                                                            |
-| :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Cadastro de Cartão de Crédito                                                                                                                                                                                                                                                                                                                                                               |
-| **Descrição**               | Eu, como usuário, gostaria de realizar a reserva do voo, para pode realizar compras no aplicativo.                                                                                                                                                                                                                                                                                           |
-| **Critérios de Aceitação** | - Deve ser possível cadastrar o número de cartão de crédito, entre 13 e 16 caracteres númericos<br />- Deve ser possível selecionar a bandeira do cartão de crédito entre Americann Express, Visa, Mastercard e UnionPay<br />- Deve ser possível colocar o nome do titular do cartão<br />- Deve ser possível colocar a data de validade do cartão com campo para mês e ano.  |
+| **ID**                        | 24                                                                                                           |
+| :---------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Cancelamento de Reserva de Acomadação                                                                      |
+| **Descrição**               | Eu, como usuário desejo cancelar minha reserva, para que possa receber meu dinheiro de volta.               |
+| **Critérios de Aceitação** | - Dever ser possível cancelar a reservar<br />- O valor de taxa de cancelamento deve aparecer, caso exista. |
+| Rastreabilidade                     | FST04                                                                                                        |
 
 </center>
 
@@ -371,13 +374,14 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 24: História de Usuário 24 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 25 - Cancelamento de Reserva
+### US 25 - Filtro de Voo
 
-| **ID**                        | 25                                                                                                           |
-| :---------------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Cancelamento de Reserva de Acomadação                                                                      |
-| **Descrição**               | Eu, como usuário desejo cancelar minha reserva, para que possa receber meu dinheiro de volta.               |
-| **Critérios de Aceitação** | - Dever ser possível cancelar a reservar<br />- O valor de taxa de cancelamento deve aparecer, caso exista. |
+| **ID**                        | *25*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Filtro de Voo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Descrição**               | Eu, como usuário, desejo reserva voos com origem e origem, data de ida em que irá ocorrer o voo, e volta se possível, e número de passagem e classes do voo, para conseguir realizar uma viagem de bom humor.                                                                                                                                                                                                                                                                                                                                                                  |
+| **Critérios de Aceitação** | - Deve ser possível selecionar o aeroporto de origem do voo<br />- Deve ser possível selecionar o aeroporto de destino do voo<br />- Deve ser possível selecionar o data para viagem, não podendo ser antes da data do dispositivo do móvel.<br />- Deve ser possível selecionar caso escolhido uma data de ida de voo, uma data de volta do voo.<br />- Deve ser possível selecionar o número de passagens, se é para a categoria de adulto ou criança.<br />- Deve ser possível escolher a classe do voo: Econômica, Econômica Premium, Executiva, Primeira Classe. |
+| Rastreabilidade                     | FST05                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 </center>
 
@@ -385,13 +389,14 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 25: História de Usuário 25 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 26 - Filtro de Voo
+### US 26 - Reserva de Voo
 
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Filtro de Voo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Descrição**               | Eu, como usuário, desejo reserva voos com origem e origem, data de ida em que irá ocorrer o voo, e volta se possível, e número de passagem e classes do voo, para conseguir realizar uma viagem de bom humor.                                                                                                                                                                                                                                                                                                                                                                  |
-| **Critérios de Aceitação** | - Deve ser possível selecionar o aeroporto de origem do voo<br />- Deve ser possível selecionar o aeroporto de destino do voo<br />- Deve ser possível selecionar o data para viagem, não podendo ser antes da data do dispositivo do móvel.<br />- Deve ser possível selecionar caso escolhido uma data de ida de voo, uma data de volta do voo.<br />- Deve ser possível selecionar o número de passagens, se é para a categoria de adulto ou criança.<br />- Deve ser possível escolher a classe do voo: Econômica, Econômica Premium, Executiva, Primeira Classe. |
+| **ID**                        | _26_                                                                                                                                                                                                                                                     |
+| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Reserva de Voo                                                                                                                                                                                                                                             |
+| **Descrição**               | Eu, como usuário, gostaria de confirmar a reserva do voo inserindo informações de pagamento, para confirmar a reserva do voo.                                                                                                                           |
+| **Critérios de Aceitação** | - Deve ser possível inserir infomações cartão de crédito como código de segurança para confirmar a reserva.<br />- Deve ser possível confirmar a reserva apenas digitando o número de segurança do cartão de crédito, sendo 3 caracteres.  |
+| Rastreabilidade                     | FST06                                                                                                                                                                                                                                                      |
 
 </center>
 
@@ -399,13 +404,14 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 26: História de Usuário 26 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 27 - Reserva de Voo
+### US 27 - Gerenciamento de Reservas
 
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                   |
-| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Reserva de Voo                                                                                                                                                                                                                                             |
-| **Descrição**               | Eu, como usuário, gostaria de confirmar a reserva do voo inserindo informações de pagamento, para confirmar a reserva do voo.                                                                                                                           |
-| **Critérios de Aceitação** | - Deve ser possível inserir infomações cartão de crédito como código de segurança para confirmar a reserva.<br />- Deve ser possível confirmar a reserva apenas digitando o número de segurança do cartão de crédito, sendo 3 caracteres.  |
+| **ID**                        | _27_                                                                                                                                                                                                                                                 |
+| :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Gerenciamento de Reservas                                                                                                                                                                                                                              |
+| **Descrição**               | Eu, como usuário gostaria de poder realizar as atividades de gerenciamento de reserva como  para a visualização de detalhes da reserva, alterações de datas e cancelamentos, para ser fácil de saber a existência das minhas reservas atuais. |
+| **Critérios de Aceitação** | - Deve ser possível com até 4 cliques cancelar uma reserva<br />- Deve ser possível imprimir um comprovante da reserva                                                                                                                              |
+| Rastreabilidade                     | FST10                                                                                                                                                                                                                                                  |
 
 </center>
 
@@ -413,13 +419,14 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 27: História de Usuário 27 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 28 - Gerenciamento de Reservas
+### US 28 - Filtro de Histórico de Reservas
 
-| **ID**                        | _Nome_                                                                                                                                                                                                                                               |
-| :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Gerenciamento de Reservas                                                                                                                                                                                                                              |
-| **Descrição**               | Eu, como usuário gostaria de poder realizar as atividades de gerenciamento de reserva como  para a visualização de detalhes da reserva, alterações de datas e cancelamentos, para ser fácil de saber a existência das minhas reservas atuais. |
-| **Critérios de Aceitação** | - Deve ser possível com até 4 cliques cancelar uma reserva<br />- Deve ser possível imprimir um comprovante da reserva                                                                                                                              |
+| **ID**                        | 28                                                                                                                                                                                                                                               |
+| :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Filtro de Histórico de Reservas                                                                                                                                                                                                                 |
+| **Descrição**               | Eu, como usuário, gostaria que o sistema filtrasse o histórico de reservas por categoria, nome ou data da reserva, para localizar melhor a reserva feitas                                                                                      |
+| **Critérios de Aceitação** | - As categorias dever ser feitas de acordo com os serviços de voo, táxi, hospedagens, aluguel de carro, ingressos de atrações<br />- Cada consulta deve mostrar data, local, nome da empresa ou pessoa responsável pelo local e categoria. |
+| Rastreabiliade                      | FST10                                                                                                                                                                                                                                            |
 
 </center>
 
@@ -427,13 +434,14 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 28: História de Usuário 28 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 29 - Filtro de Histórico de Reservas
+### US 29 - Escolha de Pagamento
 
-| **ID**                        | _Nome_                                                                                                                                                                                                                                         |
-| :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Filtro de Histórico de Reservas                                                                                                                                                                                                                 |
-| **Descrição**               | Eu, como usuário, gostaria que o sistema filtrasse o histórico de reservas por categoria, nome ou data da reserva, para localizar melhor a reserva feitas                                                                                      |
-| **Critérios de Aceitação** | - As categorias dever ser feitas de acordo com os serviços de voo, táxi, hospedagens, aluguel de carro, ingressos de atrações<br />- Cada consulta deve mostrar data, local, nome da empresa ou pessoa responsável pelo local e categoria. |
+| **ID**                        | 29                                                                                                                                                           |
+| :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Escolha de Pagamento                                                                                                                                         |
+| **Descrição**               | Eu como usuário gostaria de poder escolher a forma de pagamento, para ter mais opções para pagar as reservas feitas                                       |
+| **Critérios de Aceitação** | - As opções de pagamento devem ser a de cartão de crédito, boleto e pix<br />- A escolha de pagamento pode ser pré-definida para as próximas reservas. |
+| Rastreabilidade                     | FB02                                                                                                                                                         |
 
 </center>
 
@@ -441,13 +449,14 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 29: História de Usuário 29 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 30 - Escolha de Pagamento
+### US 30 - Perguntas Frequentes
 
-| **ID**                        | _Nome_                                                                                                                                                     |
-| :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Escolha de Pagamento                                                                                                                                         |
-| **Descrição**               | Eu como usuário gostaria de poder escolher a forma de pagamento, para ter mais opções para pagar as reservas feitas                                       |
-| **Critérios de Aceitação** | - As opções de pagamento devem ser a de cartão de crédito, boleto e pix<br />- A escolha de pagamento pode ser pré-definida para as próximas reservas. |
+| **ID**                        | 30                                                                                                                                                                                                                                                                                                |
+| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Título**                   | Perguntas Frequentes                                                                                                                                                                                                                                                                              |
+| **Descrição**               | Eu, como usuário, gostaria de participar de um chat para realizar perguntas sobre dúvidas que possuo, para poder responder dpuvidas que eu tenha sobre o aplicativo, ou as politicas de reservas feitas                                                                                        |
+| **Critérios de Aceitação** | - O chat deve possuir sugestões de perguntas a serem feitas<br />- As peguntas devem possuir no máximo cerca de 500 caracteres.<br />- Caso, as perguntas não tenham respondido minhas dúvidas, elas devem disponibilizar um email para contatar o suporte que possa responder as dúvidas. |
+| Rastreabilidade                     | FB24                                                                                                                                                                                                                                                                                              |
 
 </center>
 
@@ -455,13 +464,14 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 30: História de Usuário 30 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 31 - Perguntas Frequentes
+### US 31 - Bate-Papo com o locador ou empresa
 
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                                                          |
-| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Título**                   | Perguntas Frequentes                                                                                                                                                                                                                                                                              |
-| **Descrição**               | Eu, como usuário, gostaria de participar de um chat para realizar perguntas sobre dúvidas que possuo, para poder responder dpuvidas que eu tenha sobre o aplicativo, ou as politicas de reservas feitas                                                                                        |
-| **Critérios de Aceitação** | - O chat deve possuir sugestões de perguntas a serem feitas<br />- As peguntas devem possuir no máximo cerca de 500 caracteres.<br />- Caso, as perguntas não tenham respondido minhas dúvidas, elas devem disponibilizar um email para contatar o suporte que possa responder as dúvidas. |
+| **ID**                        | 31                                                                                                                                                                                                                                                        |
+| :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Bate-Papo com o locator ou empresa                                                                                                                                                                                                                        |
+| **Descrição**               | Eu, como usuário, gostaria de um bate-papo com o locador ou empresa responsável pela reserva do local, para tirar dúvidas sobre a hospedagem, local e dados sobre a região                                                                           |
+| **Critérios de Aceitação** | - Deve ser possível baixar o histórico da conversa<br />- A conversa deve possuir nome, data e hora que a mensagens foram enviadas<br />- A sistema deve enviar notificações quando ao locador/empresa quando uma mensagem for enviada, e vice-versa. |
+| Rastreabilidade                     | FB25                                                                                                                                                                                                                                                      |
 
 </center>
 
@@ -469,13 +479,14 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 31: História de Usuário 31 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 32 - Bate-Papo com o locador ou empresa
+### US 32 - Denúncia de Contas
 
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                  |
-| :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Bate-Papo com o locator ou empresa                                                                                                                                                                                                                        |
-| **Descrição**               | Eu, como usuário, gostaria de um bate-papo com o locador ou empresa responsável pela reserva do local, para tirar dúvidas sobre a hospedagem, local e dados sobre a região                                                                           |
-| **Critérios de Aceitação** | - Deve ser possível baixar o histórico da conversa<br />- A conversa deve possuir nome, data e hora que a mensagens foram enviadas<br />- A sistema deve enviar notificações quando ao locador/empresa quando uma mensagem for enviada, e vice-versa. |
+| **ID**                        | 32                                                                                                                                                                                                                                                                                                                                              |
+| :---------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Denúncia de Contas                                                                                                                                                                                                                                                                                                                             |
+| **Descrição**               | Eu, eu como usuário, gostaria de poder denunciar contas de locadores e empresas, para tornar ou avisar ao sistema quando alguma politica de reserva, algum serviço oferecido pelo Booking foi violada por algum locador ou empresa.                                                                                                           |
+| **Critérios de Aceitação** | - A denuncia deve ser feita somente se uma reserva já realizada e fechada, foi feita antes<br />- A denúcia deve ter um campo, de motivação como categorias como: propaganda enganosa, foto não codiz com a realidade, preço alto de demais para região, serviço incompleto ou mal-atendimento ou outro que estará como campo aberto  |
+| Rastreabilidade                     | FB27                                                                                                                                                                                                                                                                                                                                            |
 
 </center>
 
@@ -483,56 +494,71 @@ A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicita
     <p> Tabela 32: História de Usuário 32 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 33 - Denúncia de Contas
-
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                        |
-| :---------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Denúncia de Contas                                                                                                                                                                                                                                                                                                                             |
-| **Descrição**               | Eu, eu como usuário, gostaria de poder denunciar contas de locadores e empresas, para tornar ou avisar ao sistema quando alguma politica de reserva, algum serviço oferecido pelo Booking foi violada por algum locador ou empresa.                                                                                                           |
-| **Critérios de Aceitação** | - A denuncia deve ser feita somente se uma reserva já realizada e fechada, foi feita antes<br />- A denúcia deve ter um campo, de motivação como categorias como: propaganda enganosa, foto não codiz com a realidade, preço alto de demais para região, serviço incompleto ou mal-atendimento ou outro que estará como campo aberto  |
-
-</center>
-
-<div style="text-align: center">
-    <p> Tabela 33: História de Usuário 33 (Fonte: Autores. 2023).</p>
-</div>
-
-### US 34 - Fitro por Comando de Voz
+### US 33 - Fitro por Comando de Voz
 
 | **ID**                        | _Nome_                                                                                                                                          |
 | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Título**                   | Fitro por Comando de Voz                                                                                                                          |
 | **Descrição**               | Eu, como usuário, gostaria de pesquisa reserva feita ou em andamento por comando de voz, para tornar mais acessível o aplicativo               |
 | **Critérios de Aceitação** | - O filtro deve entender comandos em português e inglês<br />- O filtro por voz, deve filtrar por nome do local e nome do proprietário somente |
+| Rastreabilidade                     | FB31                                                                                                                                              |
+
+<div style="text-align: center">
+    <p> Tabela 33: História de Usuário 33 (Fonte: Autores. 2023).</p>
+</div>
+
+### US 34 - Reserva de Hospedagem
+
+| **ID**                        | 34                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Reserva de Hospedagem                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Descrição**               | Eu, como usuário, desejo realizar uma reserva de hospedagem definindo quantas pessoas e acomodações, para poder realizar a reserva de um quarto                                                                                                                                                                                                                                                                                |
+| **Critérios de Aceitação** | - As categorias de quarto devem ser separados em duas categorias os quarto de adultos para pessoas de 10 a 65+ anos de idades e de crianças de 0 a 9 anos de idade<br />- Deve ser possível inserir infomações cartão de crédito como código de segurança para confirmar a reserva<br />- Deve ser possível confirmar a reserva apenas digitando o número de segurança do cartão de crédito, sendo 3 caracteres |
+| Rastreabilidade                     | FOBS06                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+</center>
 
 <div style="text-align: center">
     <p> Tabela 34: História de Usuário 34 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 35 - Reserva de Hospedagem
+### US 35 - Gerenciamento de Companheiros de Viagem
 
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Reserva de Hospedagem                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Descrição**               | Eu, como usuário, desejo realizar uma reserva de hospedagem definindo quantas pessoas e acomodações, para poder realizar a reserva de um quarto                                                                                                                                                                                                                                                                                |
-| **Critérios de Aceitação** | - As categorias de quarto devem ser separados em duas categorias os quarto de adultos para pessoas de 10 a 65+ anos de idades e de crianças de 0 a 9 anos de idade<br />- Deve ser possível inserir infomações cartão de crédito como código de segurança para confirmar a reserva<br />- Deve ser possível confirmar a reserva apenas digitando o número de segurança do cartão de crédito, sendo 3 caracteres |
-
-</center>
+| **ID**                        | 35                                                                                                                                                                                                                                                                                       |
+| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Gerenciamento de Acompanhantes de Viagem                                                                                                                                                                                                                                                 |
+| **Descrição**               | Eu, como usuário, desejo realizar a atividade de gerenciamento de companheiros de viagem para facilitar e deixa previamente salvo as definições de quantidade e informações extras de pessoas a qual estarei acompanhado, para facilitar reservas e ter um bom uso do aplicativo |
+| **Critérios de Aceitação** | - Para adicionar um companheiro de viagem, somente o campo nome e idade deverá ser preenchido<br />- O campo de informações adicionais deve ter no máximo 500 caracteres, para informar de histórico médico ou informação sobre alergias.                                        |
+| Rastreabilidade                     | Cenário 08                                                                                                                                                                                                                                                                              |
 
 <div style="text-align: center">
     <p> Tabela 35: História de Usuário 35 (Fonte: Autores. 2023).</p>
 </div>
 
-### US 36 - Gerenciamento de Companheiros de Viagem
+### US 36 - Aluguel de Carros
 
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                                                 |
-| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Gerenciamento de Acompanhantes de Viagem                                                                                                                                                                                                                                                 |
-| **Descrição**               | Eu, como usuário, desejo realizar a atividade de gerenciamento de companheiros de viagem para facilitar e deixa previamente salvo as definições de quantidade e informações extras de pessoas a qual estarei acompanhado, para facilitar reservas e ter um bom uso do aplicativo |
-| **Critérios de Aceitação** | - Para adicionar um companheiro de viagem, somente o campo nome e idade deverá ser preenchido<br />- O campo de informações adicionais deve ter no máximo 500 caracteres, para informar de histórico médico ou informação sobre alergias.                                        |
+| **ID**                        | 36                                                                                                                                                                                 |
+| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Aluguel de Carros                                                                                                                                                                  |
+| **Descrição**               | Eu, como usuário desejo realizar um aluguel de carro com opção de devolver o carro ao mesmo local, o local da retirada do carro, da inicio e fim do aluguel e idade do condutor |
+| **Critérios de Aceitação** | - A idade do condutor deve ter no mínimo 20 anos<br />- O período de aluguel deve ter limite máximo de  11 meses<br />- O usuário deve selecionar somente aereportos          |
+| Rastreabilidade                     | FST07                                                                                                                                                                              |
 
 <div style="text-align: center">
     <p> Tabela 36: História de Usuário 36 (Fonte: Autores. 2023).</p>
+</div>
+
+### US 37 - Deleta conta
+
+| **ID**                        | 37                                                                                                                                  |
+| :---------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Deletar conta                                                                                                                       |
+| **Descrição**               | Eu, como usuário, desejo deletar minha conta, para não deixar dados meus no aplicativo e por não ter mais uso para mim           |
+| **Critérios de Aceitação** | - Para deletar a conta é necessária uma confirmação por senha<br />- Para deletar a conta necessário não possui mais reservas |
+| Rastreabilidade                     | Cenário 08                                                                                                                         |
+
+<div style="text-align: center">
+    <p> Tabela 37: História de Usuário 37 (Fonte: Autores. 2023).</p>
 </div>
 
 ## Bibliografia
