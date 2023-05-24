@@ -92,9 +92,20 @@ Um tema é uma categoria de requisitos relacionados a uma área específica do s
 
 Os temas identificados no Booking foram:
 
-- adasdasas
+- Estadia
 
-- asdadsda
+- Voos
+
+- Aluguel de carros
+
+- Atrações turísticas 
+
+- Táxi
+
+- Controle financeiro
+
 
 ### Épicos
 Um épico representa uma funcionalidade muito grande. Devido a sua natureza complexa, ele é dividido em tarefas menores e mais gerenciáveis para facilitar o acompanhamento da evolução e desenvolvimento da demanda.
+
+Os épicos identificados no Booking foram:
