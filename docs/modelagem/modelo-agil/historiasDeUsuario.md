@@ -26,7 +26,7 @@ Para validar as histórias de usuário desenvolvidas pela equipe da disciplina d
 
 ## Histórias de Usuário
 
-A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitadas para o Booking.
+A seguir, nas Tabelas 01 até 36, apresentamos as histórias de usuário elicitadas para o Booking.
 
 ### US 01 - Notícias do turismo
 
@@ -238,11 +238,11 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 
 ### US 16 - Avaliação de acomodações por usuários
 
-| **ID**                        | 16                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| :---------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Avaliação de acomodações por usuários                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Descrição**               | Como usuário do aplicativo, quero poder avaliar acomodações após a conclusão da minha estadia, fornecendo uma classificação e feedback por escrito.                                                                                                                                                                                                                                                                                            |
-| **Critérios de Aceitação** | - O usuário deve ser capaz de acessar a opção de avaliação da acomodação após a conclusão da estadia.<br />- O usuário deve ser capaz de fornecer uma classificação para a acomodação usando um sistema de estrelas ou pontuação numérica.<br />- O usuário deve ser capaz de fornecer feedback por escrito sobre sua experiência na acomodação. A avaliação do usuário deve ser salva e exibida para outros usuários verem. |
+| **ID**                        | 16                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :---------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Avaliação de acomodações por usuários                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Descrição**               | Como usuário do aplicativo, quero poder avaliar acomodações após a conclusão da minha estadia, fornecendo uma classificação e feedback por escrito.                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Critérios de Aceitação** | - O usuário deve ser capaz de acessar a opção de avaliação da acomodação após a conclusão da estadia.<br />- O usuário deve ser capaz de fornecer uma classificação para a acomodação usando um sistema de estrelas.<br />- Avaliação deve ser por estrelas que devem ser categorizadas em estrelas de 1 a 5.<br />- O feedback deve possuir no máximo 500 caracteres.<br />- O usuário deve ser capaz de fornecer feedback por escrito sobre sua experiência na acomodação. A avaliação do usuário deve ser salva e exibida para outros usuários verem. |
 
 <div style="text-align: center">
     <p> Tabela 16: História de Usuário 16 (Fonte: Autores. 2023).</p>
@@ -308,9 +308,9 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
     <p> Tabela 21: História de Usuário 21 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Cadastro de Usuário
+### US 22 - Cadastro de Usuário
 
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                                     |
+| **ID**                        | 22                                                                                                                                                                                                                                                                                                                                                           |
 | :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**                   | Cadastro de Usuário                                                                                                                                                                                                                                                                                                                                         |
 | **Descrição**               | _Eu, como **usuário**_, gostaria de poder me cadastrar utilizando somente nome, sobrenome, endereço de e-mail e uma senha, para poder realiza as atividades do aplicativo                                                                                                                                                                          |
@@ -319,12 +319,12 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 22: História de Usuário 22 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US X - Pesquisa de Acomadações Específica
 
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                                                         |
+| **ID**                        | 23                                                                                                                                                                                                                                                                                                                                                                               |
 | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**                   | Filtro de Acomadações                                                                                                                                                                                                                                                                                                                                                          |
 | **Descrição**               | Eu, como usuário, gostaria de poder ter um filtro de acomodações com base na localização, datas de check-in e check-out, tipo de quarto e preço para verificar acomodações para reservar                                                                                                                                                                                 |
@@ -333,12 +333,12 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 23: História de Usuário 23 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Cadastro de Cartão de Crédito
+### US 24 - Cadastro de Cartão de Crédito
 
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                                                                      |
+| **ID**                        | 24                                                                                                                                                                                                                                                                                                                                                                                            |
 | :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Título**                   | Cadastro de Cartão de Crédito                                                                                                                                                                                                                                                                                                                                                               |
 | **Descrição**               | Eu, como usuário, gostaria de realizar a reserva do voo, para pode realizar compras no aplicativo.                                                                                                                                                                                                                                                                                           |
@@ -347,24 +347,24 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 24: História de Usuário 24 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Cancelamento de Reserva de Acomadação
+### US 25 - Cancelamento de Reserva
 
-| **ID**                        | _Nome_                                                                                                       |
-| :---------------------------------- | :------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Cancelamento de Reserva de Acomadação                                                                        |
-| **Descrição**               | Eu, como usuário desejo cancelar minha reserva de acomodação, para que possa receber meu dinheiro de volta. |
-| **Critérios de Aceitação** | - Dever ser possível cancelar a reservar<br />- O valor de taxa de cancelamento deve aparecer, caso exista.   |
+| **ID**                        | 25                                                                                                           |
+| :---------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| **Título**                   | Cancelamento de Reserva de Acomadação                                                                      |
+| **Descrição**               | Eu, como usuário desejo cancelar minha reserva, para que possa receber meu dinheiro de volta.               |
+| **Critérios de Aceitação** | - Dever ser possível cancelar a reservar<br />- O valor de taxa de cancelamento deve aparecer, caso exista. |
 
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 25: História de Usuário 25 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Filtro de Voo
+### US 26 - Filtro de Voo
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -375,10 +375,10 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 26: História de Usuário 26 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Reserva de Voo
+### US 27 - Reserva de Voo
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                   |
 | :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -389,10 +389,10 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 27: História de Usuário 27 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Gerenciamento de Reservas
+### US 28 - Gerenciamento de Reservas
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                               |
 | :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -403,24 +403,10 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 28: História de Usuário 28 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Histórico de Reservas
-
-| **ID**                        | _Nome_                                                                                                                                                                                                 |
-| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Histórico de Reservas                                                                                                                                                                                   |
-| **Descrição**               | Eu, como usuário, gostaria de ver meu histórico de reservas feitos mostrando dados como datas, acomodações, voos , carros e táxis reservados, para assim poder saber com o que gastei e quando foi. |
-| **Critérios de Aceitação** | - Deve ser possível visualizar até 10 reservas por página<br />- Deve ser possível visualiza em página separada uma reserva especifica com apenas 1 clique de botão                               |
-
-</center>
-
-<div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
-</div>
-
-### US X - Filtro de Histórico de Reservas
+### US 29 - Filtro de Histórico de Reservas
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                         |
 | :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -431,10 +417,10 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 29: História de Usuário 29 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Escolha de Pagamento
+### US 30 - Escolha de Pagamento
 
 | **ID**                        | _Nome_                                                                                                                                                     |
 | :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -445,10 +431,10 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 30: História de Usuário 30 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Perguntas Frequentes
+### US 31 - Perguntas Frequentes
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                                                          |
 | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -459,10 +445,10 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 31: História de Usuário 31 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Bate-Papo com o locador ou empresa
+### US 32 - Bate-Papo com o locador ou empresa
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                  |
 | :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -473,10 +459,10 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 32: História de Usuário 32 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Denúncia de Contas
+### US 33 - Denúncia de Contas
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                        |
 | :---------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -487,10 +473,10 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 33: História de Usuário 33 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Fitro por Comando de Voz
+### US 34 - Fitro por Comando de Voz
 
 | **ID**                        | _Nome_                                                                                                                                          |
 | :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -499,34 +485,10 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 | **Critérios de Aceitação** | - O filtro deve entender comandos em português e inglês<br />- O filtro por voz, deve filtrar por nome do local e nome do proprietário somente |
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 34: História de Usuário 34 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Avaliação de Reservas
-
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                            |
-| :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Avaliação de Reservas                                                                                                                                                                                                                                                                                                                             |
-| **Descrição**               | Eu, como usuário, desejo avaliar e comentar reservas já completas, para expressão minha opinião sobre alguma acomodação em uma hospedagem, táxi reservado, carro alugado de uma empresa, ou ingresso de atração reservada.                                                                                                              |
-| **Critérios de Aceitação** | - Avaliação deve ser por estrelas que devem ser categorizadas em imagens de 1 a 5.<br />- Os comentários devem ter no máximo 300 caracteres para expressar sua opinião.<br />- A página da reserva deve apresentar  até no máximo 3 avalições por página, depois somente numa aba separada para verificar o restante das avaliações. |
-
-<div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
-</div>
-
-### US X - Sistema de Recomendação
-
-| **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                     |
-| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**                   | Sistema de Recomendação                                                                                                                                                                                                                                                                                                                    |
-| **Descrição**               | Eu, como usuário, gostaria de sistema de recomendação de reserva de cada categoria, para obter os melhores resultados para reserva.                                                                                                                                                                                                      |
-| **Critérios de Aceitação** | - A recomendação na página deve apresentar a melhor região para uma reserva de acordo com a localização atual do usuário, com alccance de 15 quilômetros.<br />- A recomendação por filtro deve apresenta em primeiro lugar os mais bem avaliados de acordo com a pesquisa de reserva do usuário, apresentando 2 recomendações |
-
-<div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
-</div>
-
-### US X - Reserva de Hospedagem
+### US 35 - Reserva de Hospedagem
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -537,10 +499,10 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 </center>
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 35: História de Usuário 35 (Fonte: Autores. 2023).</p>
 </div>
 
-### US X - Gerenciamento de Companheiros de Viagem
+### US 36 - Gerenciamento de Companheiros de Viagem
 
 | **ID**                        | _Nome_                                                                                                                                                                                                                                                                                 |
 | :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -549,8 +511,9 @@ A seguir, nas Tabelas 01 até N, apresentamos as histórias de usuário elicitad
 | **Critérios de Aceitação** | - Para adicionar um companheiro de viagem, somente o campo nome e idade deverá ser preenchido<br />- O campo de informações adicionais deve ter no máximo 500 caracteres, para informar de histórico médico ou informação sobre alergias.                                        |
 
 <div style="text-align: center">
-    <p> Tabela X: História de Usuário X (Fonte: Autores. 2023).</p>
+    <p> Tabela 36: História de Usuário 36 (Fonte: Autores. 2023).</p>
 </div>
+
 
 ## Bibliografia
 
