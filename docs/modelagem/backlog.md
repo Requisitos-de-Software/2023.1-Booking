@@ -84,3 +84,17 @@ Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo
 <div style="text-align: center">
 <p> Tabela 1: requisitos do backlog juntamente com sua rastreabilidade (Fonte: Autores, 2023). </p>
 </div>
+
+## Backlog
+
+### Temas
+Um tema é uma categoria de requisitos relacionados a uma área específica do sistema. Ele representa um conjunto amplo de requisitos relacionados, agrupados em torno de um tópico, ajudando a identificar áreas principais do sistema.
+
+Os temas identificados no Booking foram:
+
+- adasdasas
+
+- asdadsda
+
+### Épicos
+Um épico representa uma funcionalidade muito grande. Devido a sua natureza complexa, ele é dividido em tarefas menores e mais gerenciáveis para facilitar o acompanhamento da evolução e desenvolvimento da demanda.
