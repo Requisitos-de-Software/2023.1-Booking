@@ -109,3 +109,15 @@ Os temas identificados no Booking foram:
 Um épico representa uma funcionalidade muito grande. Devido a sua natureza complexa, ele é dividido em tarefas menores e mais gerenciáveis para facilitar o acompanhamento da evolução e desenvolvimento da demanda.
 
 Os épicos identificados no Booking foram:
+
+EP01 - Agendar estadia  
+
+EP01 - Reservar voos  
+
+EP01 - Alugar carros  
+
+EP01 - Agendar visita a atrações turísticas
+
+EP01 - Reservar táxi
+
+EP01 - Realizar pagamento do serviço
