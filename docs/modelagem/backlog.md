@@ -100,24 +100,49 @@ Os temas identificados no Booking foram:
 
 - Atrações turísticas 
 
-- Táxi
-
 - Controle financeiro
 
+- Recomendação
 
 ### Épicos
 Um épico representa uma funcionalidade muito grande. Devido a sua natureza complexa, ele é dividido em tarefas menores e mais gerenciáveis para facilitar o acompanhamento da evolução e desenvolvimento da demanda.
 
 Os épicos identificados no Booking foram:
 
-EP01 - Agendar estadia  
+#### EP01 - Realizar reserva de acomodações
+Eu, como usuário, desejo reservar acomodações, para poder poder me hospedar.
 
-EP01 - Reservar voos  
+#### EP02 - Exibir dados básicos das acomodações 
+Eu, como usuário, desejo visualizar informações básicas das acomodações, por exemplo fotos, endereço, quantidade de quartos, horários de check-in e check-out e avaliação de outros usuários, para poder julgar se o ambiente atende as minhas necessidades.
 
-EP01 - Alugar carros  
+#### EP03 - Exibir recomendações de acomodações personalizadas
+Eu, como usuário, desejo visualizar recomendações personalizadas para o meu perfil, com base nas minhas escolhas anteriores.
 
-EP01 - Agendar visita a atrações turísticas
+#### EP04 - Realizar reserva de voos
+Eu, como usuário, desejo reservar voos, para viajar.
 
-EP01 - Reservar táxi
+#### EP05 - Comparação de preços entre voos
+Eu, como usuário, desejo comparar preços de voos semelhantes, para realizar a melhor compra.
 
-EP01 - Realizar pagamento do serviço
+#### EP06 - Comparação de preços entre voos
+Eu, como usuário, desejo comparar preços de voos semelhantes, para realizar a melhor compra.
+
+#### EP07 - Exibir etapas para conclusão do voo
+Eu, como usuário, desejo saber quais são as etapas necessárias para a conclusão do voo, por exemplo, itinerário, conexões e autotransferência, para concluir o voo com sucesso.
+
+#### EP08 - Alugar carro
+Eu, como usuário, desejo alugar um ou mais carros, para realizar minhas atividades.
+
+#### EP09 - Personalizar o carro
+Eu, como usuário, desejo poder personalizar o carro alugada, com opcionais, como cadeira para crianças, combustível, adaptações para pessoas com necessidades especiais, para ter um veículo que me satisfaça.
+
+#### EP11 - Informações sobre atrações turísticas
+Eu, como usuário, desejo visualizar informações detalhadas sobre as atrações turísticas de um determinado lugar, para decidir quais atividades participar.
+
+#### EP12 - Compra de ingressos
+Eu, como usuário, desejo comprar ingressos para as atrações turísticas pelo booking, para centralizar o planejamento da minha viagem.
+
+#### EP13 - Atendimento direto
+Eu, como usuário, desejo me comunicar diretamente com o prestador de serviços pelo aplicativo, para tirar dúvidas e resolver problemas de maneira segura e eficiênte.
+EP13 - Agendar táxi
+Eu, como usuário, desejo agendar táxis, para conseguir me locomover de forma rápida.
