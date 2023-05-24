@@ -64,3 +64,5 @@ nav:
       - Léxicos: modelagem/lexicos.md
       - Casos de uso: modelagem/casosDeUso.md
       - Especificação Suplementar: modelagem/especificacaoSuplementar.md
+      - Modelagem Ágil:
+        - Backlock: modelagem/backlog.md
