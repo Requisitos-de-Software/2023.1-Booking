@@ -40,12 +40,12 @@ Utilizamos os tipos de rótulos utilizados pelos softgoals do framework, represe
 <img src="../../../images/nfr/LegendaSimbolos.png"/>
 <p style="text-align: center">Figura 2 - Legenda de Rótulos.(Fonte: Autores. 2023).</p>
 
-<img src="./../../images/nfr/LegendaSimbolosSetas.png"/>
+<img src="../../../images/nfr/LegendaSimbolosSetas.png"/>
 <p style="text-align: center">Figura 3 - Legenda de Setas de Contribuição.(Fonte: Autores. 2023).</p>
 
 ## Metodologia
 
-Para a implementação do Framework NFR, foram selecionados os requisitos não funcionais elicitados anteriormente com base em sua relevância para o sistema. Esses requisitos foram obtidos por meio do artefato de [Especificação Suplementar](../modelagem/especificacaoSuplementar.md). Os Softgoal Interdependency Graphs (SIGs) foram construídos com base nos SIGs validados da dissertação de mestrado de Reinaldo Antônio da Silva [1].
+Para a implementação do Framework NFR, foram selecionados os requisitos não funcionais elicitados anteriormente com base em sua relevância para o sistema. Esses requisitos foram obtidos por meio do artefato de [Especificação Suplementar](../../modelagem/especificacaoSuplementar.md). Os Softgoal Interdependency Graphs (SIGs) foram construídos com base nos SIGs validados da dissertação de mestrado de Reinaldo Antônio da Silva [1].
 
 Os requisitos não funcionais selecionados foram: confiabilidade, desempenho e usabilidade.
 
