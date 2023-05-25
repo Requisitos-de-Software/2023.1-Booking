@@ -14,7 +14,7 @@ O principal objetivo do framework é fornecer uma estrutura para armazenar o des
 
 Como mostrado na Figura 1, assim se representará os Softgoals dentro do NFR Framework.
 
-<img src="../../images/nfr/Softgoals.png"/>
+<img src="../../../images/nfr/Softgoals.png"/>
 <p style="text-align: center">Figura 1 - Legenda de Softgoals.(Fonte: Autores. 2023).</p>
 
 ## Contribuições
@@ -37,10 +37,10 @@ Tipos de contribuições utilizadas pelo framework:
 
 Utilizamos os tipos de rótulos utilizados pelos softgoals do framework, representadas na Figura 2, bem como as setas das contribuições na Figura 3. E os softgoals seguindo o padrão representado anteriormente na Figura 1.
 
-<img src="../../images/nfr/LegendaSimbolos.png"/>
+<img src="../../../images/nfr/LegendaSimbolos.png"/>
 <p style="text-align: center">Figura 2 - Legenda de Rótulos.(Fonte: Autores. 2023).</p>
 
-<img src="../../images/nfr/LegendaSimbolosSetas.png"/>
+<img src="./../../images/nfr/LegendaSimbolosSetas.png"/>
 <p style="text-align: center">Figura 3 - Legenda de Setas de Contribuição.(Fonte: Autores. 2023).</p>
 
 ## Metodologia
@@ -59,7 +59,7 @@ Os diagramas apresentados nas Figuras 2 a 7 foram elaborados com base nos diagra
 
 A Figura 4 apresenta o SIG de confiabilidade.
 
-![Dragrama do NRF de confiabilidade](../images/nfrFramework/CONFIABILIDADE_DIAGRAMA.png)
+![Dragrama do NRF de confiabilidade](../../images/nfrFramework/CONFIABILIDADE_DIAGRAMA.png)
 
 <div style="text-align: center">
 <p> Figura 4: SIG de confiabilidade (adaptado)<br>
@@ -70,7 +70,7 @@ Fonte: Adaptado de Figura 21 – Requisito de Confiabilidade - Refinamentos e Co
 
 A Figura 5 apresenta a propagação de impacto do NFR de confiabilidade.
 
-![Propagação do NRF de confiabilidade](../images/nfrFramework/CONFIABILIDADE_PROPAGACAO.png)
+![Propagação do NRF de confiabilidade](../../images/nfrFramework/CONFIABILIDADE_PROPAGACAO.png)
 
 <div style="text-align: center">
 <p> Figura 5: Propagação de impacto do NFR de confiabilidade (adaptado)<br>
@@ -86,7 +86,7 @@ Fonte: Adaptado de Figura 21 – Requisito de Confiabilidade - Refinamentos e Co
 | Descrição                | O sistema deve garantir que os dados sejam armazenados e recuperados de forma segura e consistente, sem perda ou corrupção.                                                                                                                                                                                                                            |
 | Justificativa              | O sistema do wikipédia é uma fonte de informação amplamente utilizada por milhões de usuários em todo o mundo, que esperam encontrar conteúdo confiável e atualizado. Portanto, é essencial que o sistema garanta a confiabilidade dos dados, evitando perdas ou corrupções que possam afetar a qualidade e a credibilidade da informação. |
 | Critério de aceitação   | O sistema deve passar por testes de carga, estresse e recuperação de falhas, comprovando que pode suportar altas demandas e situações adversas sem comprometer a integridade dos dado                                                                                                                                                                |
-| Origem do requisito        | [Especificação Suplementar](../../modelagem/especificacaoSuplementar/#3-confiabilidade)                                                                                                                                                                                                                                                                   |
+| Origem do requisito        | [Especificação Suplementar](../../../modelagem/especificacaoSuplementar/#3-confiabilidade)                                                                                                                                                                                                                                                                   |
 | Prioridade                 | Alta                                                                                                                                                                                                                                                                                                                                                     |
 
 <div style="text-align: center">
@@ -97,7 +97,7 @@ Fonte: Adaptado de Figura 21 – Requisito de Confiabilidade - Refinamentos e Co
 
 A Figura 6 apresenta o SIG de NFR de confiabilidade.
 
-![Diagrama NFR confiabilidade](../images/nfrFramework/DESEMPENHO_DIAGRAMA.png)
+![Diagrama NFR confiabilidade](../../images/nfrFramework/DESEMPENHO_DIAGRAMA.png)
 
 <div style="text-align: center">
 <p> Figura 6: SIG de desempenho (adaptado)<br>
@@ -108,7 +108,7 @@ Fonte: Adaptado de Figura 27 – Requisito de Desempenho - contribuições e cor
 
 A Figura 7 apresenta a propagação de impacto do NFR de confiabilidade.
 
-![Propagação do NFR de Desempenho](../images/nfrFramework/DESEMPENHO_PROPAGACAO.png)
+![Propagação do NFR de Desempenho](../../images/nfrFramework/DESEMPENHO_PROPAGACAO.png)
 
 <div style="text-align: center">
 <p> Figura 7: Propagação de impacto do NFR de desempenho (adaptado)<br>
@@ -124,7 +124,7 @@ Fonte: Adaptado de Figura 27 – Requisito de Desempenho - contribuições e cor
 | Descrição                | O sistema deve responder às solicitações dos usuários de forma rápida e eficiente, sem causar atrasos ou travamentos.                                                                                                                                                                                                                                                                                                                                                                         |
 | Justificativa              | O sistema do wikipédia é acessado por milhões de usuários simultaneamente, que realizam consultas e edições nos artigos disponíveis. Além disso, o sistema possui um grande volume de dados armazenados, que devem ser processados e entregues aos usuários de forma eficaz. Portanto, é fundamental que o sistema tenha um bom desempenho, garantindo que os usuários tenham uma experiência satisfatória e não desistam de usar o serviço por causa de lentidão ou instabilidade |
 | Critério de aceitação   | O sistema deve atender aos padrões de tempo de resposta e taxa de transferência definidos pelo cliente, medidos por ferramentas de monitoramento e avaliação de desempenho.                                                                                                                                                                                                                                                                                                                    |
-| Origem do requisito        | [Especificação Suplementar](../../modelagem/especificacaoSuplementar/)                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Origem do requisito        | [Especificação Suplementar](../../../modelagem/especificacaoSuplementar/)                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Prioridade                 | Alta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 <div style="text-align: center">
@@ -135,7 +135,7 @@ Fonte: Adaptado de Figura 27 – Requisito de Desempenho - contribuições e cor
 
 A Figura 8 apresenta o SIG de confiabilidade.
 
-![SIG de confiabilidade](../images/nfrFramework/USABILIDADE_DIAGRAMA.png)
+![SIG de confiabilidade](../../images/nfrFramework/USABILIDADE_DIAGRAMA.png)
 
 <div style="text-align: center">
 <p> Figura 8: SIG de Usabilidade (adaptado)<br>
@@ -146,7 +146,7 @@ Fonte: Adaptado de Figura 86 – Usabilidade - contribuições e operacionaliza�
 
 A Figura 9 apresenta a propagação de impacto do NFR de confiabilidade.
 
-![Propagação do NRF de Usabilidade](../images/nfrFramework/USABILIDADE_PROPAGACAO.png)
+![Propagação do NRF de Usabilidade](../../images/nfrFramework/USABILIDADE_PROPAGACAO.png)
 
 <div style="text-align: center">
 <p> Figura 9: Propagação de impacto do NFR de desempenho (adaptado)<br>
@@ -162,7 +162,7 @@ Fonte: Adaptado de Figura 86 – Usabilidade - contribuições e operacionaliza�
 | Descrição                | O sistema deve responder às solicitações dos usuários de forma rápida e eficiente, sem causar atrasos ou travamentos.                                                                                                                                                                                                                                                                                                                                                                         |
 | Justificativa              | O sistema do wikipédia é acessado por milhões de usuários simultaneamente, que realizam consultas e edições nos artigos disponíveis. Além disso, o sistema possui um grande volume de dados armazenados, que devem ser processados e entregues aos usuários de forma eficaz. Portanto, é fundamental que o sistema tenha um bom desempenho, garantindo que os usuários tenham uma experiência satisfatória e não desistam de usar o serviço por causa de lentidão ou instabilidade |
 | Critério de aceitação   | O sistema deve atender aos padrões de tempo de resposta e taxa de transferência definidos pelo cliente, medidos por ferramentas de monitoramento e avaliação de desempenho.                                                                                                                                                                                                                                                                                                                    |
-| Origem do requisito        | [Especificação Suplementar](../../modelagem/especificacaoSuplementar/#2-usabilidade)                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Origem do requisito        | [Especificação Suplementar](../../../modelagem/especificacaoSuplementar/#2-usabilidade)                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Prioridade                 | Alta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 <div style="text-align: center">
