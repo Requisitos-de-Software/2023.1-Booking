@@ -37,6 +37,7 @@ nav:
   - Apresentações: 
       - Primeira Apresentação: apresentacoes/primeiraApresentacao.md
       - Segunda Apresentação: apresentacoes/segundaApresentacao.md
+      - Terceira Apresentação: apresentacoes/terceiraApresentacao.md
   - Pré-Rastreabilidade:
       - Rich Picture: prePlanejamento/richPicture.md
   - Planejamento:
@@ -60,6 +61,9 @@ nav:
       - In or Out: elicitacao/inOrOut.md
   - Modelagem:
       - Cenários: modelagem/cenarios.md
-      - Especificação Suplementar: modelagem/especificacaoSuplementar.md
       - Léxicos: modelagem/lexicos.md
       - Casos de uso: modelagem/casosDeUso.md
+      - Especificação Suplementar: modelagem/especificacaoSuplementar.md
+      - Modelagem Ágil:
+        - Backlog: modelagem/modelo-agil/backlog.md
+        - Histórias de Usuário: modelagem/modelo-agil/historiasDeUsuario.md

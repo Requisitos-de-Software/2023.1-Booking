@@ -61,6 +61,160 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
     <p> Tabela 18: Léxico 17. (Fonte: Autores. 2023).</p>
 </div>
 
+### L05 - Favoritos
+
+| **L05**             | _Favoritos_                                                                                                                 |
+| :------------------------ | :---------------------------------------------------------------------------------------------------------------------------- |
+| **Autor**           | Pedro Henrique                                                                                                                |
+| **Classificação** | Estado                                                                                                                        |
+| **Sinônimos**      | _Preferido, querido, estimado_                                                                                              |
+| **Noção**         | Classificação dos melhores lugares feita pelo usuario.                                                                      |
+| **Impacto**         | _Os usuários têm acesso rápido aos melhores lugares (hoteis,  pousadas e etc) que o mesmo classificou como favorito._ |
+| **Rastro**          | [OBS010](../elicitacao/brainstorm.md)                                                                                            |
+
+<div style="text-align: center">
+    <p> Tabela 6: Léxico 05. (Fonte: Autores. 2023).</p>
+</div>
+
+### L06 - Dicas
+
+| **L06**             | Dicas                                                                                                                                                    |
+| :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Autor**           | Pedro Henrique                                                                                                                                           |
+| **Classificação** | _Objeto_                                                                                                                                               |
+| **Sinônimos**      | _Indicação, orientação, conselho_                                                                                                                  |
+| **Noção**         | São informações diversas para o usuário, desde como usar o aplicativo até a quais lugares são recomendados para visitar e realizar uma hospedagem. |
+| **Impacto**         | O usuário é informado sobre funcionalidades do aplicativo e sobre lugares novos para poder visitar.                                                    |
+| **Rastro**          | [OBS016](../elicitacao/brainstorm.md)                                                                                                                       |
+
+<div style="text-align: center">
+    <p> Tabela 7: Léxico 06. (Fonte: Autores. 2023).</p>
+</div>
+
+### L07 - Premium
+
+| **L07**             | Premium                                                                                                                |
+| :------------------------ | :--------------------------------------------------------------------------------------------------------------------- |
+| **Autor**           | Pedro Henrique                                                                                                         |
+| **Classificação** | Estado                                                                                                                 |
+| **Sinônimos**      | _Diferenciado, Especial_                                                                                             |
+| **Noção**         | É uma condição que o usuario pode comprar para ter acesso a funcionalidade exclusivas ou prioridade no aplicativo  |
+| **Impacto**         | _Os usuários que são especiais podem ter acesso a funcionalidade exclusivas ou prioridade em relação aos demais_ |
+| **Rastro**          | [OBS020](../elicitacao/brainstorm.md)                                                                                     |
+
+<div style="text-align: center">
+    <p> Tabela 8: Léxico 07. (Fonte: Autores. 2023).</p>
+</div>
+
+### L08 - Idioma
+
+| **L08**             | Idioma                                                                         |
+| :------------------------ | :----------------------------------------------------------------------------- |
+| **Autor**           | Pedro Henrique                                                                 |
+| **Classificação** | _Objeto_                                                                     |
+| **Sinônimos**      | _Língua, dialeto, linguagem_                                                |
+| **Noção**         | Opção para mudar a linguagem do aplicativo                                   |
+| **Impacto**         | _O aplicativo se torna acessivel aos usuários que falam diferentes idiomas_ |
+| **Rastro**          | [OBS021](../elicitacao/brainstorm.md)                                             |
+
+<div style="text-align: center">
+    <p> Tabela 9: Léxico 08. (Fonte: Autores. 2023).</p>
+</div>
+
+### L09 - Pontuação
+
+| **L09**             | Pontuação                                                                                |
+| :------------------------ | :----------------------------------------------------------------------------------------- |
+| **Autor**           | Pedro Henrique                                                                             |
+| **Classificação** | _Objeto_                                                                                 |
+| **Sinônimos**      | Placar, contagem, escore                                                                   |
+| **Noção**         | São números acumulativos fornecidos ao usuário                                          |
+| **Impacto**         | _Os usuários podem acumular pontos para trocar por descontos em reservas no aplicativo_ |
+| **Rastro**          | [OBS026](../elicitacao/brainstorm.md)                                                         |
+
+<div style="text-align: center">
+    <p> Tabela 10: Léxico 09. (Fonte: Autores. 2023).</p>
+</div>
+
+### L10 - Avaliar
+
+| **L10**             | Avaliar                                                                         |
+| :------------------------ | :------------------------------------------------------------------------------ |
+| **Autor**           | Pedro Henrique                                                                  |
+| **Classificação** | Verbo                                                                           |
+| **Sinônimos**      | Julgar, criticar                                                                |
+| **Noção**         | Campo destinado para o usuário avaliar o sua experiência com a hospedagem.   |
+| **Impacto**         | _Os usuários tem acesso a opinião de outros usuarios sobre o a hospedagem._ |
+| **Rastro**          | [OBS28](../elicitacao/brainstorm.md)                                               |
+
+<div style="text-align: center">
+    <p> Tabela 11: Léxico 10. (Fonte: Autores. 2023).</p>
+</div>
+
+</center>
+
+<center style="max-width: 500px; margin: auto; align-items: center;">
+
+### L11 - Busca
+
+| L11                       | Busca                                                                                                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Autor**           | Samuel Gomes                                                                                                                                                                    |
+| **Classificação** | Verbo                                                                                                                                                                           |
+| **Sinônimos**      | Procurar, pesquisar, investigar                                                                                                                                                 |
+| **Noção**         | Ação de buscar por acomodações ou atividades disponíveis no aplicativo.                                                                                                    |
+| **Impacto**         | A busca é a primeira etapa para que o usuário possa encontrar e reservar acomodações ou atividades de interesse, portanto, é fundamental para a usabilidade do aplicativo. |
+| **Rastro**          | [FOBS02](../elicitacao/observacao.md)                                                                                                                                              |
+
+<div style="text-align: center">
+    <p> Tabela 12: Léxico 11. (Fonte: Autores. 2023).</p>
+</div>
+
+### L12 - Cancelamento
+
+| L12                       | Cancelamento                                                                                                                                                           |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Autor**           | Samuel Gomes                                                                                                                                                           |
+| **Classificação** | Verbo                                                                                                                                                                  |
+| **Sinônimos**      | Desmarcar, anular, rescindir                                                                                                                                           |
+| **Noção**         | Ação de cancelar uma reserva previamente feita.                                                                                                                      |
+| **Impacto**         | O cancelamento pode ter impacto financeiro na plataforma e também afetar a experiência do usuário, sendo importante que o processo seja claro e fácil de realizar. |
+| **Rastro**          | [FB04](../elicitacao/brainstorm.md)                                                                                                                                       |
+
+<div style="text-align: center">
+    <p> Tabela 13: Léxico 12. (Fonte: Autores. 2023).</p>
+</div>
+
+### L13 - Pagamento
+
+| L13                       | Pagamento                                                                                                                                                  |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ator**            | Samuel Gomes                                                                                                                                               |
+| **Classificação** | Verbo                                                                                                                                                      |
+| **Sinônimos**      | Quitar, pagar, liquidar                                                                                                                                    |
+| **Noção**         | Ação de realizar o pagamento pela acomodação ou atividade reservada.                                                                                   |
+| **Impacto**         | O pagamento é uma etapa importante da reserva e deve ser seguro e fácil para o usuário, a fim de evitar problemas e garantir a satisfação do cliente. |
+| **Rastro**          | [FB02](../elicitacao/brainstorm.md)                                                                                                                           |
+
+<div style="text-align: center">
+    <p> Tabela 14: Léxico 13. (Fonte: Autores. 2023).</p>
+</div>
+
+### L14 - Mapa
+
+| L14                       | Mapa                                                                                                                                                                        |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ator**            | Samuel Gomes                                                                                                                                                                |
+| **Classificação** | Objeto                                                                                                                                                                      |
+| **Sinônimos**      | Localizador, guia, roteiro                                                                                                                                                  |
+| **Noção**         | Ferramenta de visualização das acomodações, atividades e atrações disponíveis em determinada região.                                                                |
+| **Impacto**         | O mapa é importante para ajudar os usuários a localizarem as opções disponíveis e também para oferecer uma visão geral da oferta disponível em determinada região. |
+| **Rastro**          | [FOBS010](../elicitacao/observacao.md)                                                                                                                                         |
+
+<div style="text-align: center">
+    <p> Tabela 15: Léxico 14. (Fonte: Autores. 2023).</p>
+</div>
+
 ### L15 - Ajuda
 
 | L15                       | Ajuda                                                                                                                                                                       |
