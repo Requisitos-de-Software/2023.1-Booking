@@ -336,7 +336,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Filtro de Acomadações                                                                                                                                                                                                                                                                                                                                                          |
 | **Descrição**               | Eu, como usuário, gostaria de poder ter um filtro de acomodações com base na localização, datas de check-in e check-out, tipo de quarto e preço para verificar acomodações para reservar                                                                                                                                                                                 |
 | **Critérios de Aceitação** | - Deve ser possivel ligar e desligar a localização do usuário<br />- Não deve ser possível colocar a data de check-in antes da data do sistema operacional do dispositivo móvel <br />- Deve ser possível selecionar o tipo de quarto disponibilizado pelo empresa hospelareira.<br />- Deve ser possível ser possível escolher a acomadação de acordo com o preço. |
-| Rastreabilidade                     | FST02                                                                                                                                                                                                                                                                                                                                                                            |
+| Rastreabilidade                     | [FST02](../../elicitacao/storytelling.md/#requisitos-funcionais)                                                                                                                                                                                                                                                                                                                    |
 
 </center>
 
@@ -351,7 +351,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Cadastro de Cartão de Crédito                                                                                                                                                                                                                                                                                                                                                               |
 | **Descrição**               | Eu, como usuário, gostaria de registrar um cartão de crédito, para realizar pagamentos de forma ágil                                                                                                                                                                                                                                                                                      |
 | **Critérios de Aceitação** | - Deve ser possível cadastrar o número de cartão de crédito, entre 13 e 16 caracteres númericos<br />- Deve ser possível selecionar a bandeira do cartão de crédito entre Americann Express, Visa, Mastercard e UnionPay<br />- Deve ser possível colocar o nome do titular do cartão<br />- Deve ser possível colocar a data de validade do cartão com campo para mês e ano.  |
-| Rastreabilidade                     | FST03                                                                                                                                                                                                                                                                                                                                                                                         |
+| Rastreabilidade                     | [FST03](../../elicitacao/storytelling.md/#requisitos-funcionais)                                                                                                                                                                                                                                                                                                                                 |
 
 </center>
 
@@ -366,7 +366,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Cancelamento de Reserva de Acomadação                                                                      |
 | **Descrição**               | Eu, como usuário desejo cancelar minha reserva, para que possa receber meu dinheiro de volta.               |
 | **Critérios de Aceitação** | - Dever ser possível cancelar a reservar<br />- O valor de taxa de cancelamento deve aparecer, caso exista. |
-| Rastreabilidade                     | FST04                                                                                                        |
+| Rastreabilidade                     | [FST04](../../elicitacao/storytelling.md/#requisitos-funcionais)                                                                                                     |
 
 </center>
 
@@ -381,7 +381,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Filtro de Voo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | **Descrição**               | Eu, como usuário, desejo reserva voos com origem e origem, data de ida em que irá ocorrer o voo, e volta se possível, e número de passagem e classes do voo, para conseguir realizar uma viagem de bom humor.                                                                                                                                                                                                                                                                                                                                                                  |
 | **Critérios de Aceitação** | - Deve ser possível selecionar o aeroporto de origem do voo<br />- Deve ser possível selecionar o aeroporto de destino do voo<br />- Deve ser possível selecionar o data para viagem, não podendo ser antes da data do dispositivo do móvel.<br />- Deve ser possível selecionar caso escolhido uma data de ida de voo, uma data de volta do voo.<br />- Deve ser possível selecionar o número de passagens, se é para a categoria de adulto ou criança.<br />- Deve ser possível escolher a classe do voo: Econômica, Econômica Premium, Executiva, Primeira Classe. |
-| Rastreabilidade                     | FST05                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Rastreabilidade                     | [FST05]((../../elicitacao/storytelling.md/#requisitos-funcionais))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 </center>
 
@@ -396,7 +396,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Reserva de Voo                                                                                                                                                                                                                                             |
 | **Descrição**               | Eu, como usuário, gostaria de confirmar a reserva do voo inserindo informações de pagamento, para confirmar a reserva do voo.                                                                                                                           |
 | **Critérios de Aceitação** | - Deve ser possível inserir infomações cartão de crédito como código de segurança para confirmar a reserva.<br />- Deve ser possível confirmar a reserva apenas digitando o número de segurança do cartão de crédito, sendo 3 caracteres.  |
-| Rastreabilidade                     | FST06                                                                                                                                                                                                                                                      |
+| Rastreabilidade                     | [FST06](../../elicitacao/storytelling.md/#requisitos-funcionais)                                                                                                                                                                                                                                                      |
 
 </center>
 
@@ -411,7 +411,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Gerenciamento de Reservas                                                                                                                                                                                                                              |
 | **Descrição**               | Eu, como usuário gostaria de poder realizar as atividades de gerenciamento de reserva como  para a visualização de detalhes da reserva, alterações de datas e cancelamentos, para ser fácil de saber a existência das minhas reservas atuais. |
 | **Critérios de Aceitação** | - Deve ser possível com até 4 cliques cancelar uma reserva<br />- Deve ser possível imprimir um comprovante da reserva                                                                                                                              |
-| Rastreabilidade                     | FST10                                                                                                                                                                                                                                                  |
+| Rastreabilidade                     | [FST10](../../elicitacao/storytelling.md/#requisitos-funcionais)                                                                                                                                                                                                                                                  |
 
 </center>
 
@@ -426,7 +426,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Filtro de Histórico de Reservas                                                                                                                                                                                                                 |
 | **Descrição**               | Eu, como usuário, gostaria que o sistema filtrasse o histórico de reservas por categoria, nome ou data da reserva, para localizar melhor a reserva feitas                                                                                      |
 | **Critérios de Aceitação** | - As categorias dever ser feitas de acordo com os serviços de voo, táxi, hospedagens, aluguel de carro, ingressos de atrações<br />- Cada consulta deve mostrar data, local, nome da empresa ou pessoa responsável pelo local e categoria. |
-| Rastreabiliade                      | FST10                                                                                                                                                                                                                                            |
+| Rastreabiliade                      | [FST10](../../elicitacao/storytelling.md/#requisitos-funcionais)                                                                                                                                                                                                                                            |
 
 </center>
 
@@ -441,7 +441,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Escolha de Pagamento                                                                                                                                         |
 | **Descrição**               | Eu como usuário gostaria de poder escolher a forma de pagamento, para ter mais opções para pagar as reservas feitas                                       |
 | **Critérios de Aceitação** | - As opções de pagamento devem ser a de cartão de crédito, boleto e pix<br />- A escolha de pagamento pode ser pré-definida para as próximas reservas. |
-| Rastreabilidade                     | FB02                                                                                                                                                         |
+| Rastreabilidade                     | [FB02](../../elicitacao/observacao.md/#requisitos-funcionais)                                                                                                                                                         |
 
 </center>
 
@@ -456,7 +456,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Perguntas Frequentes                                                                                                                                                                                                                                                                              |
 | **Descrição**               | Eu, como usuário, gostaria de participar de um chat para realizar perguntas sobre dúvidas que possuo, para poder responder dpuvidas que eu tenha sobre o aplicativo, ou as politicas de reservas feitas                                                                                        |
 | **Critérios de Aceitação** | - O chat deve possuir sugestões de perguntas a serem feitas<br />- As peguntas devem possuir no máximo cerca de 500 caracteres.<br />- Caso, as perguntas não tenham respondido minhas dúvidas, elas devem disponibilizar um email para contatar o suporte que possa responder as dúvidas. |
-| Rastreabilidade                     | FB24                                                                                                                                                                                                                                                                                              |
+| Rastreabilidade                     | [FB24](../../elicitacao/observacao.md/#requisitos-funcionais)                                                                                                                                                                                                                                                                                              |
 
 </center>
 
@@ -471,7 +471,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Bate-Papo com o locator ou empresa                                                                                                                                                                                                                        |
 | **Descrição**               | Eu, como usuário, gostaria de um bate-papo com o locador ou empresa responsável pela reserva do local, para tirar dúvidas sobre a hospedagem, local e dados sobre a região                                                                           |
 | **Critérios de Aceitação** | - Deve ser possível baixar o histórico da conversa<br />- A conversa deve possuir nome, data e hora que a mensagens foram enviadas<br />- A sistema deve enviar notificações quando ao locador/empresa quando uma mensagem for enviada, e vice-versa. |
-| Rastreabilidade                     | FB25                                                                                                                                                                                                                                                      |
+| Rastreabilidade                     | [FB25](../../elicitacao/observacao.md/#requisitos-funcionais)                                                                                                                                                                                                                                                      |
 
 </center>
 
@@ -486,7 +486,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Denúncia de Contas                                                                                                                                                                                                                                                                                                                             |
 | **Descrição**               | Eu, eu como usuário, gostaria de poder denunciar contas de locadores e empresas, para tornar ou avisar ao sistema quando alguma politica de reserva, algum serviço oferecido pelo Booking foi violada por algum locador ou empresa.                                                                                                           |
 | **Critérios de Aceitação** | - A denuncia deve ser feita somente se uma reserva já realizada e fechada, foi feita antes<br />- A denúcia deve ter um campo, de motivação como categorias como: propaganda enganosa, foto não codiz com a realidade, preço alto de demais para região, serviço incompleto ou mal-atendimento ou outro que estará como campo aberto  |
-| Rastreabilidade                     | FB27                                                                                                                                                                                                                                                                                                                                            |
+| Rastreabilidade                     | [FB27](../../elicitacao/observacao.md/#requisitos-funcionais)                                                                                                                                                                                                                                                                                                                                             |
 
 </center>
 
@@ -501,7 +501,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Fitro por Comando de Voz                                                                                                                          |
 | **Descrição**               | Eu, como usuário, gostaria de pesquisa reserva feita ou em andamento por comando de voz, para tornar mais acessível o aplicativo               |
 | **Critérios de Aceitação** | - O filtro deve entender comandos em português e inglês<br />- O filtro por voz, deve filtrar por nome do local e nome do proprietário somente |
-| Rastreabilidade                     | FB31                                                                                                                                              |
+| Rastreabilidade                     | [FB31](../../elicitacao/observacao.md/#requisitos-funcionais)                                                                                                                                               |
 
 <div style="text-align: center">
     <p> Tabela 33: História de Usuário 33 (Fonte: Autores. 2023).</p>
@@ -514,7 +514,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Reserva de Hospedagem                                                                                                                                                                                                                                                                                                                                                                                                             |
 | **Descrição**               | Eu, como usuário, desejo realizar uma reserva de hospedagem definindo quantas pessoas e acomodações, para poder realizar a reserva de um quarto                                                                                                                                                                                                                                                                                |
 | **Critérios de Aceitação** | - As categorias de quarto devem ser separados em duas categorias os quarto de adultos para pessoas de 10 a 65+ anos de idades e de crianças de 0 a 9 anos de idade<br />- Deve ser possível inserir infomações cartão de crédito como código de segurança para confirmar a reserva<br />- Deve ser possível confirmar a reserva apenas digitando o número de segurança do cartão de crédito, sendo 3 caracteres |
-| Rastreabilidade                     | FOBS06                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Rastreabilidade                     | [FOBS06](../../elicitacao/observacao.md/#requisitos-funcionais)                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 </center>
 
@@ -529,7 +529,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Gerenciamento de Acompanhantes de Viagem                                                                                                                                                                                                                                                 |
 | **Descrição**               | Eu, como usuário, desejo realizar a atividade de gerenciamento de companheiros de viagem para facilitar e deixa previamente salvo as definições de quantidade e informações extras de pessoas a qual estarei acompanhado, para facilitar reservas e ter um bom uso do aplicativo |
 | **Critérios de Aceitação** | - Para adicionar um companheiro de viagem, somente o campo nome e idade deverá ser preenchido<br />- O campo de informações adicionais deve ter no máximo 500 caracteres, para informar de histórico médico ou informação sobre alergias.                                        |
-| Rastreabilidade                     | Cenário 08                                                                                                                                                                                                                                                                              |
+| Rastreabilidade                     | [Cenário 08](../../modelagem/cenarios.md/#cenário-08---adicionar-acompanhante-a-reserva-de-hotel-não-existente-atualmente)                                                                                                                                                                                                                                                                              |
 
 <div style="text-align: center">
     <p> Tabela 35: História de Usuário 35 (Fonte: Autores. 2023).</p>
@@ -542,7 +542,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Aluguel de Carros                                                                                                                                                                  |
 | **Descrição**               | Eu, como usuário desejo realizar um aluguel de carro com opção de devolver o carro ao mesmo local, o local da retirada do carro, da inicio e fim do aluguel e idade do condutor |
 | **Critérios de Aceitação** | - A idade do condutor deve ter no mínimo 20 anos<br />- O período de aluguel deve ter limite máximo de  11 meses<br />- O usuário deve selecionar somente aereportos          |
-| Rastreabilidade                     | FST07                                                                                                                                                                              |
+| Rastreabilidade                     | [FST07](../../elicitacao/storytelling.md/#requisitos-funcionais)                                                                                                                                                                              |
 
 <div style="text-align: center">
     <p> Tabela 36: História de Usuário 36 (Fonte: Autores. 2023).</p>
@@ -555,7 +555,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Título**                   | Deletar conta                                                                                                                       |
 | **Descrição**               | Eu, como usuário, desejo deletar minha conta, para não deixar dados meus no aplicativo e por não ter mais uso para mim           |
 | **Critérios de Aceitação** | - Para deletar a conta é necessária uma confirmação por senha<br />- Para deletar a conta necessário não possui mais reservas |
-| Rastreabilidade                     | Cenário 08                                                                                                                         |
+| Rastreabilidade                     | [Cenário 07](../../modelagem/cenarios.md/#cenário-07---deletar-conta-não-existente-atualmente)                                                                                                                         |
 
 <div style="text-align: center">
     <p> Tabela 37: História de Usuário 37 (Fonte: Autores. 2023).</p>
