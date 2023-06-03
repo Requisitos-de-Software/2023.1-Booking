@@ -89,7 +89,7 @@ Nesta entrega, serão apresentados os cenários, o léxico, o use case e a espec
 | Tarefa                       | Autor(es)                                          | Período de desenvolvimento | Período de revisão     | Revisores                                          |
 | ---------------------------- | -------------------------------------------------- | --------------------------- | ------------------------ | -------------------------------------------------- |
 | Cenários                    | Lucas e Gabriel                                    | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Chaydson                                           |
-| Léxico                      | Pedro e Samuel                                             | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Lucas                                              |
+| Léxico                      | Pedro e Samuel                                     | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Lucas                                              |
 | Use Case                     | Samuel                                             | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Henrique                                           |
 | Especificação Suplementar  | Chaydson e Henrique                                | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Pedro                                              |
 | Atas                         | Lucas                                              | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Samuel                                             |
@@ -117,7 +117,7 @@ Nesta etapa, serão apresentadas as histórias de usuário, o backlog do produto
     <p> Tabela 5 - Cronograma da entrega 4. (Fonte: Autores. 2023).</p>
 </div>
 
-## Entrega 5.1 - Análise de Requisitos: Verificação e Validação – Grupo + 1
+## Entrega 5.1 - Análise de Requisitos: Verificação e Validação – Grupo 03 - VLC
 
 Nesta etapa, serão apresentadas as atividades de verificação e validação dos requisitos do projeto, que visam garantir a qualidade e a adequação dos requisitos definidos para o produto.
 
@@ -125,26 +125,28 @@ Além disso, a entrega da etapa 5.1 é uma etapa importante no processo de desen
 
 O planejamento completo está presente na Tabela 6.
 
-| Tarefa                                | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
-| ------------------------------------- | -------------------------------------------------- | --------------------------- | -------------------- | -------------------------------------------------- |
-| Verificar Rich Picture                | Samuel, Pedro                                      | 25/05/2023 à 05/06/2023    | 06/06/2023           | Henrique                                           |
-| Verificar Personas                    | Lucas, Chaydson                                    | 25/05/2023 à 05/06/2023    | 06/06/2023           | Gabriel                                            |
-| Verificar Storytelling                | Henrique, Gabriel                                  | 25/05/2023 à 05/06/2023    | 06/06/2023           | Chaydson                                           |
-| Verificar Observação                | Pedro, Lucas                                       | 25/05/2023 à 05/06/2023    | 06/06/2023           | Lucas                                              |
-| Verificar Brainstorming               | Gabriel, Samuel                                    | 25/05/2023 à 05/06/2023    | 06/06/2023           | Pedro                                              |
-| Verificar Three Level-Scale           | Lucas, Chaydson                                    | 25/05/2023 à 05/06/2023    | 06/06/2023           | Samuel                                             |
-| Verificar In or Out                   | Samuel, Henrique                                   | 25/05/2023 à 05/06/2023    | 06/06/2023           | Chaydson                                           |
-| Verificar MoSCoW                      | Samuel, Gabriel                                    | 25/05/2023 à 05/06/2023    | 06/06/2023           | Pedro                                              |
-| Verificar Cenários                   | Chaydson, Gabriel                                  | 25/05/2023 à 05/06/2023    | 06/06/2023           | Henrique                                           |
-| Verificar Léxicos                    | Lucas, Henrique                                    | 25/05/2023 à 05/06/2023    | 06/06/2023           | Gabriel                                            |
-| Verificar Use Case                    | Gabriel, Pedro                                     | 25/05/2023 à 05/06/2023    | 06/06/2023           | Lucas                                              |
-| Verificar Especificação Suplementar | Pedro, Chaydson                                    | 25/05/2023 à 05/06/2023    | 06/06/2023           | Samuel                                             |
-| Verificar Histórias de Usuário      | Gabriel, Samuel                                    | 25/05/2023 à 05/06/2023    | 06/06/2023           | Pedro                                              |
-| Verificar Backlogs                    | Lucas, Chaydson                                    | 25/05/2023 à 05/06/2023    | 06/06/2023           | Henrique                                           |
-| Verificar NFR Framework               | Henrique, Pedro                                    | 25/05/2023 à 05/06/2023    | 06/06/2023           | Chaydson                                           |
-| Atas                                  | Samuel                                             | 25/05/2023 à 05/06/2023    | 06/06/2023           | Lucas                                              |
-| Gravação da apresentação          | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 06/06/2023                  | 06/06/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Finalização                         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 07/06/2023                  | 07/06/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento |
+| ---------------------------- | -------------------------------------------------- | --------------------------- |
+| Cronogramas                  | Lucas                                              | 02/06/2023 - 07/06/2023     |
+| Lista de aplicativos         | Pedro                                              | 02/06/2023 - 07/06/2023     |
+| Ferramentas                  | Samuel                                             | 02/06/2023 - 07/06/2023     |
+| Rich picture                 | Chaydson e Henrique                                | 02/06/2023 - 07/06/2023     |
+| Perfil de usuário           | Lucas e Chaydson                                   | 02/06/2023 - 07/06/2023     |
+| Personas                     | Samuel e Henrique                                  | 02/06/2023 - 07/06/2023     |
+| Questionario                 | Lucas                                              | 02/06/2023 - 07/06/2023     |
+| Storytelling                 | Gabriel e Chaydson                                 | 02/06/2023 - 07/06/2023     |
+| First Things First           | Pedro e Gabriel                                    | 02/06/2023 - 07/06/2023     |
+| In or Out                    | Lucas e Henrique                                   | 02/06/2023 - 07/06/2023     |
+| MoSCoW                       | Samuel e Pedro                                     | 02/06/2023 - 07/06/2023     |
+| Casos de uso                 | Lucas                                              | 02/06/2023 - 07/06/2023     |
+| Cenários                    | Chaydson e Samuel                                  | 02/06/2023 - 07/06/2023     |
+| Léxico                      | Henrique e Chaydson                                | 02/06/2023 - 07/06/2023     |
+| Especificação suplementar  | Gabriel e Pedro                                    | 02/06/2023 - 07/06/2023     |
+| Histórias de usuário       | Henrique e Samuel                                  | 02/06/2023 - 07/06/2023     |
+| Backlog                      | Pedro e Gabriel                                    | 02/06/2023 - 07/06/2023     |
+| NFR Framework                | Chaydson e Lucas                                   | 02/06/2023 - 07/06/2023     |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 07/06/2023                  |
+| Finalização                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 08/06/2023 - 15/06/2023     |
 
 <div style="text-align: center">
     <p> Tabela 6 - Cronograma da entrega 5.1. (Fonte: Autores. 2023).</p>
