@@ -68,4 +68,15 @@ nav:
         - Backlog: modelagem/modelo-agil/backlog.md
         - Histórias de Usuário: modelagem/modelo-agil/historiasDeUsuario.md
         - NFR Framework: modelagem/modelo-agil/nfrFramework.md
-
+  - Verificação grupo 3:
+      - Metodologia: verificacao3/metodologia.md
+      - Planejamento:
+        - Cronograma: verificacao3/modelagem/cronograma.md 
+      - Elicitação:
+        - Perfil de usuário: verificacao3/elicitacao/perfilUsuario.md
+        - Questionários: verificacao3/elicitacao/questionarios.md
+        - In or Out: verificacao3/elicitacao/inOrOut.md
+      - Priorização:
+        - Casos de uso: verificacao3/priorizacao/casoUso.md
+      - Modelagem:
+        - NFR Framework: verificacao3/modelagem/nfrFramework.md
