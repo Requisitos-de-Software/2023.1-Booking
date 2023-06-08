@@ -75,13 +75,11 @@ nav:
         - Lista de Aplicativos: verificacao3/planejamento/listaDeAplicativos.md 
       - Elicitação:
         - Perfil de usuário: verificacao3/elicitacao/perfilUsuario.md
-        - Questionários: verificacao3/elicitacao/questionarios.md
       - Priorização:
-        - Casos de uso: verificacao3/priorizacao/casoUso.md
         - In or Out: verificacao3/priorizacao/inOrOut.md
         - First Things First: verificacao3/priorizacao/firstThingsFirst.md
       - Modelagem:
-        - NFR Framework: verificacao3/modelagem/nfrFramework.md
+        - Casos de uso: verificacao3/modelagem/casoUso.md
         - Especificação Suplementar: verificacao3/modelagem/especificacaoSuplementar.md
       - Agil:
         - Backlog: verificacao3/agil/backlog.md
