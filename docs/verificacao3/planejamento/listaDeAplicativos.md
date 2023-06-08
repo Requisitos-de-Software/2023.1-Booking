@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O presente documento apresentará a verificação doa artefatos [Lista de Aplicativos](https://requisitos-de-software.github.io/2023.1-VLC/#/planejamento/lista_de_aplicativos) e [App Selecionado](https://requisitos-de-software.github.io/2023.1-VLC/#/planejamento/app_selecionado), desenvolvidos pela equipe 3, VCL. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido, nas tabelas 1 e 2, se encontra os metadados desses artefatos, nas tabelas 3 e 4 se encontram as questões a serem avaliadas.
+O presente documento apresentará a verificação doa artefatos [Lista de Aplicativos](https://requisitos-de-software.github.io/2023.1-VLC/#/planejamento/lista_de_aplicativos) e [App Selecionado](https://requisitos-de-software.github.io/2023.1-VLC/#/planejamento/app_selecionado), desenvolvidos pela equipe 3, VLC. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido, nas tabelas 1 e 2, se encontra os metadados desses artefatos, nas tabelas 3 e 4 se encontram as questões a serem avaliadas.
 
 A tabela 1 a seguir representa os dados do artefato Lista de Aplicativos.
 
@@ -53,6 +53,6 @@ A tabela 2 a seguir representa os dados do artefato App Selecionado.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                             | Autor(es)       |
-| ------- | ---------- | --------------------------------------- | --------------- |
-| 1.0     | 08/06/2023 | Criação do documento de verificação | Pedro |
+| Versão | Data       | Descrição                             | Autor(es) |
+| ------- | ---------- | --------------------------------------- | --------- |
+| 1.0     | 08/06/2023 | Criação do documento de verificação | Pedro     |

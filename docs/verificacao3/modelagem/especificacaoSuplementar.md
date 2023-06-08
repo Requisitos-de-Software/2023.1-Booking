@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/especificacao_suplementar), desenvolvidos pela equipe 3, VCL. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido, na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
+O presente documento apresentará a verificação do artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/especificacao_suplementar), desenvolvidos pela equipe 3, VLC. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido, na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
 
 A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 
@@ -46,7 +46,7 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 
 ## Bibliografia
 
-Concept: Requisitos Suplementares. Ufpe.br. Disponível em: <https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&B/guidances/concepts/supporting_requirements_C0220FE1.html>. Acesso em: 07 jun. 2023.
+Concept: Requisitos Suplementares. Ufpe.br. Disponível em: [https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&amp;B/guidances/concepts/supporting_requirements_C0220FE1.html](https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&B/guidances/concepts/supporting_requirements_C0220FE1.html). Acesso em: 07 jun. 2023.
 
 ## Histórico de Versão
 
