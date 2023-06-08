@@ -71,12 +71,15 @@ nav:
   - Verificação grupo 3:
       - Metodologia: verificacao3/metodologia.md
       - Planejamento:
-        - Cronograma: verificacao3/modelagem/cronograma.md 
+        - Cronograma: verificacao3/planejamento/cronograma.md
+        - Lista de Aplicativos: verificacao3/planejamento/listaDeAplicativos.md 
       - Elicitação:
         - Perfil de usuário: verificacao3/elicitacao/perfilUsuario.md
         - Questionários: verificacao3/elicitacao/questionarios.md
-        - In or Out: verificacao3/elicitacao/inOrOut.md
       - Priorização:
         - Casos de uso: verificacao3/priorizacao/casoUso.md
+        - In or Out: verificacao3/priorizacao/inOrOut.md
+        - First Things First: verificacao3/priorizacao/firstThingsFirst.md
       - Modelagem:
         - NFR Framework: verificacao3/modelagem/nfrFramework.md
+        - Especificação Suplementar: verificacao3/modelagem/especificacaoSuplementar.md
