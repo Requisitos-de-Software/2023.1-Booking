@@ -48,5 +48,11 @@ A tabela 2 a seguir representa os dados do artefato App Selecionado.
 | 9 |                    As tabelas são chamadas no texto?                    |     🟢     |                                                                                   |
 
 <div style="text-align: center">
-<p> Tabela 4: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Pedro, 2023). </p>
+<p> Tabela 4: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro, 2023). </p>
 </div>
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                             | Autor(es)       |
+| ------- | ---------- | --------------------------------------- | --------------- |
+| 1.0     | 08/06/2023 | Criação do documento de verificação | Pedro |

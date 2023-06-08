@@ -83,3 +83,6 @@ nav:
       - Modelagem:
         - NFR Framework: verificacao3/modelagem/nfrFramework.md
         - Especificação Suplementar: verificacao3/modelagem/especificacaoSuplementar.md
+      - Agil:
+        - Backlog: verificacao3/agil/backlog.md
+
