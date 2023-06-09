@@ -72,7 +72,9 @@ nav:
       - Metodologia: verificacao3/metodologia.md
       - Planejamento:
         - Cronograma: verificacao3/planejamento/cronograma.md
-        - Lista de Aplicativos: verificacao3/planejamento/listaDeAplicativos.md 
+        - Lista de Aplicativos: verificacao3/planejamento/listaDeAplicativos.md
+      - Pré-rastreabilidade:
+        - Rich Picture: verificacao3/prePlanejamento/richPicture.md 
       - Elicitação:
         - Perfil de usuário: verificacao3/elicitacao/perfilUsuario.md
       - Priorização:
