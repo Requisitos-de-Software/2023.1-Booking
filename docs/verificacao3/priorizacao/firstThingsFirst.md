@@ -14,17 +14,17 @@ A tabela 1 a seguir representa os dados do artefato First Things First.
 <p> Tabela 1: Dados do artefato First Things First. (Fonte: Pedro e Gabriel, 2023). </p>
 </div>
 
-| ID |                                   Questão                                   | Inspeção | Observações                                                                                                                                                                                              |
-| :-: | :--------------------------------------------------------------------------: | :--------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 |                  As legendas estão no padrão do projeto?                  |     🔴     | A legenda "Figura 1: Priorização dos requisitos de acordo com método First Things First" não obedece o padrão do projeto que estava sendo seguido pelo grupo "Figura X - Titulo. (Fonte: autor, ano)" |
-| 2 |                    Possui links para os outros artefatos?                    |     🔴     | O artefato prioriza requisitos de outros artefatos, entretanto não possui links para eles para realizar rastreabilidade.                                                                                  |
-| 3 |                     Existe uma introdução no artefato?                     |     🟢     |                                                                                                                                                                                                            |
-| 4 |                 Existe tabela de versionamento padronizado?                 |     🟡     | Histórico de versão duplicado no artefato.                                                                                                                                                               |
-| 5 | Há referências bibliográficas, bibliografia e referências no artefato? |     🟡     | O artefato possui como bibliografia apenas o projeto do semestre passado, algo que o professor chamou atenção durante a disciplina.                                                                      |
-| 6 |  As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?  |     🟡     | "Nem todos os requisitos estão presentes na tabela", poderia substituir por "Nem todos os requisitos estão presentes na tabela da figura 1"                                                              |
-| 7 |                           O artefato possui autor?                           |     🟢     |                                                                                                                                                                                                            |
-| 8 |                          O artefato possui revisor?                          |     🟢     |                                                                                                                                                                                                            |
-| 9 |                      As tabelas são chamadas no texto?                      |    N/A    |                                                                                                                                                                                                            |
+| ID |                                   Questão                                   | Inspeção | Observações                                                                                                                                 |
+| :-: | :--------------------------------------------------------------------------: | :--------: | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 |                  As legendas estão no padrão do projeto?                  |     🔴     |                                                                                                                                               |
+| 2 |                    Possui links para os outros artefatos?                    |     🔴     |                                                                                                                                               |
+| 3 |                     Existe uma introdução no artefato?                     |     🟢     |                                                                                                                                               |
+| 4 |                 Existe tabela de versionamento padronizado?                 |     🟡     | Histórico de versão duplicado no artefato.                                                                                                  |
+| 5 | Há referências bibliográficas, bibliografia e referências no artefato? |     🟡     | O artefato possui como bibliografia apenas o projeto do semestre passado, algo que o professor chamou atenção durante a disciplina.         |
+| 6 |  As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?  |     🟡     | "Nem todos os requisitos estão presentes na tabela", poderia substituir por "Nem todos os requisitos estão presentes na tabela da figura 1" |
+| 7 |                           O artefato possui autor?                           |     🟢     |                                                                                                                                               |
+| 8 |                          O artefato possui revisor?                          |     🟢     |                                                                                                                                               |
+| 9 |                      As tabelas são chamadas no texto?                      |    N/A    |                                                                                                                                               |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro e Gabriel, 2023). </p>
@@ -45,6 +45,37 @@ A tabela 1 a seguir representa os dados do artefato First Things First.
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Pedro e Gabriel, 2023). </p>
 </div>
+
+## Comentários
+
+ID 1 - As legendas estão no padrão do projeto?
+
+A legenda "Figura 1: Priorização dos requisitos de acordo com método First Things First" não obedece o padrão do projeto que estava sendo seguido pelo grupo "Figura X - Titulo. (Fonte: autor, ano)".
+
+ID 2 - Possui links para os outros artefatos?
+
+O artefato prioriza requisitos de outros artefatos, entretanto não possui links para eles para realizar rastreabilidade.
+
+## Resultados
+
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão:
+
+((100/QntExigencias) _ Acertos) + (((100/QntExigencias) _ Incompletos)/2)
+
+Através dos checklists realizados podemos observar que:
+
+- 7/18 exigências são atendidas;
+- 8/18 exigências estão incompletas;
+- 2/18 exigências estão erradas ou não foram realizadas.
+- 1/18 não se aplica.
+
+onde 18 é a quantidade de exigências.
+
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 61,11%.
+
+## Bibliografia
+
+First Things First: Prioritizing Requirements 1. [s.l.: s.n., s.d.]. Disponível em: [https://www.processimpact.com/articles/prioritizing.pdf](https://www.processimpact.com/articles/prioritizing.pdf).
 
 ## Histórico de Versão
 

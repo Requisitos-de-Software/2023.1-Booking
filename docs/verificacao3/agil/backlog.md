@@ -29,19 +29,54 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 <p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro e Gabriel, 2023). </p>
 </div>
 
-| ID |                                                       Questão                                                       | Inspeção | Obersevação                                                                                                                                                                                                                                                                  |
-| :-: | :-------------------------------------------------------------------------------------------------------------------: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 |                                      Os épicos estão priorizados e ordenados?                                      |     🟡     | A US09 com prioridade Must esta abaixo de US08, US07, US06 que tem prioridade Could                                                                                                                                                                                         |
-| 2 |                                           O backlog possui rastreabilidade?                                           |     🔴     | Apesar de ter links para outros artefatos a fim de realizar o rastreamento, o mesmo não indica de qual requisito de dentro da priorização ele veio. Ademais, também não existe rastro através de links dificultando em fases posteriores o backward-from e forward-from. |
-| 3 |                                      O backlog atende a necessidade do usuário?                                      |     🟡     | O fato de uma historia de usuário com prioridade Must estar abaixo de uma história com prioridade Could afeta em funcionalidades que serão desenvolvidas para o usuário que podem ser urgentes para o mesmo.                                                               |
-| 4 |                                     O backlog foi validado com o usuário ou PO?                                     |     🔴     | Só as histórias de usuário foram validadas, porém o backlog não para garantir que o mesmo estava ordenado da maneira que deveria estar em sua opinião.                                                                                                                   |
-| 5 |                     As historias de usuário tem relação com o épico no qual estão contidas?                     |     🔴     | As histórias de usuário não tem relação com os épicos.                                                                                                                                                                                                                   |
-| 6 | Os épicos possuem historias de usuarios suficientes e condizentes para levar mais de uma sprint para ser concluída? |     🟡     | O épico 3 pode ser concluído em uma única sprint, o que tornaria ela uma história de usuário.                                                                                                                                                                             |
-| 7 |                   Os eṕicos estão granularizados o suficiente para gerar historias de usuários?                   |     🔴     | Não estão granularizados o suficiente e podem ser melhor organizados                                                                                                                                                                                                         |
+| ID |                                                       Questão                                                       | Inspeção | Obersevação                                                                                                                                                                                                    |
+| :-: | :-------------------------------------------------------------------------------------------------------------------: | :--------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 |                                      Os épicos estão priorizados e ordenados?                                      |     🟡     | A US09 com prioridade Must esta abaixo de US08, US07, US06 que tem prioridade Could                                                                                                                           |
+| 2 |                                           O backlog possui rastreabilidade?                                           |     🔴     |                                                                                                                                                                                                                  |
+| 3 |                                      O backlog atende a necessidade do usuário?                                      |     🟡     | O fato de uma historia de usuário com prioridade Must estar abaixo de uma história com prioridade Could afeta em funcionalidades que serão desenvolvidas para o usuário que podem ser urgentes para o mesmo. |
+| 4 |                                     O backlog foi validado com o usuário ou PO?                                     |     🔴     |                                                                                                                                                                                                                  |
+| 5 |                     As historias de usuário tem relação com o épico no qual estão contidas?                     |     🔴     |                                                                                                                                                                                                                  |
+| 6 | Os épicos possuem historias de usuarios suficientes e condizentes para levar mais de uma sprint para ser concluída? |     🟡     | O épico 3 pode ser concluído em uma única sprint, o que tornaria ela uma história de usuário.                                                                                                               |
+| 7 |                   Os eṕicos estão granularizados o suficiente para gerar historias de usuários?                   |     🔴     |                                                                                                                                                                                                                  |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Pedro e Gabriel, 2023). </p>
 </div>
+
+## Comentários
+
+ID 2 - O backlog possui rastreabilidade?
+
+Apesar de ter links para outros artefatos a fim de realizar o rastreamento, o mesmo não indica de qual requisito de dentro da priorização ele veio. Ademais, também não existe rastro através de links dificultando em fases posteriores o backward-from e forward-from.
+
+ID 4 - O backlog foi validado com o usuário ou PO?
+
+Só as histórias de usuário foram validadas, porém o backlog não para garantir que o mesmo estava ordenado da maneira que deveria estar em sua opinião.
+
+ID 5 - As historias de usuário tem relação com o épico no qual estão contidas?
+
+As histórias de usuário não tem relação com os épicos.
+
+ID 7 - Os eṕicos estão granularizados o suficiente para gerar historias de usuários?
+
+Não estão granularizados o suficiente e podem ser melhor organizados.
+
+## Resultados
+
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão:
+
+((100/QntExigencias) _ Acertos) + (((100/QntExigencias) _ Incompletos)/2)
+
+Através dos checklists realizados podemos observar que:
+
+- 5/15 exigências são atendidas;
+- 6/15 exigências estão incompletas;
+- 4/15 exigências estão erradas ou não foram realizadas.
+- 0/15 não se aplica.
+
+onde 15 é a quantidade de exigências.
+
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 53,33%.
 
 ## Bibliografia
 

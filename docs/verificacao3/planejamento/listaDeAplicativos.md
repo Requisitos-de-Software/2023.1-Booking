@@ -51,6 +51,31 @@ A tabela 2 a seguir representa os dados do artefato App Selecionado.
 <p> Tabela 4: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro, 2023). </p>
 </div>
 
+## Comentários
+
+Sem nenhum comentário específico.
+
+## Resultados
+
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão:
+
+((100/QntExigencias) _ Acertos) + (((100/QntExigencias) _ Incompletos)/2)
+
+Através dos checklists realizados podemos observar que:
+
+- 10/13 exigências são atendidas;
+- 2/13 exigências estão incompletas;
+- 0/13 exigências estão erradas ou não foram realizadas.
+- 1/13 não se aplica.
+
+onde 13 é a quantidade de exigências.
+
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 76,92%.
+
+## Bibliografia
+
+BARROS, André. Requisitos de Software - Informações do projeto Parte 2. Disponível em: <https://www.youtube.com/watch?v=kDkasvAZtRY&ab_channel=Andr%C3%A9BarrosdeSales>. Acesso em: 10 jun. 2023.
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                             | Autor(es) |

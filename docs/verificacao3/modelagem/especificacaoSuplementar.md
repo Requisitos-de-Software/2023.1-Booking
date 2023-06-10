@@ -44,6 +44,29 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Pedro e Gabriel, 2023). </p>
 </div>
 
+## Comentários
+
+ID 2 - Possui links para os outros artefatos?
+
+Em funcionalidades, o caso de uso é mencionado no texto, poŕem não possui link para esse artefato.
+
+## Resultados
+
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão:
+
+((100/QntExigencias) _ Acertos) + (((100/QntExigencias) _ Incompletos)/2)
+
+Através dos checklists realizados podemos observar que:
+
+- 7/16 exigências são atendidas;
+- 5/16 exigências estão incompletas;
+- 1/16 exigências estão erradas ou não foram realizadas.
+- 3/16 não se aplica.
+
+onde 16 é a quantidade de exigências.
+
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 59,37%.
+
 ## Bibliografia
 
 Concept: Requisitos Suplementares. Ufpe.br. Disponível em: [https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&amp;B/guidances/concepts/supporting_requirements_C0220FE1.html](https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&B/guidances/concepts/supporting_requirements_C0220FE1.html). Acesso em: 07 jun. 2023.
