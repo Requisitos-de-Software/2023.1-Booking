@@ -24,19 +24,20 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 | 6 |   As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?   |    N/A    |                                                |
 | 7 |                           O artefato possui autor?                           |     🟢     |                                                |
 | 8 |                          O artefato possui revisor?                          |     🟢     |                                                |
+| 9 |                      As tabelas são chamadas no texto?                      |    N/A    |                                                |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Henrique, 2023). </p>
 </div>
 
-| ID |                                   Questão                                   | Inspeção | Obersevação                                                                |
-| :-: | :--------------------------------------------------------------------------: | :--------: | ---------------------------------------------------------------------------- |
-| 9 |     Possui rastreabilidade no requisito origem da história de usuário?     |     🟡     | Possui o ID, porém não se tem o link que direcione para o requisito        |
-| 10 |   As histórias de usuário possuem os 3Ws? (quem? / o quê? / por quê?)   |     🟢     |                                                                              |
-| 11 | As histórias de usuário estão escritas na perspectiva do usuário final? |     🟢     |                                                                              |
-| 12 |              As história de usuário estão claras e concisas?              |     🟢     |                                                                              |
-| 13 |                  As história de usuário são testáveis?                  |     🟡     | A US02 não é vista como uma história de usuário possível de ser testada |
-| 14 |       As história de usuário foram validadas com um usuário final?       |     🟡     | Foi validada, porém não é possível acessar a gravação feita            |
+| ID |                                   Questão                                   | Inspeção | Obersevação                                                                                 |
+| :-: | :--------------------------------------------------------------------------: | :--------: | --------------------------------------------------------------------------------------------- |
+| 10 |     Possui rastreabilidade no requisito origem da história de usuário?     |     🟡     | Possui o ID, porém não se tem o link que direcione para o requisito                         |
+| 11 |   As histórias de usuário possuem os 3Ws? (quem? / o quê? / por quê?)   |     🟢     |                                                                                               |
+| 12 | As histórias de usuário estão escritas na perspectiva do usuário final? |     🟢     |                                                                                               |
+| 13 |              As história de usuário estão claras e concisas?              |     🟢     |                                                                                               |
+| 14 |         As história de usuário possuem critérios de aceitação?         |     🟡     | Possuem, porém a US02 não é vista como uma história de usuário possível de ser testada |
+| 15 |       As história de usuário foram validadas com um usuário final?       |     🟡     | Foi validada, porém não é possível acessar a gravação feita                             |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Henrique, 2023). </p>
@@ -50,11 +51,11 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Através dos checklists realizados podemos observar que:
 
-* 10/14 exigências são atendidas;
-* 4/14 exigências estão incompletas;
-* 0/14 exigências estão erradas ou não foram realizadas.
+* 11/15 exigências são atendidas;
+* 4/15 exigências estão incompletas;
+* 0/15 exigências estão erradas ou não foram realizadas.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 85,70%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 86,66%.
 
 ## Bibliografia
 

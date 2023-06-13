@@ -24,6 +24,7 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 | 6 |   As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?   |     🟡     | Não há introdução da tabela e imagem no texto |
 | 7 |                           O artefato possui autor?                           |     🟢     |                                                   |
 | 8 |                          O artefato possui revisor?                          |     🟢     |                                                   |
+| 9 |                      As tabelas são chamadas no texto?                      |    N/A    |                                                   |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Henrique, 2023). </p>
@@ -31,12 +32,12 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 
 | ID |                                      Questão                                      | Inspeção | Obersevação                                           |
 | :-: | :---------------------------------------------------------------------------------: | :--------: | ------------------------------------------------------- |
-| 9 | O Rich Picture possui várias versoẽs atualizadas e aprimoradas ao longo do tempo? |     🔴     | Explicado nos comentários                              |
-| 10 |                      O Rich Picture possui uma legenda clara?                      |     🟡     | Possui, porém a imagem do ator "usuário" não carrega |
-| 11 |          O Rich Picture possui operações e armazenamentos bem definidos?          |     🟢     |                                                         |
-| 12 |                            O desenho possui fronteiras?                            |     🟢     |                                                         |
-| 13 |                         Os atores estão fora da fronteira?                         |     🟢     |                                                         |
-| 14 |           O Rich Picture mostra as principais funcionalidades do sistema?           |     🟢     |                                                         |
+| 10 | O Rich Picture possui várias versoẽs atualizadas e aprimoradas ao longo do tempo? |     🔴     | Explicado nos comentários                              |
+| 11 |                      O Rich Picture possui uma legenda clara?                      |     🟡     | Possui, porém a imagem do ator "usuário" não carrega |
+| 12 |          O Rich Picture possui operações e armazenamentos bem definidos?          |     🟢     |                                                         |
+| 13 |                            O desenho possui fronteiras?                            |     🟢     |                                                         |
+| 14 |                         Os atores estão fora da fronteira?                         |     🟢     |                                                         |
+| 15 |           O Rich Picture mostra as principais funcionalidades do sistema?           |     🟢     |                                                         |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Henrique, 2023). </p>
@@ -52,7 +53,6 @@ Existe uma área de introdução nesse artefato, porém, ela só está sendo usa
 
 É necessaŕio uma evolução de versões do rich picture, dificilmente essse artefato estará completo já em sua primeira versão, porém se tiver tido outras versões anteriores, melhor deixar isso claro na página do artefato.
 
-
 ## Resultados
 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão:
@@ -61,11 +61,11 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Através dos checklists realizados podemos observar que:
 
-* 10/14 exigências são atendidas;
-* 2/14 exigências estão incompletas;
-* 2/14 exigências estão erradas ou não foram realizadas.
+* 11/15 exigências são atendidas;
+* 2/15 exigências estão incompletas;
+* 2/15 exigências estão erradas ou não foram realizadas.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 78,56%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 79,99%.
 
 ## Bibliografia
 
