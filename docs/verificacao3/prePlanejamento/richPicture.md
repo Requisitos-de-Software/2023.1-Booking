@@ -29,9 +29,14 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 <p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Henrique, 2023). </p>
 </div>
 
-| ID | Questão | Inspeção | Obersevação |
-| :-: | :------: | :--------: | ------------- |
-|    |          |     🟡     |               |
+| ID |                                      Questão                                      | Inspeção | Obersevação                                           |
+| :-: | :---------------------------------------------------------------------------------: | :--------: | ------------------------------------------------------- |
+| 9 | O Rich Picture possui várias versoẽs atualizadas e aprimoradas ao longo do tempo? |     🔴     | Explicado nos comentários                              |
+| 10 |                      O Rich Picture possui uma legenda clara?                      |     🟡     | Possui, porém a imagem do ator "usuário" não carrega |
+| 11 |          O Rich Picture possui operações e armazenamentos bem definidos?          |     🟢     |                                                         |
+| 12 |                            O desenho possui fronteiras?                            |     🟢     |                                                         |
+| 13 |                         Os atores estão fora da fronteira?                         |     🟢     |                                                         |
+| 14 |           O Rich Picture mostra as principais funcionalidades do sistema?           |     🟢     |                                                         |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Henrique, 2023). </p>
@@ -42,7 +47,31 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 ### ID 3 - Existe uma introdução no artefato?
 
 Existe uma área de introdução nesse artefato, porém, ela só está sendo usada para se explicar sobre o aplicativo escolhido. Dessa forma, faltando uma real introdução sobre o tema, que seria o Rich Picture.
+
+### ID 9 - O Rich Picture possui várias versoẽs atualizadas e aprimoradas ao longo do tempo?
+
+É necessaŕio uma evolução de versões do rich picture, dificilmente essse artefato estará completo já em sua primeira versão, porém se tiver tido outras versões anteriores, melhor deixar isso claro na página do artefato.
+
+
+## Resultados
+
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão:
+
+((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2)
+
+Através dos checklists realizados podemos observar que:
+
+* 10/14 exigências são atendidas;
+* 2/14 exigências estão incompletas;
+* 2/14 exigências estão erradas ou não foram realizadas.
+
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 78,56%.
+
 ## Bibliografia
+
+ Software Development Project: Introducing Rich Pictures. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 12 jun. 2023.
+
+ MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning About Work Context. Interactions, [S.l.], v. 5, n. 2, p. 21-30, mar. 1998. Disponível em: [https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf](https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf) . Acesso em: 12 jun. 2023.
 
 ## Histórico de Versão
 

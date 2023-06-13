@@ -31,16 +31,30 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 
 | ID |                                   Questão                                   | Inspeção | Obersevação                                                                |
 | :-: | :--------------------------------------------------------------------------: | :--------: | ---------------------------------------------------------------------------- |
-| 1 |     Possui rastreabilidade no requisito origem da história de usuário?     |     🟡     | Possui o ID, porém não se tem o link que direcione para o requisito        |
-| 2 |   As histórias de usuário possuem os 3Ws? (quem? / o quê? / por quê?)   |     🟢     |                                                                              |
-| 3 | As histórias de usuário estão escritas na perspectiva do usuário final? |     🟢     |                                                                              |
-| 4 |              As história de usuário estão claras e concisas?              |     🟢     |                                                                              |
-| 5 |                  As história de usuário são testáveis?                  |     🟡     | A US02 não é vista como uma história de usuário possível de ser testada |
-| 6 |       As história de usuário foram validadas com um usuário final?       |     🟡     | Foi validada, porém não é possível acessar a gravação feita            |
+| 9 |     Possui rastreabilidade no requisito origem da história de usuário?     |     🟡     | Possui o ID, porém não se tem o link que direcione para o requisito        |
+| 10 |   As histórias de usuário possuem os 3Ws? (quem? / o quê? / por quê?)   |     🟢     |                                                                              |
+| 11 | As histórias de usuário estão escritas na perspectiva do usuário final? |     🟢     |                                                                              |
+| 12 |              As história de usuário estão claras e concisas?              |     🟢     |                                                                              |
+| 13 |                  As história de usuário são testáveis?                  |     🟡     | A US02 não é vista como uma história de usuário possível de ser testada |
+| 14 |       As história de usuário foram validadas com um usuário final?       |     🟡     | Foi validada, porém não é possível acessar a gravação feita            |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Henrique, 2023). </p>
 </div>
+
+## Resultados
+
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão:
+
+((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2)
+
+Através dos checklists realizados podemos observar que:
+
+* 10/14 exigências são atendidas;
+* 4/14 exigências estão incompletas;
+* 0/14 exigências estão erradas ou não foram realizadas.
+
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 85,70%.
 
 ## Bibliografia
 
