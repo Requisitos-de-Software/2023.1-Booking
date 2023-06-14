@@ -4,7 +4,7 @@
 
 O presente documento apresentará a verificação do artefato [Rich Picture](https://requisitos-de-software.github.io/2023.1-VLC/#/planejamento/richpicture), desenvolvidos pela equipe 3, VLC. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido, na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
 
-A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
+A tabela 1 a seguir representa os dados do artefato Rich Picture.
 
 | Versão avaliada | Autor(es)     | Revisor           |
 | ---------------- | ------------- | ----------------- |

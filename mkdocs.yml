@@ -86,6 +86,7 @@ nav:
       - Modelagem:
         - Casos de uso: verificacao3/modelagem/casoUso.md
         - Especificação Suplementar: verificacao3/modelagem/especificacaoSuplementar.md
+        - Léxicos: verificacao3/modelagem/lexicos.md
       - Agil:
         - Backlog: verificacao3/agil/backlog.md
         - Histórias de Usuário: verificacao3/agil/historiasDeUsuario.md
