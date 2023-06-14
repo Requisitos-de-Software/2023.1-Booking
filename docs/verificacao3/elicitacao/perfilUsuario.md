@@ -9,7 +9,7 @@ O presente documento apresentará a verificação do artefato perfil de usuário
 | 1.3             | Mizael | Larissa Gomes |
 
 <div style="text-align: center">
-<p> Tabela 1: Metadados do artefato (Fonte: Lucas Frazão, 2023). </p>
+<p> Tabela 1: Metadados do artefato (Fonte: Lucas Frazão e Chaydson Ferreira, 2023). </p>
 </div>
 
 | ID  |                                 Questão                                  | Inspeção | Observações                                                                  |
@@ -24,7 +24,7 @@ O presente documento apresentará a verificação do artefato perfil de usuário
 |  8  |                        O artefato possui revisor?                        |    🟢    |                                                                              |
 
 <div style="text-align: center">
-<p> Tabela 2: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Lucas Frazão, 2023). </p>
+<p> Tabela 2: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Lucas Frazão e Chaydson Ferreira, 2023). </p>
 </div>
 
 | ID  |                                                    Questão                                                     | Inspeção | Obersevação                           |
@@ -38,7 +38,7 @@ O presente documento apresentará a verificação do artefato perfil de usuário
 | 15  |               Possui e considera aspectos éticos de toda e qualquer pesquisa envolvendo pessoas?               |    🟢    |                                       |
 
 <div style="text-align: center">
-<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas Frazão, 2023). </p>
+<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas Frazão e Chaydson Ferreira, 2023). </p>
 </div>
 
 ## Comentários
