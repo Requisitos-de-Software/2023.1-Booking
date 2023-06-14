@@ -6,7 +6,7 @@ A etapa de verificação é uma parte essencial do desenvolvimento de projetos, 
 
 ## Cronograma
 
-| col1                      | col2                |
+| Artefato                  | Avaliador(es)       |
 | ------------------------- | ------------------- |
 | Cronogramas               | Lucas               |
 | Lista de aplicativos      | Pedro               |
@@ -27,6 +27,10 @@ A etapa de verificação é uma parte essencial do desenvolvimento de projetos, 
 | Backlog                   | Pedro e Gabriel     |
 | NRF Framework             | Chaydson e Lucas    |
 
+<div style="text-align: center">
+<p> Tabela 1: Tabela do cronograma de avaliação (Fonte: Lucas Frazão, 2023). </p>
+</div>
+
 ## Método de avaliação
 
 Para a verificação, será adotada a técnica de inspeção, a qual será realizada por meio de uma checklist. Essa checklist consiste em uma série de perguntas que têm como objetivo avaliar se o artefato foi desenvolvido de acordo com as exigências da disciplina.
@@ -42,17 +46,20 @@ Os membros avaliarão os artefatos com base no livro: Barbosa, S. D. J.; Silva, 
 
 A seguir, na tabela 2, temos as perguntas que serão feitas em todos os artefatos, são as perguntas padrões.
 
-| ID  |                                 Questão                                  | Inspeção | Observações |
-| :-: | :----------------------------------------------------------------------: | :------: | ----------- |
-|  1  |                 As legendas estão no padrão do projeto?                  |          |             |
-|  2  |                  Possui links para os outros artefatos?                  |          |             |
-|  3  |                    Existe uma introdução no artefato?                    |          |             |
-|  4  |               Existe tabela de versionamento padronizado?                |          |             |
-|  5  |        Há referências bibliográficas ou referências no artefato?         |          |             |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |          |             |
-|  7  |                         O artefato possui autor?                         |          |             |
-|  8  |                        O artefato possui revisor?                        |          |             |
-|  8  |                    As tabelas são chamadas no texto?                     |          |             |
+| ID  |                                 Questão                                  | Inspeção | Observações                      |
+| :-: | :----------------------------------------------------------------------: | :------: | -------------------------------- |
+|  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |                                  |
+|  2  |                  Possui links para os outros artefatos?                  |    🟡    | Breve comentário                 |
+|  3  |                    Existe uma introdução no artefato?                    |    🔴    | Será justificado nos comentários |
+|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |                                  |
+|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |                                  |
+|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |                                  |
+|  7  |                         O artefato possui autor?                         |    🟢    |                                  |
+|  8  |                        O artefato possui revisor?                        |    🟢    |                                  |
+
+<div style="text-align: center">
+<p> Tabela 2: Tabela de avaliação com as padroẽs para todos os artefatos (Fonte: <NomeDOAutor>, 2023). </p>
+</div>
 
 Após o preenchimento da tabela padrão, o avaliador deve fazer uma tabela separada onde deve ter as questões do cenários especifico, veja mais na tabela 3.
 
@@ -62,6 +69,10 @@ Após o preenchimento da tabela padrão, o avaliador deve fazer uma tabela separ
 |  2  | Questão específica 2 |    🟡    | Breve comentário                 |
 |  3  | Questão específica 3 |    🔴    | Será justificado nos comentários |
 | ... |         ...          |   ...    | ...                              |
+
+<div style="text-align: center">
+<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: <NomeDOAutor>, 2023). </p>
+</div>
 
 ## Comentários
 
