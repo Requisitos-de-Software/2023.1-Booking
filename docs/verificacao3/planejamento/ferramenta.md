@@ -1,4 +1,4 @@
-## Verificação das ferramentas
+# Verificação das ferramentas
 
 ## Introdução
 
