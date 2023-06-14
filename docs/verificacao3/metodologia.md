@@ -50,7 +50,7 @@ A checklist será preenchida com base em diferentes classificações, que inclue
 
 Os membros avaliarão os artefatos com base no livro: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1 [1] e utilizarão o método de inspenção.
 
-A seguir, na tabela 2, temos as perguntas que serão feitas em todos os artefatos, são as perguntas padrões.
+A seguir, na tabela 3, temos as perguntas que serão feitas em todos os artefatos, são as perguntas padrões.
 
 | ID  |                                 Questão                                  | Inspeção | Observações                      |
 | :-: | :----------------------------------------------------------------------: | :------: | -------------------------------- |
@@ -64,10 +64,10 @@ A seguir, na tabela 2, temos as perguntas que serão feitas em todos os artefato
 |  8  |                        O artefato possui revisor?                        |    🟢    |                                  |
 
 <div style="text-align: center">
-<p> Tabela 2: Tabela de avaliação com as padroẽs para todos os artefatos (Fonte: <NomeDOAutor>, 2023). </p>
+<p> Tabela 3: Tabela de avaliação com as padroẽs para todos os artefatos (Fonte: <NomeDOAutor>, 2023). </p>
 </div>
 
-Após o preenchimento da tabela padrão, o avaliador deve fazer uma tabela separada onde deve ter as questões do cenários especifico, veja mais na tabela 3.
+Após o preenchimento da tabela padrão, o avaliador deve fazer uma tabela separada onde deve ter as questões do cenários especifico, veja mais na tabela 4.
 
 | ID  |       Questão        | Inspeção | Obersevação                      |
 | :-: | :------------------: | :------: | -------------------------------- |
@@ -77,7 +77,7 @@ Após o preenchimento da tabela padrão, o avaliador deve fazer uma tabela separ
 | ... |         ...          |   ...    | ...                              |
 
 <div style="text-align: center">
-<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: <NomeDOAutor>, 2023). </p>
+<p> Tabela 4: Tabela de avaliação com as questões específicas do artefato (Fonte: <NomeDOAutor>, 2023). </p>
 </div>
 
 ## Comentários
