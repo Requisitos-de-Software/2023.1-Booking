@@ -24,17 +24,6 @@ A tabela 2 a seguir representa os dados do artefato App Selecionado.
 <p> Tabela 2: Dados do artefato App Selecionado. (Fonte: Pedro, 2023). </p>
 </div>
 
-| ID |                                              Questão                                              | Inspeção | Obersevação                                                                                                                                                                |
-| :-: | :------------------------------------------------------------------------------------------------: | :--------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 |                       O aplicativo não foi trabalhado no semestre anterior?                       |     🟢     |                                                                                                                                                                              |
-| 2 | O APP é do governo ou comunidade? (caso não seja deve ter uma forma de autorização da empresa) |     🟢     |                                                                                                                                                                              |
-| 3 |                         É levado em consideração o acesso aos usuarios?                         |     🟢     |                                                                                                                                                                              |
-| 4 |                             É descrito os motivos de escolha do App?                             |     🟡     | Os motivos  são descritos apenas para VLC Media Player, para os outros é apenas colocado um link com rich picture para fora do ambiente do projeto sem maiores detalhes. |
-
-<div style="text-align: center">
-<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Pedro, 2023). </p>
-</div>
-
 | ID |                                 Questão                                 | Inspeção | Observações                                                                     |
 | :-: | :-----------------------------------------------------------------------: | :--------: | --------------------------------------------------------------------------------- |
 | 1 |                 As legendas estão no padrão do projeto?                 |     🟡     | A legenda "Figura 1 - Logo do VLC Media Player" não obedece o padrão do projeto |
@@ -45,10 +34,20 @@ A tabela 2 a seguir representa os dados do artefato App Selecionado.
 | 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |                                                                                   |
 | 7 |                         O artefato possui autor?                         |     🟢     |                                                                                   |
 | 8 |                        O artefato possui revisor?                        |     🟢     |                                                                                   |
-| 9 |                    As tabelas são chamadas no texto?                    |     🟢     |                                                                                   |
 
 <div style="text-align: center">
-<p> Tabela 4: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro, 2023). </p>
+<p> Tabela 3: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro, 2023). </p>
+</div>
+
+| ID |                                              Questão                                              | Inspeção | Obersevação                                                                                                                                                                |
+| :-: | :------------------------------------------------------------------------------------------------: | :--------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9 |                       O aplicativo não foi trabalhado no semestre anterior?                       |     🟢     |                                                                                                                                                                              |
+| 10 | O APP é do governo ou comunidade? (caso não seja deve ter uma forma de autorização da empresa) |     🟢     |                                                                                                                                                                              |
+| 11 |                         É levado em consideração o acesso aos usuarios?                         |     🟢     |                                                                                                                                                                              |
+| 12 |                             É descrito os motivos de escolha do App?                             |     🟡     | Os motivos  são descritos apenas para VLC Media Player, para os outros é apenas colocado um link com rich picture para fora do ambiente do projeto sem maiores detalhes. |
+
+<div style="text-align: center">
+<p> Tabela 4: Tabela de avaliação com as questões específicas do artefato (Fonte: Pedro, 2023). </p>
 </div>
 
 ## Comentários
@@ -63,18 +62,18 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Através dos checklists realizados podemos observar que:
 
-- 10/13 exigências são atendidas;
-- 2/13 exigências estão incompletas;
-- 0/13 exigências estão erradas ou não foram realizadas.
-- 1/13 não se aplica.
+- 10/12 exigências são atendidas;
+- 2/12 exigências estão incompletas;
+- 0/12 exigências estão erradas ou não foram realizadas.
+- 1/12 não se aplica.
 
-onde 13 é a quantidade de exigências.
+onde 12 é a quantidade de exigências.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 76,92%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 91,66%.
 
 ## Bibliografia
 
-BARROS, André. Requisitos de Software - Informações do projeto Parte 2. Disponível em: <https://www.youtube.com/watch?v=kDkasvAZtRY&ab_channel=Andr%C3%A9BarrosdeSales>. Acesso em: 10 jun. 2023.
+BARROS, André. Requisitos de Software - Informações do projeto Parte 2. Disponível em: [https://www.youtube.com/watch?v=kDkasvAZtRY&amp;ab_channel=Andr%C3%A9BarrosdeSales](https://www.youtube.com/watch?v=kDkasvAZtRY&ab_channel=Andr%C3%A9BarrosdeSales). Acesso em: 10 jun. 2023.
 
 ## Histórico de Versão
 

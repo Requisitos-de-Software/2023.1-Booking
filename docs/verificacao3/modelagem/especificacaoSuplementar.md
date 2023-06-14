@@ -24,7 +24,6 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 | 6 |   As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?   |    N/A    |                                                                                                                                                                                                                                     |
 | 7 |                           O artefato possui autor?                           |     🟢     |                                                                                                                                                                                                                                     |
 | 8 |                          O artefato possui revisor?                          |     🟢     |                                                                                                                                                                                                                                     |
-| 9 |                      As tabelas são chamadas no texto?                      |    N/A    |                                                                                                                                                                                                                                     |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro e Gabriel, 2023). </p>
@@ -32,13 +31,13 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 
 | ID |                                                   Questão                                                   | Inspeção | Obersevação                                                                                                                                                                        |
 | :-: | :----------------------------------------------------------------------------------------------------------: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 |                                      O artefato segue o modelo FURPS+?                                      |     🟢     |                                                                                                                                                                                      |
-| 2 |                                    O documento aborda as funcionalidades?                                    |     🟢     |                                                                                                                                                                                      |
-| 3 | O documento aborda a Usabilidade do sistema, como acessibilidade, consistência  e estética da interface? |     🟡     | interface "simplificada" para quem e quais ações/funções do aplicativo                                                                                                          |
-| 4 |                  O documento aborda a confiabilidade do sistema, como segurança dos dados?                  |     🟢     |                                                                                                                                                                                      |
-| 5 |            O documento aborda o Desempenho do sistema, como tempo de resposta e uso de recursos?            |     🟢     |                                                                                                                                                                                      |
-| 6 |            O documento aborda a Suportabilidade do sistema, como compatibilidade, escabilidade?            |     🟡     | Retirar "etc" da suportabilidade do sistema operacional porque existem milhares de sistemas operacionais que não utilizam android nem IOS e o "etc" da margem a esse entendimento. |
-| 7 |                         O documento aborda Restrições (+), como fisicas e design?                         |     🟡     | no tópico Fisico, "Android: Kotlin, Java." não são requisitos fisicos, mas de implementação.                                                                                    |
+| 9 |                                      O artefato segue o modelo FURPS+?                                      |     🟢     |                                                                                                                                                                                      |
+| 10 |                                    O documento aborda as funcionalidades?                                    |     🟢     |                                                                                                                                                                                      |
+| 11 | O documento aborda a Usabilidade do sistema, como acessibilidade, consistência  e estética da interface? |     🟡     | interface "simplificada" para quem e quais ações/funções do aplicativo                                                                                                          |
+| 12 |                  O documento aborda a confiabilidade do sistema, como segurança dos dados?                  |     🟢     |                                                                                                                                                                                      |
+| 13 |            O documento aborda o Desempenho do sistema, como tempo de resposta e uso de recursos?            |     🟢     |                                                                                                                                                                                      |
+| 14 |            O documento aborda a Suportabilidade do sistema, como compatibilidade, escabilidade?            |     🟡     | Retirar "etc" da suportabilidade do sistema operacional porque existem milhares de sistemas operacionais que não utilizam android nem IOS e o "etc" da margem a esse entendimento. |
+| 15 |                         O documento aborda Restrições (+), como fisicas e design?                         |     🟡     | no tópico Fisico, "Android: Kotlin, Java." não são requisitos fisicos, mas de implementação.                                                                                    |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Pedro e Gabriel, 2023). </p>
@@ -58,14 +57,14 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Através dos checklists realizados podemos observar que:
 
-- 7/16 exigências são atendidas;
-- 5/16 exigências estão incompletas;
-- 1/16 exigências estão erradas ou não foram realizadas.
-- 3/16 não se aplica.
+- 7/15 exigências são atendidas;
+- 5/15 exigências estão incompletas;
+- 1/15 exigências estão erradas ou não foram realizadas.
+- 3/15 não se aplica.
 
-onde 16 é a quantidade de exigências.
+onde 15 é a quantidade de exigências.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 59,37%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 63,33%.
 
 ## Bibliografia
 

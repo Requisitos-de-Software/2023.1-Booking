@@ -80,6 +80,7 @@ nav:
       - Priorização:
         - In or Out: verificacao3/priorizacao/inOrOut.md
         - First Things First: verificacao3/priorizacao/firstThingsFirst.md
+        - MoSCoW: verificacao3/priorizacao/moscow.md
       - Modelagem:
         - Casos de uso: verificacao3/modelagem/casoUso.md
         - Especificação Suplementar: verificacao3/modelagem/especificacaoSuplementar.md

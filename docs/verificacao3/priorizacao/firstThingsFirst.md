@@ -24,7 +24,6 @@ A tabela 1 a seguir representa os dados do artefato First Things First.
 | 6 |  As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?  |     🟡     | "Nem todos os requisitos estão presentes na tabela", poderia substituir por "Nem todos os requisitos estão presentes na tabela da figura 1" |
 | 7 |                           O artefato possui autor?                           |     🟢     |                                                                                                                                               |
 | 8 |                          O artefato possui revisor?                          |     🟢     |                                                                                                                                               |
-| 9 |                      As tabelas são chamadas no texto?                      |    N/A    |                                                                                                                                               |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro e Gabriel, 2023). </p>
@@ -32,15 +31,15 @@ A tabela 1 a seguir representa os dados do artefato First Things First.
 
 | ID |                                  Questão                                  | Inspeção | Obersevação                                                           |
 | :-: | :------------------------------------------------------------------------: | :--------: | ----------------------------------------------------------------------- |
-| 1 | É feita uma encenação ou entrevista com usuário, para a priorização? |     🟢     |                                                                         |
-| 2 |          Todos os requisitos elicitados estão sendo priorizados?          |     🟡     | Justificar melhor do porque não estão todos os requisitos priorizados |
-| 3 |                     É estimado o beneficio relativo?                     |     🟡     | Deve justificar a motivação do peso do beneficio relativo             |
-| 4 |        É estimado a penalidade caso o recurso não seja incluido?        |     🟡     | Deve justificar a motivação do peso do penalidade relativa            |
-| 5 |                        É calculado o valor total?                        |     🟢     |                                                                         |
-| 6 |           É estimado o custo relativo de cada implementação?           |     🟡     | Deve justificar a motivação do peso do custo relativo                 |
-| 7 |                      É calculado o risco relativo?                      |     🟡     | Deve justificar a motivação do peso do risco relativo                |
-| 8 |              É calculado a prioridade para cada requisitos?              |     🟢     |                                                                         |
-| 9 |                    A lista é ordernado por prioridade?                    |     🟢     |                                                                         |
+| 9 | É feita uma encenação ou entrevista com usuário, para a priorização? |     🟢     |                                                                         |
+| 10 |          Todos os requisitos elicitados estão sendo priorizados?          |     🟡     | Justificar melhor do porque não estão todos os requisitos priorizados |
+| 11 |                     É estimado o beneficio relativo?                     |     🟡     | Deve justificar a motivação do peso do beneficio relativo             |
+| 12 |        É estimado a penalidade caso o recurso não seja incluido?        |     🟡     | Deve justificar a motivação do peso do penalidade relativa            |
+| 13 |                        É calculado o valor total?                        |     🟢     |                                                                         |
+| 14 |           É estimado o custo relativo de cada implementação?           |     🟡     | Deve justificar a motivação do peso do custo relativo                 |
+| 15 |                      É calculado o risco relativo?                      |     🟡     | Deve justificar a motivação do peso do risco relativo                |
+| 16 |              É calculado a prioridade para cada requisitos?              |     🟢     |                                                                         |
+| 17 |                    A lista é ordernado por prioridade?                    |     🟢     |                                                                         |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Pedro e Gabriel, 2023). </p>
@@ -64,14 +63,14 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Através dos checklists realizados podemos observar que:
 
-- 7/18 exigências são atendidas;
-- 8/18 exigências estão incompletas;
-- 2/18 exigências estão erradas ou não foram realizadas.
-- 1/18 não se aplica.
+- 7/17 exigências são atendidas;
+- 8/17 exigências estão incompletas;
+- 2/17 exigências estão erradas ou não foram realizadas.
+- 1/17 não se aplica.
 
-onde 18 é a quantidade de exigências.
+onde 17 é a quantidade de exigências.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 61,11%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 64,70%.
 
 ## Bibliografia
 
