@@ -4,26 +4,26 @@
 
 O presente documento apresentará a verificação do artefato [MosCow](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/moscow), desenvolvidos pela equipe 3, VLC. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido, na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
 
-A tabela 1 a seguir representa os dados do artefato First Things First.
+A tabela 1 a seguir representa os dados do artefato MosCow.
 
 | Versão avaliada | Autor       | Revisor                         |
 | ---------------- | ----------- | ------------------------------- |
 | 1.0              | Rafael Bosi | Giovanni Alvissus e Lucas Gobbi |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados do artefato First Things First. (Fonte: Pedro e Samuel, 2023). </p>
+<p> Tabela 1: Dados do artefato MosCow. (Fonte: Pedro e Samuel, 2023). </p>
 </div>
 
-| ID |                                   Questão                                   | Inspeção | Observações                                                                                                                         |
-| :-: | :--------------------------------------------------------------------------: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 |                  As legendas estão no padrão do projeto?                  |     🔴     |                                                                                                                                       |
-| 2 |                    Possui links para os outros artefatos?                    |     🔴     |                                                                                                                                       |
-| 3 |                     Existe uma introdução no artefato?                     |     🟢     |                                                                                                                                       |
-| 4 |                 Existe tabela de versionamento padronizado?                 |     🟢     |                                                                                                                                       |
-| 5 | Há referências bibliográficas, bibliografia e referências no artefato? |     🟡     | O artefato possui como bibliografia apenas o projeto do semestre passado, algo que o professor chamou atenção durante a disciplina. |
-| 6 |  As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?  |     🟢     |                                                                                                                                       |
-| 7 |                           O artefato possui autor?                           |     🟢     |                                                                                                                                       |
-| 8 |                          O artefato possui revisor?                          |     🟢     |                                                                                                                                       |
+| ID |                                   Questão                                   | Inspeção | Observações                                                                                                             |
+| :-: | :--------------------------------------------------------------------------: | :--------: | ------------------------------------------------------------------------------------------------------------------------- |
+| 1 |                  As legendas estão no padrão do projeto?                  |     🔴     |                                                                                                                           |
+| 2 |                    Possui links para os outros artefatos?                    |     🔴     |                                                                                                                           |
+| 3 |                     Existe uma introdução no artefato?                     |     🟢     |                                                                                                                           |
+| 4 |                 Existe tabela de versionamento padronizado?                 |     🟢     |                                                                                                                           |
+| 5 | Há referências bibliográficas, bibliografia e referências no artefato? |     🟡     | Na bibliografia só é usado conteúdo presente no aprender3, pessoas que não estão incluidas no mesmo não tem acesso. |
+| 6 |  As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?  |     🟢     |                                                                                                                           |
+| 7 |                           O artefato possui autor?                           |     🟢     |                                                                                                                           |
+| 8 |                          O artefato possui revisor?                          |     🟢     |                                                                                                                           |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro e Samuel, 2023). </p>
@@ -59,10 +59,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Através dos checklists realizados podemos observar que:
 
-- X/13 exigências são atendidas;
-- X/13 exigências estão incompletas;
-- X/13 exigências estão erradas ou não foram realizadas.
-- X/13 não se aplica.
+- 5/13 exigências são atendidas;
+- 1/13 exigências estão incompletas;
+- 2/13 exigências estão erradas ou não foram realizadas.
+- 0/13 não se aplica.
 
 onde 13 é a quantidade de exigências.
 
@@ -70,10 +70,12 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 ## Bibliografia
 
-First Things First: Prioritizing Requirements 1. [s.l.: s.n., s.d.]. Disponível em: [https://www.processimpact.com/articles/prioritizing.pdf](https://www.processimpact.com/articles/prioritizing.pdf).
+EQUIPE PM3. Método MoSCoW: framework para ajudar a priorizar tarefas. Cursos para Product Manager | Cursos PM3. Disponível em: <https://www.cursospm3.com.br/blog/metodo-moscow-framework-para-priorizar-tarefas/>. Acesso em: 13 jun. 2023.
+
+
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                             | Autor(es)       |
-| ------- | ---------- | --------------------------------------- | --------------- |
-| 1.0     | 08/06/2023 | Criação do documento de verificação | Pedro e Gabriel |
+| Versão | Data       | Descrição                             | Autor(es)      |
+| ------- | ---------- | --------------------------------------- | -------------- |
+| 1.0     | 13/06/2023 | Criação do documento de verificação | Pedro e Samuel |
