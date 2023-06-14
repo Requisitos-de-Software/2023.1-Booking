@@ -96,7 +96,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus orci pl
 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão:
 
-((100/QntExigencias) _ Acertos) + (((100/QntExigencias) _ Incompletos)/2) [2]
+((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) [2]
 
 Através dos checklists realizados podemos observar que:
 
