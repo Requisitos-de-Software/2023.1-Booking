@@ -6,26 +6,26 @@ A etapa de verificação é uma parte essencial do desenvolvimento de projetos, 
 
 ## Cronograma
 
-| Artefato                  | Avaliador(es)       |
-| ------------------------- | ------------------- |
-| Cronogramas               | Lucas               |
-| Lista de aplicativos      | Pedro               |
-| Ferramentas               | Samuel              |
-| Rich Picture              | Chaydson e Henrique |
-| Perfil de usuário         | Lucas e Chaydson    |
-| Personas                  | Samuel e Henrique   |
-| Questionário              | Lucas               |
-| Storytelling              | Gabriel e Chaydson  |
-| First Things First        | Pedro e Gabriel     |
-| In or Out                 | Lucas e Henrique    |
-| MoSCoW                    | Samuel e Pedro      |
-| Casos de uso              | Lucas               |
-| Cenários                  | Chaydson e Samuel   |
-| Léxico                    | Henrique e Chaydson |
+| Artefato                    | Avaliador(es)       |
+| --------------------------- | ------------------- |
+| Cronogramas                 | Lucas               |
+| Lista de aplicativos        | Pedro               |
+| Ferramentas                 | Samuel              |
+| Rich Picture                | Chaydson e Henrique |
+| Perfil de usuário          | Lucas e Chaydson    |
+| Personas                    | Samuel e Henrique   |
+| Questionário               | Lucas e Chaydson    |
+| Storytelling                | Gabriel e Chaydson  |
+| First Things First          | Pedro e Gabriel     |
+| In or Out                   | Lucas e Henrique    |
+| MoSCoW                      | Samuel e Pedro      |
+| Casos de uso                | Lucas               |
+| Cenários                   | Chaydson e Samuel   |
+| Léxico                     | Henrique e Chaydson |
 | Especificação suplementar | Gabriel e Pedro     |
 | Histórias de usuário      | Henrique e Samuel   |
-| Backlog                   | Pedro e Gabriel     |
-| NRF Framework             | Chaydson e Lucas    |
+| Backlog                     | Pedro e Gabriel     |
+| NRF Framework               | Chaydson e Lucas    |
 
 <div style="text-align: center">
 <p> Tabela 1: Tabela do cronograma de avaliação (Fonte: Lucas Frazão, 2023). </p>
@@ -36,7 +36,7 @@ A etapa de verificação é uma parte essencial do desenvolvimento de projetos, 
 Antes da verificação, precisamos inserir os metadados do artefato avaliado, conforme a tabela 2 abaixo:
 
 | Versão avaliada | Autor             | Revisor             |
-| --------------- | ----------------- | ------------------- |
+| ---------------- | ----------------- | ------------------- |
 | versão x        | Autor do artefato | Revisor do artefato |
 
 <div style="text-align: center">
@@ -56,16 +56,16 @@ Os membros avaliarão os artefatos com base no livro: Barbosa, S. D. J.; Silva, 
 
 A seguir, na tabela 3, temos as perguntas que serão feitas em todos os artefatos, são as perguntas padrões.
 
-| ID  |                                 Questão                                  | Inspeção | Observações                      |
-| :-: | :----------------------------------------------------------------------: | :------: | -------------------------------- |
-|  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |                                  |
-|  2  |                  Possui links para os outros artefatos?                  |    🟡    | Breve comentário                 |
-|  3  |                    Existe uma introdução no artefato?                    |    🔴    | Será justificado nos comentários |
-|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |                                  |
-|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |                                  |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |                                  |
-|  7  |                         O artefato possui autor?                         |    🟢    |                                  |
-|  8  |                        O artefato possui revisor?                        |    🟢    |                                  |
+| ID |                                 Questão                                 | Inspeção | Observações                      |
+| :-: | :-----------------------------------------------------------------------: | :--------: | ---------------------------------- |
+| 1 |                 As legendas estão no padrão do projeto?                 |     🟢     |                                    |
+| 2 |                  Possui links para os outros artefatos?                  |     🟡     | Breve comentário                  |
+| 3 |                   Existe uma introdução no artefato?                   |     🔴     | Será justificado nos comentários |
+| 4 |                Existe tabela de versionamento padronizado?                |     🟢     |                                    |
+| 5 |      Há referências bibliográficas ou referências no artefato?      |     🟢     |                                    |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |                                    |
+| 7 |                         O artefato possui autor?                         |     🟢     |                                    |
+| 8 |                        O artefato possui revisor?                        |     🟢     |                                    |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as padroẽs para todos os artefatos (Fonte: NomeAutor, 2023). </p>
@@ -73,12 +73,12 @@ A seguir, na tabela 3, temos as perguntas que serão feitas em todos os artefato
 
 Após o preenchimento da tabela padrão, o avaliador deve fazer uma tabela separada onde deve ter as questões do cenários especifico, veja mais na tabela 4.
 
-| ID  |       Questão        | Inspeção | Obersevação                      |
-| :-: | :------------------: | :------: | -------------------------------- |
-|  1  | Questão específica 1 |    🟢    | -                                |
-|  2  | Questão específica 2 |    🟡    | Breve comentário                 |
-|  3  | Questão específica 3 |    🔴    | Será justificado nos comentários |
-| ... |         ...          |   ...    | ...                              |
+| ID |        Questão        | Inspeção | Obersevação                      |
+| :-: | :--------------------: | :--------: | ---------------------------------- |
+|  1  | Questão específica 1 |     🟢     | -                                  |
+|  2  | Questão específica 2 |     🟡     | Breve comentário                  |
+|  3  | Questão específica 3 |     🔴     | Será justificado nos comentários |
+| ... |          ...          |    ...    | ...                                |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela de avaliação com as questões específicas do artefato (Fonte: NomeAutor, 2023). </p>
@@ -116,6 +116,6 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       | Autor(es) | Revisor(es) |
-| :--------: | :----: | :------------------: | :-------: | :---------: |
-| 07/06/2023 |  1.0   | Criação do documento |   Lucas   |    Pedro    |
+|    Data    | Versão |      Descrição      | Autor(es) | Revisor(es) |
+| :--------: | :-----: | :--------------------: | :-------: | :---------: |
+| 07/06/2023 |   1.0   | Criação do documento |   Lucas   |    Pedro    |
