@@ -27,7 +27,7 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 | 9 |                      As tabelas são chamadas no texto?                      |    N/A    |                                                |
 
 <div style="text-align: center">
-<p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Henrique, 2023). </p>
+<p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Henrique e Samuel, 2023). </p>
 </div>
 
 | ID |                                   Questão                                   | Inspeção | Obersevação                                                                                 |
@@ -40,7 +40,7 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 | 15 |       As história de usuário foram validadas com um usuário final?       |     🟡     | Foi validada, porém não é possível acessar a gravação feita                             |
 
 <div style="text-align: center">
-<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Henrique, 2023). </p>
+<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Henrique e Samuel, 2023). </p>
 </div>
 
 ## Resultados
