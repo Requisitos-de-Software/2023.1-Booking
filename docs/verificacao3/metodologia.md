@@ -39,6 +39,10 @@ Antes da verificação, precisamos inserir os metadados do artefato avaliado, co
 | --------------- | ----------------- | ------------------- |
 | versão x        | Autor do artefato | Revisor do artefato |
 
+<div style="text-align: center">
+<p> Tabela 2: Metadados do artefato (Fonte: NomeAutor, 2023). </p>
+</div>
+
 Para a verificação, será adotada a técnica de inspeção, a qual será realizada por meio de uma checklist. Essa checklist consiste em uma série de perguntas que têm como objetivo avaliar se o artefato foi desenvolvido de acordo com as exigências da disciplina.
 
 A checklist será preenchida com base em diferentes classificações, que incluem:
@@ -64,7 +68,7 @@ A seguir, na tabela 3, temos as perguntas que serão feitas em todos os artefato
 |  8  |                        O artefato possui revisor?                        |    🟢    |                                  |
 
 <div style="text-align: center">
-<p> Tabela 3: Tabela de avaliação com as padroẽs para todos os artefatos (Fonte: <NomeDOAutor>, 2023). </p>
+<p> Tabela 3: Tabela de avaliação com as padroẽs para todos os artefatos (Fonte: NomeAutor, 2023). </p>
 </div>
 
 Após o preenchimento da tabela padrão, o avaliador deve fazer uma tabela separada onde deve ter as questões do cenários especifico, veja mais na tabela 4.
@@ -77,7 +81,7 @@ Após o preenchimento da tabela padrão, o avaliador deve fazer uma tabela separ
 | ... |         ...          |   ...    | ...                              |
 
 <div style="text-align: center">
-<p> Tabela 4: Tabela de avaliação com as questões específicas do artefato (Fonte: <NomeDOAutor>, 2023). </p>
+<p> Tabela 4: Tabela de avaliação com as questões específicas do artefato (Fonte: NomeAutor, 2023). </p>
 </div>
 
 ## Comentários
