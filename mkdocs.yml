@@ -73,6 +73,7 @@ nav:
       - Planejamento:
         - Cronograma: verificacao3/planejamento/cronograma.md
         - Lista de Aplicativos: verificacao3/planejamento/listaDeAplicativos.md
+        - Ferramentas: verificacao3/planejamento/ferramenta.md
       - Pré-rastreabilidade:
         - Rich Picture: verificacao3/prePlanejamento/richPicture.md 
       - Elicitação:
