@@ -33,6 +33,12 @@ A etapa de verificação é uma parte essencial do desenvolvimento de projetos, 
 
 ## Método de avaliação
 
+Antes da verificação, precisamos inserir os metadados do artefato avaliado, conforme a tabela 2 abaixo:
+
+| Versão avaliada | Autor             | Revisor             |
+| --------------- | ----------------- | ------------------- |
+| versão x        | Autor do artefato | Revisor do artefato |
+
 Para a verificação, será adotada a técnica de inspeção, a qual será realizada por meio de uma checklist. Essa checklist consiste em uma série de perguntas que têm como objetivo avaliar se o artefato foi desenvolvido de acordo com as exigências da disciplina.
 
 A checklist será preenchida com base em diferentes classificações, que incluem:
