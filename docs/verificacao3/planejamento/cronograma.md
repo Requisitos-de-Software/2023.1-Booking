@@ -9,35 +9,34 @@ O presente documento apresentará a verificação do artefato Cronograma e Crono
 | 1.3             | Rafael Bosi | Lucas Gobbi |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados do artefato (Fonte: Lucas Frazão, 2023). </p>
-</div>
-
-| ID  |                                  Questão                                   | Inspeção | Obersevação                                                                            |
-| :-: | :------------------------------------------------------------------------: | :------: | -------------------------------------------------------------------------------------- |
-|  1  |   O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome?    |    🟢    |                                                                                        |
-|  2  |            As tarefas do cronograma possuem nomes condizentes?             |    🟡    | Poderia adicionar um titulo significativo para o que será feito no ponto de controle x |
-|  3  |              Os revisores são pessoas diferentes dos autores?              |    🟢    |                                                                                        |
-|  4  | As tarefas do cronograma foram distribuidas entre os todos os integrantes? |    🟢    |                                                                                        |
-|  5  | O cronograma executado é alterado de acordo com a realização das tarefas?  |    🟡    | Existem etapas que não foram adicionadas                                               |
-
-<div style="text-align: center">
-<p> Tabela 2: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas Frazão, 2023). </p>
+<p> Tabela 1: Metadados do artefato (Fonte: Lucas Frazão, 2023). </p>
 </div>
 
 | ID  |                                 Questão                                  | Inspeção | Observações              |
 | :-: | :----------------------------------------------------------------------: | :------: | ------------------------ |
-|  6  |                 As legendas estão no padrão do projeto?                  |    🟢    |                          |
-|  7  |                  Possui links para os outros artefatos?                  |   N/A    |                          |
-|  8  |                    Existe uma introdução no artefato?                    |    🟢    |                          |
-|  9  |               Existe tabela de versionamento padronizado?                |    🟢    |                          |
-| 10  |        Há referências bibliográficas ou referências no artefato?         |    🟡    | O link está do aprender3 |
-| 11  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |                          |
-| 12  |                         O artefato possui autor?                         |    🟢    |                          |
-| 13  |                        O artefato possui revisor?                        |    🟢    |                          |
-| 14  |                    As tabelas são chamadas no texto?                     |    🟢    |                          |
+|  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |                          |
+|  2  |                  Possui links para os outros artefatos?                  |   N/A    |                          |
+|  3  |                    Existe uma introdução no artefato?                    |    🟢    |                          |
+|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |                          |
+|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟡    | O link está do aprender3 |
+|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |                          |
+|  7  |                         O artefato possui autor?                         |    🟢    |                          |
+|  8  |                        O artefato possui revisor?                        |    🟢    |                          |
 
 <div style="text-align: center">
-<p> Tabela 3: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Lucas Frazão, 2023). </p>
+<p> Tabela 2: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Lucas Frazão, 2023). </p>
+</div>
+
+| ID  |                                  Questão                                   | Inspeção | Obersevação                                                                            |
+| :-: | :------------------------------------------------------------------------: | :------: | -------------------------------------------------------------------------------------- |
+|  9  |   O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome?    |    🟢    |                                                                                        |
+| 10  |            As tarefas do cronograma possuem nomes condizentes?             |    🟡    | Poderia adicionar um titulo significativo para o que será feito no ponto de controle x |
+| 11  |              Os revisores são pessoas diferentes dos autores?              |    🟢    |                                                                                        |
+| 12  | As tarefas do cronograma foram distribuidas entre os todos os integrantes? |    🟢    |                                                                                        |
+| 13  | O cronograma executado é alterado de acordo com a realização das tarefas?  |    🟡    | Existem algumas etapas que não foram adicionadas no cronograma executado               |
+
+<div style="text-align: center">
+<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas Frazão, 2023). </p>
 </div>
 
 ## Comentários
@@ -60,6 +59,7 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       | Autor(es) |
-| :--------: | :----: | :------------------: | :-------: |
-| 08/06/2023 |  1.0   | Criação do documento |   Lucas   |
+|    Data    | Versão |        Descrição        | Autor(es) |
+| :--------: | :----: | :---------------------: | :-------: |
+| 08/06/2023 |  1.0   |  Criação do documento   |   Lucas   |
+| 14/06/2023 |  1.1   | Padroninzando documento |   Lucas   |
