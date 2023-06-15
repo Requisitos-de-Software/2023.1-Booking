@@ -86,7 +86,11 @@ nav:
       - Modelagem:
         - Casos de uso: verificacao3/modelagem/casoUso.md
         - Especificação Suplementar: verificacao3/modelagem/especificacaoSuplementar.md
+<<<<<<< Updated upstream
         - Léxicos: verificacao3/modelagem/lexicos.md
+=======
+>>>>>>> Stashed changes
+        - Cenários: verificacao3/modelagem/cenarios.md
       - Agil:
         - Backlog: verificacao3/agil/backlog.md
         - Histórias de Usuário: verificacao3/agil/historiasDeUsuario.md
