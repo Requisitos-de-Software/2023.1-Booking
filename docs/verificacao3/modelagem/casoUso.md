@@ -4,9 +4,13 @@
 
 O presente documento apresentará a verificação dos casos de uso, desenvolvidos pela equipe 3, VCL. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido, na tabela 1, se encontra os metadados desse artefato, nas tabelas 2, 3, 4 e 5 se encontram as questões a serem avaliadas.
 
+<center>
+
 | Versão avaliada | Autor             | Revisor     |
 | --------------- | ----------------- | ----------- |
 | 1.0             | Giovanni Alvissus | Rafael Bosi |
+
+</center>
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato (Fonte: Lucas Frazão, 2023). </p>

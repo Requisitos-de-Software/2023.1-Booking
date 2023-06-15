@@ -6,38 +6,42 @@ O presente documento apresentará a verificação do artefato [Especificação S
 
 A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 
+<center>
+
 | Versão avaliada | Autor                       | Revisor                        |
-| ---------------- | --------------------------- | ------------------------------ |
-| 1.0              | Bruno Riberio e Lucas Gobbi | Igor Penha e Giovanni Alvissus |
+| --------------- | --------------------------- | ------------------------------ |
+| 1.0             | Bruno Riberio e Lucas Gobbi | Igor Penha e Giovanni Alvissus |
+
+</center>
 
 <div style="text-align: center">
 <p> Tabela 1: Dados do artefato Especificação Suplementar. (Fonte: Pedro e Gabriel, 2023). </p>
 </div>
 
-| ID |                                   Questão                                   | Inspeção | Observações                                                                                                                                                                                                                       |
-| :-: | :---------------------------------------------------------------------------: | :--------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 |                   As legendas estão no padrão do projeto?                   |    N/A    |                                                                                                                                                                                                                                     |
-| 2 |                    Possui links para os outros artefatos?                    |     🔴     | Em funcionalidades, o caso de uso é mencionado no texto, poŕem não possui link para esse artefato.                                                                                                                               |
-| 3 |                     Existe uma introdução no artefato?                     |     🟡     | "Intrudução", erro de ortografia                                                                                                                                                                                                  |
-| 4 |                  Existe tabela de versionamento padronizado?                  |     🟢     |                                                                                                                                                                                                                                     |
-| 5 | Há referências bibliográficas, bibliografia ou referências no artefato? |     🟡     | A bibliografia possui um link para um conteúdo que usuários externos não tem acesso e que estudantes perderão acesso futuramente. No lugar do link do slide do professor, colocar as referências que o mesmo slide referencia. |
-| 6 |   As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?   |    N/A    |                                                                                                                                                                                                                                     |
-| 7 |                           O artefato possui autor?                           |     🟢     |                                                                                                                                                                                                                                     |
-| 8 |                          O artefato possui revisor?                          |     🟢     |                                                                                                                                                                                                                                     |
+| ID  |                                 Questão                                  | Inspeção | Observações                                                                                                                                                                                                                    |
+| :-: | :----------------------------------------------------------------------: | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  1  |                 As legendas estão no padrão do projeto?                  |   N/A    |                                                                                                                                                                                                                                |
+|  2  |                  Possui links para os outros artefatos?                  |    🔴    | Em funcionalidades, o caso de uso é mencionado no texto, poŕem não possui link para esse artefato.                                                                                                                             |
+|  3  |                    Existe uma introdução no artefato?                    |    🟡    | "Intrudução", erro de ortografia                                                                                                                                                                                               |
+|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |                                                                                                                                                                                                                                |
+|  5  | Há referências bibliográficas, bibliografia ou referências no artefato?  |    🟡    | A bibliografia possui um link para um conteúdo que usuários externos não tem acesso e que estudantes perderão acesso futuramente. No lugar do link do slide do professor, colocar as referências que o mesmo slide referencia. |
+|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |   N/A    |                                                                                                                                                                                                                                |
+|  7  |                         O artefato possui autor?                         |    🟢    |                                                                                                                                                                                                                                |
+|  8  |                        O artefato possui revisor?                        |    🟢    |                                                                                                                                                                                                                                |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro e Gabriel, 2023). </p>
 </div>
 
-| ID |                                                   Questão                                                   | Inspeção | Obersevação                                                                                                                                                                        |
-| :-: | :----------------------------------------------------------------------------------------------------------: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 9 |                                      O artefato segue o modelo FURPS+?                                      |     🟢     |                                                                                                                                                                                      |
-| 10 |                                    O documento aborda as funcionalidades?                                    |     🟢     |                                                                                                                                                                                      |
-| 11 | O documento aborda a Usabilidade do sistema, como acessibilidade, consistência  e estética da interface? |     🟡     | interface "simplificada" para quem e quais ações/funções do aplicativo                                                                                                          |
-| 12 |                  O documento aborda a confiabilidade do sistema, como segurança dos dados?                  |     🟢     |                                                                                                                                                                                      |
-| 13 |            O documento aborda o Desempenho do sistema, como tempo de resposta e uso de recursos?            |     🟢     |                                                                                                                                                                                      |
-| 14 |            O documento aborda a Suportabilidade do sistema, como compatibilidade, escabilidade?            |     🟡     | Retirar "etc" da suportabilidade do sistema operacional porque existem milhares de sistemas operacionais que não utilizam android nem IOS e o "etc" da margem a esse entendimento. |
-| 15 |                         O documento aborda Restrições (+), como fisicas e design?                         |     🟡     | no tópico Fisico, "Android: Kotlin, Java." não são requisitos fisicos, mas de implementação.                                                                                    |
+| ID  |                                                 Questão                                                  | Inspeção | Obersevação                                                                                                                                                                        |
+| :-: | :------------------------------------------------------------------------------------------------------: | :------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  9  |                                    O artefato segue o modelo FURPS+?                                     |    🟢    |                                                                                                                                                                                    |
+| 10  |                                  O documento aborda as funcionalidades?                                  |    🟢    |                                                                                                                                                                                    |
+| 11  | O documento aborda a Usabilidade do sistema, como acessibilidade, consistência  e estética da interface? |    🟡    | interface "simplificada" para quem e quais ações/funções do aplicativo                                                                                                             |
+| 12  |                O documento aborda a confiabilidade do sistema, como segurança dos dados?                 |    🟢    |                                                                                                                                                                                    |
+| 13  |          O documento aborda o Desempenho do sistema, como tempo de resposta e uso de recursos?           |    🟢    |                                                                                                                                                                                    |
+| 14  |           O documento aborda a Suportabilidade do sistema, como compatibilidade, escabilidade?           |    🟡    | Retirar "etc" da suportabilidade do sistema operacional porque existem milhares de sistemas operacionais que não utilizam android nem IOS e o "etc" da margem a esse entendimento. |
+| 15  |                        O documento aborda Restrições (+), como fisicas e design?                         |    🟡    | no tópico Fisico, "Android: Kotlin, Java." não são requisitos fisicos, mas de implementação.                                                                                       |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Pedro e Gabriel, 2023). </p>
@@ -72,8 +76,8 @@ Concept: Requisitos Suplementares. Ufpe.br. Disponível em: [https://www.cin.ufp
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                             | Autor(es)       |
-| ------- | ---------- | --------------------------------------- | --------------- |
-| 1.0     | 07/06/2023 | Criação do documento de verificação | Pedro e Gabriel |
+| Versão | Data       | Descrição                           | Autor(es)       |
+| ------ | ---------- | ----------------------------------- | --------------- |
+| 1.0    | 07/06/2023 | Criação do documento de verificação | Pedro e Gabriel |
 
 ‌

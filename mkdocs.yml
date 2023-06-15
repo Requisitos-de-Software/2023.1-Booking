@@ -73,6 +73,7 @@ nav:
       - Planejamento:
         - Cronograma: verificacao3/planejamento/cronograma.md
         - Lista de Aplicativos: verificacao3/planejamento/listaDeAplicativos.md
+        - Ferramentas: verificacao3/planejamento/ferramenta.md
       - Pré-rastreabilidade:
         - Rich Picture: verificacao3/prePlanejamento/richPicture.md 
       - Elicitação:
@@ -86,7 +87,10 @@ nav:
       - Modelagem:
         - Casos de uso: verificacao3/modelagem/casoUso.md
         - Especificação Suplementar: verificacao3/modelagem/especificacaoSuplementar.md
+        - Léxicos: verificacao3/modelagem/lexicos.md
+        - Cenários: verificacao3/modelagem/cenarios.md
       - Agil:
         - Backlog: verificacao3/agil/backlog.md
         - Histórias de Usuário: verificacao3/agil/historiasDeUsuario.md
+        - NFR Framework: verificacao3/agil/nfrFramework.md
 
