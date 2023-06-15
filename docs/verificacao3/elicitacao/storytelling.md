@@ -55,7 +55,9 @@ A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 ### ID11 - As ideias propostas nas histórias condizem os objetivose interesses das personas?
 
 Neas histórias a maior parte delas, apresentam o personagem a sua problemática e objetivo, entretanto o artefato com o qual estão ligados apresentam algumas discrepâncias, como por exemplo na história 'Trasminssão de conhecimento' a personagem Caius Lucius já gosta de apresentar video e slides e filmes e peças teatrais a seus alunos de acordo com o descrito no PDF, e na história é apresentado como se o mesmo nunca tivesse feito essas apresentações.
+
 Na história 'Marcus Andronicus' apesar de seu bom contexto, seria melhor recomendado se o ao invés de qualquer playlist de música, fosse alg relacionado aos seus gostos como por 'Bossa Nova' o qual como descrito pelo PDF ele é amante desse estilo musical.
+
 Na última história é descrito que 'Cordelia Macbeth' apesar de citar a história dos álbuns de fotos delas, e videos, entretanto quando é citado na história que o aparelho não funciona mais, não citado se é um aparelho móvel, de DVD ou outro, o que dificulta o entedimento mais para frente no é citado o VLC para a 'Cordelia' assistir videos, essa ação ignora o contexto anterior passado pelo PDF de que ela já assitia vídeos de seus netos pelo smartphone, o que significa que ela provavelmente já tinha a experiência com o outro aplicativo para assisitir vídeo. Recomemdaria refinar a história de 'Cordelia'.
 
 ## Resultados
