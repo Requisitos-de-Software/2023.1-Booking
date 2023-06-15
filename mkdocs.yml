@@ -68,4 +68,29 @@ nav:
         - Backlog: modelagem/modelo-agil/backlog.md
         - Histórias de Usuário: modelagem/modelo-agil/historiasDeUsuario.md
         - NFR Framework: modelagem/modelo-agil/nfrFramework.md
+  - Verificação grupo 3:
+      - Metodologia: verificacao3/metodologia.md
+      - Planejamento:
+        - Cronograma: verificacao3/planejamento/cronograma.md
+        - Lista de Aplicativos: verificacao3/planejamento/listaDeAplicativos.md
+        - Ferramentas: verificacao3/planejamento/ferramenta.md
+      - Pré-rastreabilidade:
+        - Rich Picture: verificacao3/prePlanejamento/richPicture.md 
+      - Elicitação:
+        - Perfil de usuário: verificacao3/elicitacao/perfilUsuario.md
+        - Personas: verificacao3/elicitacao/personas.md
+        - Storytelling: verificacao3/elicitacao/storytelling.md
+      - Priorização:
+        - In or Out: verificacao3/priorizacao/inOrOut.md
+        - First Things First: verificacao3/priorizacao/firstThingsFirst.md
+        - MoSCoW: verificacao3/priorizacao/moscow.md
+      - Modelagem:
+        - Casos de uso: verificacao3/modelagem/casoUso.md
+        - Especificação Suplementar: verificacao3/modelagem/especificacaoSuplementar.md
+        - Léxicos: verificacao3/modelagem/lexicos.md
+        - Cenários: verificacao3/modelagem/cenarios.md
+      - Agil:
+        - Backlog: verificacao3/agil/backlog.md
+        - Histórias de Usuário: verificacao3/agil/historiasDeUsuario.md
+        - NFR Framework: verificacao3/agil/nfrFramework.md
 
