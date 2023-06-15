@@ -6,38 +6,42 @@ O presente documento apresentará a verificação do artefato [Backlog](https://
 
 A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
 
+<center>
+
 | Versão avaliada | Autor             | Revisor     |
-| ---------------- | ----------------- | ----------- |
-| 1.1              | Giovanni Alvissus | Lucas Gobbi |
+| --------------- | ----------------- | ----------- |
+| 1.1             | Giovanni Alvissus | Lucas Gobbi |
+
+</center>
 
 <div style="text-align: center">
 <p> Tabela 1: Dados do artefato Especificação Suplementar. (Fonte: Pedro e Gabriel, 2023). </p>
 </div>
 
-| ID |                                   Questão                                   | Inspeção | Observações                                                                      |
-| :-: | :---------------------------------------------------------------------------: | :--------: | ---------------------------------------------------------------------------------- |
-| 1 |                   As legendas estão no padrão do projeto?                   |     🟢     |                                                                                    |
-| 2 |                    Possui links para os outros artefatos?                    |     🟡     | Esta faltando o link para o artefato das historias de usuários.                   |
-| 3 |                     Existe uma introdução no artefato?                     |     🟢     |                                                                                    |
-| 4 |                  Existe tabela de versionamento padronizado?                  |     🟢     |                                                                                    |
-| 5 | Há referências bibliográficas, bibliografia ou referências no artefato? |     🟡     | A bibliografia, na verdade como foi implementada é uma referência bibliografica. |
-| 6 |   As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?   |     🟡     | Não possui legenda para os acrônimos das rastreabilidades.                       |
-| 7 |                           O artefato possui autor?                           |     🟢     |                                                                                    |
-| 8 |                          O artefato possui revisor?                          |     🟢     |                                                                                    |
+| ID  |                                 Questão                                  | Inspeção | Observações                                                                      |
+| :-: | :----------------------------------------------------------------------: | :------: | -------------------------------------------------------------------------------- |
+|  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |                                                                                  |
+|  2  |                  Possui links para os outros artefatos?                  |    🟡    | Esta faltando o link para o artefato das historias de usuários.                  |
+|  3  |                    Existe uma introdução no artefato?                    |    🟢    |                                                                                  |
+|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |                                                                                  |
+|  5  | Há referências bibliográficas, bibliografia ou referências no artefato?  |    🟡    | A bibliografia, na verdade como foi implementada é uma referência bibliografica. |
+|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟡    | Não possui legenda para os acrônimos das rastreabilidades.                       |
+|  7  |                         O artefato possui autor?                         |    🟢    |                                                                                  |
+|  8  |                        O artefato possui revisor?                        |    🟢    |                                                                                  |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro e Gabriel, 2023). </p>
 </div>
 
-| ID |                                                       Questão                                                       | Inspeção | Obersevação                                                                                                                                                                                                    |
-| :-: | :-------------------------------------------------------------------------------------------------------------------: | :--------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9 |                                      Os épicos estão priorizados e ordenados?                                      |     🟡     | A US09 com prioridade Must esta abaixo de US08, US07, US06 que tem prioridade Could                                                                                                                           |
-| 10 |                                           O backlog possui rastreabilidade?                                           |     🔴     |                                                                                                                                                                                                                  |
-| 11 |                                      O backlog atende a necessidade do usuário?                                      |     🟡     | O fato de uma historia de usuário com prioridade Must estar abaixo de uma história com prioridade Could afeta em funcionalidades que serão desenvolvidas para o usuário que podem ser urgentes para o mesmo. |
-| 12 |                                     O backlog foi validado com o usuário ou PO?                                     |     🔴     |                                                                                                                                                                                                                  |
-| 13 |                     As historias de usuário tem relação com o épico no qual estão contidas?                     |     🔴     |                                                                                                                                                                                                                  |
-| 14 | Os épicos possuem historias de usuarios suficientes e condizentes para levar mais de uma sprint para ser concluída? |     🟡     | O épico 3 pode ser concluído em uma única sprint, o que tornaria ela uma história de usuário.                                                                                                               |
-| 15 |                   Os eṕicos estão granularizados o suficiente para gerar historias de usuários?                   |     🔴     |                                                                                                                                                                                                                  |
+| ID  |                                                       Questão                                                       | Inspeção | Obersevação                                                                                                                                                                                                  |
+| :-: | :-----------------------------------------------------------------------------------------------------------------: | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  9  |                                      Os épicos estão priorizados e ordenados?                                       |    🟡    | A US09 com prioridade Must esta abaixo de US08, US07, US06 que tem prioridade Could                                                                                                                          |
+| 10  |                                          O backlog possui rastreabilidade?                                          |    🔴    |                                                                                                                                                                                                              |
+| 11  |                                     O backlog atende a necessidade do usuário?                                      |    🟡    | O fato de uma historia de usuário com prioridade Must estar abaixo de uma história com prioridade Could afeta em funcionalidades que serão desenvolvidas para o usuário que podem ser urgentes para o mesmo. |
+| 12  |                                     O backlog foi validado com o usuário ou PO?                                     |    🔴    |                                                                                                                                                                                                              |
+| 13  |                       As historias de usuário tem relação com o épico no qual estão contidas?                       |    🔴    |                                                                                                                                                                                                              |
+| 14  | Os épicos possuem historias de usuarios suficientes e condizentes para levar mais de uma sprint para ser concluída? |    🟡    | O épico 3 pode ser concluído em uma única sprint, o que tornaria ela uma história de usuário.                                                                                                                |
+| 15  |                    Os eṕicos estão granularizados o suficiente para gerar historias de usuários?                    |    🔴    |                                                                                                                                                                                                              |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Pedro e Gabriel, 2023). </p>
@@ -88,8 +92,8 @@ MESQUITA SOARES, Renato. 1 Introdução. In: MESQUITA SOARES, Renato. Product Ba
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                             | Autor(es)       |
-| ------- | ---------- | --------------------------------------- | --------------- |
-| 1.0     | 07/06/2023 | Criação do documento de verificação | Pedro e Gabriel |
+| Versão | Data       | Descrição                           | Autor(es)       |
+| ------ | ---------- | ----------------------------------- | --------------- |
+| 1.0    | 07/06/2023 | Criação do documento de verificação | Pedro e Gabriel |
 
 ‌

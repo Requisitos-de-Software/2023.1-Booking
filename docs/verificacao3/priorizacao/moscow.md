@@ -6,37 +6,41 @@ O presente documento apresentará a verificação do artefato [MosCow](https://r
 
 A tabela 1 a seguir representa os dados do artefato MosCow.
 
+<center>
+
 | Versão avaliada | Autor       | Revisor                         |
-| ---------------- | ----------- | ------------------------------- |
-| 1.0              | Rafael Bosi | Giovanni Alvissus e Lucas Gobbi |
+| --------------- | ----------- | ------------------------------- |
+| 1.0             | Rafael Bosi | Giovanni Alvissus e Lucas Gobbi |
+
+</center>
 
 <div style="text-align: center">
 <p> Tabela 1: Dados do artefato MosCow. (Fonte: Pedro e Samuel, 2023). </p>
 </div>
 
-| ID |                                   Questão                                   | Inspeção | Observações                                                                                                             |
-| :-: | :--------------------------------------------------------------------------: | :--------: | ------------------------------------------------------------------------------------------------------------------------- |
-| 1 |                  As legendas estão no padrão do projeto?                  |     🔴     |                                                                                                                           |
-| 2 |                    Possui links para os outros artefatos?                    |     🔴     |                                                                                                                           |
-| 3 |                     Existe uma introdução no artefato?                     |     🟢     |                                                                                                                           |
-| 4 |                 Existe tabela de versionamento padronizado?                 |     🟢     |                                                                                                                           |
-| 5 | Há referências bibliográficas, bibliografia e referências no artefato? |     🟡     | Na bibliografia só é usado conteúdo presente no aprender3, pessoas que não estão incluidas no mesmo não tem acesso. |
-| 6 |  As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?  |     🟢     |                                                                                                                           |
-| 7 |                           O artefato possui autor?                           |     🟢     |                                                                                                                           |
-| 8 |                          O artefato possui revisor?                          |     🟢     |                                                                                                                           |
+| ID  |                                 Questão                                  | Inspeção | Observações                                                                                                         |
+| :-: | :----------------------------------------------------------------------: | :------: | ------------------------------------------------------------------------------------------------------------------- |
+|  1  |                 As legendas estão no padrão do projeto?                  |    🔴    |                                                                                                                     |
+|  2  |                  Possui links para os outros artefatos?                  |    🔴    |                                                                                                                     |
+|  3  |                    Existe uma introdução no artefato?                    |    🟢    |                                                                                                                     |
+|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |                                                                                                                     |
+|  5  |  Há referências bibliográficas, bibliografia e referências no artefato?  |    🟡    | Na bibliografia só é usado conteúdo presente no aprender3, pessoas que não estão incluidas no mesmo não tem acesso. |
+|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |                                                                                                                     |
+|  7  |                         O artefato possui autor?                         |    🟢    |                                                                                                                     |
+|  8  |                        O artefato possui revisor?                        |    🟢    |                                                                                                                     |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro e Samuel, 2023). </p>
 </div>
 
-| ID |                                                               Questão                                                               | Inspeção | Obersevação |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------: | ------------- |
-| 9 |                                                  A metodologia usada está correta?                                                  |     🟢     |               |
-| 10 |                              É feita uma encenação ou entrevista com usuário, para a priorização?                              |     🟢     |               |
-| 11 |                                       Todos os requisitos elicitados estão sendo priorizados?                                       |     🟢     |               |
-| 12 |                                            Os requisitos estão ordenados por prioridade?                                            |     🔴     |               |
-| 13 | A técnica MoSCoW foi aplicada corretamente, hierarquizando os requisitos com os elementos do framework (Must, Should, Could, Wont)? |     🟢     |               |
-| 14 |            Um cronograma foi estabelecido com data, hora e local para a realização da priorização junto ao usuário?            |     🟢     |               |
+| ID  |                                                               Questão                                                               | Inspeção | Obersevação |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------: | :------: | ----------- |
+|  9  |                                                  A metodologia usada está correta?                                                  |    🟢    |             |
+| 10  |                                É feita uma encenação ou entrevista com usuário, para a priorização?                                 |    🟢    |             |
+| 11  |                                       Todos os requisitos elicitados estão sendo priorizados?                                       |    🟢    |             |
+| 12  |                                            Os requisitos estão ordenados por prioridade?                                            |    🔴    |             |
+| 13  | A técnica MoSCoW foi aplicada corretamente, hierarquizando os requisitos com os elementos do framework (Must, Should, Could, Wont)? |    🟢    |             |
+| 14  |              Um cronograma foi estabelecido com data, hora e local para a realização da priorização junto ao usuário?               |    🟢    |             |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Pedro e Samuel, 2023). </p>
@@ -60,7 +64,7 @@ Os requisitos não estão sendo ordenados por prioridade.
 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão:
 
-((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2)
+((100/QntExigencias) _ Acertos) + (((100/QntExigencias) _ Incompletos)/2)
 
 Através dos checklists realizados podemos observar que:
 
@@ -79,6 +83,6 @@ EQUIPE PM3. Método MoSCoW: framework para ajudar a priorizar tarefas. Cursos pa
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                             | Autor(es)      |
-| ------- | ---------- | --------------------------------------- | -------------- |
-| 1.0     | 13/06/2023 | Criação do documento de verificação | Pedro e Samuel |
+| Versão | Data       | Descrição                           | Autor(es)      |
+| ------ | ---------- | ----------------------------------- | -------------- |
+| 1.0    | 13/06/2023 | Criação do documento de verificação | Pedro e Samuel |

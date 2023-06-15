@@ -7,39 +7,43 @@ O presente documento apresentará a verificação do artefato [First Things Firs
 A tabela 1 a seguir representa os dados do artefato First Things First.
 
 | Versão avaliada | Autor       | Revisor                         |
-| ---------------- | ----------- | ------------------------------- |
-| 1.0              | Rafael Bosi | Giovanni Alvissus e Lucas Gobbi |
+| --------------- | ----------- | ------------------------------- |
+| 1.0             | Rafael Bosi | Giovanni Alvissus e Lucas Gobbi |
+
+<center>
 
 <div style="text-align: center">
 <p> Tabela 1: Dados do artefato First Things First. (Fonte: Pedro e Gabriel, 2023). </p>
 </div>
 
-| ID |                                   Questão                                   | Inspeção | Observações                                                                                                                                 |
-| :-: | :--------------------------------------------------------------------------: | :--------: | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 |                  As legendas estão no padrão do projeto?                  |     🔴     |                                                                                                                                               |
-| 2 |                    Possui links para os outros artefatos?                    |     🔴     |                                                                                                                                               |
-| 3 |                     Existe uma introdução no artefato?                     |     🟢     |                                                                                                                                               |
-| 4 |                 Existe tabela de versionamento padronizado?                 |     🟡     | Histórico de versão duplicado no artefato.                                                                                                  |
-| 5 | Há referências bibliográficas, bibliografia e referências no artefato? |     🟡     | O artefato possui como bibliografia apenas o projeto do semestre passado, algo que o professor chamou atenção durante a disciplina.         |
-| 6 |  As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?  |     🟡     | "Nem todos os requisitos estão presentes na tabela", poderia substituir por "Nem todos os requisitos estão presentes na tabela da figura 1" |
-| 7 |                           O artefato possui autor?                           |     🟢     |                                                                                                                                               |
-| 8 |                          O artefato possui revisor?                          |     🟢     |                                                                                                                                               |
+</center>
+
+| ID  |                                 Questão                                  | Inspeção | Observações                                                                                                                                 |
+| :-: | :----------------------------------------------------------------------: | :------: | ------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  |                 As legendas estão no padrão do projeto?                  |    🔴    |                                                                                                                                             |
+|  2  |                  Possui links para os outros artefatos?                  |    🔴    |                                                                                                                                             |
+|  3  |                    Existe uma introdução no artefato?                    |    🟢    |                                                                                                                                             |
+|  4  |               Existe tabela de versionamento padronizado?                |    🟡    | Histórico de versão duplicado no artefato.                                                                                                  |
+|  5  |  Há referências bibliográficas, bibliografia e referências no artefato?  |    🟡    | O artefato possui como bibliografia apenas o projeto do semestre passado, algo que o professor chamou atenção durante a disciplina.         |
+|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟡    | "Nem todos os requisitos estão presentes na tabela", poderia substituir por "Nem todos os requisitos estão presentes na tabela da figura 1" |
+|  7  |                         O artefato possui autor?                         |    🟢    |                                                                                                                                             |
+|  8  |                        O artefato possui revisor?                        |    🟢    |                                                                                                                                             |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as verificações gerais para todos os artefatos (Fonte: Pedro e Gabriel, 2023). </p>
 </div>
 
-| ID |                                  Questão                                  | Inspeção | Obersevação                                                           |
-| :-: | :------------------------------------------------------------------------: | :--------: | ----------------------------------------------------------------------- |
-| 9 | É feita uma encenação ou entrevista com usuário, para a priorização? |     🟢     |                                                                         |
-| 10 |          Todos os requisitos elicitados estão sendo priorizados?          |     🟡     | Justificar melhor do porque não estão todos os requisitos priorizados |
-| 11 |                     É estimado o beneficio relativo?                     |     🟡     | Deve justificar a motivação do peso do beneficio relativo             |
-| 12 |        É estimado a penalidade caso o recurso não seja incluido?        |     🟡     | Deve justificar a motivação do peso do penalidade relativa            |
-| 13 |                        É calculado o valor total?                        |     🟢     |                                                                         |
-| 14 |           É estimado o custo relativo de cada implementação?           |     🟡     | Deve justificar a motivação do peso do custo relativo                 |
-| 15 |                      É calculado o risco relativo?                      |     🟡     | Deve justificar a motivação do peso do risco relativo                |
-| 16 |              É calculado a prioridade para cada requisitos?              |     🟢     |                                                                         |
-| 17 |                    A lista é ordernado por prioridade?                    |     🟢     |                                                                         |
+| ID  |                               Questão                                | Inspeção | Obersevação                                                           |
+| :-: | :------------------------------------------------------------------: | :------: | --------------------------------------------------------------------- |
+|  9  | É feita uma encenação ou entrevista com usuário, para a priorização? |    🟢    |                                                                       |
+| 10  |       Todos os requisitos elicitados estão sendo priorizados?        |    🟡    | Justificar melhor do porque não estão todos os requisitos priorizados |
+| 11  |                   É estimado o beneficio relativo?                   |    🟡    | Deve justificar a motivação do peso do beneficio relativo             |
+| 12  |      É estimado a penalidade caso o recurso não seja incluido?       |    🟡    | Deve justificar a motivação do peso do penalidade relativa            |
+| 13  |                      É calculado o valor total?                      |    🟢    |                                                                       |
+| 14  |          É estimado o custo relativo de cada implementação?          |    🟡    | Deve justificar a motivação do peso do custo relativo                 |
+| 15  |                    É calculado o risco relativo?                     |    🟡    | Deve justificar a motivação do peso do risco relativo                 |
+| 16  |            É calculado a prioridade para cada requisitos?            |    🟢    |                                                                       |
+| 17  |                 A lista é ordernado por prioridade?                  |    🟢    |                                                                       |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Pedro e Gabriel, 2023). </p>
@@ -78,6 +82,6 @@ First Things First: Prioritizing Requirements 1. [s.l.: s.n., s.d.]. Disponível
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                             | Autor(es)       |
-| ------- | ---------- | --------------------------------------- | --------------- |
-| 1.0     | 08/06/2023 | Criação do documento de verificação | Pedro e Gabriel |
+| Versão | Data       | Descrição                           | Autor(es)       |
+| ------ | ---------- | ----------------------------------- | --------------- |
+| 1.0    | 08/06/2023 | Criação do documento de verificação | Pedro e Gabriel |

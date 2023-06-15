@@ -4,9 +4,13 @@
 
 O presente documento apresentará a verificação do NFR Framework, desenvolvidos pela equipe 3, VCL. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido, na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
 
+<center>
+
 | Versão avaliada | Autor         | Revisor     |
 | --------------- | ------------- | ----------- |
 | 1.1             | Bruno Ribeiro | Lucas Gobbi |
+
+</center>
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato (Fonte: Lucas e Chaydson, 2023). </p>
