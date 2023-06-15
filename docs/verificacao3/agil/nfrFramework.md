@@ -7,8 +7,8 @@ O presente documento apresentará a verificação do NFR Framework, desenvolvido
 <center>
 
 | Versão avaliada | Autor         | Revisor     |
-| --------------- | ------------- | ----------- |
-| 1.1             | Bruno Ribeiro | Lucas Gobbi |
+| ---------------- | ------------- | ----------- |
+| 1.1              | Bruno Ribeiro | Lucas Gobbi |
 
 </center>
 
@@ -16,32 +16,32 @@ O presente documento apresentará a verificação do NFR Framework, desenvolvido
 <p> Tabela 1: Metadados do artefato (Fonte: Lucas e Chaydson, 2023). </p>
 </div>
 
-| ID  |                                 Questão                                  | Inspeção | Observações                                                                 |
-| :-: | :----------------------------------------------------------------------: | :------: | --------------------------------------------------------------------------- |
-|  1  |                 As legendas estão no padrão do projeto?                  |    🔴    |                                                                             |
-|  2  |                  Possui links para os outros artefatos?                  |    🔴    | O link está presente porém manda para o github e não para dentro do projeto |
-|  3  |                    Existe uma introdução no artefato?                    |    🟢    |                                                                             |
-|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |                                                                             |
-|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟡    | Data de acesso não condiz                                                   |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |                                                                             |
-|  7  |                         O artefato possui autor?                         |    🟢    |                                                                             |
-|  8  |                        O artefato possui revisor?                        |    🟢    |                                                                             |
+| ID |                                 Questão                                 | Inspeção | Observações                                                                  |
+| :-: | :-----------------------------------------------------------------------: | :--------: | ------------------------------------------------------------------------------ |
+| 1 |                 As legendas estão no padrão do projeto?                 |     🔴     |                                                                                |
+| 2 |                  Possui links para os outros artefatos?                  |     🔴     | O link está presente porém manda para o github e não para dentro do projeto |
+| 3 |                   Existe uma introdução no artefato?                   |     🟢     |                                                                                |
+| 4 |                Existe tabela de versionamento padronizado?                |     🟢     |                                                                                |
+| 5 |      Há referências bibliográficas ou referências no artefato?      |     🟡     | Data de acesso não condiz                                                     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |                                                                                |
+| 7 |                         O artefato possui autor?                         |     🟢     |                                                                                |
+| 8 |                        O artefato possui revisor?                        |     🟢     |                                                                                |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Lucas e Chaydson, 2023). </p>
 </div>
 
-| ID  |                                         Questão                                         | Inspeção | Obersevação |
-| :-: | :-------------------------------------------------------------------------------------: | :------: | ----------- |
-|  9  |                            Os diagramas apresentam legendas?                            |    🟢    |             |
-| 10  |                  Os softgoals NFR são representados por nuvens claras?                  |    🟢    |             |
-| 11  | Os softgoals de operacionalização são representados por nuvens com linhas mais grossas? |    🟢    |             |
-| 12  |  Os softgoals de afirmação são representados através de nuvens com linhas tracejadas?   |    🟢    |             |
-| 13  |                           Os softgoals NFRs possuem um tipo?                            |    🟢    |             |
-| 14  |                      Os softgoals NFRs possuem um ou mais tópicos?                      |    🟢    |             |
-| 15  |                  Os refinamentos estão implementados de forma correta?                  |    -     |             |
-| 16  |                     As contribuições foram elaboradas corretamente?                     |    -     |             |
-| 17  |         O documento conta com uma versão correta do procedimento de avaliação?          |    -     |             |
+| ID |                                          Questão                                          | Inspeção | Obersevação |
+| :-: | :----------------------------------------------------------------------------------------: | :--------: | ------------- |
+| 9 |                             Os diagramas apresentam legendas?                             |     🟢     |               |
+| 10 |                   Os softgoals NFR são representados por nuvens claras?                   |     🟢     |               |
+| 11 | Os softgoals de operacionalização são representados por nuvens com linhas mais grossas? |     🟢     |               |
+| 12 |  Os softgoals de afirmação são representados através de nuvens com linhas tracejadas?  |     🟢     |               |
+| 13 |                             Os softgoals NFRs possuem um tipo?                             |     🟢     |               |
+| 14 |                       Os softgoals NFRs possuem um ou mais tópicos?                       |     🟢     |               |
+| 15 |                   Os refinamentos estão implementados de forma correta?                   |     🟢     |               |
+| 16 |                     As contribuições foram elaboradas corretamente?                     |     🟢     |               |
+| 17 |         O documento conta com uma versão correta do procedimento de avaliação?         |     🟢     |               |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas e Chaydson, 2023). </p>
@@ -71,7 +71,7 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       |    Autor(es)     |
-| :--------: | :----: | :------------------: | :--------------: |
-| 08/06/2023 |  1.0   | Criação do documento | Lucas e Chaydson |
-| 14/06/2023 |  1.0   | Criação do documento | Lucas e Chaydson |
+|    Data    | Versão |      Descrição      |    Autor(es)    |
+| :--------: | :-----: | :--------------------: | :--------------: |
+| 08/06/2023 |   1.0   | Criação do documento | Lucas e Chaydson |
+| 14/06/2023 |   1.0   | Criação do documento | Lucas e Chaydson |
