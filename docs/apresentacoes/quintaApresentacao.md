@@ -8,6 +8,6 @@ Nessa página está localizado o segundo vídeo de apresentação do projeto ref
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição         | Autor(es) | Revisor(es)                                        |
-| ------ | ---------- | ----------------- | --------- | -------------------------------------------------- |
-| 1.0    | 17/05/2023 | Criação da Página | Lucas     | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Versão | Data       | Descrição          | Autor(es) | Revisor(es)                                         |
+| ------- | ---------- | -------------------- | --------- | --------------------------------------------------- |
+| 1.0     | 15/06/2023 | Criação da Página | Lucas     | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |

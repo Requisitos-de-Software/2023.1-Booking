@@ -165,6 +165,7 @@ Para mais detalhamentos como números de exigências completas, incompletas e er
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      | Autor(es) | Revisor(es) |
-| :--------: | :-----: | :--------------------: | :-------: | :---------: |
-| 07/06/2023 |   1.0   | Criação do documento |   Lucas   |    Pedro    |
+|    Data    | Versão |        Descrição        | Autor(es) | Revisor(es) |
+| :--------: | :-----: | :------------------------: | :-------: | :---------: |
+| 07/06/2023 |   1.0   |   Criação do documento   |   Lucas   |    Pedro    |
+| 15/06/2023 |   1.1   | Gráfico de Acompanhamento |  Gabriel  |    Lucas    |
