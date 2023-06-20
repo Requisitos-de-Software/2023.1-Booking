@@ -2,9 +2,8 @@
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Storytelling](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling), desenvolvidos pela equipe 3, VLC. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido, na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
-
-A tabela 1 a seguir representa os dados do artefato Especificação Suplementar.
+O presente documento apresentará a verificação do artefato [Storytelling](../../elicitacao/storytelling.md), desenvolvido pela equipe. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas e no Gráfico 1, o quanto das exigências foram atendidas.
+A tabela 1 a seguir representa os metadados do storytelling.
 
 <center>
 
