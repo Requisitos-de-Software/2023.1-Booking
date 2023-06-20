@@ -215,6 +215,8 @@ A tabela 7, contém o cronograma para a correção dos problemas identficiados n
 
 ### Ajustes
 
+Na tabela 8, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 5 
+
 | ID Correção | Ajuste                       |
 | ----------- | ---------------------------- |
 | IDC1        | Foi ajustado x realizando... |
@@ -227,8 +229,6 @@ A tabela 7, contém o cronograma para a correção dos problemas identficiados n
 </div>
 
 </center>
-
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
 
 ## Referências
 
