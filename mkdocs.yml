@@ -97,30 +97,32 @@ nav:
         - Backlog: verificacao3/agil/backlog.md
         - Histórias de Usuário: verificacao3/agil/historiasDeUsuario.md
         - NFR Framework: verificacao3/agil/nfrFramework.md
-  - Verificação e Validação grupo 2:
-      - Metodologia: verificacaoGrupo/metodologia.md
-      - Planejamento:
-        - Cronograma: verificacaoGrupo/planejamento/cronograma.md
-        - Lista de Aplicativos: verificacaoGrupo/planejamento/listaDeAplicativos.md
-        - Ferramentas: verificacaoGrupo/planejamento/ferramenta.md
-      - Pré-rastreabilidade:
-        - Rich Picture: verificacaoGrupo/prePlanejamento/richPicture.md 
-      - Elicitação:
-        - Perfil de usuário: verificacaoGrupo/elicitacao/perfilUsuario.md
-        - Personas: verificacaoGrupo/elicitacao/personas.md
-        - Storytelling: verificacaoGrupo/elicitacao/storytelling.md
-      - Priorização:
-        - In or Out: verificacaoGrupo/priorizacao/inOrOut.md
-        - First Things First: verificacaoGrupo/priorizacao/firstThingsFirst.md
-        - MoSCoW: verificacaoGrupo/priorizacao/moscow.md
-      - Modelagem:
-        - Casos de uso: verificacaoGrupo/modelagem/casoUso.md
-        - Especificação Suplementar: verificacaoGrupo/modelagem/especificacaoSuplementar.md
-        - Léxicos: verificacaoGrupo/modelagem/lexicos.md
-        - Cenários: verificacaoGrupo/modelagem/cenarios.md
-      - Agil:
-        - Backlog: verificacaoGrupo/agil/backlog.md
-        - Histórias de Usuário: verificacaoGrupo/agil/historiasDeUsuario.md
-        - NFR Framework: verificacaoGrupo/agil/nfrFramework.md
+  - Análise de requisitos:
+      - Validação: verificacaoGrupo/validacao.md
+      - Verificação:
+        - Metodologia: verificacaoGrupo/metodologia.md
+        - Planejamento:
+          - Cronograma: verificacaoGrupo/planejamento/cronograma.md
+          - Lista de Aplicativos: verificacaoGrupo/planejamento/listaDeAplicativos.md
+          - Ferramentas: verificacaoGrupo/planejamento/ferramenta.md
+        - Pré-rastreabilidade:
+          - Rich Picture: verificacaoGrupo/prePlanejamento/richPicture.md 
+        - Elicitação:
+          - Perfil de usuário: verificacaoGrupo/elicitacao/perfilUsuario.md
+          - Personas: verificacaoGrupo/elicitacao/personas.md
+          - Storytelling: verificacaoGrupo/elicitacao/storytelling.md
+        - Priorização:
+          - In or Out: verificacaoGrupo/priorizacao/inOrOut.md
+          - First Things First: verificacaoGrupo/priorizacao/firstThingsFirst.md
+          - MoSCoW: verificacaoGrupo/priorizacao/moscow.md
+        - Modelagem:
+          - Casos de uso: verificacaoGrupo/modelagem/casoUso.md
+          - Especificação Suplementar: verificacaoGrupo/modelagem/especificacaoSuplementar.md
+          - Léxicos: verificacaoGrupo/modelagem/lexicos.md
+          - Cenários: verificacaoGrupo/modelagem/cenarios.md
+        - Agil:
+          - Backlog: verificacaoGrupo/agil/backlog.md
+          - Histórias de Usuário: verificacaoGrupo/agil/historiasDeUsuario.md
+          - NFR Framework: verificacaoGrupo/agil/nfrFramework.md
         
 
