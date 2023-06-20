@@ -131,7 +131,7 @@ Por fim, o avaliador deve fazer uma série de planejamentos para melhorar o arte
 
 </center>
 
-## Acompanhamento e correção
+## Acompanhamento
 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
@@ -164,13 +164,56 @@ Nos checklists realizados e que serão descritos, podemos observar que:
 
 onde x é a quantidade de exigências.
 
+```vegalite
+{
+    "title": "Acompanhamento",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple donut chart with embedded data.",
+  "data": {
+    "values": [
+      {"legenda": "Completo", "value": 15},
+      {"legenda": "Incompleto", "value": 1},
+      {"legenda": "Errado", "value": 4}
+    ]
+  },
+  "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
+  "encoding": {
+    "theta": {"field": "value", "type": "quantitative"},
+    "color": {
+      "field": "legenda",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Completo", "Incompleto", "Errado"],
+        "range": ["green", "yellow", "red"]
+      }
+    }
+  }
+}
+```
+
+<div style="text-align: center">
+<p> Gráfico 1: Gráfico de aproveitamento (Fonte: Samuel, 2023). </p>
+</div>
+
 Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em p% correto.
 
-### Correção
+## Correção
 
-Depois da verificação, o autor do artefato na versão 1.0 deverá fazer as correções indicadas na prepração e calcular a nova porcentagem de aproveitamento.
+### Cronograma
+
+A tabela 7, contém o cronograma para a correção dos problemas identficiados nos artefatos.
 
 <center>
+
+| Data início | Data fim |
+| ----------- | -------- |
+| 20/06       | 27/06    |
+
+<div style="text-align: center">
+<p> Tabela 7: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
+</div>
+
+### Ajustes
 
 | ID Correção | Ajuste                       |
 | ----------- | ---------------------------- |
@@ -180,7 +223,7 @@ Depois da verificação, o autor do artefato na versão 1.0 deverá fazer as cor
 | IDC4        | X foi especificaod melhor... |
 
 <div style="text-align: center">
-<p> Tabela 7: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
+<p> Tabela 8: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
 </div>
 
 </center>
@@ -195,6 +238,6 @@ Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       |   Autor(es)   | Revisor(es) |
-| :--------: | :----: | :------------------: | :-----------: | :---------: |
-| 20/06/2023 |  1.0   | Criação do documento | Pedro e Lucas |   Gabriel   |
+|    Data    | Versão |      Descrição       |       Autor(es)       | Revisor(es) |
+| :--------: | :----: | :------------------: | :-------------------: | :---------: |
+| 20/06/2023 |  1.0   | Criação do documento | Pedro, Lucas e Samuel |   Gabriel   |
