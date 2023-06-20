@@ -62,7 +62,7 @@ Na tabela 4 estão contidos as ajustes que são recomendações do que alterar, 
 | IDC2          | Incluir uma persona Harry, no artefato de personas, para deixar mais detalhado o uso do booking |
 
 <div style="text-align: center">
-<p> Tabela 5: Tabela do que precisa ser ajustado (Fonte: Lucas, 2023). </p>
+<p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Chaydson e Gabriel, 2023). </p>
 </div>
 
 </center>
@@ -85,7 +85,7 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 | EC        | Exigências Completas           |
 
 <div style="text-align: center">
-<p> Tabela 6: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
+<p> Tabela 5: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
 </div>
 
 </center>
@@ -128,7 +128,7 @@ onde x é a quantidade de exigências.
 ```
 
 <div style="text-align: center">
-<p> Gráfico 1: Gráfico de aproveitamento (Fonte: Gabriel, 2023). </p>
+<p> Gráfico 1: Gráfico de aproveitamento (Fonte: Gabriel e Chaydson, 2023). </p>
 </div>
 
 Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 94,12% correto.
@@ -137,13 +137,15 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 ### Ajustes
 
+Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
+
 | ID Correção | Ajuste                       |
 | ------------- | ---------------------------- |
 | IDC1          | Foi ajustado x realizando... |
 | IDC2          | Foi incluido x em ...        |
 
 <div style="text-align: center">
-<p> Tabela 7: Tabela de ajustes feitos (Fonte: Chaydson e Gabriel, 2023). </p>
+<p> Tabela 6: Tabela de ajustes feitos (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
 </center>
