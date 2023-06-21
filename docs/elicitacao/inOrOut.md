@@ -8,13 +8,17 @@ Para aplicar a técnica de In or Out na priorização de requisitos funcionais e
 
 ### Cronograma
 
-| Local | Dia        | Horário |
-| ----- | ---------- | -------- |
-| TEAMS | 28/04/2023 | 21:00    |
+| Local | Dia        | Horário | Entrevistadores               | Entrevistado |
+| ----- | ---------- | -------- | ----------------------------- | ------------ |
+| TEAMS | 28/04/2023 | 21:00    | Pedro Henrique e Samuel Gomes | Yan Werlley  |
 
 <div style="text-align: center">
 <p> Tabela 1: Cronograma planejado para entrevista com usuário do aplicativo (Fonte: autores, 2023). </p>
 </div>
+
+## Papel dos Participantes
+
+Durante a entrevista, Pedro Henrique Rodrigues e Samuel Gomes atuaram como entrevistadores, enquanto Yan Werlly, o entrevistado, analisava cada requisito apresentado por Pedro para determinar sua prioridade como "In" ou "Out". Enquanto isso, Samuel, o outro entrevistador, registrava anotações para documentação futura.
 
 ## Resultados
 
@@ -121,23 +125,34 @@ Abaixo está apresentada a Tabela 3, com a lista dos Requisitos Não Funcionais 
 
 ### Legendas
 
-FB - Requisito Funcional Brainstorm
+A seguir, na Tabela 4, são apresentadas as legendas das tabelas de priorização.
 
-NFB - Requisito Não Funcional Brainstorm
+| ID    | Descrição                              |
+| ----- | ---------------------------------------- |
+| FB    | Requisito Funcional Brainstorm           |
+| NFB   | Requisito Não Funcional Brainstorm      |
+| FST   | Requisito funcional de Storytelling      |
+| NFST  | Requisito NÃO funcional de Storytelling |
+| FOBS  | Requisito funcional da Observação      |
+| NFOBS | Requisito não funcional da Observação |
 
-FST: Requisito funcional de Storytelling
-
-FST: Requisito NÃO funcional de Storytelling
-
-FOBS: Requisito funcional da Observação
-
-NFOBS: Requisito não funcional da Observação
+<div style="text-align: center">
+<p> Tabela 4: Legenda das tabelas de priorização. (Fonte: Pedro Henrique e Samuel Gomes, 2023). </p>
+</div>
 
 ## Video da entrevista
 
+A seguur no video 1, apresenta-se a gravação da entrevista realizada para priorizar os requisitos elicitados.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PMOJM1eJptY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<div style="text-align: center">
+<p> Video 1: Gravação da entrevista. (Fonte: Pedro Henrique e Samuel Gomes, 2023). </p>
+</div>
+
 ## Termo de consentimento
+
+No link a seguir, se encontra o termo de consentimento assinado tanto pelos entrevistadores quanto pelo usuário entrevistado.
 
 [Termo de consentimento](../assets/pdfs/termo%20de%20consentimento%20(1)%20-%20Clicksign.pdf)
 
@@ -155,3 +170,4 @@ Wiegers, K. E., & Beatty, J. (2013). Software Requirements (3rd ed.). Microsoft 
 | ------- | ---------- | --------------------------------------------- | ---------------------- | ----------- |
 | 1.0     | 24/04/2023 | Criação da página do In or Out             | Pedro Henrique, Samuel | Lucas       |
 | 1.1     | 28/04/2023 | Atualização da priorização com o usuário | Pedro Henrique, Samuel | Lucas       |
+| 1.2     | 21/06/2023 | Aplicando correções apontadas pela verificação | Pedro Henrique, Samuel | Lucas       |

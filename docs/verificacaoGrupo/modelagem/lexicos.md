@@ -1,4 +1,4 @@
-# Verificação do Brainstorm
+# Verificação dos Léxicos
 
 ## Introdução
 
