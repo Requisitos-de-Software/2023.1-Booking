@@ -1,75 +1,160 @@
-# Verificação do In Or Out
+# Verificação do in or out
 
 ## Introdução
 
-O presente documento apresentará a verificação do In or Out, desenvolvidos pela equipe 3, VCL. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido, na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
+O presente documento apresentará a verificação do artefato observação, desenvolvidos pela equipe. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
 
 <center>
 
-| Versão avaliada | Autor        | Revisor                         |
-| --------------- | ------------ | ------------------------------- |
-| 1.0             | Rafael Bossi | Giovanni Alvissus e Lucas Gobbi |
+| Versão avaliada | Autor                  | Revisor |
+| --------------- | ---------------------- | ------- |
+| 1.1             | Pedro Henrique, Samuel | Lucas   |
 
 </center>
 
 <div style="text-align: center">
-<p> Tabela 1: Metadados do artefato (Fonte: Lucas e Henrique, 2023). </p>
+<p> Tabela 1: Metadados do artefato (Fonte: Lucas Frazão e Chaydson Ferreira, 2023). </p>
 </div>
 
-| ID  |                                 Questão                                  | Inspeção | Observações |
-| :-: | :----------------------------------------------------------------------: | :------: | ----------- |
-|  1  |                 As legendas estão no padrão do projeto?                  |    🟡    | Sem fonte   |
-|  2  |                  Possui links para os outros artefatos?                  |   N/A    |             |
-|  3  |                    Existe uma introdução no artefato?                    |    🟢    |             |
-|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |             |
-|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |             |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |             |
-|  7  |                         O artefato possui autor?                         |    🟢    |             |
-|  8  |                        O artefato possui revisor?                        |    🟢    |             |
+| ID  |                                 Questão                                  | Inspeção |
+| :-: | :----------------------------------------------------------------------: | :------: |
+|  1  |                 As legendas estão no padrão do projeto?                  |    🟡    |
+|  2  |                  Possui links para os outros artefatos?                  |   N/A    |
+|  3  |                    Existe uma introdução no artefato?                    |    🟢    |
+|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |
+|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |
+|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |
+|  7  |                         O artefato possui autor?                         |    🟢    |
+|  8  |                        O artefato possui revisor?                        |    🟢    |
 
 <div style="text-align: center">
-<p> Tabela 2: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Lucas e Henrique, 2023). </p>
+<p> Tabela 2: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Lucas Frazão e Chaydson Ferreira, 2023). </p>
 </div>
 
-| ID  |                                                            Questão                                                             | Inspeção | Obersevação                           |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------: | :------: | ------------------------------------- |
-|  9  |                                Todos os requisitos elicitados tiveram sua prioridade definida?                                 |    🟢    |                                       |
-| 10  |                                            A técnica foi aplicada de forma correta?                                            |    🟢    |                                       |
-| 11  | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? |    🔴    | Será explicado melhor nos comentários |
-| 12  |                               A participação do cliente e/ou persona no processo de priorização?                               |    🔴    | Será explicado melhor nos comentários |
-| 13  |                                     Os requisitos priorizados estão identificados por IDs?                                     |    🟢    |                                       |
+| ID  |                                   Questão                                   | Inspeção |
+| :-: | :-------------------------------------------------------------------------: | :------: |
+|  9  |                  A técnica foi aplicada de forma correta?                   |    🟡    |
+| 10  |       Todos os requisitos elicitados tiveram sua prioridade definida?       |    🟢    |
+| 11  |               Possui o papel empenhado por cada participante?               |    🔴    |
+| 12  | Possui um cronograma com local, data, hora, entrevistadores e entrevistado? |    🟢    |
+| 13  |  Possui a participação do cliente e/ou persona no processo de priorização?  |    🟢    |
+| 14  |           Os requisitos priorizados estão identificados por IDs?            |    🟢    |
+| 15  |                      Possui um termo de consentimento?                      |    🟢    |
+| 16  |    Existe a partipação de um usuário ou interpretação de alguma persona?    |    🟢    |
 
 <div style="text-align: center">
-<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas e Henrique, 2023). </p>
+<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas Frazão e Chaydson Ferreira, 2023). </p>
 </div>
 
-## Comentários
+<center>
 
-### ID 11 e 12 - Cronograma e participação do cliente
+### Tarefas
 
-Não foi feita uma tabela mostrando os participantes e o horário da reunião, porém, foi feita uma reunião, onde não foi dito em qual persona estariam se baseando ou com algum usuário real participando, seria interessante trazerem algum usuário real do sistema para a reunião, para que a priorização seja feita de forma mais eficiente, ou, caso não encontrem um usuário real, que seja utilizada uma persona.
+| ID Correção | Tarefa                                                                              |
+| ----------- | ----------------------------------------------------------------------------------- |
+| IDC1        | Adicionar legenda ao vídeo e referenciá-la                                          |
+| IDC2        | Transformar "Legendas" em tabela                                                    |
+| IDC3        | Adicionar entrevistadores e entrevistado no cronograma                              |
+| IDC4        | Adicionar uma tabela com os nomes dos participantes e o papel empenhado por cada um |
 
-## Resultados
+<div style="text-align: center">
+<p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Lucas, 2023). </p>
+</div>
 
-Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão:
+</center>
 
-((100/QntExigencias) _ Acertos) + (((100/QntExigencias) _ Incompletos)/2)
+## Acompanhamento
 
-Através dos checklists realizados podemos observar que:
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
-- 11/14 exigências são atendidas;
-- 1/14 exigências estão incompletas;
-- 2/14 exigências estão erradas ou não foram realizadas.
+<div style="text-align: center">
+<img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 82,14%.
+<p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Gabriel, 2023). </p>
+</div>
+
+<center>
+
+| Acrônimo | Descrição                      |
+| -------- | ------------------------------ |
+| QTDE     | Quantidade Total de Exigências |
+| EC       | Exigências Completas           |
+
+<div style="text-align: center">
+<p> Tabela 5: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
+</div>
+
+</center>
+
+### Porcentagem
+
+Nos checklists realizados e que serão descritos, podemos observar que:
+
+- 13/16 exigências são atendidas;
+- 2/16 exigências estão incompletas;
+- 1/16 exigências estão erradas ou não foram realizadas.
+
+onde x é a quantidade de exigências.
+
+```vegalite
+{
+    "title": "Acompanhamento",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple donut chart with embedded data.",
+  "data": {
+    "values": [
+      {"legenda": "Completo", "value": 13},
+      {"legenda": "Incompleto", "value": 2},
+      {"legenda": "Errado", "value": 1},
+      {"legenda": "Não se aplica", "value": 1}
+    ]
+  },
+  "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
+  "encoding": {
+    "theta": {"field": "value", "type": "quantitative"},
+    "color": {
+      "field": "legenda",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Completo", "Incompleto", "Errado", "Não se aplica"],
+        "range": ["green", "yellow", "red", "blue"]
+      }
+    }
+  }
+}
+```
+
+<div style="text-align: center">
+<p> Gráfico 1: Gráfico de aproveitamento (Fonte: Samuel, 2023). </p>
+</div>
+
+Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 81,25% correto.
+
+## Correção
+
+### Ajustes
+
+Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
+
+| ID Correção | Ajuste                       |
+| ----------- | ---------------------------- |
+| IDC1        | Foi ajustado x realizando... |
+| IDC2        | Foi incluido x em ...        |
+| IDC3        | Foi removido x ...           |
+| IDC4        | X foi especificaod melhor... |
+
+<div style="text-align: center">
+<p> Tabela 6: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
+</div>
+
+</center>
 
 ## Bibliografia
 
-- Software Requirements 3.ed. - Setting Requirement Priorities
+- BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010.
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       |    Autor(es)     |
-| :--------: | :----: | :------------------: | :--------------: |
-| 08/06/2023 |  1.0   | Criação do documento | Lucas e Henrique |
-| 14/06/2023 |  1.0   | Criação do documento | Lucas e Henrique |
+|    Data    | Versão |      Descrição       | Autor(es) |
+| :--------: | :----: | :------------------: | :-------: |
+| 20/06/2023 |  1.0   | Criação do documento |   Lucas   |
