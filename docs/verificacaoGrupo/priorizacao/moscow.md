@@ -134,12 +134,11 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
 
-| ID Correção | Ajuste                       |
-| ------------- | ---------------------------- |
-| IDC1          | Foi ajustado x realizando... |
-| IDC2          | Foi incluido x em ...        |
-| IDC3          | Foi removido x ...           |
-| IDC4          | X foi especificaod melhor... |
+| ID Correção | Ajuste                                                                                   |
+| ------------- | ---------------------------------------------------------------------------------------- |
+| IDC1          | Foi feito o link das elicitações utilizadas para os requisitos priorizados no artefato |
+| IDC2          | Foi removido o "*" da bibliografia                                                      |
+| IDC3          | Os requisitos foram ordenados de acordo com sua prioridade                               |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Pedro Henrique, 2023). </p>
@@ -156,3 +155,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
 | 20/06/2023 |   1.0   | Criação do documento |   Pedro   |
+| 21/06/2023 |   1.1   | Aplicando as correções no artefato |   Henrique  |
