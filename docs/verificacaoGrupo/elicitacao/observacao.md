@@ -7,8 +7,8 @@ O presente documento apresentará a verificação do artefato observação, dese
 <center>
 
 | Versão avaliada | Autor                    | Revisor |
-| --------------- | ------------------------ | ------- |
-| 1.3             | Pedro Henrique, Chaydson | Samuel  |
+| ---------------- | ------------------------ | ------- |
+| 1.3              | Pedro Henrique, Chaydson | Samuel  |
 
 </center>
 
@@ -16,30 +16,30 @@ O presente documento apresentará a verificação do artefato observação, dese
 <p> Tabela 1: Metadados do artefato (Fonte: Lucas Frazão e Chaydson Ferreira, 2023). </p>
 </div>
 
-| ID  |                                 Questão                                  | Inspeção |
-| :-: | :----------------------------------------------------------------------: | :------: |
-|  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |
-|  2  |                  Possui links para os outros artefatos?                  |   N/A    |
-|  3  |                    Existe uma introdução no artefato?                    |    🟡    |
-|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |
-|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟡    |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟡    |
-|  7  |                         O artefato possui autor?                         |    🟢    |
-|  8  |                        O artefato possui revisor?                        |    🟢    |
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |     🟢     |
+| 2 |                  Possui links para os outros artefatos?                  |    N/A    |
+| 3 |                   Existe uma introdução no artefato?                   |     🟡     |
+| 4 |                Existe tabela de versionamento padronizado?                |     🟢     |
+| 5 |      Há referências bibliográficas ou referências no artefato?      |     🟡     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟡     |
+| 7 |                         O artefato possui autor?                         |     🟢     |
+| 8 |                        O artefato possui revisor?                        |     🟢     |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Lucas Frazão e Chaydson Ferreira, 2023). </p>
 </div>
 
-| ID  |                                                    Questão                                                     | Inspeção |
-| :-: | :------------------------------------------------------------------------------------------------------------: | :------: |
-|  9  |           O perfil do usuário segue os atributos de (Hackos e Redish, 1998; Courage e Baxter, 2005)            |    🟡    |
-| 10  | Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários? |    🟢    |
-| 11  |                            A proporção de usuários em cada perfil foi determinada?                             |    🔴    |
-| 12  |   Os perfis de usuário são agrupados por faixa etária, experiência, atitude e tarefas primárias no sistema?    |    🟡    |
-| 13  |                           Possui termo de consentimento esclarecedor e bem descrito?                           |    🟢    |
-| 14  |                            Os dados levantados fazem sentido no escopo do projeto?                             |    🟢    |
-| 15  |               Possui e considera aspectos éticos de toda e qualquer pesquisa envolvendo pessoas?               |    🟢    |
+| ID |                                                     Questão                                                     | Inspeção |
+| :-: | :--------------------------------------------------------------------------------------------------------------: | :--------: |
+| 9 |            O perfil do usuário segue os atributos de (Hackos e Redish, 1998; Courage e Baxter, 2005)            |     🟡     |
+| 10 | Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários? |     🟢     |
+| 11 |                            A proporção de usuários em cada perfil foi determinada?                            |     🔴     |
+| 12 |  Os perfis de usuário são agrupados por faixa etária, experiência, atitude e tarefas primárias no sistema?  |     🟡     |
+| 13 |                            Possui termo de consentimento esclarecedor e bem descrito?                            |     🟢     |
+| 14 |                             Os dados levantados fazem sentido no escopo do projeto?                             |     🟢     |
+| 15 |               Possui e considera aspectos éticos de toda e qualquer pesquisa envolvendo pessoas?               |     🟢     |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas Frazão e Chaydson Ferreira, 2023). </p>
@@ -53,12 +53,12 @@ Por fim, o avaliador deve fazer uma série de planejamentos para melhorar o arte
 
 ### Tarefas
 
-| ID Correção | Tarefa        |
-| ----------- | ------------- |
-| IDC1        | Ajustar x     |
-| IDC2        | Incluir X     |
-| IDC3        | Remover x     |
-| IDC4        | Especificar x |
+| ID Correção | Tarefa         |
+| ------------- | -------------- |
+| IDC1          | Ajustar x      |
+| IDC2          | Incluir X      |
+| IDC3          | Remover x      |
+| IDC4          | Especificar x |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Lucas, 2023). </p>
@@ -78,10 +78,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 <center>
 
-| Acrônimo | Descrição                      |
-| -------- | ------------------------------ |
-| QTDE     | Quantidade Total de Exigências |
-| EC       | Exigências Completas           |
+| Acrônimo | Descrição                     |
+| --------- | ------------------------------- |
+| QTDE      | Quantidade Total de Exigências |
+| EC        | Exigências Completas           |
 
 <div style="text-align: center">
 <p> Tabela 5: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
@@ -106,9 +106,10 @@ onde x é a quantidade de exigências.
   "description": "A simple donut chart with embedded data.",
   "data": {
     "values": [
-      {"legenda": "Completo", "value": 15},
-      {"legenda": "Incompleto", "value": 1},
-      {"legenda": "Errado", "value": 4}
+      {"legenda": "Completo", "value": 9},
+      {"legenda": "Incompleto", "value": 8},
+      {"legenda": "Errado", "value": 1},
+      {"legenda": "Não se aplica", "value": 1}
     ]
   },
   "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
@@ -118,8 +119,8 @@ onde x é a quantidade de exigências.
       "field": "legenda",
       "type": "nominal",
       "scale": {
-        "domain": ["Completo", "Incompleto", "Errado"],
-        "range": ["green", "yellow", "red"]
+        "domain": ["Completo", "Incompleto", "Errado", "Não se aplica"],
+        "range": ["green", "yellow", "red", "blue"]
       }
     }
   }
@@ -139,11 +140,11 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
 
 | ID Correção | Ajuste                       |
-| ----------- | ---------------------------- |
-| IDC1        | Foi ajustado x realizando... |
-| IDC2        | Foi incluido x em ...        |
-| IDC3        | Foi removido x ...           |
-| IDC4        | X foi especificaod melhor... |
+| ------------- | ---------------------------- |
+| IDC1          | Foi ajustado x realizando... |
+| IDC2          | Foi incluido x em ...        |
+| IDC3          | Foi removido x ...           |
+| IDC4          | X foi especificaod melhor... |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
@@ -157,7 +158,7 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 ## Histórico de versão
 
-|    Data    | Versão |         Descrição         |    Autor(es)     |
-| :--------: | :----: | :-----------------------: | :--------------: |
-| 08/06/2023 |  1.0   |   Criação do documento    | Lucas e Chaydson |
-| 14/06/2023 |  1.1   | Padronização do documento | Lucas e Chaydson |
+|    Data    | Versão |         Descrição         |    Autor(es)    |
+| :--------: | :-----: | :-------------------------: | :--------------: |
+| 08/06/2023 |   1.0   |   Criação do documento   | Lucas e Chaydson |
+| 14/06/2023 |   1.1   | Padronização do documento | Lucas e Chaydson |

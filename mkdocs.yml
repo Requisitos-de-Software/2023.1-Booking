@@ -94,7 +94,8 @@ nav:
         - Metodologia: verificacaoGrupo/metodologia.md
         - Planejamento:
           - Cronograma: verificacaoGrupo/planejamento/cronograma.md
-          - Lista de Aplicativos: verificacaoGrupo/planejamento/listaDeAplicativos.md
+          - Aplicativos analisados: verificacaoGrupo/planejamento/listaDeAplicativos.md
+          - Aplicativos selecionado: verificacaoGrupo/planejamento/aplicativoSelecionado.md
           - Ferramentas: verificacaoGrupo/planejamento/ferramenta.md
         - Pré-rastreabilidade:
           - Rich Picture: verificacaoGrupo/prePlanejamento/richPicture.md 
@@ -105,7 +106,7 @@ nav:
           - Observação: verificacaoGrupo/elicitacao/observacao.md
         - Priorização:
           - In or Out: verificacaoGrupo/priorizacao/inOrOut.md
-          - First Things First: verificacaoGrupo/priorizacao/firstThingsFirst.md
+          - Three Level-Scale: verificacaoGrupo/priorizacao/threeLevelScale.md
           - MoSCoW: verificacaoGrupo/priorizacao/moscow.md
         - Modelagem:
           - Casos de uso: verificacaoGrupo/modelagem/casoUso.md
