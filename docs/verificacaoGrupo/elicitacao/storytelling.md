@@ -135,10 +135,10 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
 
-| ID Correção | Ajuste                       |
-| ------------- | ---------------------------- |
-| IDC1          | Foi ajustado x realizando... |
-| IDC2          | Foi incluido x em ...        |
+| ID Correção | Ajuste                                                                   |
+| ------------- | ------------------------------------------------------------------------ |
+| IDC1          | Foi incluido o link para personas                                        |
+| IDC2          | Foi alterado o nome do usuário para alguma persona criada anteriormente |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Lucas e Samuel, 2023). </p>
@@ -146,7 +146,7 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 </center>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: 100% correto.
 
 ## Bibliografia
 
@@ -159,8 +159,9 @@ XAVIER, Adilson.  **Storytelling** : Histórias que deixam marca. 1. ed. Rio de 
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                             | Autor(es)          |
-| ------- | ---------- | --------------------------------------- | ------------------ |
-| 1.0     | 20/06/2023 | Criação do documento de verificação | Chaydson e Gabriel |
+| Versão | Data       | Descrição                                     | Autor(es)          |
+| ------- | ---------- | ----------------------------------------------- | ------------------ |
+| 1.0     | 20/06/2023 | Criação do documento de verificação         | Chaydson e Gabriel |
+| 1.1     | 21/06/2023 | Adicionando nova porcentagem após a correção | Lucas              |
 
 ‌
