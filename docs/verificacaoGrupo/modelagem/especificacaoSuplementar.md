@@ -159,7 +159,7 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 | IDC12         |        |
 
 <div style="text-align: center">
-<p> Tabela 6: Tabela de ajustes feitos (Fonte: Henrqique e Chaydson, 2023). </p>
+<p> Tabela 6: Tabela de ajustes feitos (Fonte: Henrique e Chaydson, 2023). </p>
 </div>
 
 </center>
