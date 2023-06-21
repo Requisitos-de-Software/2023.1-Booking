@@ -131,10 +131,10 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
 
-| ID Correção | Ajuste                       |
-| ------------- | ---------------------------- |
-| IDC1          | Foi ajustado x realizando... |
-| IDC2          | Foi incluido x em ...        |
+| ID Correção | Ajuste                                 |
+| ------------- | -------------------------------------- |
+| IDC1          | Foi ajustado x realizando...           |
+| IDC2          | Foi arrumado a numeração das tabelas |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Pedro e Gabriel, 2023). </p>

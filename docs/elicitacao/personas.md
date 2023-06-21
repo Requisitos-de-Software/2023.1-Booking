@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de personas e antipersonas que serão utilizados para projeto. Essas personas são pessoas ficticias, para definir nosso público-alvo, o qual foram selecionadas e baseadas no perfil de usuário[1]. 
+Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de personas e antipersonas que serão utilizados para projeto. Essas personas são pessoas ficticias, para definir nosso público-alvo, o qual foram selecionadas e baseadas no perfil de usuário[1].
 
 Segundo o livro Interação Humano - Computador[2], o objetivo de usar personas é almejar uma compreensão mais profunda dos usuários finais e a criar empatia com os usuários finais, sendo assim, permitindo nos colocássemos no lugar deles, por tanto entendendo melhor suas perspectivas, experiências e necessidades. Outro grande motivo do uso de personas é para manter o foco nos usuários finais e a criar soluções que atendam às suas necessidades de maneira eficaz e centrada no usuário. Por isso, nós enxergamos como fundamental a elaboração de personas para a construção da elicitação de requisitos.
 
@@ -109,11 +109,10 @@ CA, USA, 1st edition.
 
 ‌This Person Does not exist. Disponível em: https://this-person-does-not-exist.com/en. Acesso em 23 de abril de 2023.
 
-
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                  | Autor(es)          | Revisor(es) |
-| ------- | ---------- | -------------------------------------------- | ------------------ | ----------- |
-| 1.0     | 23/04/2023 | Criação da página de personas             | Chaydson e Gabriel | Lucas       |
-| 1.3     | 24/04/2023 | Adicionando referênciação para as tabelas | Henrique           | Lucas       |
-| 1.4     | 10/05/2023 | Adicionando correções apontadas pós apresentação | Chaydson           | Lucas e Gabriel       |
+| Versão | Data       | Descrição                                           | Autor(es)          | Revisor(es)     |
+| ------- | ---------- | ----------------------------------------------------- | ------------------ | --------------- |
+| 1.0     | 23/04/2023 | Criação da página de personas                      | Chaydson e Gabriel | Lucas           |
+| 1.3     | 24/04/2023 | Adicionando referênciação para as tabelas          | Henrique           | Lucas           |
+| 1.4     | 10/05/2023 | Adicionando correções apontadas pós apresentação | Chaydson           | Lucas e Gabriel |

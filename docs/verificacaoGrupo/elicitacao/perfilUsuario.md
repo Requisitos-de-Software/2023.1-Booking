@@ -33,7 +33,7 @@ O presente documento apresentará a verificação do artefato observação, dese
 
 | ID |                                              Questão                                              | Inspeção |
 | :-: | :-------------------------------------------------------------------------------------------------: | :--------: |
-| 9 |               O perfil do usuário segue os atributos definidos por Hackos e Redish?               |     🔴     |
+| 9 |               O perfil do usuário segue os atributos definidos por Hackos e Redish?               |     🟢     |
 | 10 |               É explicitado a(s) técnicas(s) de elicitação do perfil do usuário?               |     🟢     |
 | 11 |                  O perfil de usuário foi traçado? Com no mínimo 2 variações?                  |     🟡     |
 | 12 |                       Os dados levantados fazem sentido no escopo do projeto?                       |     🟢     |
@@ -51,13 +51,12 @@ O presente documento apresentará a verificação do artefato observação, dese
 
 ### Tarefas
 
-| ID Correção | Tarefa                                                                                                                                                                   |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| IDC1          | Não foi levantado os atributos definidos por Hackos e Redish, seria interessante levantar esses dados demográficos, assim teriamos um perfil de usuário mais conciso |
-| IDC2          | Seria interessante colocar o perfil de usuário traçado em forma de tabela, para melhor vizualização, semelhante ao que foi feito na matéria de IHC                  |
-| IDC3          | Adicionar o termo de consentimento utilizado no questionário e explicitar os aspectos éticos.                                                                          |
-| IDC4          | Adicionar a quantidade de tempo que o usuário utiliza o booking ou semelhante                                                                                           |
-| IDC5          | Na tabela do perfil de usuário, explicitar a atitude dele, tecnófilos, tecnófobos.                                                                                  |
+| ID Correção | Tarefa                                                                                                                                                  |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IDC1          | Seria interessante colocar o perfil de usuário traçado em forma de tabela, para melhor vizualização, semelhante ao que foi feito na matéria de IHC |
+| IDC2          | Adicionar o termo de consentimento utilizado no questionário e explicitar os aspectos éticos.                                                         |
+| IDC3          | Adicionar a quantidade de tempo que o usuário utiliza o booking ou semelhante                                                                          |
+| IDC4          | Na tabela do perfil de usuário, explicitar a atitude dele, tecnófilos, tecnófobos.                                                                 |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Lucas e Chaydson, 2023). </p>
@@ -138,12 +137,12 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
 
-| ID Correção | Ajuste                       |
-| ------------- | ---------------------------- |
-| IDC1          | Foi ajustado x realizando... |
-| IDC2          | Foi incluido x em ...        |
-| IDC3          | Foi removido x ...           |
-| IDC4          | X foi especificaod melhor... |
+| ID Correção | Ajuste                                                                                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------- |
+| IDC1          | Foi adicionado uma tabela com o perfil so usuário para se ter uma melhor visualização                      |
+| IDC2          | O termo foi adicionado em um novo tópico chamado "Política de confidencialidade dos dados"                  |
+| IDC3          | Foi adicionado a média de quantidade de tempo de utilização do aplicativo na tabela do perfil do usuário. |
+| IDC4          | Foi adicionado uma linha com o "Atitudes perante tecnologia" na tabela do perfil do usuário                  |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
@@ -162,3 +161,4 @@ Hackos e Redish, 1998; Courage e Baxter, 2005
 |    Data    | Versão |      Descrição      |    Autor(es)    |
 | :--------: | :-----: | :--------------------: | :--------------: |
 | 20/06/2023 |   1.0   | Criação do documento | Lucas e Chaydson |
+| 21/06/2023 |   1.1   | Aplicando correção no artefato | Pedro e Henrique |

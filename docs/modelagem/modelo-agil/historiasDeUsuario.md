@@ -26,7 +26,7 @@ Para validar as histórias de usuário desenvolvidas pela equipe da disciplina d
 
 ## Histórias de Usuário
 
-A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicitadas para o Booking.
+A seguir, nas Tabelas 2 até 38, apresentamos as histórias de usuário elicitadas para o Booking.
 
 ### US 01 - Notícias do turismo
 
@@ -40,7 +40,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 01: História de Usuário 01 (Fonte: Autores. 2023).</p>
+    <p> Tabela 2: História de Usuário 01 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 02 - Dicas sobre locais e carros
@@ -55,7 +55,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 02: História de Usuário 02 (Fonte: Autores. 2023).</p>
+    <p> Tabela 3: História de Usuário 02 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 03 - Sistema de configurações
@@ -70,7 +70,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 03: História de Usuário 03 (Fonte: Autores. 2023).</p>
+    <p> Tabela 4: História de Usuário 03 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 04 - Sistema de Ofertas
@@ -85,7 +85,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 04: História de Usuário 04 (Fonte: Autores. 2023).</p>
+    <p> Tabela 5: História de Usuário 04 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 05 - Carteira Virtual no Aplicativo
@@ -100,7 +100,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 05: História de Usuário 05 (Fonte: Autores. 2023).</p>
+    <p> Tabela 6: História de Usuário 05 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 06 - Agendamento de Visitas a Atrações Turísticas
@@ -115,7 +115,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 06: História de Usuário 06 (Fonte: Autores. 2023).</p>
+    <p> Tabela 7: História de Usuário 06 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 07 - Contratação de Serviços de Táxi
@@ -130,7 +130,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 07: História de Usuário 07 (Fonte: Autores. 2023).</p>
+    <p> Tabela 8: História de Usuário 07 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 08 - Adicionar Itens ao Aluguel do Carro
@@ -145,7 +145,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 08: História de Usuário 08 (Fonte: Autores. 2023).</p>
+    <p> Tabela 9: História de Usuário 08 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 09 - Filtragem de Pesquisa de Hospedagens, Alugueis de Carros, Voos, Atrações e Táxi
@@ -160,7 +160,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 09: História de Usuário 09 (Fonte: Autores. 2023).</p>
+    <p> Tabela 10: História de Usuário 09 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 10 - Conta Premium no Sistema
@@ -175,7 +175,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 10: História de Usuário 10 (Fonte: Autores. 2023).</p>
+    <p> Tabela 11: História de Usuário 10 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 11 - Compra de Moedas do Sistema
@@ -190,7 +190,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 11: História de Usuário 11 (Fonte: Autores. 2023).</p>
+    <p> Tabela 12: História de Usuário 11 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 12 - Mapa Interativo
@@ -205,7 +205,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 12: História de Usuário 12 (Fonte: Autores. 2023).</p>
+    <p> Tabela 13: História de Usuário 12 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 13 - Lista de Desejos para Aluguel de Carro, Hospedagem e Voos
@@ -220,7 +220,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 13: História de Usuário 13 (Fonte: Autores. 2023).</p>
+    <p> Tabela 14: História de Usuário 13 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 14 - Lista de Favoritos para Aluguel de Carro, Hospedagem e Voos
@@ -235,7 +235,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 14: História de Usuário 14 (Fonte: Autores. 2023).</p>
+    <p> Tabela 15: História de Usuário 14 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 15 - Envio de Email sobre o Status da Reserva
@@ -248,7 +248,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Rastreabilidade**           | [B08](../../elicitacao/brainstorm.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 <div style="text-align: center">
-    <p> Tabela 15: História de Usuário 15 (Fonte: Autores. 2023).</p>
+    <p> Tabela 16: História de Usuário 15 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 16 - Avaliação de acomodações por usuários
@@ -261,7 +261,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Rastreabilidade**           | [ST09](../../elicitacao/storytelling.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 <div style="text-align: center">
-    <p> Tabela 16: História de Usuário 16 (Fonte: Autores. 2023).</p>
+    <p> Tabela 17: História de Usuário 16 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 17 - Sair da conta
@@ -274,7 +274,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Rastreabilidade**           | [OBS22](../../elicitacao/observacao.md)                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 <div style="text-align: center">
-    <p> Tabela 17: História de Usuário 17 (Fonte: Autores. 2023).</p>
+    <p> Tabela 18: História de Usuário 17 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 18 - Apresentação de informações legais
@@ -287,7 +287,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Rastreabilidade**           | [OBS20](../../elicitacao/observacao.md)                                                                                                                                                                                                                                                                                                |
 
 <div style="text-align: center">
-    <p> Tabela 18: História de Usuário 18 (Fonte: Autores. 2023).</p>
+    <p> Tabela 19: História de Usuário 18 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 19 - Área administrativa da conta
@@ -300,7 +300,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Rastreabilidade**           | [OBS15](../../elicitacao/observacao.md)                                                                                                                                                                                                                                                                                                                                                                       |
 
 <div style="text-align: center">
-    <p> Tabela 19: História de Usuário 19 (Fonte: Autores. 2023).</p>
+    <p> Tabela 20: História de Usuário 19 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 20 - Central de ajuda ao usuário
@@ -313,7 +313,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Rastreabilidade**           | [OBS14](../../elicitacao/observacao.md)                                                                                                                                                                                                                                                                                                                                                                                         |
 
 <div style="text-align: center">
-    <p> Tabela 20: História de Usuário 20 (Fonte: Autores. 2023).</p>
+    <p> Tabela 21: História de Usuário 20 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 21 - Histórico de reservas
@@ -326,7 +326,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | **Rastreabilidade**           | [OBS13](../../elicitacao/observacao.md)                                                                                                                                                                                                                                                                                                        |
 
 <div style="text-align: center">
-    <p> Tabela 21: História de Usuário 21 (Fonte: Autores. 2023).</p>
+    <p> Tabela 22: História de Usuário 21 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 22 - Pesquisa de Acomadações Específica
@@ -341,7 +341,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 22: História de Usuário 22 (Fonte: Autores. 2023).</p>
+    <p> Tabela 23: História de Usuário 22 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 23 - Cadastro de Cartão de Crédito
@@ -356,7 +356,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 23: História de Usuário 23 (Fonte: Autores. 2023).</p>
+    <p> Tabela 24: História de Usuário 23 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 24 - Cancelamento de Reserva
@@ -371,7 +371,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 24: História de Usuário 24 (Fonte: Autores. 2023).</p>
+    <p> Tabela 25: História de Usuário 24 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 25 - Filtro de Voo
@@ -386,7 +386,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 25: História de Usuário 25 (Fonte: Autores. 2023).</p>
+    <p> Tabela 26: História de Usuário 25 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 26 - Reserva de Voo
@@ -401,7 +401,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 26: História de Usuário 26 (Fonte: Autores. 2023).</p>
+    <p> Tabela 27: História de Usuário 26 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 27 - Gerenciamento de Reservas
@@ -416,7 +416,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 27: História de Usuário 27 (Fonte: Autores. 2023).</p>
+    <p> Tabela 28: História de Usuário 27 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 28 - Filtro de Histórico de Reservas
@@ -431,7 +431,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 28: História de Usuário 28 (Fonte: Autores. 2023).</p>
+    <p> Tabela 29: História de Usuário 28 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 29 - Escolha de Pagamento
@@ -446,7 +446,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 29: História de Usuário 29 (Fonte: Autores. 2023).</p>
+    <p> Tabela 30: História de Usuário 29 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 30 - Perguntas Frequentes
@@ -461,7 +461,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 30: História de Usuário 30 (Fonte: Autores. 2023).</p>
+    <p> Tabela 31: História de Usuário 30 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 31 - Bate-Papo com o locador ou empresa
@@ -476,7 +476,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 31: História de Usuário 31 (Fonte: Autores. 2023).</p>
+    <p> Tabela 32: História de Usuário 31 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 32 - Denúncia de Contas
@@ -491,7 +491,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 32: História de Usuário 32 (Fonte: Autores. 2023).</p>
+    <p> Tabela 33: História de Usuário 32 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 33 - Fitro por Comando de Voz
@@ -504,7 +504,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | Rastreabilidade                     | [FB31](../../elicitacao/observacao.md)                                                                                                                                               |
 
 <div style="text-align: center">
-    <p> Tabela 33: História de Usuário 33 (Fonte: Autores. 2023).</p>
+    <p> Tabela 34: História de Usuário 33 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 34 - Reserva de Hospedagem
@@ -519,7 +519,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 </center>
 
 <div style="text-align: center">
-    <p> Tabela 34: História de Usuário 34 (Fonte: Autores. 2023).</p>
+    <p> Tabela 35: História de Usuário 34 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 35 - Gerenciamento de Companheiros de Viagem
@@ -532,7 +532,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | Rastreabilidade                     | [Cenário 08](../../modelagem/cenarios.md)                                                                                                                                                                                                                                                                              |
 
 <div style="text-align: center">
-    <p> Tabela 35: História de Usuário 35 (Fonte: Autores. 2023).</p>
+    <p> Tabela 36: História de Usuário 35 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 36 - Aluguel de Carros
@@ -545,7 +545,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | Rastreabilidade                     | [FST07](../../elicitacao/storytelling.md)                                                                                                                                                                              |
 
 <div style="text-align: center">
-    <p> Tabela 36: História de Usuário 36 (Fonte: Autores. 2023).</p>
+    <p> Tabela 37: História de Usuário 36 (Fonte: Autores. 2023).</p>
 </div>
 
 ### US 37 - Deletar conta
@@ -558,7 +558,7 @@ A seguir, nas Tabelas 01 até 37, apresentamos as histórias de usuário elicita
 | Rastreabilidade                     | [Cenário 07](../../modelagem/cenarios.md)                                                                                                                         |
 
 <div style="text-align: center">
-    <p> Tabela 37: História de Usuário 37 (Fonte: Autores. 2023).</p>
+    <p> Tabela 38: História de Usuário 37 (Fonte: Autores. 2023).</p>
 </div>
 
 ## Bibliografia
