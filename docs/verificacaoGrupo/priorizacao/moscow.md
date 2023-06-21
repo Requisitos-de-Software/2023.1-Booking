@@ -44,10 +44,6 @@ O presente documento apresentará a verificação do artefato [MoSCoW](../../eli
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Pedro Henrique, 2023). </p>
 </div>
 
-## Preparação dos ajustes
-
-Por fim, o avaliador deve fazer uma série de planejamentos para melhorar o artefato analisado.
-
 <center>
 
 ### Tarefas

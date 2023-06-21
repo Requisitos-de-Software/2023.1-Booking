@@ -1,4 +1,4 @@
-# Verificação da observação
+# Verificação dos cronogramas
 
 ## Introdução
 
@@ -7,8 +7,8 @@ O presente documento apresentará a verificação do artefato observação, dese
 <center>
 
 | Versão avaliada | Autor    | Revisor |
-| --------------- | -------- | ------- |
-| 1.7             | Henrique | Samuel  |
+| ---------------- | -------- | ------- |
+| 1.7              | Henrique | Samuel  |
 
 </center>
 
@@ -16,49 +16,45 @@ O presente documento apresentará a verificação do artefato observação, dese
 <p> Tabela 1: Metadados do artefato (Fonte: Lucas Frazão e Chaydson Ferreira, 2023). </p>
 </div>
 
-| ID  |                                 Questão                                  | Inspeção |
-| :-: | :----------------------------------------------------------------------: | :------: |
-|  1  |                 As legendas estão no padrão do projeto?                  |    🟡    |
-|  2  |                  Possui links para os outros artefatos?                  |   N/A    |
-|  3  |                    Existe uma introdução no artefato?                    |    🟢    |
-|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |
-|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟡    |
-|  7  |                         O artefato possui autor?                         |    🟢    |
-|  8  |                        O artefato possui revisor?                        |    🟢    |
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |     🟡     |
+| 2 |                  Possui links para os outros artefatos?                  |    N/A    |
+| 3 |                   Existe uma introdução no artefato?                   |     🟢     |
+| 4 |                Existe tabela de versionamento padronizado?                |     🟢     |
+| 5 |      Há referências bibliográficas ou referências no artefato?      |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟡     |
+| 7 |                         O artefato possui autor?                         |     🟢     |
+| 8 |                        O artefato possui revisor?                        |     🟢     |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Lucas Frazão, 2023). </p>
 </div>
 
-| ID  |                                  Questão                                   | Inspeção |
-| :-: | :------------------------------------------------------------------------: | :------: |
-|  9  |               Para cada tarefa existe um revisor associado?                |    🟡    |
-| 10  |                Para cada tarefa existe um autor associado?                 |    🟢    |
-| 11  | O cronograma executado é alterado de acordo com a realização das tarefas?  |    🟢    |
-| 12  | As tarefas do cronograma foram distribuidas entre os todos os integrantes? |    🟢    |
-| 13  |              Os revisores são pessoas diferentes dos autores?              |    🟢    |
-| 14  |            As tarefas do cronograma possuem nomes condizentes?             |    🟢    |
-| 15  |   O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome?    |    🟢    |
+| ID |                                   Questão                                   | Inspeção |
+| :-: | :--------------------------------------------------------------------------: | :--------: |
+| 9 |                Para cada tarefa existe um revisor associado?                |     🟡     |
+| 10 |                 Para cada tarefa existe um autor associado?                 |     🟢     |
+| 11 | O cronograma executado é alterado de acordo com a realização das tarefas? |     🟢     |
+| 12 |  As tarefas do cronograma foram distribuidas entre os todos os integrantes?  |     🟢     |
+| 13 |              Os revisores são pessoas diferentes dos autores?              |     🟢     |
+| 14 |             As tarefas do cronograma possuem nomes condizentes?             |     🟢     |
+| 15 |    O cronograma foi feito em tabelas? Se sim, elas possuem fonte e nome?    |     🟢     |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas Frazão, 2023). </p>
 </div>
-
-## Preparação dos ajustes
-
-Por fim, o avaliador deve fazer uma série de planejamentos para melhorar o artefato analisado.
 
 <center>
 
 ### Tarefas
 
 | ID Correção | Tarefa                                                       |
-| ----------- | ------------------------------------------------------------ |
-| IDC1        | Remover os projetos utilizados como base do cronograma geral |
-| IDC2        | Centralizar a legenda da tabela 1                            |
-| IDC3        | Introduzir a tabela 1                                        |
-| IDC4        | Entrega 5.1 não possui revisores                             |
+| ------------- | ------------------------------------------------------------ |
+| IDC1          | Remover os projetos utilizados como base do cronograma geral |
+| IDC2          | Centralizar a legenda da tabela 1                            |
+| IDC3          | Introduzir a tabela 1                                        |
+| IDC4          | Entrega 5.1 não possui revisores                            |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Lucas, 2023). </p>
@@ -78,10 +74,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 <center>
 
-| Acrônimo | Descrição                      |
-| -------- | ------------------------------ |
-| QTDE     | Quantidade Total de Exigências |
-| EC       | Exigências Completas           |
+| Acrônimo | Descrição                     |
+| --------- | ------------------------------- |
+| QTDE      | Quantidade Total de Exigências |
+| EC        | Exigências Completas           |
 
 <div style="text-align: center">
 <p> Tabela 5: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
@@ -94,7 +90,7 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 Nos checklists realizados e que serão descritos, podemos observar que:
 
 - 12/15 exigências são atendidas;
-- 3/15exigências estão incompletas;
+- 3/15 exigências estão incompletas;
 - 0/15 exigências estão erradas ou não foram realizadas.
 
 onde x é a quantidade de exigências.
@@ -131,7 +127,7 @@ onde x é a quantidade de exigências.
 <p> Gráfico 1: Gráfico de aproveitamento (Fonte: Samuel, 2023). </p>
 </div>
 
-Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em p% correto.
+Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 80% correto.
 
 ## Correção
 
@@ -140,11 +136,11 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
 
 | ID Correção | Ajuste                       |
-| ----------- | ---------------------------- |
-| IDC1        | Foi ajustado x realizando... |
-| IDC2        | Foi incluido x em ...        |
-| IDC3        | Foi removido x ...           |
-| IDC4        | X foi especificaod melhor... |
+| ------------- | ---------------------------- |
+| IDC1          | Foi ajustado x realizando... |
+| IDC2          | Foi incluido x em ...        |
+| IDC3          | Foi removido x ...           |
+| IDC4          | X foi especificaod melhor... |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
@@ -156,6 +152,6 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       | Autor(es) |
-| :--------: | :----: | :------------------: | :-------: |
-| 20/06/2023 |  1.0   | Criação do documento |   Lucas   |
+|    Data    | Versão |      Descrição      | Autor(es) |
+| :--------: | :-----: | :--------------------: | :-------: |
+| 20/06/2023 |   1.0   | Criação do documento |   Lucas   |

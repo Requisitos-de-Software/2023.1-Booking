@@ -48,10 +48,6 @@ A tabela 1 a seguir representa os metadados do storytelling.
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Chaydson e Gabriel, 2023). </p>
 </div>
 
-## Preparação dos ajustes
-
-Na tabela 4 estão contidos as ajustes que são recomendações do que alterar, e tais ajustes deverão ser feitos por parte dos autores do artefato na seção de correção.
-
 <center>
 
 ### Tarefas
