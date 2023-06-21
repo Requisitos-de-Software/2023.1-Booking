@@ -20,12 +20,12 @@ A tabela 1 a seguir representa os dados do artefato Rich Picture.
 
 | ID |                                   Questão                                   | Inspeção |
 | :-: | :---------------------------------------------------------------------------: | :--------: |
-| 1 |                   As legendas estão no padrão do projeto?                   |    N/A    |
-| 2 |                    Possui links para os outros artefatos?                    |     🔴     |
-| 3 |                     Existe uma introdução no artefato?                     |     🟡     |
+| 1 |                   As legendas estão no padrão do projeto?                   |     🟢     |
+| 2 |                    Possui links para os outros artefatos?                    |     🟢     |
+| 3 |                     Existe uma introdução no artefato?                     |     🟢     |
 | 4 |                  Existe tabela de versionamento padronizado?                  |     🟢     |
-| 5 | Há referências bibliográficas, bibliografia ou referências no artefato? |     🟢     |
-| 6 |   As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?   |    N/A    |
+| 5 | Há referências bibliográficas, bibliografia ou referências no artefato? |     🟡     |
+| 6 |   As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?   |     🟢     |
 | 7 |                           O artefato possui autor?                           |     🟢     |
 | 8 |                          O artefato possui revisor?                          |     🟢     |
 
@@ -35,12 +35,13 @@ A tabela 1 a seguir representa os dados do artefato Rich Picture.
 
 | ID |                                      Questão                                      | Inspeção |
 | :-: | :---------------------------------------------------------------------------------: | :--------: |
-| 9 | O Rich Picture possui várias versoẽs atualizadas e aprimoradas ao longo do tempo? |     🔴     |
-| 10 |                      O Rich Picture possui uma legenda clara?                      |     🟡     |
+| 9 | O Rich Picture possui várias versoẽs atualizadas e aprimoradas ao longo do tempo? |     🟢     |
+| 10 |                      O Rich Picture possui uma legenda clara?                      |     🟢     |
 | 11 |          O Rich Picture possui operações e armazenamentos bem definidos?          |     🟢     |
 | 12 |                            O desenho possui fronteiras?                            |     🟢     |
 | 13 |                         Os atores estão fora da fronteira?                         |     🟢     |
 | 14 |           O Rich Picture mostra as principais funcionalidades do sistema?           |     🟢     |
+| 15 |                           O artefato está bem desenhado?                           |     🟡     |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Henrique, 2023). </p>
@@ -50,9 +51,11 @@ A tabela 1 a seguir representa os dados do artefato Rich Picture.
 
 ### Tarefas
 
-| ID Correção | Tarefa |
-| ------------- | ------ |
-| IDC1          |        |
+| ID Correção | Tarefa                                                                                                  |
+| ------------- | ------------------------------------------------------------------------------------------------------- |
+| IDC1          | Um aprimoramento no desenho do segundo rich picture, podderá trazer um melhor entendimento sobre ele. |
+| IDC2          | Em bibliografia, retirar os números ([1][2][3]) antes das citações.                                  |
+| IDC3          | Adicionar uma metodologia, explicitando as técnicas utilizadas na elaboração.                        |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Henrique, 2023). </p>
@@ -87,10 +90,9 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Nos checklists realizados e que serão descritos, podemos observar que:
 
-- 7/13 exigências são atendidas;
-- 5/13 exigências estão incompletas;
-- 1/13 exigências estão erradas ou não foram realizadas;
-- 2/2 exigências não se aplicam ao artefato;
+- 13/15 exigências são atendidas;
+- 2/15 exigências estão incompletas;
+- 0/15 exigências estão erradas ou não foram realizadas;
 
 ```vegalite
 {
@@ -99,9 +101,9 @@ Nos checklists realizados e que serão descritos, podemos observar que:
   "description": "Dados de acompanhamento do Storytelling",
   "data": {
     "values": [
-      {"legenda": "Completo", "value": 7},
-      {"legenda": "Incompleto", "value": 5},
-      {"legenda": "Errado", "value": 1}
+      {"legenda": "Completo", "value": 13},
+      {"legenda": "Incompleto", "value": 2},
+      {"legenda": "Errado", "value": 0}
     ]
   },
   "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
@@ -123,7 +125,7 @@ Nos checklists realizados e que serão descritos, podemos observar que:
 <p> Gráfico 1: Gráfico de aproveitamento (Fonte: Gabriel e Pedro, 2023). </p>
 </div>
 
-Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 53,84% correto.
+Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 86,66% correto.
 
 ## Correção
 
@@ -131,23 +133,14 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
 
-| ID Correção | Ajuste |
-| ------------- | ------ |
-| IDC1          |        |
-| IDC2          |        |
-| IDC3          |        |
-| IDC4          |        |
-| IDC5          |        |
-| IDC6          |        |
-| IDC7          |        |
-| IDC8          |        |
-| IDC9          |        |
-| IDC10         |        |
-| IDC11         |        |
-| IDC12         |        |
+| ID Correção | Ajuste                       |
+| ------------- | ---------------------------- |
+| IDC1          | Foi ajustado x realizando... |
+| IDC2          | Foi incluido x em ...        |
+| IDC3          | Foi removido x ...           |
 
 <div style="text-align: center">
-<p> Tabela 6: Tabela de ajustes feitos (Fonte: Henrqique e Chaydson, 2023). </p>
+<p> Tabela 6: Tabela de ajustes feitos (Fonte: Gabriel e Lucas, 2023). </p>
 </div>
 
 </center>
@@ -156,12 +149,14 @@ Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
 
 ## Bibliografia
 
-Concept: Requisitos Suplementares. Ufpe.br. Disponível em: [https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&amp;B/guidances/concepts/supporting_requirements_C0220FE1.html](https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&B/guidances/concepts/supporting_requirements_C0220FE1.html). Acesso em: 20 jun. 2023.
+Software Development Project: Introducing Rich Pictures. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acesso em: 20 jun. 2023.
+
+MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning About Work Context. Interactions, [S.l.], v. 5, n. 2, p. 21-30, mar. 1998. Disponível em: [https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf](https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf) . Acesso em: 20 jun. 2023.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                             | Autor(es)       |
-| ------- | ---------- | --------------------------------------- | --------------- |
+| Versão | Data       | Descrição                             | Autor(es)           |
+| ------- | ---------- | --------------------------------------- | ------------------- |
 | 1.0     | 20/06/2023 | Criação do documento de verificação | Henrique e Chaydson |
 
 ‌
