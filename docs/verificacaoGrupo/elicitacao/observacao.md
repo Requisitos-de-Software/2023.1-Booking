@@ -92,11 +92,6 @@ Nos checklists realizados e que serão descritos, podemos observar que:
 - 2/13 exigências estão incompletas;
 - 1/13 exigências estão erradas ou não foram realizadas.
 
-<<<<<<< Updated upstream
-onde 13 é a quantidade de exigências.
-
-=======
->>>>>>> Stashed changes
 ```vegalite
 {
     "title": "Acompanhamento",

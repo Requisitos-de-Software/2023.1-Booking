@@ -95,11 +95,6 @@ Nos checklists realizados e que serão descritos, podemos observar que:
 - 2/16 exigências estão incompletas;
 - 4/16 exigências estão erradas ou não foram realizadas.
 
-<<<<<<< Updated upstream
-onde 16 é a quantidade de exigências.
-
-=======
->>>>>>> Stashed changes
 ```vegalite
 {
     "title": "Acompanhamento",
