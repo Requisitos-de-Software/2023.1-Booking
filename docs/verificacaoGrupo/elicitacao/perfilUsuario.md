@@ -95,7 +95,7 @@ Nos checklists realizados e que serão descritos, podemos observar que:
 - 2/16 exigências estão incompletas;
 - 4/16 exigências estão erradas ou não foram realizadas.
 
-onde x é a quantidade de exigências.
+onde 16 é a quantidade de exigências.
 
 ```vegalite
 {
@@ -158,7 +158,7 @@ Hackos e Redish, 1998; Courage e Baxter, 2005
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      |    Autor(es)    |
-| :--------: | :-----: | :--------------------: | :--------------: |
-| 20/06/2023 |   1.0   | Criação do documento | Lucas e Chaydson |
+|    Data    | Versão |           Descrição           |    Autor(es)    |
+| :--------: | :-----: | :------------------------------: | :--------------: |
+| 20/06/2023 |   1.0   |      Criação do documento      | Lucas e Chaydson |
 | 21/06/2023 |   1.1   | Aplicando correção no artefato | Pedro e Henrique |

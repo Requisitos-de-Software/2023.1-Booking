@@ -92,7 +92,7 @@ Nos checklists realizados e que serão descritos, podemos observar que:
 - 2/13 exigências estão incompletas;
 - 1/13 exigências estão erradas ou não foram realizadas.
 
-onde x é a quantidade de exigências.
+onde 13 é a quantidade de exigências.
 
 ```vegalite
 {
@@ -153,7 +153,7 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      | Autor(es) |
-| :--------: | :-----: | :--------------------: | :-------: |
-| 20/06/2023 |   1.0   | Criação do documento |   Lucas   |
-| 21/06/2023 |   1.1   | Aplicando correções no artefato |   Pedro e Chaydson   |
+|    Data    | Versão |            Descrição            |    Autor(es)    |
+| :--------: | :-----: | :-------------------------------: | :--------------: |
+| 20/06/2023 |   1.0   |      Criação do documento      |      Lucas      |
+| 21/06/2023 |   1.1   | Aplicando correções no artefato | Pedro e Chaydson |
