@@ -18,12 +18,12 @@ O presente documento apresentará a verificação do artefato [Personas](../../e
 
 | ID |                                   Questão                                   | Inspeção |
 | :-: | :--------------------------------------------------------------------------: | :--------: |
-| 1 |                  As legendas estão no padrão do projeto?                  |     🟢     |
+| 1 |                  As legendas estão no padrão do projeto?                  |     🟡     |
 | 2 |                    Possui links para os outros artefatos?                    |     🔴     |
 | 3 |                     Existe uma introdução no artefato?                     |     🟢     |
 | 4 |                 Existe tabela de versionamento padronizado?                 |     🟢     |
 | 5 | Há referências bibliográficas, bibliografia e referências no artefato? |     🟢     |
-| 6 |  As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?  |     🟡     |
+| 6 |  As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?  |     🟢     |
 | 7 |                           O artefato possui autor?                           |     🟢     |
 | 8 |                          O artefato possui revisor?                          |     🟢     |
 
