@@ -15,7 +15,7 @@ A tabela 1 a seguir representa os dados do artefato Rich Picture.
 </center>
 
 <div style="text-align: center">
-<p> Tabela 1: Dados do artefato Especificação Suplementar. (Fonte: Henrique, 2023). </p>
+<p> Tabela 1: Dados do artefato Rich Picture. (Fonte: Henrique, 2023). </p>
 </div>
 
 | ID |                                   Questão                                   | Inspeção |
