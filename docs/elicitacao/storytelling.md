@@ -87,6 +87,7 @@ Storytelling - Guardiões da saúde. Disponível em: https://requisitos-de-softw
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)      | Revisor(es) |
-| ------- | ---------- | ---------------------- | -------------- | ----------- |
-| 1.0     | 23/04/2023 | Criação do documento | Lucas e Samuel | Gabriel     |
+| Versão | Data       | Descrição                                 | Autor(es)      | Revisor(es) |
+| ------- | ---------- | ------------------------------------------- | -------------- | ----------- |
+| 1.0     | 23/04/2023 | Criação do documento                      | Lucas e Samuel | Gabriel     |
+| 1.1     | 21/06/2023 | Arrumando o que foi pedido na verificação | Lucas e Samuel | Gabriel     |

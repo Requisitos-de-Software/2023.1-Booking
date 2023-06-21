@@ -162,6 +162,6 @@ XAVIER, Adilson.  **Storytelling** : Histórias que deixam marca. 1. ed. Rio de 
 | Versão | Data       | Descrição                                     | Autor(es)          |
 | ------- | ---------- | ----------------------------------------------- | ------------------ |
 | 1.0     | 20/06/2023 | Criação do documento de verificação         | Chaydson e Gabriel |
-| 1.1     | 21/06/2023 | Adicionando nova porcentagem após a correção | Lucas              |
+| 1.1     | 21/06/2023 | Adicionando nova porcentagem após a correção | Lucas e Samuel     |
 
 ‌
