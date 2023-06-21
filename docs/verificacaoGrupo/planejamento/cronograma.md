@@ -93,8 +93,6 @@ Nos checklists realizados e que serão descritos, podemos observar que:
 - 3/15 exigências estão incompletas;
 - 0/15 exigências estão erradas ou não foram realizadas.
 
-onde x é a quantidade de exigências.
-
 ```vegalite
 {
     "title": "Acompanhamento",

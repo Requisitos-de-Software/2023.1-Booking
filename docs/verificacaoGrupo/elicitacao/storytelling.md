@@ -94,8 +94,6 @@ Nos checklists realizados e que serão descritos, podemos observar que:
 - 0/17 exigências estão incompletas;
 - 1/17 exigências estão erradas ou não foram realizadas.
 
-onde x é a quantidade de exigências.
-
 ```vegalite
 {
     "title": "Acompanhamento",
