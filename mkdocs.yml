@@ -114,6 +114,7 @@ nav:
           - Especificação Suplementar: verificacaoGrupo/modelagem/especificacaoSuplementar.md
           - Léxicos: verificacaoGrupo/modelagem/lexicos.md
           - Cenários: verificacaoGrupo/modelagem/cenarios.md
+          - NFR Framework: verificacaoGrupo/modelagem/nfrFrameWork.md
         - Agil:
           - Backlog: verificacaoGrupo/agil/backlog.md
           - Histórias de Usuário: verificacaoGrupo/agil/historiasDeUsuario.md
