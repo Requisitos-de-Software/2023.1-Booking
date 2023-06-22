@@ -51,13 +51,13 @@ nav:
       - 28/04/2023: atas/ata_28_04.md
       - 05/05/2023: atas/ata_05_05.md
       - 20/05/2023: atas/ata_20_05.md
-
   - Apresentações: 
       - Primeira Apresentação: apresentacoes/primeiraApresentacao.md
       - Segunda Apresentação: apresentacoes/segundaApresentacao.md
       - Terceira Apresentação: apresentacoes/terceiraApresentacao.md
       - Quarta Apresentação: apresentacoes/quartaApresentacao.md
       - Quinta Apresentação: apresentacoes/quintaApresentacao.md
+      - Sexta Apresentação: apresentacoes/sextaApresentacao.md
   - Pré-Rastreabilidade:
       - Rich Picture: prePlanejamento/richPicture.md
   - Planejamento:
@@ -114,11 +114,10 @@ nav:
           - Especificação Suplementar: verificacaoGrupo/modelagem/especificacaoSuplementar.md
           - Léxicos: verificacaoGrupo/modelagem/lexicos.md
           - Cenários: verificacaoGrupo/modelagem/cenarios.md
-          - NFR Framework: verificacaoGrupo/modelagem/nfrFrameWork.md
         - Agil:
           - Backlog: verificacaoGrupo/agil/backlog.md
           - Histórias de Usuário: verificacaoGrupo/agil/historiasDeUsuario.md
-          - NFR Framework: verificacaoGrupo/agil/nfrFramework.md
+          - NFR Framework: verificacaoGrupo/modelagem/nfrFrameWork.md
       - Verificação grupo 3:
         - Metodologia: verificacao3/metodologia.md
         - Planejamento:
