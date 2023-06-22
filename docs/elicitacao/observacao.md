@@ -8,13 +8,17 @@ Para realizar a técnica de elicitação de requisitos do aplicativo, Pedro Henr
 
 ### Cronograma
 
-| Local | Dia        | Horário |
-| ----- | ---------- | -------- |
-| TEAMS | 30/04/2023 | 14:00    |
+| Local | Dia        | Horário | Entrevistadores                    | Entrevistado |
+| ----- | ---------- | -------- | ---------------------------------- | ------------ |
+| TEAMS | 30/04/2023 | 14:00    | Pedro Henrique e Chaydson Ferreira | Yan Werlley  |
 
 <div style="text-align: center">
 <p> Tabela 1: Cronograma planejado para entrevista com usuário do aplicativo (Fonte: autores, 2023). </p>
 </div>
+
+## Papel dos participantes
+
+Durante a entrevista, Pedro Henrique Rodrigues e Chaydson Ferreira desempenharam o papel de entrevistadores, enquanto Yan Werlly (o entrevistado) utilizava as funcionalidades do aplicativo com as quais estava mais familiarizado. Enquanto isso, os entrevistadores faziam anotações para posteriormente levantar os requisitos necessários.
 
 ## Resultados
 
@@ -72,15 +76,38 @@ A Tabela 3 a seguir contém os Requisitos não funcionais elicitados através da
 
 ## Legendas
 
-FOBS: Requisito funcional da Observação
+A seguir na tabela 4, as legendas das tabelas de requisitos
 
-NFOBS: Requisito não funcional da Observação
+<center>
+
+| ID    | descrição                              |
+| ----- | ---------------------------------------- |
+| FOBS  | Requisito funcional da Observação      |
+| NFOBS | Requisito não funcional da Observação |
+
+<div style="text-align: center">
+<p> Tabela 4: Legenda das tabelas de requisitos. (Fonte: Pedro e Chaydson, 2023). </p>
+</div>
+
+</center>
 
 ## Video da reunião
 
+A seguir no video 1, é apresentado a gravação da entrevista.
+
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UBXR9S4XcyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<div style="text-align: center">
+<p> Video 1: Entrevista. (Fonte: Pedro e Chaydson, 2023). </p>
+</div>
+
+</center>
+
 ## Termo de consentimento
+
+No link a seguir, se encontra o termo de consentimento assinado tanto pelos entrevistadores quanto pelo usuário entrevistado.
 
 [Termo de consentimento](../assets/pdfs/termo%20de%20consentimento%20observacaoAssinado.pdf)
 
@@ -96,3 +123,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 | ------- | ---------- | -------------------------------------- | ------------------------ | ----------- |
 | 1.0     | 23/04/2023 | Criação da página de Observação   | Pedro Henrique, Chaydson | Samuel      |
 | 1.1     | 30/04/2023 | Refazendo os requisitos com o usuário | Pedro Henrique, Chaydson | Samuel      |
+| 1.2     | 21/06/2023 | Aplicando correções apontadas pela verificação | Pedro Henrique, Chaydson | Samuel      |

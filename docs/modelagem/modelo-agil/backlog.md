@@ -6,81 +6,81 @@ O backlog é um poderoso recurso de gerenciamento de projetos que permite às eq
 
 Em sua essência, o backlog é uma lista priorizada de tarefas, itens ou requisitos que aguardam execução ou implementação. É uma ferramenta central no framework ágil, como o Scrum, e é amplamente utilizado em diversas áreas, desde desenvolvimento de software até marketing e gerenciamento de projetos.
 
-O backlog é geralmente composto por histórias de usuários, tarefas, bugs, melhorias e qualquer outra demanda ou requisito que a equipe precisa realizar. Cada item do backlog é detalhado o suficiente para que seja compreendido e implementado pela equipe responsável. Além disso, o backlog é frequentemente organizado de acordo com sua prioridade, sendo que os itens mais importantes e urgentes são colocados no topo da lista.
+O backlog é geralmente composto por [histórias de usuário](./historiasDeUsuario.md), tarefas, bugs, melhorias e qualquer outra demanda ou requisito que a equipe precisa realizar. Cada item do backlog é detalhado o suficiente para que seja compreendido e implementado pela equipe responsável. Além disso, o backlog é frequentemente organizado de acordo com sua prioridade, sendo que os itens mais importantes e urgentes são colocados no topo da lista.
 
 ## Metodologia
 
-A criação do backlog do produto foi baseada na avaliação e verificação dos requisitos funcionais coletados, seguida pela organização desses requisitos em temas e épicos. Esses temas e épicos serviram como base para a definição das histórias de usuário e consequentemente, a criação do backlog.
+A criação do backlog do produto foi baseada na avaliação e verificação dos requisitos funcionais coletados, seguida pela organização desses requisitos em temas e épicos. Esses temas e épicos serviram como base para a definição das [histórias de usuário](./historiasDeUsuario.md) e consequentemente, a criação do backlog.
 
 ## Requisitos elicitados
 
 Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo de elicitação, juntamente com a rastreabilidade de cada requisito.
 
-| ID   | requisito                                                                                                                                                                    | priorização |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| RF01 | o aplicativo deve permitir que os usuários se registrem fornecendo informações básicas, como nome, sobrenome, endereço de e-mail e senha.                                    | FST01       |
-| RF02 | o aplicativo deve permitir que os usuários pesquisem acomodações com base em critérios específicos, como localização, datas de check-in e check-out, tipo de quarto e preço. | FST02       |
-| RF03 | o aplicativo deve permitir que os usuários reservem acomodações selecionadas, inserindo as informações de pagamento e confirmando a reserva.                                 | FST03       |
-| RF04 | o aplicativo deve permitir que os usuários cancelem suas reservas de acomodação, desde que sejam feitas dentro dos termos e condições estabelecidos pela empresa.            | FST04       |
-| RF05 | o aplicativo deve permitir que os usuários pesquisem voos com base em critérios específicos, como origem, destino, datas e número de passageiros.                            | FST05       |
-| RF06 | o aplicativo deve permitir que os usuários reservem voos selecionados, inserindo as informações de pagamento e confirmando a reserva.                                        | FST06       |
-| RF07 | o aplicativo deve permitir que os usuários gerenciem suas reservas existentes, incluindo a visualização de detalhes da reserva, alterações de datas e cancelamentos.         | FST08       |
-| RF08 | o aplicativo deve permitir que os usuários visualizem seu histórico de reservas anteriores, incluindo informações como datas, acomodações e voos reservados.                 | FST10       |
-| RF09 | O sistema deve permitir que o usuário possa cadastrar uma conta                                                                                                              | FB01        |
-| RF10 | O sistema deve possuir escolha do método de pagamento                                                                                                                        | FB02        |
-| RF11 | Possibilitar o cadastro de reserva(s) pelo usuário                                                                                                                           | FB03        |
-| RF12 | Permitir que um grupo de pessoas reservem um local                                                                                                                           | FB07        |
-| RF13 | Sincronizar as datas das reservas com o calendário do usuário                                                                                                                | FB09        |
-| RF14 | Permitir visualização de imagens do local pelo usuário                                                                                                                       | FB12        |
-| RF15 | Permitir visualização de imagens do carro pelo usuário                                                                                                                       | FB13        |
-| RF16 | O sistema deve ser capaz de localizar o usuário se permitido                                                                                                                 | FB22        |
-| RF17 | O sistema deve sugerir hospedagens de acordo com a localização do usuário                                                                                                    | FB23        |
-| RF18 | O sistema deve oferecer uma aba de perguntas                                                                                                                                 | FB24        |
-| RF19 | O sistema deve conter um bate-papo para contato com o locatário ou empresa em que foi feito a reserva                                                                        | FB25        |
-| RF20 | O sistema deve ter um sistema de pontuação ligada ao usuário                                                                                                                 | FB26        |
-| RF21 | O usuário deve poder denunciar contas                                                                                                                                        | FB27        |
-| RF22 | Deve existir uma pesquisa por comando de voz                                                                                                                                 | FB31        |
-| RF23 | Permitir o cancelamento de reserva pelo usuário                                                                                                                              | FB04        |
-| RF24 | Permitir que o usuário acesse o histórico de suas reservas                                                                                                                   | FB05        |
-| RF25 | Permitir a pesquisa de reserva pelo usuário                                                                                                                                  | FB06        |
-| RF26 | O usuário deve poder avaliar e comentar reservas                                                                                                                             | FB28        |
-| RF27 | Deve ser possível criar uma conta com o google, facebook ou email pessoal.                                                                                                   | FOBS01      |
-| RF28 | Deve ser possível realizar pesquisas.                                                                                                                                        | FOBS02      |
-| RF29 | Deve possuir um sistema de fidelidade.                                                                                                                                       | FOBS03      |
-| RF30 | Deve possuir um sistema de informações e recomendações.                                                                                                                      | FOBS04      |
-| RF31 | Deve ser possível filtrar as pesquisas.                                                                                                                                      | FOBS05      |
-| RF32 | Deve ser possível agendar hospedagem.                                                                                                                                        | FOBS06      |
-| RF33 | Deve ser possível agendar voos.                                                                                                                                              | FOBS07      |
-| RF34 | Deve ser possível alugar carros.                                                                                                                                             | FOBS08      |
-| RF35 | O aplicativo deve ter mapa interativo.                                                                                                                                       | FOBS10      |
-| RF36 | O aplicativo deve ter uma aba de favoritos.                                                                                                                                  | FOBS12      |
-| RF37 | O aplicativo deve possuir um histórico de reservas.                                                                                                                          | FOBS13      |
-| RF38 | O aplicativo deve possuir uma central de ajuda ao usuário.                                                                                                                   | FOBS14      |
-| RF39 | O aplicativo deve possuir uma área administrativa da conta.                                                                                                                  | FOBS15      |
-| RF40 | O aplicativo deve apresentar as informações legais sobre o uso para o usuário.                                                                                               | FOBS20      |
-| RF41 | O aplicativo deve permitir que o usuário saia da conta.                                                                                                                      | FOBS22      |
-| RF42 | o aplicativo deve permitir que os usuários pesquisem e reservem carros de aluguel com base em critérios específicos, como localização, datas e tipo de veículo.              | FST07       |
-| RF43 | o aplicativo deve permitir que os usuários avaliem acomodações após a conclusão da estadia, fornecendo uma classificação e feedback por escrito.                             | FST09       |
-| RF44 | Enviar email sobre o status da reserva                                                                                                                                       | FB08        |
-| RF45 | O sistema deve possuir uma lista de favoritos para aluguel de carro, hospedagem e voos                                                                                       | FB10        |
-| RF46 | O sistema deve possuir uma lista de desejos para aluguel de carro, hospedagem e voos                                                                                         | FB11        |
-| RF47 | O sistema deve possuir um mapa interativo                                                                                                                                    | FB14        |
-| RF48 | O sistema deve possuir uma carteira digital                                                                                                                                  | FB15        |
-| RF49 | O sistema deve possuir uma moeda própria                                                                                                                                     | FB18        |
-| RF50 | O usuário deve poder comprar moedas do sistema                                                                                                                               | FB19        |
-| RF51 | O sistema deve oferecer uma opção de conta premium                                                                                                                           | FB20        |
-| RF52 | O usuário deve poder selecionar o idioma do sistema                                                                                                                          | FB21        |
-| RF53 | O sistema deve notificar sobre ofertas                                                                                                                                       | FB29        |
-| RF54 | O sistema deve ter filtragem de pesquisa de hospedagens, alugueis de carros e voos                                                                                           | FB30        |
-| RF55 | O usuário deve poder adicionar itens ao aluguel do carro                                                                                                                     | FB32        |
-| RF56 | Deve ser possível criar uma conta com o google, facebook ou email pessoal.                                                                                                   | FOBS01      |
-| RF57 | Deve ser possível contratar serviços de táxi.                                                                                                                                | FOBS09      |
-| RF58 | Deve ser possível agendar visitas à atrações turísticas.                                                                                                                     | FOBS11      |
-| RF59 | O aplicativo deve possuir sistema de carteira virtual.                                                                                                                       | FOBS016     |
-| RF60 | O aplicativo deve possuir um sistema de ofertas.                                                                                                                             | FOBS018     |
-| RF61 | O aplicativo deve possuir um sistema de configurações do aplicativo.                                                                                                         | FOBS019     |
-| RF62 | O sistema deve exibir dicas sobre os locais e carros                                                                                                                         | FB16        |
-| RF63 | O sistema deve mostrar notícias relacionadas ao turismo                                                                                                                      | FB17        |
+| ID   | requisito                                                                                                                                                                    | priorização                               |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| RF01 | o aplicativo deve permitir que os usuários se registrem fornecendo informações básicas, como nome, sobrenome, endereço de e-mail e senha.                                    | [FST01](../../elicitacao/storytelling.md) |
+| RF02 | o aplicativo deve permitir que os usuários pesquisem acomodações com base em critérios específicos, como localização, datas de check-in e check-out, tipo de quarto e preço. | [FST02](../../elicitacao/storytelling.md) |
+| RF03 | o aplicativo deve permitir que os usuários reservem acomodações selecionadas, inserindo as informações de pagamento e confirmando a reserva.                                 | [FST03](../../elicitacao/storytelling.md) |
+| RF04 | o aplicativo deve permitir que os usuários cancelem suas reservas de acomodação, desde que sejam feitas dentro dos termos e condições estabelecidos pela empresa.            | [FST04](../../elicitacao/storytelling.md) |
+| RF05 | o aplicativo deve permitir que os usuários pesquisem voos com base em critérios específicos, como origem, destino, datas e número de passageiros.                            | [FST05](../../elicitacao/storytelling.md) |
+| RF06 | o aplicativo deve permitir que os usuários reservem voos selecionados, inserindo as informações de pagamento e confirmando a reserva.                                        | [FST06](../../elicitacao/storytelling.md) |
+| RF07 | o aplicativo deve permitir que os usuários gerenciem suas reservas existentes, incluindo a visualização de detalhes da reserva, alterações de datas e cancelamentos.         | [FST08](../../elicitacao/storytelling.md) |
+| RF08 | o aplicativo deve permitir que os usuários visualizem seu histórico de reservas anteriores, incluindo informações como datas, acomodações e voos reservados.                 | [FST10](../../elicitacao/storytelling.md) |
+| RF09 | O sistema deve permitir que o usuário possa cadastrar uma conta                                                                                                              | [FB01](../../elicitacao/brainstorm.md)    |
+| RF10 | O sistema deve possuir escolha do método de pagamento                                                                                                                        | [FB02](../../elicitacao/brainstorm.md)    |
+| RF11 | Possibilitar o cadastro de reserva(s) pelo usuário                                                                                                                           | [FB03](../../elicitacao/brainstorm.md)    |
+| RF12 | Permitir que um grupo de pessoas reservem um local                                                                                                                           | [FB07](../../elicitacao/brainstorm.md)    |
+| RF13 | Sincronizar as datas das reservas com o calendário do usuário                                                                                                                | [FB09](../../elicitacao/brainstorm.md)    |
+| RF14 | Permitir visualização de imagens do local pelo usuário                                                                                                                       | [FB12](../../elicitacao/brainstorm.md)    |
+| RF15 | Permitir visualização de imagens do carro pelo usuário                                                                                                                       | [FB13](../../elicitacao/brainstorm.md)    |
+| RF16 | O sistema deve ser capaz de localizar o usuário se permitido                                                                                                                 | [FB22](../../elicitacao/brainstorm.md)    |
+| RF17 | O sistema deve sugerir hospedagens de acordo com a localização do usuário                                                                                                    | [FB23](../../elicitacao/brainstorm.md)    |
+| RF18 | O sistema deve oferecer uma aba de perguntas                                                                                                                                 | [FB24](../../elicitacao/brainstorm.md)    |
+| RF19 | O sistema deve conter um bate-papo para contato com o locatário ou empresa em que foi feito a reserva                                                                        | [FB25](../../elicitacao/brainstorm.md)    |
+| RF20 | O sistema deve ter um sistema de pontuação ligada ao usuário                                                                                                                 | [FB26](../../elicitacao/brainstorm.md)    |
+| RF21 | O usuário deve poder denunciar contas                                                                                                                                        | [FB27](../../elicitacao/brainstorm.md)    |
+| RF22 | Deve existir uma pesquisa por comando de voz                                                                                                                                 | [FB31](../../elicitacao/brainstorm.md)    |
+| RF23 | Permitir o cancelamento de reserva pelo usuário                                                                                                                              | [FB04](../../elicitacao/brainstorm.md)    |
+| RF24 | Permitir que o usuário acesse o histórico de suas reservas                                                                                                                   | [FB05](../../elicitacao/brainstorm.md)    |
+| RF25 | Permitir a pesquisa de reserva pelo usuário                                                                                                                                  | [FB06](../../elicitacao/brainstorm.md)    |
+| RF26 | O usuário deve poder avaliar e comentar reservas                                                                                                                             | [FB28](../../elicitacao/brainstorm.md)    |
+| RF27 | Deve ser possível criar uma conta com o google, facebook ou email pessoal.                                                                                                   | [FOBS01](../../elicitacao/observacao.md)  |
+| RF28 | Deve ser possível realizar pesquisas.                                                                                                                                        | [FOBS02](../../elicitacao/observacao.md)  |
+| RF29 | Deve possuir um sistema de fidelidade.                                                                                                                                       | [FOBS03](../../elicitacao/observacao.md)  |
+| RF30 | Deve possuir um sistema de informações e recomendações.                                                                                                                      | [FOBS04](../../elicitacao/observacao.md)  |
+| RF31 | Deve ser possível filtrar as pesquisas.                                                                                                                                      | [FOBS05](../../elicitacao/observacao.md)  |
+| RF32 | Deve ser possível agendar hospedagem.                                                                                                                                        | [FOBS06](../../elicitacao/observacao.md)  |
+| RF33 | Deve ser possível agendar voos.                                                                                                                                              | [FOBS07](../../elicitacao/observacao.md)  |
+| RF34 | Deve ser possível alugar carros.                                                                                                                                             | [FOBS08](../../elicitacao/observacao.md)  |
+| RF35 | O aplicativo deve ter mapa interativo.                                                                                                                                       | [FOBS10](../../elicitacao/observacao.md)  |
+| RF36 | O aplicativo deve ter uma aba de favoritos.                                                                                                                                  | [FOBS12](../../elicitacao/observacao.md)  |
+| RF37 | O aplicativo deve possuir um histórico de reservas.                                                                                                                          | [FOBS13](../../elicitacao/observacao.md)  |
+| RF38 | O aplicativo deve possuir uma central de ajuda ao usuário.                                                                                                                   | [FOBS14](../../elicitacao/observacao.md)  |
+| RF39 | O aplicativo deve possuir uma área administrativa da conta.                                                                                                                  | [FOBS15](../../elicitacao/observacao.md)  |
+| RF40 | O aplicativo deve apresentar as informações legais sobre o uso para o usuário.                                                                                               | [FOBS20](../../elicitacao/observacao.md)  |
+| RF41 | O aplicativo deve permitir que o usuário saia da conta.                                                                                                                      | [FOBS22](../../elicitacao/observacao.md)  |
+| RF42 | o aplicativo deve permitir que os usuários pesquisem e reservem carros de aluguel com base em critérios específicos, como localização, datas e tipo de veículo.              | [FST07](../../elicitacao/storytelling.md) |
+| RF43 | o aplicativo deve permitir que os usuários avaliem acomodações após a conclusão da estadia, fornecendo uma classificação e feedback por escrito.                             | [FST09](../../elicitacao/storytelling.md) |
+| RF44 | Enviar email sobre o status da reserva                                                                                                                                       | [FB08](../../elicitacao/brainstorm.md)    |
+| RF45 | O sistema deve possuir uma lista de favoritos para aluguel de carro, hospedagem e voos                                                                                       | [FB10](../../elicitacao/brainstorm.md)    |
+| RF46 | O sistema deve possuir uma lista de desejos para aluguel de carro, hospedagem e voos                                                                                         | [FB11](../../elicitacao/brainstorm.md)    |
+| RF47 | O sistema deve possuir um mapa interativo                                                                                                                                    | [FB14](../../elicitacao/brainstorm.md)    |
+| RF48 | O sistema deve possuir uma carteira digital                                                                                                                                  | [FB15](../../elicitacao/brainstorm.md)    |
+| RF49 | O sistema deve possuir uma moeda própria                                                                                                                                     | [FB18](../../elicitacao/brainstorm.md)    |
+| RF50 | O usuário deve poder comprar moedas do sistema                                                                                                                               | [FB19](../../elicitacao/brainstorm.md)    |
+| RF51 | O sistema deve oferecer uma opção de conta premium                                                                                                                           | [FB20](../../elicitacao/brainstorm.md)    |
+| RF52 | O usuário deve poder selecionar o idioma do sistema                                                                                                                          | [FB21](../../elicitacao/brainstorm.md)    |
+| RF53 | O sistema deve notificar sobre ofertas                                                                                                                                       | [FB29](../../elicitacao/brainstorm.md)    |
+| RF54 | O sistema deve ter filtragem de pesquisa de hospedagens, alugueis de carros e voos                                                                                           | [FB30](../../elicitacao/brainstorm.md)    |
+| RF55 | O usuário deve poder adicionar itens ao aluguel do carro                                                                                                                     | [FB32](../../elicitacao/brainstorm.md)    |
+| RF56 | Deve ser possível criar uma conta com o google, facebook ou email pessoal.                                                                                                   | [FOBS01](../../elicitacao/observacao.md)  |
+| RF57 | Deve ser possível contratar serviços de táxi.                                                                                                                                | [FOBS09](../../elicitacao/observacao.md)  |
+| RF58 | Deve ser possível agendar visitas à atrações turísticas.                                                                                                                     | [FOBS11](../../elicitacao/observacao.md)  |
+| RF59 | O aplicativo deve possuir sistema de carteira virtual.                                                                                                                       | [FOBS016](../../elicitacao/observacao.md) |
+| RF60 | O aplicativo deve possuir um sistema de ofertas.                                                                                                                             | [FOBS018](../../elicitacao/observacao.md) |
+| RF61 | O aplicativo deve possuir um sistema de configurações do aplicativo.                                                                                                         | [FOBS019](../../elicitacao/observacao.md) |
+| RF62 | O sistema deve exibir dicas sobre os locais e carros                                                                                                                         | [FB16](../../elicitacao/brainstorm.md)    |
+| RF63 | O sistema deve mostrar notícias relacionadas ao turismo                                                                                                                      | [FB17](../../elicitacao/brainstorm.md)    |
 
 <div style="text-align: center">
 <p> Tabela 1: requisitos do backlog juntamente com sua rastreabilidade (Fonte: Autores, 2023). </p>
@@ -104,7 +104,7 @@ Os temas identificados no Booking foram:
 
 ### Épicos
 
-Um épico representa uma funcionalidade muito grande. Devido a sua natureza complexa, ele é dividido em tarefas menores e mais gerenciáveis para facilitar o acompanhamento da evolução e desenvolvimento da demanda.
+Um épico representa uma funcionalidade muito grande. Devido a sua natureza complexa, ele é dividido em tarefas menores e mais gerenciáveis para facilitar o acompanhamento da evolução e desenvolvimento da demanda, com isso, na tabela 2 se encontra todos os épicos e seus temas.
 
 Os épicos identificados no Booking foram:
 
@@ -122,37 +122,33 @@ Eu, como usuário, desejo comparar preços de voos semelhantes, para realizar a 
 
 #### EP04 - Alugar carro
 
-Eu, como usuário, desejo alugar um ou mais carros, para realizar minhas atividades.
+Eu, como usuário, desejo alugar um ou mais carros, para realizar minhas atividades e também desejo poder personalizar o carro alugada, com opcionais, como cadeira para crianças, adaptações para pessoas com necessidades especiais, para ter um veículo que me satisfaça..
 
-#### EP05 - Personalizar o carro
-
-Eu, como usuário, desejo poder personalizar o carro alugada, com opcionais, como cadeira para crianças, combustível, adaptações para pessoas com necessidades especiais, para ter um veículo que me satisfaça.
-
-#### EP06 - Informações sobre atrações turísticas
+#### EP05 - Informações sobre atrações turísticas
 
 Eu, como usuário, desejo visualizar informações detalhadas sobre as atrações turísticas de um determinado lugar, para decidir quais atividades participar.
 
-#### EP07 - Contratação de táxi
+#### EP06 - Contratação de táxi
 
 Eu, como usuário, desejo agendar táxis, para conseguir me locomover de forma rápida.
 
-#### EP08 - Gestão financeira
+#### EP07 - Gestão financeira
 
 Eu, como usuário, desejo gerir meus gastos no aplicativos, para ter controle sobre minhas finanças.
 
-#### EP09 - Gestão de reservas
+#### EP08 - Gestão de reservas
 
 Eu, como usuário, desejo gerir minhas reservas, para ter controle sobre minhas atividades.
 
-#### EP10 - Gestão de voos
+#### EP09 - Gestão de voos
 
 Eu, como usuário, desejo gerir meus voos, para ter controle sobre minhas atividades.
 
-#### EP11 - Gestão da conta
+#### EP10 - Gestão da conta
 
 Eu, como usuário, desejo gerir minha conta.
 
-#### EP12 - Questões legais
+#### EP11 - Questões legais
 
 Eu, como usuário, gostaria de ser informado sobre as questões legais do aplicativo, para ter conhecimento sobre meus direitos.
 
@@ -172,215 +168,219 @@ Eu, como usuário, gostaria de ser informado sobre as questões legais do aplica
   </tr>
   <tr>
     <td rowspan="12">Estadia</td>
-    <td rowspan="5">EP01</td>
+    <td rowspan="6">EP01</td>
     <td>Eu, como usuário, desejo realizar uma reserva de hospedagem definindo quantas pessoas e acomodações, para poder realizar a reserva de um quarto</td>
-    <td>US 34</td>
+    <td><a href="../historiasDeUsuario/#us-34-reserva-de-hospedagem">US 34</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Eu, como usuário, gostaria de poder ter um filtro de acomodações com base na localização, datas de check-in e check-out, tipo de quarto e preço para verificar acomodações para reservar</td>
-    <td>US 22</td>
+    <td><a href="../historiasDeUsuario/#us-22-pesquisa-de-acomadacoes-especifica">US 22</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Eu, eu como usuário, gostaria de poder denunciar contas de locadores e empresas, para tornar ou avisar ao sistema quando alguma politica de reserva, algum serviço oferecido pelo Booking foi violada por algum locador ou empresa.</td>
-    <td>US 32</td>
+    <td><a href="../historiasDeUsuario/#us-32-denuncia-de-contas">US 32</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Eu, como usuário, gostaria de pesquisa reserva feita ou em andamento por comando de voz, para tornar mais acessível o aplicativo</td>
-    <td>US 33</td>
+    <td><a href="../historiasDeUsuario/#us-33-fitro-por-comando-de-voz">US 33</a></td>
     <td>Should</td>
   </tr>
   <tr>
     <td>Eu, como usuário, desejo realizar a atividade de gerenciamento de companheiros de viagem para facilitar e deixa previamente salvo as definições de quantidade e informações extras de pessoas a qual estarei acompanhado, para facilitar reservas e ter um bom uso do aplicativo</td>
-    <td>US 35</td>
+    <td><a href="../historiasDeUsuario/#us-35-gerenciamento-de-companheiros-de-viagem">US 35</a></td>
     <td>Must</td>
   </tr>
   <tr>
-    <td rowspan="7">EP09</td>
+    <td>Eu, como usuário, gostaria de um bate-papo com o locador ou empresa responsável pela reserva do local, para tirar dúvidas sobre a hospedagem, local e dados sobre a região</td>
+    <td><a href="../historiasDeUsuario/#us-31-bate-papo-com-o-locador-ou-empresa">US 31</a></td>
+    <td>Must</td>
+  </tr>
+  <tr>
+    <td rowspan="6">EP09</td>
     <td>Como usuário do aplicativo, quero poder visualizar meu histórico de reservas para acompanhar minhas atividades passadas.</td>
-    <td>US 21</td>
+    <td><a href="../historiasDeUsuario/#us-21-historico-de-reservas">US 21</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Como usuário do aplicativo, quero poder avaliar acomodações após a conclusão da minha estadia, fornecendo uma classificação e feedback por escrito.</td>
-    <td>US 16</td>
+    <td><a href="../historiasDeUsuario/#us-16-avaliacao-de-acomodacoes-por-usuarios">US 16</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Como um usuário do sistema que realizou uma reserva de aluguel de carro, hospedagem ou voo, quero receber um email com informações sobre o status da minha reserva para que eu possa me manter atualizado e ter certeza de que tudo está correndo conforme o planejado.</td>
-    <td>US 15</td>
+    <td><a href="../historiasDeUsuario/#us-15-envio-de-email-sobre-o-status-da-reserva">US 15</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Eu, como usuário desejo cancelar minha reserva, para que possa receber meu dinheiro de volta.</td>
-    <td>US 24</td>
+    <td><a href="../historiasDeUsuario/#us-24-cancelamento-de-reserva">US 24</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Eu, como usuário gostaria de poder realizar as atividades de gerenciamento de reserva como  para a visualização de detalhes da reserva, alterações de datas e cancelamentos, para ser fácil de saber a existência das minhas reservas atuais.</td>
-    <td>US 27</td>
+    <td><a href="../historiasDeUsuario/#us-27-gerenciamento-de-reservas">US 27</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Eu, como usuário, gostaria que o sistema filtrasse o histórico de reservas por categoria, nome ou data da reserva, para localizar melhor a reserva feitas</td>
-    <td>US 28</td>
+    <td><a href="../historiasDeUsuario/#us-28-filtro-de-historico-de-reservas">US 28</a></td>
     <td>Must</td>
-  </tr>
-  <tr>
   </tr>
   <tr>
     <td rowspan="4">Voos</td>
     <td rowspan="2">EP02</td>
     <td>Eu, como usuário, gostaria de confirmar a reserva do voo inserindo informações de pagamento, para confirmar a reserva do voo.</td>
-    <td>US 26</td>
+    <td><a href="../historiasDeUsuario/#us-26-reserva-de-voo">US 26</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Eu, como usuário, gostaria de realizar a reserva do voo, para pode realizar compras no aplicativo.</td>
-    <td>US 23</td>
+    <td><a href="../historiasDeUsuario/#us-25-filtro-de-voo">US 25</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td rowspan="2">EP10</td>
     <td>Eu, como usuário desejo cancelar minha reserva, para que possa receber meu dinheiro de volta.</td>
-    <td>US 24</td>
+    <td><a href="../historiasDeUsuario/#us-24-cancelamento-de-reserva">US 24</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Eu, como usuário, desejo reserva voos com origem e origem, data de ida em que irá ocorrer o voo, e volta se possível, e número de passagem e classes do voo, para conseguir realizar uma viagem de bom humor.</td>
-    <td>US 25</td>
+    <td><a href="../historiasDeUsuario/#us-25-filtro-de-voo">US 25</a></td>
     <td>Must</td>
   </tr>
   <tr>
-    <td rowspan="2">Aluguel de carros</td>
-    <td>EP04</td>
+    <td rowspan="3">Aluguel de carros</td>
+    <td rowspan="3">EP04</td>
     <td>Eu, como usuário desejo realizar um aluguel de carro com opção de devolver o carro ao mesmo local, o local da retirada do carro, da inicio e fim do aluguel e idade do condutor</td>
-    <td>US 36</td>
+    <td><a href="../historiasDeUsuario/#us-36-aluguel-de-carros">US 36</a></td>
     <td>Must</td>
   </tr>
   <tr>
-    <td>EP05</td>
     <td>Como um usuário do aplicativo interessado em alugar um carro para minhas viagens, quero poder adicionar itens extras ao meu aluguel, como GPS, cadeirinha de bebê e seguro adicional, para que eu possa personalizar minha experiência de aluguel de acordo com minhas necessidades.</td>
-    <td>US 08</td>
+    <td><a href="../historiasDeUsuari/#us-08-adicionar-itens-ao-aluguel-do-carro">US 08</a></td>
     <td>Must</td>
+  </tr>
+  <tr>
+    <td>Como um usuário do sistema interessado em planejar minhas viagens, quero poder adicionar opções de aluguel de carro, hospedagem e voos à minha lista de desejos para que eu possa salvar minhas opções favoritas e acessá-las facilmente mais tarde.</td>
+    <td><a href="../historiasDeUsuario/#us-13-lista-de-desejos-para-aluguel-de-carro-hospedagem-e-voos">US 13</a></td>
+    <td>Could</td>
   </tr>
   <tr>
     <td>Atrações turísticas</td>
-    <td>EP06</td>
+    <td>EP05</td>
     <td>Como um usuário do aplicativo interessado em planejar minhas viagens, quero poder agendar visitas a atrações turísticas diretamente pelo aplicativo para que eu possa garantir minha entrada e evitar filas.</td>
-    <td>US 06</td>
+    <td><a href="../historiasDeUsuario/#us-06-agendamento-de-visitas-a-atracoes-turisticas">US 06</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td rowspan="3">Contratação de táxi</td>
-    <td rowspan="3">EP07</td>
+    <td rowspan="3">EP06</td>
     <td>Como um usuário do aplicativo interessado em me locomover durante minhas viagens, quero poder contratar serviços de táxi diretamente pelo aplicativo para que eu possa me deslocar de maneira rápida e conveniente.</td>
-    <td>US 07</td>
+    <td><a href="../historiasDeUsuario/#us-07-contratacao-de-servicos-de-taxi">US 07</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Como um usuário do aplicativo interessado em planejar minhas viagens, quero poder usar filtros de pesquisa ao procurar hospedagens, alugueis de carros e voos para que eu possa encontrar opções que atendam às minhas necessidades e preferências.</td>
-    <td>US 09</td>
+    <td><a href="../historiasDeUsuario/#us-09-filtragem-de-pesquisa-de-hospedagens-alugueis-de-carros-voos-atracoes-e-taxi">US 09</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Como um usuário do sistema interessado em explorar destinos turísticos, quero ter acesso a um mapa interativo para que eu possa visualizar informações sobre diferentes locais e planejar minhas viagens de maneira mais eficiente.</td>
-    <td>US 12</td>
+    <td><a href="../historiasDeUsuario/#us-12-mapa-interativo">US 12</a></td>
     <td>Must</td>
   </tr>
   <tr>
-    <td rowspan="14">Controle de contas</td>
-    <td rowspan="5">EP11</td>
+    <td rowspan="13">Controle de contas</td>
+    <td>EP11</td>
     <td>Como um usuário do aplicativo interessado em gerenciar meus gastos, quero ter acesso a um sistema de carteira virtual para que eu possa adicionar fundos e realizar pagamentos diretamente pelo aplicativo.</td>
-    <td>US 05</td>
+    <td><a href="../historiasDeUsuario/#us-05-carteira-virtual-no-aplicativo">US 05</a></td>
     <td>Must</td>
   </tr>
   <tr>
+    <td></td>
     <td>Eu como usuário gostaria de poder escolher a forma de pagamento, para ter mais opções para pagar as reservas feitas</td>
-    <td>US 29</td>
+    <td><a href="../historiasDeUsuario/#us-29-escolha-de-pagamento">US 29</a></td>
     <td>Must</td>
   </tr>
   <tr>
+    <td></td>
     <td>Como um usuário do aplicativo interessado em economizar dinheiro, quero ter acesso a um sistema de ofertas para que eu possa encontrar e aproveitar descontos e promoções em produtos e serviços relacionados ao turismo.</td>
-    <td>US 04</td>
+    <td><a href="../historiasDeUsuario/#us-04-sistema-de-ofertas">US 04</a></td>
     <td>Must</td>
   </tr>
   <tr>
+    <td></td>
     <td>Como um usuário do sistema interessado em realizar transações dentro do sistema, quero poder comprar moedas do sistema para que eu possa usá-las para adquirir produtos e serviços oferecidos pelo sistema.</td>
-    <td>US 11</td>
+    <td><a href="../historiasDeUsuario/#us-11-compra-de-moedas-do-sistema">US 11</a></td>
     <td>Could</td>
   </tr>
   <tr>
+    <td></td>
     <td>Como um usuário do aplicativo, quero ter acesso a um sistema de configurações para que eu possa personalizar minha experiência de uso do aplicativo de acordo com minhas preferências.</td>
-    <td>US 03</td>
+    <td><a href="../historiasDeUsuario/#us-03-sistema-de-configuracoes">US 03</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td></td>
     <td>Como um usuário do sistema interessado em ter acesso a recursos e benefícios exclusivos, quero poder assinar uma conta premium para que eu possa aproveitar ao máximo minha experiência de uso do sistema.</td>
-    <td>US 10</td>
+    <td><a href="../historiasDeUsuario/#us-10-conta-premium-no-sistema">US 10</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td></td>
-    <td>Como um usuário do sistema interessado em realizar transações dentro do sistema, quero poder comprar moedas do sistema para que eu possa usá-las para adquirir produtos e serviços oferecidos pelo sistema.</td>
-    <td>US 11</td>
-    <td>Should</td>
-  </tr>
-  <tr>
-    <td></td>
     <td>Como um usuário do sistema interessado em planejar minhas viagens, quero poder adicionar opções de aluguel de carro, hospedagem e voos à minha lista de favoritos para que eu possa salvar minhas opções preferidas e acessá-las facilmente mais tarde.</td>
-    <td>US 14</td>
+    <td><a href="../historiasDeUsuario/#us-14-lista-de-favoritos-para-aluguel-de-carro-hospedagem-e-voos">US 14</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td></td>
     <td>Como usuário do aplicativo, quero poder sair da minha conta a qualquer momento.</td>
-    <td>US 17</td>
+    <td><a href="../historiasDeUsuario/#us-17-sair-da-conta">US 17</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td></td>
     <td>Como usuário do aplicativo, quero poder acessar uma área administrativa da minha conta para gerenciar minhas informações e preferências.</td>
-    <td>US 19</td>
+    <td><a href="../historiasDeUsuario/#us-19-area-administrativa-da-conta">US 19</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td></td>
     <td>Como usuário do aplicativo, quero poder acessar uma central de ajuda para obter informações e suporte sobre o uso do aplicativo.</td>
-    <td>US 20</td>
+    <td><a href="../historiasDeUsuario/#us-20-central-de-ajuda-ao-usuario">US 20</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td></td>
     <td>Eu, como usuário, desejo deletar minha conta, para não deixar dados meus no aplicativo e por não ter mais uso para mim</td>
-    <td>US 37</td>
+    <td><a href="../historiasDeUsuario/#us-37-deletar-conta">US 37</a></td>
     <td>Must</td>
   </tr>
   <tr>
-    <td>EP12</td>
+    <td rowspan="2">EP12</td>
     <td>Como usuário do aplicativo, quero poder acessar as informações legais sobre o uso do aplicativo.</td>
-    <td>US 18</td>
+    <td><a href="../historiasDeUsuario/#us-18-apresentacao-de-informacoes-legais">US 18</a></td>
     <td>Must</td>
   </tr>
   <tr>
-    <td></td>
     <td>Eu, como usuário, gostaria de participar de um chat para realizar perguntas sobre dúvidas que possuo, para poder responder dpuvidas que eu tenha sobre o aplicativo, ou as politicas de reservas feitas</td>
-    <td>US 30</td>
+    <td><a href="../historiasDeUsuario/#us-30-perguntas-frequentes">US 30</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td rowspan="2">Recomendação</td>
     <td rowspan="2">EP03</td>
     <td>Como um usuário interessado em viagens e carros, quero ver dicas sobre locais e carros no sistema para que eu possa planejar minhas viagens e escolher o melhor carro para minhas necessidades.</td>
-    <td>US 02</td>
+    <td><a href="../historiasDeUsuario/#us-02-dicas-sobre-locais-e-carros">US 02</a></td>
     <td>Must</td>
   </tr>
   <tr>
     <td>Como um usuário interessado em turismo, quero ver notícias relacionadas ao turismo no sistema para que eu possa me manter atualizado sobre os últimos acontecimentos e tendências do setor.</td>
-    <td>US 01</td>
+    <td><a href="../historiasDeUsuario/#us-01-noticias-do-turismo">US 01</a>a</td>
     <td>Must</td>
   </tr>
 </tbody>
@@ -391,6 +391,12 @@ Eu, como usuário, gostaria de ser informado sobre as questões legais do aplica
 Tabela 2: Backlog do produto (Fonte: Autores, 2023).
 </p>
 </div>
+
+## Bibliografia
+
+Backlog - Lichess. Disponível em: <https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/>. Acesso em: 21 jun. 2023.
+
+‌Software Engineering Body of Knowledge (SWEBOK). Disponível em: <https://www.computer.org/education/bodies-of-knowledge/software-engineering>. Acesso em: 21 jun. 2023.
 
 ## Histórico de Versão
 
