@@ -13,6 +13,7 @@ Foi desenvolvido um modelo comum para criar as narrativas dos usuários, conform
 | **Título**                   | Cadastro de Usuário             |
 | **Descrição**               | _Eu, como ______, gostaria..._ |
 | **Critérios de Aceitação** | _Deve ser possivel..._         |
+| **Rastreabilidade** | _link da rastreabilidade_         |
 
 </center>
 
