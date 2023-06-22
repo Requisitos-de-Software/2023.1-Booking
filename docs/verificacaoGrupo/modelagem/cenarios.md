@@ -37,14 +37,13 @@ O presente documento apresentará a verificação do artefato [Cenários](../../
 | 10 |                             Os cenários foram escritos de forma clara e concisa?                             |     🟢     |
 | 11 |                                  O contexto dos cenários está bem definido?                                  |     🟡     |
 | 12 |                             O título deixa claro sobre o que se trata o cenário?                             |     🟡     |
-| 13 |                                 Os cenários e os léxicos estão conectados?                                 |     🟡     |
-| 14 |                      Os cenários foram construídos a partir de requisitos do sistema?                      |     🟢     |
-| 15 |                       Os campos objetivo descrevem como o objetivo deve ser alcançado?                       |     🟢     |
-| 16 |              Os campos contexto contam com pré-condições, o local e o tempo onde ele ocorre?              |     🟢     |
-| 17 |          Os campos ator(es) representam um indivíduo ou organização que tem um papel no cenário?          |     🟢     |
-| 18 |                Os campos recursos identificam os objetos que estão em contato com os atores?                |     🟢     |
-| 19 | Os campos episódios representam uma ação realizada por atores que utilizam recursos previamente definidos? |     🟢     |
-| 20 |                    Os campos exceção descrevem restrições relacionadas ao cenário?                    |     🟢     |
+| 13 |                      Os cenários foram construídos a partir de requisitos do sistema?                      |     🟢     |
+| 14 |                       Os campos objetivo descrevem como o objetivo deve ser alcançado?                       |     🟢     |
+| 15 |              Os campos contexto contam com pré-condições, o local e o tempo onde ele ocorre?              |     🟢     |
+| 16 |          Os campos ator(es) representam um indivíduo ou organização que tem um papel no cenário?          |     🟢     |
+| 17 |                Os campos recursos identificam os objetos que estão em contato com os atores?                |     🟢     |
+| 18 | Os campos episódios representam uma ação realizada por atores que utilizam recursos previamente definidos? |     🟢     |
+| 19 |                    Os campos exceção descrevem restrições relacionadas ao cenário?                    |     🟢     |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Chaydson e Samuel, 2023). </p>
@@ -57,7 +56,6 @@ O presente documento apresentará a verificação do artefato [Cenários](../../
 | IDC1          | O contexto dos cenários fornece algumas informações irrelevantes. Por exemplo, o cenário de configuração de perfil inclui o contexto de tempo nublado, sendo que segundo Barbosa e Silva[1], o contexto ou ambiente deve conter "detalhes da situação que motivam ou explicam os objetivos, ações e reações<br />dos atores do cenário". Coloque um contexto mais relevante. |
 | IDC2          | Em recursos, poderia ser adicionado o tempo disponível para o alcance do objetivo, como sugere a Tabela 8.3 de Barbosa e Silva[1].                                                                                                                                                                                                                                                         |
 | IDC3          | Deixe o título do cenário 6 mais claro e específico ou divida em outros cenários, "Configuração de Perfil" não consegue representar totalmente o objetivo proposto.                                                                                                                                                                                                                  |
-| IDC4          | Seria interessante conectar alguns termos usados nos cenários ao léxicos.                                                                                                                                                                                                                                                                                                                |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Chaydson e Samuel, 2023). </p>
@@ -92,10 +90,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Nos checklists realizados e que serão descritos, podemos observar que:
 
-- 16/20 exigências são atendidas;
-- 3/20 exigências estão incompletas;
-- 0/20 exigências estão erradas ou não foram realizadas.
-- 1/20 não se aplica.
+- 16/19 exigências são atendidas;
+- 3/19 exigências estão incompletas;
+- 0/19 exigências estão erradas ou não foram realizadas.
+- 1/19 não se aplica.
 
 ```vegalite
 {
@@ -104,8 +102,8 @@ Nos checklists realizados e que serão descritos, podemos observar que:
   "description": "A simple donut chart with embedded data.",
   "data": {
     "values": [
-      {"legenda": "Completo", "value": 9},
-      {"legenda": "Incompleto", "value": 2},
+      {"legenda": "Completo", "value": 16},
+      {"legenda": "Incompleto", "value": 3},
       {"legenda": "Errado ou não feito", "value": 0},
       {"legenda": "Não se aplica", "value": 1}
     ]
@@ -129,7 +127,7 @@ Nos checklists realizados e que serão descritos, podemos observar que:
 <p> Gráfico 1: Gráfico de aproveitamento (Fonte: Samuel, 2023). </p>
 </div>
 
-Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 80% correto.
+Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 84,21% correto.
 
 ## Correção
 
