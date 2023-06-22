@@ -14,7 +14,7 @@ Por meio da comprovação informal, que consiste em uma tarefa de leitura de des
 A equipe tentou contato com o Booking.com para realizar o contato com a equipe do Booking.com, a figura 1 apresenta um email, para se obter uma resposta de volta.
 
 <center>
-<img src="../../../images/imagemValidacao.png">
+<img src="../../images/imagemValidacao.png">
 </center>
 <div style="text-align: center">
 <p> Figura 1: Email para contatar o Booking.com para validar. (Fonte: Autores, 2023). </p>
