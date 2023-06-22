@@ -19,28 +19,28 @@ O objetivo básico das inspenções é verificar se o modelo de requisitos está
 
 <center>
 
-| Artefato                  | Avaliador(es)       |
-| ------------------------- | ------------------- |
-| Cronogramas               | Lucas               |
-| Lista de aplicativos      | Pedro               |
-| Aplicativo selecionado    | Pedro               |
-| Ferramentas               | Samuel              |
-| Rich Picture              | Chaydson e Henrique |
-| Perfil de usuário         | Lucas e Chaydson    |
-| Personas                  | Samuel              |
-| Brainstorm                | Henrique            |
+| Artefato                    | Avaliador(es)       |
+| --------------------------- | ------------------- |
+| Cronogramas                 | Lucas               |
+| Lista de aplicativos        | Pedro               |
+| Aplicativo selecionado      | Pedro               |
+| Ferramentas                 | Samuel e Henrique   |
+| Rich Picture                | Chaydson e Henrique |
+| Perfil de usuário          | Lucas e Chaydson    |
+| Personas                    | Samuel              |
+| Brainstorm                  | Henrique            |
 | Observação                | Lucas               |
-| Storytelling              | Gabriel e Chaydson  |
-| Three Level-Scale         | Pedro e Gabriel     |
-| In or Out                 | Lucas e Henrique    |
-| MoSCoW                    | Samuel e Pedro      |
-| Casos de uso              | Lucas               |
-| Cenários                  | Chaydson e Samuel   |
-| Léxico                    | Henrique e Chaydson |
+| Storytelling                | Gabriel e Chaydson  |
+| Three Level-Scale           | Pedro e Gabriel     |
+| In or Out                   | Lucas e Henrique    |
+| MoSCoW                      | Samuel e Pedro      |
+| Casos de uso                | Lucas               |
+| Cenários                   | Chaydson e Samuel   |
+| Léxico                     | Henrique e Chaydson |
 | Especificação suplementar | Gabriel e Pedro     |
 | Histórias de usuário      | Henrique e Samuel   |
-| Backlog                   | Pedro e Gabriel     |
-| NRF Framework             | Chaydson e Lucas    |
+| Backlog                     | Pedro e Gabriel     |
+| NRF Framework               | Chaydson e Lucas    |
 
 <div style="text-align: center">
 <p> Tabela 1: Tabela do cronograma de avaliação (Fonte: Lucas Frazão, 2023). </p>
@@ -55,7 +55,7 @@ Antes da verificação, precisamos inserir os metadados do artefato avaliado, co
 <center>
 
 | Versão avaliada | Autor             | Revisor             |
-| --------------- | ----------------- | ------------------- |
+| ---------------- | ----------------- | ------------------- |
 | versão x        | Autor do artefato | Revisor do artefato |
 
 <div style="text-align: center">
@@ -77,16 +77,16 @@ Os membros avaliarão os artefatos com base no livro: Barbosa, S. D. J.; Silva, 
 
 A seguir, na tabela 3, temos as perguntas que serão feitas em todos os artefatos, são as perguntas padrões.
 
-| ID  |                                 Questão                                  | Inspeção |
-| :-: | :----------------------------------------------------------------------: | :------: |
-|  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |
-|  2  |                  Possui links para os outros artefatos?                  |    🟡    |
-|  3  |                    Existe uma introdução no artefato?                    |    🔴    |
-|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |
-|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |
-|  7  |                         O artefato possui autor?                         |    🟢    |
-|  8  |                        O artefato possui revisor?                        |    🟢    |
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |     🟢     |
+| 2 |                  Possui links para os outros artefatos?                  |     🟡     |
+| 3 |                   Existe uma introdução no artefato?                   |     🔴     |
+| 4 |                Existe tabela de versionamento padronizado?                |     🟢     |
+| 5 |      Há referências bibliográficas ou referências no artefato?      |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
+| 7 |                         O artefato possui autor?                         |     🟢     |
+| 8 |                        O artefato possui revisor?                        |     🟢     |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões padroẽs (Fonte: NomeAutor, 2023). </p>
@@ -96,13 +96,13 @@ Após o preenchimento da tabela padrão, o avaliador deve fazer uma outra tabela
 
 <center>
 
-| ID  |       Questão        | Inspeção |
-| :-: | :------------------: | :------: |
-|  9  | Questão específica 1 |    🟢    |
-| 10  | Questão específica 2 |    🟡    |
-| 11  | Questão específica 3 |    🔴    |
-| 12  | Questão específica 3 |    🔴    |
-| ... |         ...          |   ...    |
+| ID |        Questão        | Inspeção |
+| :-: | :--------------------: | :--------: |
+|  9  | Questão específica 1 |     🟢     |
+| 10 | Questão específica 2 |     🟡     |
+| 11 | Questão específica 3 |     🔴     |
+| 12 | Questão específica 3 |     🔴     |
+| ... |          ...          |    ...    |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas, 2023). </p>
@@ -118,12 +118,12 @@ Por fim, o avaliador deve fazer uma série de planejamentos para melhorar o arte
 
 ### Tarefas
 
-| ID Correção | Tarefa        |
-| ----------- | ------------- |
-| IDC1        | Ajustar x     |
-| IDC2        | Incluir X     |
-| IDC3        | Remover x     |
-| IDC4        | Especificar x |
+| ID Correção | Tarefa         |
+| ------------- | -------------- |
+| IDC1          | Ajustar x      |
+| IDC2          | Incluir X      |
+| IDC3          | Remover x      |
+| IDC4          | Especificar x |
 
 <div style="text-align: center">
 <p> Tabela 5: Tabela do que precisa ser ajustado (Fonte: Lucas, 2023). </p>
@@ -143,10 +143,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 <center>
 
-| Acrônimo | Descrição                      |
-| -------- | ------------------------------ |
-| QTDE     | Quantidade Total de Exigências |
-| EC       | Exigências Completas           |
+| Acrônimo | Descrição                     |
+| --------- | ------------------------------- |
+| QTDE      | Quantidade Total de Exigências |
+| EC        | Exigências Completas           |
 
 <div style="text-align: center">
 <p> Tabela 6: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
@@ -206,8 +206,8 @@ A tabela 7, contém o cronograma para a correção dos problemas identficiados n
 <center>
 
 | Data início | Data fim |
-| ----------- | -------- |
-| 20/06       | 27/06    |
+| ------------ | -------- |
+| 20/06        | 27/06    |
 
 <div style="text-align: center">
 <p> Tabela 7: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
@@ -215,14 +215,14 @@ A tabela 7, contém o cronograma para a correção dos problemas identficiados n
 
 ### Ajustes
 
-Na tabela 8, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 5 
+Na tabela 8, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 5
 
 | ID Correção | Ajuste                       |
-| ----------- | ---------------------------- |
-| IDC1        | Foi ajustado x realizando... |
-| IDC2        | Foi incluido x em ...        |
-| IDC3        | Foi removido x ...           |
-| IDC4        | X foi especificaod melhor... |
+| ------------- | ---------------------------- |
+| IDC1          | Foi ajustado x realizando... |
+| IDC2          | Foi incluido x em ...        |
+| IDC3          | Foi removido x ...           |
+| IDC4          | X foi especificaod melhor... |
 
 <div style="text-align: center">
 <p> Tabela 8: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
@@ -238,6 +238,6 @@ Na tabela 8, se encontra os ajustes que o autor do artefato realizou para arruma
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       |       Autor(es)       | Revisor(es) |
-| :--------: | :----: | :------------------: | :-------------------: | :---------: |
-| 20/06/2023 |  1.0   | Criação do documento | Pedro, Lucas e Samuel |   Gabriel   |
+|    Data    | Versão |      Descrição      |       Autor(es)       | Revisor(es) |
+| :--------: | :-----: | :--------------------: | :-------------------: | :---------: |
+| 20/06/2023 |   1.0   | Criação do documento | Pedro, Lucas e Samuel |   Gabriel   |
