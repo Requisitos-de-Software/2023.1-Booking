@@ -24,10 +24,10 @@ O objetivo básico das inspenções é verificar se o modelo de requisitos está
 | Cronogramas                 | Lucas               |
 | Lista de aplicativos        | Pedro               |
 | Aplicativo selecionado      | Pedro               |
-| Ferramentas                 | Samuel e Henrique   |
+| Ferramentas                 | Samuel              |
 | Rich Picture                | Chaydson e Henrique |
 | Perfil de usuário          | Lucas e Chaydson    |
-| Personas                    | Samuel              |
+| Personas                    | Samuel e Henrique   |
 | Brainstorm                  | Henrique            |
 | Observação                | Lucas               |
 | Storytelling                | Gabriel e Chaydson  |
