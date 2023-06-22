@@ -134,18 +134,18 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
 
-| ID Correção | Ajuste |
-| ------------- | ------ |
-| IDC1          |        |
-| IDC2          |        |
-| IDC3          |        |
-| IDC4          |        |
-| IDC5          |        |
-| IDC6          |        |
-| IDC7          |        |
-| IDC8          |        |
-| IDC9          |        |
-| IDC10         |        |
+| ID Correção | Ajuste                   |
+| ------------- | ------------------------ |
+| IDC1          | Foi adicionado           |
+| IDC2          | Foi adicionado           |
+| IDC3          | Foi adicionado           |
+| IDC4          | Foi adicionado           |
+| IDC5          | Foi adicionado           |
+| IDC6          | -                        |
+| IDC7          | Foi adicionado           |
+| IDC8          | -                        |
+| IDC9          | Foi retirado repitido    |
+| IDC10         | Foi juntado épico 4 e 5 |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Lucas e Chaydson, 2023). </p>
@@ -165,8 +165,9 @@ MESQUITA SOARES, Renato. 1 Introdução. In: MESQUITA SOARES, Renato. Product Ba
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                             | Autor(es)       |
-| ------- | ---------- | --------------------------------------- | --------------- |
-| 1.0     | 21/06/2023 | Criação do documento de verificação | Gabriel e Pedro |
+| Versão | Data       | Descrição                             | Autor(es)        |
+| ------- | ---------- | --------------------------------------- | ---------------- |
+| 1.0     | 21/06/2023 | Criação do documento de verificação | Gabriel e Pedro  |
+| 1.1     | 21/06/2023 | Adicionando ajustes feitos              | Lucas e Chaydson |
 
 ‌
