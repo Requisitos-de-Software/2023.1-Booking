@@ -7,7 +7,7 @@ A validação é um processo que trata da validação quanto à consistência, p
 
 ## Metodologia
 
-Por meio da comprovação informal, que consiste em uma tarefa de leitura de descrições em linguagem natural e uso dos clientes para identificar problemas na expressão dos requisitos, ou seja, identificar erros, omissões e conflitos por parte de quem criou a documentação ou artefato. Na Figura 1, está contido a tentativa de contato com o 'Booking.com' para realizar dessa validação.
+Por meio da comprovação informal, que consiste em uma tarefa de leitura de descrições em linguagem natural e uso dos clientes para identificar problemas na expressão dos requisitos, ou seja, identificar erros, omissões e conflitos por parte de quem criou a documentação ou artefato. Na Figura 1, está contido a tentativa de contato com o 'Booking.com' para realizar dessa validação
 
 ## Resultados
 
