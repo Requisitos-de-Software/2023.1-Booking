@@ -48,9 +48,9 @@ Por meio dos requisitos elicitados na Tabela 1 a seguir, foi elaborado um protó
 
 As reuniões para validação com usuários estão contidas na Tabela 3. Na tabela 2 está contida uma pequena reunião para realização de um teste piloto.
 
-| Responsáveis      | Data          | Horário |
-| ------------------ | ------------- | -------- |
-| Gabriel e Henrique | 22/06 - 23/06 | 10:30    |
+| Responsáveis      | Data           | Horário |
+| ------------------ | -------------- | -------- |
+| Gabriel e Henrique | 22/06 - 23/06 | 10:30    |
 
 <div style="text-align: center">
 <p> Tabela 2: Cronograma Planejado Teste Piloto. (Fonte: Autores, 2023). </p>
@@ -68,15 +68,23 @@ As reuniões para validação com usuários estão contidas na Tabela 3. Na tabe
 
 ### Resultados
 
+No decorrer foram criados e feitos, o video Teste Piloto 1, no qual os membros do projeto, Gabriel e Henrique, além de testarem o projeto corrigiram erros que consideraram criticos ao projeto o cronograma executado do teste piloto se encontra na tabela 4, no qual apesar de o video conter 2 minutos, os reparos demoraram 3 horas.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nILqWveyTWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Teste Piloto 1: Teste Piloto do Protótipo. (Fonte: Autores, 2023). </p>
+</div>
+
 No Figma 1 está localizado o protótipo de alta fidelidade, contendo os requisitos que foram selecionados para serem avaliados.
 
-Protótipo em desenvolvimento.......
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FsbDRhmJewJH9SkgieA0DfK%2FHFP---Booking.com%3Ftype%3Ddesign%26node-id%3D19-12%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D19%253A12%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 
 <div style="text-align: center">
 <p> Figma 1: Protótipo de Alta Fidelidade. (Fonte: Autores, 2023). </p>
 </div>
 
-A seguir se encontram as Entrevistas 1,2 e 3, se encontra a validação do protótipo por parte de um usuário, a data em que ela ocorreu e seus termos, se encontram na Tabela 4.
+A seguir se encontram as Entrevistas 1,2 e 3, se encontra a validação do protótipo por parte de um usuário, a data em que ela ocorreu e seus termos, se encontram na Tabela 5.
 
 Video em desenvolvimento.......
 
@@ -98,6 +106,14 @@ Video em desenvolvimento.......
 
 ### Cronograma Executado
 
+| Responsáveis      | Data  | Horário      |
+| ------------------ | ----- | ------------- |
+| Gabriel e Henrique | 23/06 | 09:47 - 13:45 |
+
+<div style="text-align: center">
+<p> Tabela 4: Cronograma Executado do Teste Piloto. (Fonte: Autores, 2023). </p>
+</div>
+
 | Entrevistado | Entrevistador(es) | Data  | Horário | Termo |
 | ------------ | ----------------- | ----- | -------- | ----- |
 | Yan          | Chadyson          | 23/06 |          |       |
@@ -105,7 +121,7 @@ Video em desenvolvimento.......
 | Dária       | Lucas             | 24/06 |          |       |
 
 <div style="text-align: center">
-<p> Tabela 4: Cronograma Executado das Entrevistas. (Fonte: Autores, 2023). </p>
+<p> Tabela 5: Cronograma Executado das Entrevistas. (Fonte: Autores, 2023). </p>
 </div>
 
 ## Bibliografia
@@ -118,3 +134,4 @@ REQUISITOS – Aula 23. [S. l.]. Disponível em: https://aprender3.unb.br/plugin
 | ------- | ---------- | --------------------------------------- | ------------------------------------------ | --------------------- |
 | 1.0     | 20/06/2023 | Criação do documento de verificação | Chaydson, Gabriel e Henrique               | Lucas, Samuel e Pedro |
 | 1.1     | 22/06/2023 | Adicionando seção de protótipo       | Chaydson, Gabriel, Henrique, Lucas e Pedro | Samuel                |
+| 1.2     | 23/06/2023 | Adicionando teste piloto e Link Figma   | Gabriel e Henrique                         | Chaydson              |
