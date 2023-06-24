@@ -92,7 +92,11 @@ Video em desenvolvimento.......
 <p> Entrevista 1: Entrevista com Yan. (Fonte: Autores, 2023). </p>
 </div>
 
-Video em desenvolvimento.......
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5IOQYwvJJtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
 
 <div style="text-align: center">
 <p> Entrevista 2: Entrevista com Ana. (Fonte: Autores, 2023). </p>
@@ -114,11 +118,11 @@ Video em desenvolvimento.......
 <p> Tabela 4: Cronograma Executado do Teste Piloto. (Fonte: Autores, 2023). </p>
 </div>
 
-| Entrevistado | Entrevistador(es) | Data  | Horário | Termo |
-| ------------ | ----------------- | ----- | -------- | ----- |
-| Yan          | Chadyson          | 23/06 |          |       |
-| Ana          | Pedro             | 23/06 |          |       |
-| Dária       | Lucas             | 24/06 |          |       |
+| Entrevistado | Entrevistador(es) | Data  | Horário       | Termo |
+| ------------ | ----------------- | ----- | -------------- | ----- |
+| Yan          | Chadyson          | 23/06 |                |       |
+| Ana          | Pedro             | 23/06 | 20:51 - 21:12 |       |
+| Dária       | Lucas             | 24/06 |                |       |
 
 <div style="text-align: center">
 <p> Tabela 5: Cronograma Executado das Entrevistas. (Fonte: Autores, 2023). </p>
