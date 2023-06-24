@@ -118,11 +118,11 @@ Video em desenvolvimento.......
 <p> Tabela 4: Cronograma Executado do Teste Piloto. (Fonte: Autores, 2023). </p>
 </div>
 
-| Entrevistado | Entrevistador(es) | Data  | Horário       | Termo |
-| ------------ | ----------------- | ----- | -------------- | ----- |
-| Yan          | Chadyson          | 23/06 |                |       |
-| Ana          | Pedro             | 23/06 | 20:51 - 21:12 |       |
-| Dária       | Lucas             | 24/06 |                |       |
+| Entrevistado | Entrevistador(es) | Data  | Horário       | Termo                    |
+| ------------ | ----------------- | ----- | -------------- | ------------------------ |
+| Yan          | Chadyson          | 23/06 |                |                          |
+| Ana          | Pedro             | 23/06 | 20:51 - 21:12 | [Termo de consentimento](../assets/pdfs/Termo_de_Consentimento_para_Entrevista_do_Prototipo_de_Alta_Fidelidade_assinado_assinado.pdf) |
+| Dária       | Lucas             | 24/06 |                |                          |
 
 <div style="text-align: center">
 <p> Tabela 5: Cronograma Executado das Entrevistas. (Fonte: Autores, 2023). </p>
