@@ -28,15 +28,15 @@ Por meio dos requisitos elicitados na Tabela 1 a seguir, foi elaborado um protó
 
 <center>
 
-| REQ   | DESCRIÇÃO                                | RASTRO                                      |
-| ----- | ---------------------------------------- | ------------------------------------------- |
+| REQ   | DESCRIÇÃO                              | RASTRO                                   |
+| ----- | ---------------------------------------- | ---------------------------------------- |
 | REQ01 | Denunciar Conta                          | [RF21](../modelagem/modelo-agil/backlog.md) |
-| REQ02 | Adicionar Companheiro de Viagem          | [Cenário 08](../modelagem/cenarios.md)      |
-| REQ03 | Remover Companheiro de Viagem            | [Cenário 08](../modelagem/cenarios.md)      |
-| REQ04 | Editar um Companheiro de Viagem          | [Cenário 08](../modelagem/cenarios.md)      |
-| REQ05 | Atualizar dados do Companheiro de Viagem | [Cenário 08](../modelagem/cenarios.md)      |
-| REQ06 | Deletar Conta                            | [Cenário 07](../modelagem/cenarios.md)      |
-| REQ07 | Filtro de Idade                          | [Cenário 04](../modelagem/cenarios.md)      |
+| REQ02 | Adicionar Companheiro de Viagem          | [Cenário 08](../modelagem/cenarios.md)     |
+| REQ03 | Remover Companheiro de Viagem            | [Cenário 08](../modelagem/cenarios.md)     |
+| REQ04 | Editar um Companheiro de Viagem          | [Cenário 08](../modelagem/cenarios.md)     |
+| REQ05 | Atualizar dados do Companheiro de Viagem | [Cenário 08](../modelagem/cenarios.md)     |
+| REQ06 | Deletar Conta                            | [Cenário 07](../modelagem/cenarios.md)     |
+| REQ07 | Filtro de Idade                          | [Cenário 04](../modelagem/cenarios.md)     |
 
 </center>
 
@@ -48,19 +48,18 @@ Por meio dos requisitos elicitados na Tabela 1 a seguir, foi elaborado um protó
 
 As reuniões para validação com usuários estão contidas na Tabela 3. Na tabela 2 está contida uma pequena reunião para realização de um teste piloto.
 
-| Responsáveis       | Data          | Horário |
-| ------------------ | ------------- | ------- |
-| Gabriel e Henrique | 22/06 - 23/06 | 10:30   |
+| Responsáveis      | Data           | Horário |
+| ------------------ | -------------- | -------- |
+| Gabriel e Henrique | 22/06 - 23/06 | 10:30    |
 
 <div style="text-align: center">
 <p> Tabela 2: Cronograma Planejado Teste Piloto. (Fonte: Autores, 2023). </p>
 </div>
 
 | Entrevistado | Entrevistador(es) | Data  | Horário |
-| ------------ | ----------------- | ----- | ------- |
-| Yan          | Chadyson          | 23/06 | 19:30   |
-| Ana          | Pedro             | 23/06 | 19:30   |
-| Dária        | Lucas             | 24/06 | 16:30   |
+| ------------ | ----------------- | ----- | -------- |
+| Ana          | Pedro             | 23/06 | 19:30    |
+| Dária       | Lucas             | 24/06 | 16:30    |
 
 <div style="text-align: center">
 <p> Tabela 3: Cronograma Planejado Entrevistas. (Fonte: Autores, 2023). </p>
@@ -86,12 +85,6 @@ No Figma 1 está localizado o protótipo de alta fidelidade, contendo os requisi
 
 A seguir se encontram as Entrevistas 1,2 e 3, se encontra a validação do protótipo por parte de um usuário, a data em que ela ocorreu e seus termos, se encontram na Tabela 5.
 
-Video em desenvolvimento.......
-
-<div style="text-align: center">
-<p> Entrevista 1: Entrevista com Yan. (Fonte: Autores, 2023). </p>
-</div>
-
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5IOQYwvJJtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -99,7 +92,7 @@ Video em desenvolvimento.......
 </center>
 
 <div style="text-align: center">
-<p> Entrevista 2: Entrevista com Ana. (Fonte: Autores, 2023). </p>
+<p> Entrevista 1: Entrevista com Ana. (Fonte: Autores, 2023). </p>
 </div>
 
 <center>
@@ -109,12 +102,12 @@ Video em desenvolvimento.......
 </center>
 
 <div style="text-align: center">
-<p> Entrevista 3: Entrevista com Dária. (Fonte: Autores, 2023). </p>
+<p> Entrevista 2: Entrevista com Dária. (Fonte: Autores, 2023). </p>
 </div>
 
 ### Cronograma Executado
 
-| Responsáveis       | Data  | Horário       |
+| Responsáveis      | Data  | Horário      |
 | ------------------ | ----- | ------------- |
 | Gabriel e Henrique | 23/06 | 09:47 - 13:45 |
 
@@ -122,11 +115,10 @@ Video em desenvolvimento.......
 <p> Tabela 4: Cronograma Executado do Teste Piloto. (Fonte: Autores, 2023). </p>
 </div>
 
-| Entrevistado | Entrevistador(es) | Data  | Horário       | Termo                                                                                                                                 |
-| ------------ | ----------------- | ----- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Yan          | Chadyson          | 23/06 |               |                                                                                                                                       |
+| Entrevistado | Entrevistador(es) | Data  | Horário       | Termo                                                                                                                              |
+| ------------ | ----------------- | ----- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Ana          | Pedro             | 23/06 | 20:51 - 21:12 | [Termo de consentimento](../assets/pdfs/Termo_de_Consentimento_para_Entrevista_do_Prototipo_de_Alta_Fidelidade_assinado_assinado.pdf) |
-| Dária        | Lucas             | 25/06 | 14:50 - 15:10 | [Termo de consentimento](../assets/pdfs/termo_validacao_daria_lucas_assinado.pdf)                                                     |
+| Dária       | Lucas             | 25/06 | 14:50 - 15:10  | [Termo de consentimento](../assets/pdfs/termo_validacao_daria_lucas_assinado.pdf)                                                     |
 
 <div style="text-align: center">
 <p> Tabela 5: Cronograma Executado das Entrevistas. (Fonte: Autores, 2023). </p>
@@ -139,8 +131,8 @@ REQUISITOS – Aula 23. [S. l.]. Disponível em: https://aprender3.unb.br/plugin
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                             | Autor(es)                                  | Revisor(es)           |
-| ------ | ---------- | ------------------------------------- | ------------------------------------------ | --------------------- |
-| 1.0    | 20/06/2023 | Criação do documento de verificação   | Chaydson, Gabriel e Henrique               | Lucas, Samuel e Pedro |
-| 1.1    | 22/06/2023 | Adicionando seção de protótipo        | Chaydson, Gabriel, Henrique, Lucas e Pedro | Samuel                |
-| 1.2    | 23/06/2023 | Adicionando teste piloto e Link Figma | Gabriel e Henrique                         | Chaydson              |
-| 1.3    | 25/06/2023 | Adicionando entrevista com Dária      | Lucas                                      | Gabriel               |
+| ------- | ---------- | --------------------------------------- | ------------------------------------------ | --------------------- |
+| 1.0     | 20/06/2023 | Criação do documento de verificação | Chaydson, Gabriel e Henrique               | Lucas, Samuel e Pedro |
+| 1.1     | 22/06/2023 | Adicionando seção de protótipo       | Chaydson, Gabriel, Henrique, Lucas e Pedro | Samuel                |
+| 1.2     | 23/06/2023 | Adicionando teste piloto e Link Figma   | Gabriel e Henrique                         | Chaydson              |
+| 1.3     | 25/06/2023 | Adicionando entrevista com Dária       | Lucas                                      | Gabriel               |
