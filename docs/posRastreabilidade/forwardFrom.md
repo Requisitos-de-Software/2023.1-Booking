@@ -112,13 +112,13 @@ O aplicativo deve permitir que os usuários reservem voos selecionados, inserind
 
 O aplicativo deve permitir que os usuários gerenciem suas reservas existentes, incluindo a visualização de detalhes da reserva, alterações de datas e cancelamentos.
 
-| [RF03](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                              |
-| ---------------------------------------- | ---------------------------------------------------------------------------- |
-| Elos                                     | Relacionamentos                                                              |
-| Satisfação                             | Especificação suplementar 4<br />Especificação suplementar 2<br />NRF 3 |
-| Recurso                                  | Caso de uso 03<br />Lexico 15                                                |
-| Representação                          | Historia de Usuário 34<br />Épico 01<br />Cenário 03                      |
-| Agregação                              | FST08                                                                        |
+| [RF07](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                         |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Elos                                     | Relacionamentos                                                                                         |
+| Satisfação                             | Especificação suplementar USAB03<br />Especificação suplementar CONF04<br />NRF 3 Confiabilidade |
+| Recurso                                  | Caso de uso 03<br />Lexico 09                                                                           |
+| Representação                          | Historia de Usuário 34<br />Épico 01<br />Cenário 03                                                 |
+| Agregação                              | FST08                                                                                                   |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -350,7 +350,7 @@ O usuário deve poder avaliar e comentar reservas.
 
 ## RF22
 
-Deve ser possível alugar carros.
+Deve ser possível filtrar as pesquisas.
 
 | [RF03](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                              |
 | ---------------------------------------- | ---------------------------------------------------------------------------- |
