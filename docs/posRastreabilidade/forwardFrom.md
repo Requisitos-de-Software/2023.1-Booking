@@ -363,3 +363,131 @@ Deve ser possível filtrar as pesquisas.
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
+
+## RF23
+
+Deve ser possível alugar carros.
+
+| [RF23](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                        |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                     | Relacionamentos                                                                                                                                                        |
+| Satisfação                             | [NRF Usabilidade](../../modelagem/modelo-agil/nfrFramework/#nfr03-usabilidade)                                                                                            |
+| Recurso                                  | [Caso de Uso 05](../../modelagem/casosDeUso/#uc05-alugar-carros)<br />[Cenário 01](../../modelagem/cenarios/#cenario-01-aluguel-de-carros)                                  |
+| Representação                          | [História de Usuário 36](../../modelagem/modelo-agil/historiasDeUsuario/#us-36-aluguel-de-carros)<br />[Épico 04](../../modelagem/modelo-agil/backlog/#ep04-alugar-carro) |
+| Agregação                              | [FOBS08](../../elicitacao/observacao/)                                                                                                                                    |
+
+<div style="text-align: center">
+<p> Tabela 23: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+</div>
+
+## RF24
+
+O aplicativo deve ter mapa interativo.
+
+| [RF24](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Elos                                     | Relacionamentos                                                                                |
+| Satisfação                             | [NRF Usabilidade](../../modelagem/modelo-agil/nfrFramework/#nfr03-usabilidade)                    |
+| Recurso                                  | [Léxico 12](../modelagem/lexicos.md#l12-mapa)                                                    |
+| Representação                          | [História de Usuário 12](../../modelagem/modelo-agil/historiasDeUsuario/#us-12-mapa-interativo) |
+| Agregação                              | [FOBS10](../../elicitacao/observacao/) e [FOBS14](../../elicitacao/observacao/)                    |
+
+<div style="text-align: center">
+<p> Tabela 24: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+</div>
+
+## RF25
+
+O aplicativo deve ter uma aba de favoritos.
+
+| [RF25](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                      |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                     | Relacionamentos                                                                                                                                                      |
+| Satisfação                             | [NRF Usabilidade](../../modelagem/modelo-agil/nfrFramework/#nfr03-usabilidade) <br />[Especificação suplementar 6 ](../../modelagem/especificacaoSuplementar/#6-design) |
+| Recurso                                  | [Léxico 03](../modelagem/lexicos.md#l03-favoritos)                                                                                                                     |
+| Representação                          | [História de Usuário 14](../../modelagem/modelo-agil/historiasDeUsuario/#us-14-lista-de-favoritos-para-aluguel-de-carro-hospedagem-e-voos)                            |
+| Agregação                              | [FOBS12](../../elicitacao/observacao/) e [FB10](../../elicitacao/brainstorm/)                                                                                             |
+
+<div style="text-align: center">
+<p> Tabela 25: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+</div>
+
+## RF26
+
+O aplicativo deve possuir uma central de ajuda ao usuário.
+
+| [RF26](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                       |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                     | Relacionamentos                                                                                                                                                                       |
+| Satisfação                             | [NRF Usabilidade](../../modelagem/modelo-agil/nfrFramework/#nfr03-usabilidade) <br />[Especificação suplementar 8 ](../../modelagem/especificacaoSuplementar/#8-requisitos-de-interface) |
+| Recurso                                  | [Léxico 13](../modelagem/lexicos.md#l13-ajuda)                                                                                                                                          |
+| Representação                          | [História de Usuário 20](../../modelagem/modelo-agil/historiasDeUsuario/#us-20-central-de-ajuda-ao-usuario)                                                                            |
+| Agregação                              | [FOBS14](../../elicitacao/observacao/)                                                                                                                                                   |
+
+<div style="text-align: center">
+<p> Tabela 26: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+</div>
+
+## RF27
+
+O aplicativo deve possuir uma área administrativa da conta.
+
+| [RF27](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                                                      |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                     | Relacionamentos                                                                                                                                                                                                                                                      |
+| Satisfação                             | [NFR Confiabilidade](../../modelagem/modelo-agil/nfrFramework/#nfr01-confiabilidade)                                                                                                                                                                                    |
+| Recurso                                  | [Léxico 01](../modelagem/lexicos.md#l01-acessar)                                                                                                                                                                                                                       |
+| Representação                          | [História de Usuário 20](../../modelagem/modelo-agil/historiasDeUsuario/#us-20-central-de-ajuda-ao-usuario) <br /> [Cenário 06](../../modelagem/cenarios/#cenario-06-configuracao-de-perfil) <br /> [Épico 10](../../modelagem/modelo-agil/backlog/#ep10-gestao-da-conta) |
+| Agregação                              | [FOBS15](../../elicitacao/observacao/)                                                                                                                                                                                                                                  |
+
+<div style="text-align: center">
+<p> Tabela 27: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+</div>
+
+## RF28
+
+O aplicativo deve apresentar as informações legais sobre o uso para o usuário.
+
+| [RF28](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                                                            |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                     | Relacionamentos                                                                                                                                                                                                                                                            |
+| Satisfação                             | [NFR Confiabilidade](../../modelagem/modelo-agil/nfrFramework/#nfr01-confiabilidade)                                                                                                                                                                                          |
+| Recurso                                  | [Léxico 03](../modelagem/lexicos.md#l03-favoritos)                                                                                                                                                                                                                           |
+| Representação                          | [História de Usuário 18](../../modelagem/modelo-agil/historiasDeUsuario/#us-18-apresentacao-de-informacoes-legais)<br /> [Cenário 06](../../modelagem/cenarios/#cenario-06-configuracao-de-perfil) <br /> [Épico 11](../../modelagem/modelo-agil/backlog/#ep11-questoes-legais) |
+| Agregação                              | [FOBS20](../../elicitacao/observacao/)                                                                                                                                                                                                                                        |
+
+<div style="text-align: center">
+<p> Tabela 28: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+</div>
+
+## RF29
+
+O aplicativo deve permitir que o usuário saia da conta.
+
+| [RF29](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                                                           |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                     | Relacionamentos                                                                                                                                                                                                                                                           |
+| Satisfação                             | [NFR Confiabilidade](../../modelagem/modelo-agil/nfrFramework/#nfr01-confiabilidade)                                                                                                                                                                                         |
+| Recurso                                  | [Léxico 03](../modelagem/lexicos.md#l03-favoritos)                                                                                                                                                                                                                          |
+| Representação                          | [História de Usuário 17](../../modelagem/modelo-agil/historiasDeUsuario/#us-18-apresentacao-de-informacoes-legais)<br /> [Cenário 06](../../modelagem/cenarios/#cenario-06-configuracao-de-perfil) <br />[Épico 10](../../modelagem/modelo-agil/backlog/#ep10-gestao-da-conta) |
+| Agregação                              | [FOBS22](../../elicitacao/observacao/)                                                                                                                                                                                                                                       |
+
+<div style="text-align: center">
+<p> Tabela 29: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+</div>
+
+## RF30
+
+Enviar email sobre o status da reserva.
+
+| [RF30](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                         |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Elos                                     | Relacionamentos                                                                                                         |
+| Satisfação                             | [Especificação suplementar 1](../../modelagem/especificacaoSuplementar/#1-funcionalidades)                               |
+| Recurso                                  | [Léxico 16](../modelagem/lexicos.md#l16-status)                                                                           |
+| Representação                          | [História de Usuário 15](../../modelagem/modelo-agil/historiasDeUsuario/#us-15-envio-de-email-sobre-o-status-da-reserva) |
+| Agregação                              | [FB08](../../elicitacao/brainstorm/)                                                                                       |
+
+<div style="text-align: center">
+<p> Tabela 30: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+</div>
