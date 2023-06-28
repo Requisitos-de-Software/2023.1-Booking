@@ -100,7 +100,7 @@ O aplicativo deve permitir que os usuários reservem voos selecionados, inserind
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | Elos                                     | Relacionamentos                                                                                  |
 | Satisfação                             | Especificação suplementar USAB06<br />Especificação suplementar PERF02<br />NRF Usabilidade |
-| Recurso                                  | Lexico 15                                                                                        |
+| Recurso                                  | Lexico 15<br />Caso de uso 06                                                                    |
 | Representação                          | Historia de Usuário 26<br />Épico 02<br />Cénario 02                                          |
 | Agregação                              | FST06 e FOBS07                                                                                   |
 
@@ -116,8 +116,8 @@ O aplicativo deve permitir que os usuários gerenciem suas reservas existentes, 
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | Elos                                     | Relacionamentos                                                                                         |
 | Satisfação                             | Especificação suplementar USAB03<br />Especificação suplementar CONF04<br />NRF 3 Confiabilidade |
-| Recurso                                  | Caso de uso 03<br />Lexico 09                                                                           |
-| Representação                          | Historia de Usuário 34<br />Épico 01<br />Cenário 03                                                 |
+| Recurso                                  | Lexico 09                                                                                               |
+| Representação                          | Historia de Usuário 27<br />Épico 01                                                                  |
 | Agregação                              | FST08                                                                                                   |
 
 <div style="text-align: center">
@@ -128,13 +128,13 @@ O aplicativo deve permitir que os usuários gerenciem suas reservas existentes, 
 
 O aplicativo deve permitir que os usuários visualizem seu histórico de reservas anteriores, incluindo informações como datas, acomodações e voos reservados.
 
-| [RF03](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                              |
-| ---------------------------------------- | ---------------------------------------------------------------------------- |
-| Elos                                     | Relacionamentos                                                              |
-| Satisfação                             | Especificação suplementar 4<br />Especificação suplementar 2<br />NRF 3 |
-| Recurso                                  | Caso de uso 03<br />Lexico 15                                                |
-| Representação                          | Historia de Usuário 34<br />Épico 01<br />Cenário 03                      |
-| Agregação                              | FST10, FB05 , FB06 e FOBS13                                                  |
+| [RF08](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                         |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Elos                                     | Relacionamentos                                                                                         |
+| Satisfação                             | Especificação suplementar USAB03<br />Especificação suplementar CONF04<br />NRF 3 Confiabilidade |
+| Recurso                                  | Lexico 09                                                                                               |
+| Representação                          | Historia de Usuário 27<br />Épico 01                                                                  |
+| Agregação                              | FST10, FB05 , FB06 e FOBS13                                                                             |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -144,12 +144,12 @@ O aplicativo deve permitir que os usuários visualizem seu histórico de reserva
 
 O sistema deve possuir escolha do método de pagamento
 
-| [RF03](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                              |
+| [RF09](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                              |
 | ---------------------------------------- | ---------------------------------------------------------------------------- |
 | Elos                                     | Relacionamentos                                                              |
 | Satisfação                             | Especificação suplementar 4<br />Especificação suplementar 2<br />NRF 3 |
-| Recurso                                  | Caso de uso 03<br />Lexico 15                                                |
-| Representação                          | Historia de Usuário 34<br />Épico 01<br />Cenário 03                      |
+| Recurso                                  | Caso de uso 04<br />Lexico 11                                                |
+| Representação                          | Historia de Usuário 29<br />Épico 07                                       |
 | Agregação                              | FB02                                                                         |
 
 <div style="text-align: center">
@@ -160,13 +160,13 @@ O sistema deve possuir escolha do método de pagamento
 
 Permitir que um grupo de pessoas reservem um local.
 
-| [RF03](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                              |
-| ---------------------------------------- | ---------------------------------------------------------------------------- |
-| Elos                                     | Relacionamentos                                                              |
-| Satisfação                             | Especificação suplementar 4<br />Especificação suplementar 2<br />NRF 3 |
-| Recurso                                  | Caso de uso 03<br />Lexico 15                                                |
-| Representação                          | Historia de Usuário 34<br />Épico 01<br />Cenário 03                      |
-| Agregação                              | FB07                                                                         |
+| [RF10](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                   |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Elos                                     | Relacionamentos                                                                                   |
+| Satisfação                             | Especificação suplementar USAB01<br />Especificação suplementar SUPT01<br />NRF Usabilidade |
+| Recurso                                  | Caso de uso 03<br />Lexico 15                                                                     |
+| Representação                          | Historia de Usuário 34<br />Épico 01<br />Cenário 03                                           |
+| Agregação                              | FB07                                                                                              |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
