@@ -259,6 +259,96 @@ A seguir é apresentado todos os elos funcionais
 
 * Representação: [FB26](../elicitacao/brainstorm.md) representa [FOBS03](../elicitacao/observacao.md)
 
+### EF08
+
+**Categoria:** Desenvolvimento
+
+**Elementos Rastreáveis:**
+
+* RF21
+
+  * Brainstorm: [FB28](../elicitacao/brainstorm.md)
+  * Storytelling: [FST09](../elicitacao/storytelling.md)
+
+**Elos**:
+
+* Agregação: [FST09](../elicitacao/storytelling.md) agrega [FB28](../elicitacao/brainstorm.md)
+
+### EF09
+
+**Categoria:** Desenvolvimento
+
+**Elementos Rastreáveis:**
+
+* RF22
+
+  * Observação: [FOBS05](../elicitacao/observacao.md)
+  * Brainstrom: [FB30](../elicitacao/brainstorm.md)
+
+**Elos**:
+
+* Agregação: [FB30](../elicitacao/brainstorm.md) agrega [FOBS05](../elicitacao/observacao.md)
+
+### EF10
+
+**Categoria:** Desenvolvimento
+
+**Elementos Rastreáveis:**
+
+* RF24
+
+  * Observação: [FOBS10](../elicitacao/observacao.md)
+  * Brainstorm: [FB14](../elicitacao/brainstorm.md)
+
+**Elos**:
+
+* Representação: [FOBS10](../elicitacao/observacao.md) representa [FB14](../elicitacao/brainstorm.md)
+
+### EF11
+
+**Categoria:** Desenvolvimento
+
+**Elementos Rastreáveis:**
+
+* RF25
+
+  * Observação: [FOBS12](../elicitacao/observacao.md)
+  * Brainstorm: [FB10](../elicitacao/brainstorm.md)
+
+**Elos**:
+
+* Representação: [FB10](../elicitacao/brainstorm.md) representa [FOBS12](../elicitacao/observacao.md)
+
+### EF12
+
+**Categoria:** Desenvolvimento
+
+**Elementos Rastreáveis:**
+
+* RF33
+
+  * Observação: [FOBS16](../elicitacao/observacao.md)
+  * Brainstorm: [FB15](../elicitacao/brainstorm.md)
+
+**Elos**:
+
+* Representação: [FOBS16](../elicitacao/observacao.md) representa [FB15](../elicitacao/brainstorm.md)
+
+### EF13
+
+**Categoria:** Desenvolvimento
+
+**Elementos Rastreáveis:**
+
+* RF38
+
+  * Observação: [FOBS18](../elicitacao/observacao.md)
+  * Brainstorm: [FB29](../elicitacao/brainstorm.md)
+
+**Elos**:
+
+* Agregação: [FB29](../elicitacao/brainstorm.md) agrega [FOBS18](../elicitacao/observacao.md)
+
 ## Elos Não Funcionais
 
 A seguir é apresentado os elos não funcionais.
@@ -307,9 +397,57 @@ A seguir é apresentado os elos não funcionais.
 
 **Elos**:
 
-* Agregação: [NFST04](../elicitacao/storytelling.md) agrega [NFOBS03](../elicitacao/observacao.md)
-* Agregação: [NFST04](../elicitacao/storytelling.md) agrega [NFB01](../elicitacao/brainstorm.md)
-* Representação: [NFB01](../elicitacao/brainstorm.md) agrega [NFOBS03](../elicitacao/observacao.md)
+* Agregação: [NFOBS03](../elicitacao/observacao.md) agrega [NFST04](../elicitacao/storytelling.md)
+* Agregação: [NFST04](../elicitacao/storytelling.md) agrega [NFST04](../elicitacao/storytelling.md)
+* Representação: [NFB01](../elicitacao/brainstorm.md) representa [NFOBS03](../elicitacao/observacao.md)
+
+### ENF04
+
+**Categoria:** Desenvolvimento
+
+**Elementos Rastreáveis:**
+
+* RNF06
+
+  * Storytelling: [NFST06](../elicitacao/storytelling.md)
+  * Brainstorm: [NFB05](../elicitacao/brainstorm.md)
+  * Observação: [NFOBS02](../elicitacao/observacao.md)
+
+**Elos**:
+
+* Agregação: [NFST06](../elicitacao/storytelling.md) agrega [NFOBS02](../elicitacao/observacao.md)
+* Agregação: [NFST06](../elicitacao/storytelling.md) agrega [NFB05](../elicitacao/brainstorm.md)
+* Representação: [NFB05](../elicitacao/brainstorm.md) representa [NFOBS02](../elicitacao/observacao.md)
+
+### ENF05
+
+**Categoria:** Desenvolvimento
+
+**Elementos Rastreáveis:**
+
+* RNF08
+
+  * Brainstorm: [NFB04](../elicitacao/brainstorm.md)
+  * Observação: [NFOBS04](../elicitacao/observacao.md)
+
+**Elos**:
+
+* Agregação: [NFB04](../elicitacao/brainstorm.md) agrega [NFOBS04](../elicitacao/observacao.md)
+
+### ENF06
+
+**Categoria:** Desenvolvimento
+
+**Elementos Rastreáveis:**
+
+* RNF09
+
+  * Brainstorm: [NFB06](../elicitacao/brainstorm.md)
+  * Observação: [NFOBS05](../elicitacao/observacao.md)
+
+**Elos**:
+
+* Agregação: [NFOBS05](../elicitacao/observacao.md) agrega [NFB06](../elicitacao/brainstorm.md)
 
 ## Bibliografia
 
