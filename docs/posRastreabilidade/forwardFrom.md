@@ -700,7 +700,15 @@ O sistema deve mostrar notícias relacionadas ao turismo.
 <p> Tabela 43: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## Referência Bibliográfica
+## Bibliografia
+
+SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 44 slides. color. Disponível no [link](https://aprender3.unb.br/pluginfile.php/1668237/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 27 jun. 2023.
+
+SAYÃO Miriam, LEITE Julio. Rastreabilidade de Requisitos. 2005, PUC-RJ.
+
+Backward-from - Grasshopper. Github.io. Disponível em: [https://requisitos-de-software.github.io/2022.2-Grasshopper/pos-rastreabilidade/backward-from/](https://requisitos-de-software.github.io/2022.2-Grasshopper/pos-rastreabilidade/backward-from/). Acesso em: 28 jun. 2023.
+
+## Histórico de Versão
 
 | Versão | Data       | Descrição          | Autor(es) | Revisor(es) |
 | ------- | ---------- | -------------------- | --------- | ----------- |
