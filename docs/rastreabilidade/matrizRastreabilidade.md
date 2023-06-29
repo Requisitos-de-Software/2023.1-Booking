@@ -24,20 +24,20 @@ A Tabela 1 contém que contém a legenda para os acronônimos presentes na Tabel
 | -------- | ---------------------------------------------- | --------------------------------------------------------------------- |
 | RF       | Requisitos Funcionais                          | ---                                                                   |
 | RNF      | Requisito Não-Funcionais                      | ---                                                                   |
-| FST      | Requisito elicitado funcional do Storytelling | [Storytelling](../../docs/elicitacao/storytelling.md)                    |
-| NFST     | Requisito não funcional do Storytelling       | [Storytelling](../../docs/elicitacao/storytelling.md)                    |
-| FOBS     | Requisito funcional  da observação          | [Observação](../../docs/elicitacao/observacao.md)                      |
-| NFOBS    | Requisito não funcional da observação       | [Observação](../../docs/elicitacao/observacao.md)                      |
-| FB       | Requisito funcional do brainstorm              | [Brainstorm](../../docs/elicitacao/brainstorm.md)                        |
-| NFB      | Requisito não funcional do brainstorm         | [Brainstorm](../../docs/elicitacao/brainstorm.md)                        |
+| FST      | Requisito elicitado funcional do Storytelling | [Storytelling](../elicitacao/storytelling.md)                    |
+| NFST     | Requisito não funcional do Storytelling       | [Storytelling](../elicitacao/storytelling.md)                    |
+| FOBS     | Requisito funcional  da observação          | [Observação](../elicitacao/observacao.md)                      |
+| NFOBS    | Requisito não funcional da observação       | [Observação](../elicitacao/observacao.md)                      |
+| FB       | Requisito funcional do brainstorm              | [Brainstorm](../elicitacao/brainstorm.md)                        |
+| NFB      | Requisito não funcional do brainstorm         | [Brainstorm](../elicitacao/brainstorm.md)                        |
 | CONF     | Especificação Suplementar de Confiabilidade  | [Especificação Suplementar](../modelagem/especificacaoSuplementar.md)  |
 | USAB     | Especificação Suplementar de Usabilidade     | [Especificação Suplementar](../modelagem/especificacaoSuplementar.md)  |
 | PERF     | Especificação Suplementar de Performance     | [Especificação Suplementar](../modelagem/especificacaoSuplementar.md)  |
 | SUPT     | Especificação Suplementar de Suportabilidade | [Especificação Suplementar](../modelagem/especificacaoSuplementar.md)  |
 | IMPL     | Especificação Suplementar de Implementação | [Especificação Suplementar](../modelagem/especificacaoSuplementar.md)  |
 | INTF     | Especificação Suplementar de Interface       | [Especificação Suplementar](../modelagem/especificacaoSuplementar.md)  |
-| CSO      | Caso de Uso                                    | [Casos de Usos](../../docs/modelagem/casosDeUso.md)                      |
-| C        | Cenário                                       | [Cenários](../../docs/modelagem/cenarios.md)                            |
+| CSO      | Caso de Uso                                    | [Casos de Usos](../modelagem/casosDeUso.md)                      |
+| C        | Cenário                                       | [Cenários](../modelagem/cenarios.md)                            |
 | US       | História de Usuário                          | [Histórias de Usuário](../modelagem/modelo-agil/historiasDeUsuario.md) |
 | NFR      | Non-Functional-Requirements Framework         | [NFR Framework](../modelagem/modelo-agil/nfrFramework.md)                |
 | RC-FInal | Rich Picure Versão Final                      | [Rich Picture](../prePlanejamento/richPicture.md)                        |
