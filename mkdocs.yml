@@ -145,9 +145,9 @@ nav:
           - Backlog: verificacao3/agil/backlog.md
           - Histórias de Usuário: verificacao3/agil/historiasDeUsuario.md
           - NFR Framework: verificacao3/agil/nfrFramework.md
-         - Pós-rastreabilidade:
-            - Forward From: rastreabilidade/forwardFrom.md
-            - Backward-from: rastreabilidade/backward.md
+      - Pós-rastreabilidade:
+        - Forward From: rastreabilidade/forwardFrom.md
+        - Backward-from: rastreabilidade/backward.md
 
         
 
