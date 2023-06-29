@@ -504,6 +504,22 @@ O aplicativo deve permitir que o usuário saia da conta.
 
 ## RF30
 
+O aplicativo deve permitir que os usuários pesquisem carros de aluguel com base em critérios específicos, como localização, datas e tipo de veículo.
+
+| [RF23](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                                    |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                                    |
+| Satisfação                                  | [NRF Usabilidade](../../modelagem/modelo-agil/nfrFramework/#nfr03-usabilidade)<br />[Especificação suplementar USAB04](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar PERF01](../modelagem/especificacaoSuplementar.md) |
+| Recurso                                     | [Caso de Uso 02](../../modelagem/casosDeUso/#uc05-alugar-carros)<br />[Léxico 09](../modelagem/lexicos.md)                                                                                                                                         |
+| Representação                               | [História de Usuário 09](../modelagem/modelo-agil/historiasDeUsuario.md)<br /> ![RF30](../images/forward-from/30.jpeg){: style="height:600px;display: block; margin: auto;"}                                                                       |
+| Agregação                                   | [FOBS08](../../elicitacao/observacao/)                                                                                                                                                                                                             |
+
+<div style="text-align: center">
+<p> Tabela 31: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+</div>
+
+## RF31
+
 Enviar email sobre o status da reserva.
 
 | [RF30](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                          |
@@ -515,10 +531,10 @@ Enviar email sobre o status da reserva.
 | Agregação                                   | [FB08](../../elicitacao/brainstorm/)                                                                                     |
 
 <div style="text-align: center">
-<p> Tabela 31: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 32: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF31
+## RF32
 
 O sistema deve possuir uma lista de desejos para aluguel de carro, hospedagem e voos.
 
@@ -531,10 +547,10 @@ O sistema deve possuir uma lista de desejos para aluguel de carro, hospedagem e 
 | Agregação                                   | [FB11](../../elicitacao/brainstorm/)                                                                                                     |
 
 <div style="text-align: center">
-<p> Tabela 32: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 33: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF32
+## RF33
 
 O sistema deve possuir uma carteira digital.
 
@@ -547,10 +563,10 @@ O sistema deve possuir uma carteira digital.
 | Agregação                                   | [FB15](../../elicitacao/brainstorm/) e [FOBS16](../../elicitacao/observacao/)                                                                                                                                                                                                                                                                            |
 
 <div style="text-align: center">
-<p> Tabela 33: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 34: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF33
+## RF34
 
 O sistema deve possuir uma moeda própria.
 
@@ -563,10 +579,10 @@ O sistema deve possuir uma moeda própria.
 | Agregação                                   | [FB18](../../elicitacao/brainstorm/)                                                                                                                  |
 
 <div style="text-align: center">
-<p> Tabela 34: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 35: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF34
+## RF35
 
 O usuário deve poder comprar moedas do sistema.
 
@@ -579,10 +595,10 @@ O usuário deve poder comprar moedas do sistema.
 | Agregação                                   | [FB19](../../elicitacao/brainstorm/)                                                                                                                  |
 
 <div style="text-align: center">
-<p> Tabela 35: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 36: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF35
+## RF36
 
 O sistema deve oferecer uma opção de conta premium.
 
@@ -595,10 +611,10 @@ O sistema deve oferecer uma opção de conta premium.
 | Agregação                                   | [FB20](../../elicitacao/brainstorm/)                                                                                                                                                                                                             |
 
 <div style="text-align: center">
-<p> Tabela 36: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 37: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF36
+## RF37
 
 O usuário deve poder selecionar o idioma do sistema.
 
@@ -611,10 +627,10 @@ O usuário deve poder selecionar o idioma do sistema.
 | Agregação                                   | [FB21](../../elicitacao/brainstorm/)                                                                                                                                                                                                             |
 
 <div style="text-align: center">
-<p> Tabela 37: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 38: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF37
+## RF38
 
 O sistema deve notificar sobre ofertas.
 
@@ -627,10 +643,10 @@ O sistema deve notificar sobre ofertas.
 | Agregação                                   | [FB29](../../elicitacao/brainstorm/) e [FOBS18](../../elicitacao/observacao/)                                                                |
 
 <div style="text-align: center">
-<p> Tabela 38: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 39: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF38
+## RF39
 
 O usuário deve poder adicionar itens ao aluguel do carro.
 
@@ -643,10 +659,10 @@ O usuário deve poder adicionar itens ao aluguel do carro.
 | Agregação                                   | [FB32](../../elicitacao/brainstorm/)                                                                                                                                                                                                                                                                                                |
 
 <div style="text-align: center">
-<p> Tabela 39: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 40: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF39
+## RF40
 
 Deve ser possível contratar serviços de táxi.
 
@@ -659,10 +675,10 @@ Deve ser possível contratar serviços de táxi.
 | Agregação                                   | [FOBS09](../../elicitacao/observacao/)                                                                                                                                                                                                                                                             |
 
 <div style="text-align: center">
-<p> Tabela 40: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 41: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF40
+## RF41
 
 Deve ser possível agendar visitas à atrações turísticas.
 
@@ -675,10 +691,10 @@ Deve ser possível agendar visitas à atrações turísticas.
 | Agregação                                   | [FOBS11](../../elicitacao/observacao/)                                                                                                                                                                                                                                                                                                                   |
 
 <div style="text-align: center">
-<p> Tabela 41: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 42: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF41
+## RF42
 
 O aplicativo deve possuir um sistema de configurações do aplicativo.
 
@@ -691,10 +707,10 @@ O aplicativo deve possuir um sistema de configurações do aplicativo.
 | Agregação                                   | [FOBS019](../../elicitacao/observacao/)                                                                                                                                                                                                                                  |
 
 <div style="text-align: center">
-<p> Tabela 42: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 43: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF42
+## RF43
 
 O sistema deve exibir dicas sobre os locais e carros.
 
@@ -707,10 +723,10 @@ O sistema deve exibir dicas sobre os locais e carros.
 | Agregação                                   | [FOBS16](../../elicitacao/observacao/)                                                                                                                                                                                                              |
 
 <div style="text-align: center">
-<p> Tabela 43: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
+<p> Tabela 44: Tabela padrão para o forward from. (Fonte: Lucas e Samuel, 2023). </p>
 </div>
 
-## RF43
+## RF44
 
 O sistema deve mostrar notícias relacionadas ao turismo.
 
@@ -736,8 +752,10 @@ Backward-from - Grasshopper. Github.io. Disponível em: [https://requisitos-de-s
 
 ## Histórico de Versão
 
-## Histórico de Versão
-
-| Versão | Data       | Descrição         | Autor(es)      | Revisor(es)      |
-| ------ | ---------- | ----------------- | -------------- | ---------------- |
-| 1.0    | 28/06/2023 | Criação da Página | Lucas e Samuel | Henrique e Pedro |
+| Versão | Data       | Descrição                                              | Autor(es)      | Revisor(es)      |
+| ------ | ---------- | ------------------------------------------------------ | -------------- | ---------------- |
+| 1.0    | 28/06/2023 | Criação da Página                                      | Lucas e Samuel | Henrique e Pedro |
+| 1.1    | 28/06/2023 | Adicionando tabelas do 1 ao 22                         | Lucas          | Henrique e Pedro |
+| 1.2    | 28/06/2023 | Adicionando links nos artefatos das tabelas do 1 ao 22 | Lucas          | Henrique e Pedro |
+| 1.3    | 28/06/2023 | Adicionando imagens nos artefatos das tabelas 23 a 44  | Lucas          | Henrique e Pedro |
+| 1.4    | 28/06/2023 | Introdução e metodologia                               | Lucas          | Henrique e Pedro |
