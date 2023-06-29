@@ -14,7 +14,7 @@ Consistindo em uma tabela que guardará as informações que de identificação(
 
 | ID    | Descrição                                                                                                                                                                          | Elicitação | Artefatos | Implementação |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | --------- | :-------------: |
-| RF01  | O aplicativo deve permitir que os usuários se registrem fornecendo informações básicas, como nome, sobrenome, endereço de e-mail e senha.                                       |              |           |                |
+| RF01  | O aplicativo deve permitir que os usuários se registrem fornecendo informações básicas, como nome, sobrenome, endereço de e-mail e senha.                                       |              |           |       🟡       |
 | RF02  | O aplicativo deve permitir que os usuários pesquisem acomodações com base em critérios específicos, como localização, datas de check-in e check-out, tipo de quarto e preço. |              |           |       🟢       |
 | RF03  | O aplicativo deve permitir que os usuários reservem acomodações selecionadas, inserindo as informações de pagamento e confirmando a reserva.                                    |              |           |       🟢       |
 | RF04  | O aplicativo deve permitir que os usuários cancelem suas reservas de acomodação, desde que sejam feitas dentro dos termos e condições estabelecidos pela empresa.               |              |           |       🟢       |
@@ -41,7 +41,7 @@ Consistindo em uma tabela que guardará as informações que de identificação(
 | RF25  | O aplicativo deve ter uma aba de favoritos                                                                                                                                           |              |           |       🟢       |
 | RF26  | O aplicativo deve possuir uma central de ajuda ao usuário.                                                                                                                          |              |           |       🟢       |
 | RF27  | O aplicativo deve possuir uma área administrativa da conta.                                                                                                                         |              |           |       🟢       |
-| RF28  | O aplicativo deve apresentar as informações legais sobre o uso para o usuário.                                                                                                    |              |           |                |
+| RF28  | O aplicativo deve apresentar as informações legais sobre o uso para o usuário.                                                                                                    |              |           |       🔴       |
 | RF29  | O aplicativo deve permitir que o usuário saia da conta.                                                                                                                             |              |           |       🟢       |
 | RF30  | O aplicativo deve permitir que os usuários pesquisem e reservem carros de aluguel com base em critérios específicos, como localização, datas e tipo de veículo.                |              |           |       🟢       |
 | RF31  | Enviar email sobre o status da reserva                                                                                                                                               |              |           |       🟢       |
@@ -58,6 +58,9 @@ Consistindo em uma tabela que guardará as informações que de identificação(
 | RF42  | O aplicativo deve possuir um sistema de configurações do aplicativo.                                                                                                               |              |           |       🟢       |
 | RF43  | O sistema deve exibir dicas sobre os locais e carros                                                                                                                                 |              |           |       🟢       |
 | RF44  | O sistema deve mostrar notícias relacionadas ao turismo                                                                                                                             |              |           |       🟢       |
+| RF45  | O aplicativo deve permitir o gerenciamento do companheiros de viagem, guardando as informações do companheiros para usar nas reservas                                              |              |           |                |
+| RF46  | O sistema deve permitir que o usuário delete sua conta através do aplicativo                                                                                                       |              |           |                |
+| RF47  | O aplicativo deve possuir um filtro de idade para a seção de atrações                                                                                                            |              |           |                |
 | RNF01 | O aplicativo deve ser fácil de usar, com interface intuitiva e navegação clara.                                                                                                   |              |           |       🟢       |
 | RNF02 | O aplicativo deve ser rápido e responsivo, com tempo de carregamento mínimo e tempos de resposta rápidos.                                                                         |              |           |       🟢       |
 | RNF03 | O aplicativo deve estar disponível para uso em todos os momentos, com tempos de inatividade mínimos.                                                                               |              |           |       🟢       |
@@ -67,12 +70,6 @@ Consistindo em uma tabela que guardará as informações que de identificação(
 | RNF07 | O aplicativo deve estar disponível em diferentes idiomas e adaptar-se a diferentes regiões e culturas.                                                                             |              |           |       🟢       |
 | RNF08 | Deve possuir acessibilidade.                                                                                                                                                         |              |           |       🟢       |
 | RNF09 | O sistema deve ter escalabilidade                                                                                                                                                    |              |           |       🟢       |
-
-| [FST05](https://github.com/Requisitos-de-Software/2023.1-Booking/blob/83-backward/docs/elicitacao/storytelling.md) |
-| --------------------------------------------------------------------------------------------------------------- |
-
-| [FST04](https://github.com/Requisitos-de-Software/2023.1-Booking/blob/83-backward/docs/elicitacao/storytelling.md)e[FB04](https://github.com/Requisitos-de-Software/2023.1-Booking/blob/83-backward/docs/elicitacao/brainstorm.md) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Bibiliografia
 
