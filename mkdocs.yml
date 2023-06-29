@@ -36,6 +36,8 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/vega-embed@6
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - pymdownx.superfences:
       custom_fences:
         - name: vegalite
@@ -58,7 +60,7 @@ nav:
       - Quarta Apresentação: apresentacoes/quartaApresentacao.md
       - Quinta Apresentação: apresentacoes/quintaApresentacao.md
       - Sexta Apresentação: apresentacoes/sextaApresentacao.md
-  - Pré-Rastreabilidade:
+  - Pré-Planejamento:
       - Rich Picture: prePlanejamento/richPicture.md
   - Planejamento:
       - Aplicativo selecionado: planejamento/aplicativoSelecionado.md
@@ -143,7 +145,9 @@ nav:
           - Backlog: verificacao3/agil/backlog.md
           - Histórias de Usuário: verificacao3/agil/historiasDeUsuario.md
           - NFR Framework: verificacao3/agil/nfrFramework.md
-  - Pós-Rastreabilidade:
-    - Backward-from: rastreabilidade/backward.md
+         - Pós-rastreabilidade:
+            - Forward From: rastreabilidade/forwardFrom.md
+            - Backward-from: rastreabilidade/backward.md
+
         
 
