@@ -75,6 +75,38 @@ Na Tabela 1, está contida a matriz de rastreabilidade geral, nela estão locali
 | RNF08 | Deve possuir acessibilidade.                                                                                                                                                         | Observação, Brainstorm                | NFOBS04 e NFB04                                            |       🟢       |
 | RNF09 | O sistema deve ter escalabilidade                                                                                                                                                    | Brainstorm, Observação                | NFB06 e NFOBS05                                            |       🟢       |
 
+<center>
+
+<div style="text-align: center">
+<p> Tabela 1: Matriz de Rastreabilidade.  (Fonte: Autores, 2023). </p>
+</div>
+
+</center>
+
+
+
+A seguir consta a Tabela 2 que contém a legenda usada acima.
+<center>
+
+| Legenda | Descrição                  |
+| ------- | -------------------------- |
+| FST     | Funcional Storytelling     |
+| NFST    | Não Funcional Storytelling |
+| FOBS    | Funcional Observação       |
+| NFOBS   | Não Funcional Observação   |
+| FB      | Funcional Brainstorm       |
+| NFB     | Não Funcional Brainstorm   |
+| RF      | Requisitos Funcionais      |
+| RNF     | Requisitos não Funcionais  |
+| EF      | Elo Funcional              |
+| ENF     | Elo Não Funcional          |
+
+<div style="text-align: center">
+<p> Tabela 2: Legenda das tecnicas de elicitação.  (Fonte: Autores, 2023). </p>
+</div>
+
+</center>
+
 ## Bibiliografia
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
