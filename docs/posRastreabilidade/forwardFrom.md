@@ -21,7 +21,7 @@ O aplicativo deve permitir que os usuários se registrem fornecendo informaçõe
 | Elos                                     | Relacionamentos                                                                                                                                                                                                              |
 | Satisfação                             | [Especificação suplementar SUPT02](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar CONF03](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
 | Recurso                                  | [Lexico 09](../modelagem/lexicos.md)<br />[Caso de uso 01](../modelagem/casosDeUso.md)                                                                                                                                             |
-| Representação                          | [Épico 10](../modelagem/modelo-agil/backlog.md)<br />[Cenário 02](../modelagem/cenarios.md)                                                                                                                                      |
+| Representação                          | [Épico 10](../modelagem/modelo-agil/backlog.md)<br />[Cenário 02](../modelagem/cenarios.md)  ![RF1.1](../images/forward-from/1_1.jpg){: style="height:600px;display: block; margin: auto;"} ![RF1.2](../images/forward-from/1_2.jpg){: style="height:600px;display: block; margin: auto;"} ![RF1.3](../images/forward-from/1_3.jpg){: style="height:600px;display: block; margin: auto;"}                                                                                                                                      |
 | Agregação                              | [FST01](../elicitacao/storytelling.md) e [FOBS01](../elicitacao/observacao.md)                                                                                                                                                     |
 
 <div style="text-align: center">
@@ -69,7 +69,7 @@ O aplicativo deve permitir que os usuários cancelem suas reservas de acomodaç�
 | Elos                                     | Relacionamentos                                                                                                                           |
 | Satisfação                             | [Especificação suplementar USAB01](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
 | Recurso                                  | [Lexico 10](../modelagem/lexicos.md)                                                                                                         |
-| Representação                          | [Historia de Usuário 24](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 01](../modelagem/modelo-agil/backlog.md)                 |
+| Representação                          | [Historia de Usuário 24](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 01](../modelagem/modelo-agil/backlog.md)  ![RF4.1](../images/forward-from/4_1.jpg){: style="height:600px;display: block; margin: auto;"}    ![RF4.2](../images/forward-from/4_2.jpg){: style="height:600px;display: block; margin: auto;"}             |
 | Agregação                              | [FST04](../elicitacao/storytelling.md) e [FB04](../elicitacao/brainstorm.md)                                                                    |
 
 <div style="text-align: center">
