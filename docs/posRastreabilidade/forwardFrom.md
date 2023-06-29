@@ -16,13 +16,13 @@
 
 O aplicativo deve permitir que os usuários se registrem fornecendo informações básicas, como nome, sobrenome, endereço de e-mail e senha.
 
-| [RF06](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar SUPT02<br />Especificação suplementar CONF03<br />NRF Usabilidade |
-| Recurso                                     | Lexico 09<br />Caso de uso 01                                                               |
-| Representação                               | Épico 10<br />Cénario 02                                                                    |
-| Agregação                                   | FST01 e FOBS01                                                                              |
+| [RF06](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar SUPT02](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar CONF03](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Lexico 09](../modelagem/lexicos.md)<br />[Caso de uso 01](../modelagem/casosDeUso.md)                                                                                                                                          |
+| Representação                               | [Épico 10](../modelagem/modelo-agil/backlog.md)<br />[Cenário 02](../modelagem/cenarios.md)                                                                                                                                     |
+| Agregação                                   | [FST01](../elicitacao/storytelling.md) e [FOBS01](../elicitacao/observacao.md)                                                                                                                                                  |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -32,13 +32,13 @@ O aplicativo deve permitir que os usuários se registrem fornecendo informaçõe
 
 O aplicativo deve permitir que os usuários pesquisem acomodações com base em critérios específicos, como localização, datas de check-in e check-out, tipo de quarto e preço.
 
-| [RF06](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar USAB06<br />Especificação suplementar PERF02<br />NRF Usabilidade |
-| Recurso                                     | Lexico 09<br />Caso de uso 02                                                               |
-| Representação                               | Historia de Usuário 09<br />Épico 01                                                        |
-| Agregação                                   | FST02                                                                                       |
+| [RF06](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar USAB06](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar PERF02](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Lexico 09](../modelagem/lexicos.md)<br />[Caso de uso 02](../modelagem/casosDeUso.md)                                                                                                                                          |
+| Representação                               | [Historia de Usuário 09](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 01](../modelagem/modelo-agil/backlog.md)                                                                                                   |
+| Agregação                                   | [FST02](../elicitacao/storytelling.md)                                                                                                                                                                                          |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -48,13 +48,13 @@ O aplicativo deve permitir que os usuários pesquisem acomodações com base em 
 
 O aplicativo deve permitir que os usuários reservem acomodações selecionadas, inserindo as informações de pagamento e confirmando a reserva.
 
-| [RF03](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar PERF01<br />Especificação suplementar USAB01<br />NRF Usabilidade |
-| Recurso                                     | Caso de uso 03<br />Lexico 15                                                               |
-| Representação                               | Historia de Usuário 34<br />Épico 01<br />Cenário 03                                        |
-| Agregação                                   | FST03, FB03 e FOBS06                                                                        |
+| [RF03](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar PERF01](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar USAB01](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Caso de uso 03](../modelagem/casosDeUso.md)<br />[Lexico 15](../modelagem/lexicos.md)                                                                                                                                          |
+| Representação                               | [Historia de Usuário 34](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 01](../modelagem/modelo-agil/backlog.md)<br />[Cenário 03](../modelagem/cenarios.md)                                                       |
+| Agregação                                   | [FST03](../elicitacao/storytelling.md), [FB03](../elicitacao/brainstorm.md) e [FOBS06](../elicitacao/observacao.md)                                                                                                             |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -64,13 +64,13 @@ O aplicativo deve permitir que os usuários reservem acomodações selecionadas,
 
 O aplicativo deve permitir que os usuários cancelem suas reservas de acomodação, desde que sejam feitas dentro dos termos e condições estabelecidos pela empresa.
 
-| [RF04](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                       |
-| ------------------------------------------- | ----------------------------------------------------- |
-| Elos                                        | Relacionamentos                                       |
-| Satisfação                                  | Especificação suplementar USAB01<br />NRF Usabilidade |
-| Recurso                                     | Lexico 10                                             |
-| Representação                               | Historia de Usuário 24<br />Épico 01                  |
-| Agregação                                   | FST04 e FB04                                          |
+| [RF04](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                               |
+| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                               |
+| Satisfação                                  | [Especificação suplementar USAB01](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Lexico 10](../modelagem/lexicos.md)                                                                                                          |
+| Representação                               | [Historia de Usuário 24](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 01](../modelagem/modelo-agil/backlog.md)                 |
+| Agregação                                   | [FST04](../elicitacao/storytelling.md) e [FB04](../elicitacao/brainstorm.md)                                                                  |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -80,13 +80,13 @@ O aplicativo deve permitir que os usuários cancelem suas reservas de acomodaç�
 
 O aplicativo deve permitir que os usuários pesquisem voos com base em critérios específicos, como origem, destino, datas e número de passageiros.
 
-| [RF05](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar USAB02<br />Especificação suplementar USAB04<br />NRF Usabilidade |
-| Recurso                                     | Caso de uso 02<br />Lexico 09                                                               |
-| Representação                               | Épico 02<br />História de usuário 09                                                        |
-| Agregação                                   | FST05                                                                                       |
+| [RF05](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar USAB02](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar USAB04](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Caso de uso 02](../modelagem/casosDeUso.md)<br />[Lexico 09](../modelagem/lexicos.md)                                                                                                                                          |
+| Representação                               | [Épico 02](../modelagem/modelo-agil/backlog.md)<br />[História de usuário 09](../modelagem/modelo-agil/historiasDeUsuario.md)                                                                                                   |
+| Agregação                                   | [FST05](../elicitacao/storytelling.md)                                                                                                                                                                                          |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -96,13 +96,13 @@ O aplicativo deve permitir que os usuários pesquisem voos com base em critério
 
 O aplicativo deve permitir que os usuários reservem voos selecionados, inserindo as informações de pagamento e confirmando a reserva.
 
-| [RF06](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar USAB06<br />Especificação suplementar PERF02<br />NRF Usabilidade |
-| Recurso                                     | Lexico 15<br />Caso de uso 06                                                               |
-| Representação                               | Historia de Usuário 26<br />Épico 02<br />Cénario 02                                        |
-| Agregação                                   | FST06 e FOBS07                                                                              |
+| [RF06](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar USAB06](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar PERF02](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Lexico 15](../modelagem/lexicos.md)<br />[Caso de uso 06](../modelagem/casosDeUso.md)                                                                                                                                          |
+| Representação                               | [Historia de Usuário 26](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 02](../modelagem/modelo-agil/backlog.md)<br />[Cenário 02](../modelagem/cenarios.md)                                                       |
+| Agregação                                   | [FST06](../elicitacao/storytelling.md) e [FOBS07](../elicitacao/observacao.md)                                                                                                                                                  |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -112,13 +112,13 @@ O aplicativo deve permitir que os usuários reservem voos selecionados, inserind
 
 O aplicativo deve permitir que os usuários gerenciem suas reservas existentes, incluindo a visualização de detalhes da reserva, alterações de datas e cancelamentos.
 
-| [RF07](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                  |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Elos                                        | Relacionamentos                                                                                  |
-| Satisfação                                  | Especificação suplementar USAB03<br />Especificação suplementar CONF04<br />NRF 3 Confiabilidade |
-| Recurso                                     | Lexico 09                                                                                        |
-| Representação                               | Historia de Usuário 27<br />Épico 01                                                             |
-| Agregação                                   | FST08                                                                                            |
+| [RF07](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                    |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                    |
+| Satisfação                                  | [Especificação suplementar USAB03](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar CONF04](../modelagem/especificacaoSuplementar.md)<br />[NRF Confiabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Lexico 09](../modelagem/lexicos.md)                                                                                                                                                                                               |
+| Representação                               | [Historia de Usuário 27](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 01](../modelagem/modelo-agil/backlog.md)                                                                                                      |
+| Agregação                                   | [FST08](../elicitacao/storytelling.md)                                                                                                                                                                                             |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -128,13 +128,13 @@ O aplicativo deve permitir que os usuários gerenciem suas reservas existentes, 
 
 O aplicativo deve permitir que os usuários visualizem seu histórico de reservas anteriores, incluindo informações como datas, acomodações e voos reservados.
 
-| [RF08](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                  |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Elos                                        | Relacionamentos                                                                                  |
-| Satisfação                                  | Especificação suplementar USAB03<br />Especificação suplementar CONF04<br />NRF 3 Confiabilidade |
-| Recurso                                     | Lexico 09                                                                                        |
-| Representação                               | Historia de Usuário 27<br />Épico 01                                                             |
-| Agregação                                   | FST10, FB05 , FB06 e FOBS13                                                                      |
+| [RF08](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                    |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                    |
+| Satisfação                                  | [Especificação suplementar USAB03](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar CONF04](../modelagem/especificacaoSuplementar.md)<br />[NRF Confiabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Lexico 09](../modelagem/lexicos.md)                                                                                                                                                                                               |
+| Representação                               | [Historia de Usuário 27](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 01](../modelagem/modelo-agil/backlog.md)                                                                                                      |
+| Agregação                                   | [FST10](../elicitacao/storytelling.md), [FB05](../elicitacao/brainstorm.md) , [FB06](../elicitacao/brainstorm.md) e [FOBS13](../elicitacao/observacao.md)                                                                          |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -144,13 +144,13 @@ O aplicativo deve permitir que os usuários visualizem seu histórico de reserva
 
 O sistema deve possuir escolha do método de pagamento
 
-| [RF09](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                         |
-| ------------------------------------------- | ----------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                         |
-| Satisfação                                  | Especificação suplementar 4<br />Especificação suplementar 2<br />NRF 3 |
-| Recurso                                     | Caso de uso 04<br />Lexico 11                                           |
-| Representação                               | Historia de Usuário 29<br />Épico 07                                    |
-| Agregação                                   | FB02                                                                    |
+| [RF09](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                       |
+| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                       |
+| Satisfação                                  | [Especificação suplementar 4](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar 2](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Caso de uso 04](../modelagem/casosDeUso.md)<br />[Lexico 11](../modelagem/lexicos.md)                                                                                                                                |
+| Representação                               | [Historia de Usuário 29](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 07](../modelagem/modelo-agil/backlog.md)                                                                                         |
+| Agregação                                   | [FB02](../elicitacao/brainstorm.md)                                                                                                                                                                                   |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -160,13 +160,13 @@ O sistema deve possuir escolha do método de pagamento
 
 Permitir que um grupo de pessoas reservem um local.
 
-| [RF10](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar USAB01<br />Especificação suplementar SUPT01<br />NRF Usabilidade |
-| Recurso                                     | Caso de uso 03<br />Lexico 15                                                               |
-| Representação                               | Historia de Usuário 34<br />Épico 01<br />Cenário 03                                        |
-| Agregação                                   | FB07                                                                                        |
+| [RF10](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar USAB01](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar SUPT01](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Caso de uso 03](../modelagem/casosDeUso.md)<br />[Lexico 15](../modelagem/lexicos.md)                                                                                                                                          |
+| Representação                               | [Historia de Usuário 34](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 01](../modelagem/modelo-agil/backlog.md)<br />[Cenário 03](../modelagem/cenarios.md)                                                       |
+| Agregação                                   | [FB07](../elicitacao/brainstorm.md)                                                                                                                                                                                             |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -176,13 +176,13 @@ Permitir que um grupo de pessoas reservem um local.
 
 Sincronizar as datas das reservas com o calendário do usuário.
 
-| [RF11](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar SUPT02<br />Especificação suplementar IMPL01<br />NRF Usabilidade |
-| Recurso                                     | -                                                                                           |
-| Representação                               | -                                                                                           |
-| Agregação                                   | FB09                                                                                        |
+| [RF11](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar SUPT02](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar IMPL01](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | -                                                                                                                                                                                                                               |
+| Representação                               | -                                                                                                                                                                                                                               |
+| Agregação                                   | [FB09](../elicitacao/brainstorm.md)                                                                                                                                                                                             |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -192,13 +192,13 @@ Sincronizar as datas das reservas com o calendário do usuário.
 
 Permitir visualização de imagens do local pelo usuário.
 
-| [RF12](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                   |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                                                                   |
-| Satisfação                                  | Especificação suplementar USAB03<br />Especificação suplementar CONF04<br />Especificação suplementar PERF01<br />NRF Usabilidade |
-| Recurso                                     | Cenário 04<br />Cenário 03<br />Léxico 09                                                                                         |
-| Representação                               | Prototipo de alta fidelidade                                                                                                      |
-| Agregação                                   | FB12                                                                                                                              |
+| [RF12](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                                                                                                   |
+| Satisfação                                  | [Especificação suplementar USAB03](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar CONF04](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar PERF01](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Cenário 04](../modelagem/cenarios.md)<br />[Cenário 03](../modelagem/cenarios.md)<br />[Léxico 09](../modelagem/lexicos.md)                                                                                                                                                                                      |
+| Representação                               | [Prototipo de alta fidelidade](https://www.figma.com/proto/sbDRhmJewJH9SkgieA0DfK/HFP---Booking.com?type=design&node-id=19-12&t=lJIYMtNgoOVPdk0d-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=19%3A12&mode=design)                                                                                   |
+| Agregação                                   | [FB12](../elicitacao/brainstorm.md)                                                                                                                                                                                                                                                                               |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -208,13 +208,13 @@ Permitir visualização de imagens do local pelo usuário.
 
 Permitir visualização de imagens do carro pelo usuário.
 
-| [RF13](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                     |
-| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                                                                     |
-| Satisfação                                  | Especificação suplementar USAB03<br />Especificação suplementar CONF04 <br />Especificação suplementar PERF01 <br />NRF Usabilidade |
-| Recurso                                     | Cenário 05<br />Lexico 09<br />Épico 09                                                                                             |
-| Representação                               | -                                                                                                                                   |
-| Agregação                                   | FB13                                                                                                                                |
+| [RF13](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                                                                                                     |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                                                                                                     |
+| Satisfação                                  | [Especificação suplementar USAB03](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar CONF04](../modelagem/especificacaoSuplementar.md) <br />[Especificação suplementar PERF01](../modelagem/especificacaoSuplementar.md) <br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Cenário 05](../modelagem/cenarios.md)<br />[Lexico 09](../modelagem/lexicos.md)<br />[Épico 09](../modelagem/modelo-agil/backlog.md)                                                                                                                                                                               |
+| Representação                               | -                                                                                                                                                                                                                                                                                                                   |
+| Agregação                                   | [FB13](../elicitacao/brainstorm.md)                                                                                                                                                                                                                                                                                 |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -224,13 +224,13 @@ Permitir visualização de imagens do carro pelo usuário.
 
 O sistema deve ser capaz de localizar o usuário se permitido.
 
-| [RF14](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                |
-| ------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                                |
-| Satisfação                                  | Especificação suplementar USAB03<br />Especificação suplementar CONF03<br />NRF Confiabilidade |
-| Recurso                                     | Lexico 12                                                                                      |
-| Representação                               | Épico 11                                                                                       |
-| Agregação                                   | FB22                                                                                           |
+| [RF14](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                    |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                    |
+| Satisfação                                  | [Especificação suplementar USAB03](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar CONF03](../modelagem/especificacaoSuplementar.md)<br />[NRF Confiabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Lexico 12](../modelagem/lexicos.md)                                                                                                                                                                                               |
+| Representação                               | [Épico 11](../modelagem/modelo-agil/backlog.md)                                                                                                                                                                                    |
+| Agregação                                   | [FB22](../elicitacao/brainstorm.md)                                                                                                                                                                                                |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -240,13 +240,13 @@ O sistema deve ser capaz de localizar o usuário se permitido.
 
 O sistema deve sugerir hospedagens de acordo com a localização do usuário.
 
-| [RF15](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar USAB03<br />Especificação suplementar USAB05<br />NRF Usabilidade |
-| Recurso                                     | Caso de uso 03<br />Lexico 04                                                               |
-| Representação                               | Historia de Usuário 02<br />Épico 11                                                        |
-| Agregação                                   | FB23 e FOBS04                                                                               |
+| [RF15](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar USAB03](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar USAB05](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Caso de uso 03](../modelagem/casosDeUso.md)<br />[Lexico 04](../modelagem/lexicos.md)                                                                                                                                          |
+| Representação                               | [Historia de Usuário 02](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 11](../modelagem/modelo-agil/backlog.md)                                                                                                   |
+| Agregação                                   | [FB23](../elicitacao/brainstorm.md) e [FOBS04](../elicitacao/observacao.md)                                                                                                                                                     |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -256,13 +256,13 @@ O sistema deve sugerir hospedagens de acordo com a localização do usuário.
 
 O sistema deve oferecer uma aba de perguntas.
 
-| [RF16](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar USAB04<br />Especificação suplementar PERF02<br />NRF Usabilidade |
-| Recurso                                     | Lexico 13                                                                                   |
-| Representação                               | Historia de Usuário 30<br />Épico 12                                                        |
-| Agregação                                   | FB24                                                                                        |
+| [RF16](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar USAB04](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar PERF02](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Lexico 13](../modelagem/lexicos.md)                                                                                                                                                                                            |
+| Representação                               | [Historia de Usuário 30](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 12](../modelagem/modelo-agil/backlog.md)                                                                                                   |
+| Agregação                                   | [FB24](../elicitacao/brainstorm.md)                                                                                                                                                                                             |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -272,13 +272,13 @@ O sistema deve oferecer uma aba de perguntas.
 
 O sistema deve conter um bate-papo para contato com o locatário ou empresa em que foi feito a reserva.
 
-| [RF17](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                              |
-| ------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                              |
-| Satisfação                                  | Especificação suplementar USAB04<br />Especificação suplementar PERF02 <br />NRF Usabilidade |
-| Recurso                                     | Caso de uso 03<br />Lexico 13                                                                |
-| Representação                               | Épico 01<br />Cenário 12                                                                     |
-| Agregação                                   | FB25                                                                                         |
+| [RF17](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                  |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                  |
+| Satisfação                                  | [Especificação suplementar USAB04](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar PERF02](../modelagem/especificacaoSuplementar.md) <br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Caso de uso 03](../modelagem/casosDeUso.md)<br />[Lexico 13](../modelagem/lexicos.md)                                                                                                                                           |
+| Representação                               | [Épico 01](../modelagem/modelo-agil/backlog.md)<br />[Cenário 12](../modelagem/cenarios.md)                                                                                                                                      |
+| Agregação                                   | [FB25](../elicitacao/brainstorm.md)                                                                                                                                                                                              |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -288,13 +288,13 @@ O sistema deve conter um bate-papo para contato com o locatário ou empresa em q
 
 O sistema deve ter um sistema de pontuação ligada ao usuário.
 
-| [RF18](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                         |
-| ------------------------------------------- | ----------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                         |
-| Satisfação                                  | Especificação suplementar 4<br />Especificação suplementar 2<br />NRF 3 |
-| Recurso                                     | Lexico 07                                                               |
-| Representação                               | Cenário 06                                                              |
-| Agregação                                   | FB26 e FOBS03                                                           |
+| [RF18](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                       |
+| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                       |
+| Satisfação                                  | [Especificação suplementar 4](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar 2](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Lexico 07](../modelagem/lexicos.md)                                                                                                                                                                                  |
+| Representação                               | [Cenário 06](../modelagem/cenarios.md)                                                                                                                                                                                |
+| Agregação                                   | [FB26](../elicitacao/brainstorm.md) e [FOBS03](../elicitacao/observacao.md)                                                                                                                                           |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -304,13 +304,13 @@ O sistema deve ter um sistema de pontuação ligada ao usuário.
 
 O usuário deve poder denunciar contas.
 
-| [RF19](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar USAB01<br />Especificação suplementar USAB04<br />NRF Usabilidade |
-| Recurso                                     | História de usuário 32<br />Épico 01                                                        |
-| Representação                               | Protótipo de alta fidelidade                                                                |
-| Agregação                                   | FB27                                                                                        |
+| [RF19](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar USAB01](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar USAB04](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | História de usuário 32<br />[Épico 01](../modelagem/modelo-agil/backlog.md)                                                                                                                                                     |
+| Representação                               | Protótipo de alta fidelidade                                                                                                                                                                                                    |
+| Agregação                                   | [FB27](../elicitacao/brainstorm.md)                                                                                                                                                                                             |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -320,13 +320,13 @@ O usuário deve poder denunciar contas.
 
 Deve existir uma pesquisa por comando de voz.
 
-| [RF20](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar USAB02<br />Especificação suplementar INTF01<br />NRF Usabilidade |
-| Recurso                                     | Lexico 09                                                                                   |
-| Representação                               | Épico 01                                                                                    |
-| Agregação                                   | FB31                                                                                        |
+| [RF20](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar USAB02](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar INTF01](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Lexico 09](../modelagem/lexicos.md)                                                                                                                                                                                            |
+| Representação                               | [Épico 01](../modelagem/modelo-agil/backlog.md)                                                                                                                                                                                 |
+| Agregação                                   | [FB31](../elicitacao/brainstorm.md)                                                                                                                                                                                             |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -336,13 +336,13 @@ Deve existir uma pesquisa por comando de voz.
 
 O usuário deve poder avaliar e comentar reservas.
 
-| [RF21](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar USAB04<br />Especificação suplementar PERF03<br />NRF Usabilidade |
-| Recurso                                     | Lexico 15                                                                                   |
-| Representação                               | Historia de Usuário 16<br />Épico 09<br />Cenário 06                                        |
-| Agregação                                   | FB28 e FST09                                                                                |
+| [RF21](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar USAB04](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar PERF03](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Lexico 15](../modelagem/lexicos.md)                                                                                                                                                                                            |
+| Representação                               | [Historia de Usuário 16](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 09](../modelagem/modelo-agil/backlog.md)<br />[Cenário 06](../modelagem/cenarios.md)                                                       |
+| Agregação                                   | [FB28](../elicitacao/brainstorm.md) e [FST09](../elicitacao/storytelling.md)                                                                                                                                                    |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
@@ -352,13 +352,13 @@ O usuário deve poder avaliar e comentar reservas.
 
 Deve ser possível filtrar as pesquisas.
 
-| [RF22](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                             |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Elos                                        | Relacionamentos                                                                             |
-| Satisfação                                  | Especificação suplementar PERF01<br />Especificação suplementar USAB01<br />NRF Usabilidade |
-| Recurso                                     | Caso de uso 02<br />Lexico 15                                                               |
-| Representação                               | Historia de Usuário 09<br />Épico 09                                                        |
-| Agregação                                   | FOBS05 e FB30                                                                               |
+| [RF22](../modelagem/modelo-agil/backlog.md) | Desenvolvimento                                                                                                                                                                                                                 |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Elos                                        | Relacionamentos                                                                                                                                                                                                                 |
+| Satisfação                                  | [Especificação suplementar PERF01](../modelagem/especificacaoSuplementar.md)<br />[Especificação suplementar USAB01](../modelagem/especificacaoSuplementar.md)<br />[NRF Usabilidade](../modelagem/modelo-agil/nfrFramework.md) |
+| Recurso                                     | [Caso de uso 02](../modelagem/casosDeUso.md)<br />[Lexico 15](../modelagem/lexicos.md)                                                                                                                                          |
+| Representação                               | [Historia de Usuário 09](../modelagem/modelo-agil/historiasDeUsuario.md)<br />[Épico 09](../modelagem/modelo-agil/backlog.md)                                                                                                   |
+| Agregação                                   | [FOBS05](../elicitacao/observacao.md) e [FB30](../elicitacao/brainstorm.md)                                                                                                                                                     |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela forward from para o requisito funcional 03. (Fonte: Lucas e Samuel, 2023). </p>
