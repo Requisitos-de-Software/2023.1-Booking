@@ -156,6 +156,6 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 ## Histórico de versão
 
 |    Data    | Versão |             Descrição             |    Autor(es)    |
-| :--------: | :-----: | :----------------------------------: | :-------------: |
-| 20/06/2023 |   1.0   |        Criação do documento        |      Pedro      |
-| 21/06/2023 |   1.1   | Aplicando as correções no artefato | Pedro e Gabriel |
+| :--------: | :-----: | :----------------------------------: | :--------------: |
+| 20/06/2023 |   1.0   |        Criação do documento        | Pedro e Gabriel |
+| 21/06/2023 |   1.1   | Aplicando as correções no artefato | Henrique e Lucas |
