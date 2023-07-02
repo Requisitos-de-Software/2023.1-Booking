@@ -60,6 +60,12 @@ A tabela a seguir, Tabela 2, apresenta todos os artefatos criados no projeto, or
     </tr>
     <tr>
       <td></td>
+      <td><a href="/planejamento/ferramentas">Ferramentas</a></td>
+      <td>Pedro, Gabrel, Henrique, Lucas</td>
+      <td>Chaydson, Lucas, Samuel, Henrique</td>
+    </tr>
+    <tr>
+      <td></td>
       <td><a href="/planejamento/cronogramaRealizado">Cronograma executado</a></td>
       <td>Lucas, Chaydson, Henrique</td>
       <td>Chaydson, Gabriel, Samuel, Henrique e Pedro</td>
