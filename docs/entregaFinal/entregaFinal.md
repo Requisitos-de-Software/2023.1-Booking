@@ -522,7 +522,8 @@ A Tabela 4 contém as apresentações durante o projeto, as apresentações são
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                    | Autor(es) | Revisor(es) |
-| ------- | ---------- | ---------------------------------------------- | --------- | ----------- |
-| 1.0     | 01/07/2023 | Criação da Página e Adicionando Ferramentas | Pedro     | Lucas       |
-| 1.1     | 04/07/2023 | Adicionando títulos e padrões no artefato    | Gabriel   | ----        |
+| Versão | Data       | Descrição                                                                     | Autor(es) | Revisor(es) |
+| ------- | ---------- | ------------------------------------------------------------------------------- | --------- | ----------- |
+| 1.0     | 01/07/2023 | Criação da Página e Adicionando Ferramentas                                  | Pedro     | Lucas       |
+| 1.1     | 04/07/2023 | Adicionando títulos e padrões no artefato                                     | Gabriel   | ----        |
+| 1.2     | 04/07/2023 | Adicionando Seção de Métodos de Verificação e Validação, Apresentações | Gabriel   | Henrique    |
