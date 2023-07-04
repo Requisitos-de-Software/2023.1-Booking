@@ -40,9 +40,45 @@ A tabela a seguir, Tabela 1, apresenta todas as ferramentas utilizadas no projet
 
 ## Métodos de Vericação e Validação
 
+| Etapa Verificada | Artefatos | Metodologia | Autor(es) | Revisor(es) |
+| ---------------- | --------- | ----------- | --------- | ----------- |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+|                  |           |             |           |             |
+
+<div style="text-align: center">
+<p> Tabela 2: Métodos de Verificação e Validação utilizadas durante o projeto (Fonte: Pedro, 2023). </p>
+</div>
+
 ## Artefatos criados no projeto
 
-A tabela a seguir, Tabela 2, apresenta todos os artefatos criados no projeto, organizados por etapa, juntamente com seus respectivos autores e revisores.
+A tabela a seguir, Tabela 3, apresenta todos os artefatos criados no projeto, organizados por etapa, juntamente com seus respectivos autores e revisores.
 
 <table>
   <thead>
@@ -460,10 +496,28 @@ A tabela a seguir, Tabela 2, apresenta todos os artefatos criados no projeto, or
 </table>
 
 <div style="text-align: center">
-<p> Tabela 2: Listagem de todos os artefatos com as etapas do projeto, autor(es) e revisor(es). (Fonte: Pedro, 2023). </p>
+<p> Tabela 3: Listagem de todos os artefatos com as etapas do projeto, autor(es) e revisor(es). (Fonte: Pedro, 2023). </p>
 </div>
 
 ## Apresentações do Projeto
+
+A Tabela X contém as apresentações durante o projeto, as apresentações são reflexos do que foi desenvolvido em cada etapa do projeto.
+
+| Etapa | Apresentação | Participantes                                      |
+| ----- | -------------- | -------------------------------------------------- |
+| 1     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 2     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 3     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 4     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 5     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 6     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 7     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 8     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 9     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+
+<div style="text-align: center">
+<p> Tabela 4: Apresentações e seus participantes (Fonte: Gabriel, 2023). </p>
+</div>
 
 ## Bibliografia
 
