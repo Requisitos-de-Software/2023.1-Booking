@@ -507,8 +507,8 @@ A Tabela 4 contém as apresentações durante o projeto, as apresentações são
 | 4     | [Quarta Apresentação - Modelagem de Requisitos - Ágil ](../apresentacoes/quartaApresentacao.md)       | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
 | 5.1   | [Quinta Apresentação - Verificação sobre o Grupo 03](../apresentacoes/quintaApresentacao.md)         | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
 | 5.2   | [Sexta Apresentação - Verificação e Validação](../apresentacoes/sextaApresentacao.md)              | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 6     | [Sétima Apresentação - Backward-from, Foward-From e Matriz Geral]()                                   | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 7     | [Oitava Apresentação - Entrega Final]()                                                                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 6     | [Sétima Apresentação - Backward-from, Foward-From e Matriz Geral](../apresentacoes/setimaApresentacao.md)                                   | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 7     | [Oitava Apresentação - Entrega Final](../apresentacoes/oitavaApresentacao.md)                                                                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
 
 <div style="text-align: center">
 <p> Tabela 4: Apresentações e seus participantes (Fonte: Gabriel, 2023). </p>
