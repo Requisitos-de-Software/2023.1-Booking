@@ -69,7 +69,7 @@ A tabela a seguir, Tabela 1, apresenta todas as ferramentas utilizadas no projet
 |                   | [Validação por Prototipagem](../verificacaoGrupo/validacao.md#prototipagem)                    | Gabriel, Henrique, Pedro, Lucas e Chaydson | Samuel                |
 
 <div style="text-align: center">
-<p> Tabela 2: Métodos de Verificação e Validação utilizadas durante o projeto (Fonte: Pedro, 2023). </p>
+<p> Tabela 2: Métodos de Verificação e Validação utilizadas durante o projeto (Fonte: Gabriel, 2023). </p>
 </div>
 
 ## Artefatos criados no projeto
