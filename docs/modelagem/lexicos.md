@@ -53,8 +53,8 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Ator**            | Samuel Gomes                                                                                                                                                                                                                                                                                                                  |
 | **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                        |
 | **Sinônimos**      | Reserva de voos, marcação de passagens aéreas, agendamento de viagens aéreas                                                                                                                                                                                                                                              |
-| **Noção**         | Opção de agendamento de voos no aplicativo, onde os[usuários](#usuario) podem encontrar e [reservar](#reservar) passagens aéreas para diferentes destinos e datas.                                                                                                                                                              |
-| **Impacto**         | O agendamento de voos é uma das principais opções de viagem para muitos[usuário](#usuario) e sua inclusão no aplicativo pode torná-lo mais completo e útil para seus [usuários](#usuario). Além disso, pode aumentar o número de reservas de outros serviços relacionados, como aluguel de carros e reservas de hotéis. |
+| **Noção**         | Opção de agendamento de voos no aplicativo, onde os [usuários](#usuario) podem encontrar e [reservar](#reservar) passagens aéreas para diferentes destinos e datas.                                                                                                                                                              |
+| **Impacto**         | O agendamento de voos é uma das principais opções de viagem para muitos [usuário](#usuario) e sua inclusão no aplicativo pode torná-lo mais completo e útil para seus [usuários](#usuario). Além disso, pode aumentar o número de reservas de outros serviços relacionados, como aluguel de carros e reservas de hotéis. |
 | **Rastro**          | [FOBS07](../elicitacao/observacao.md)                                                                                                                                                                                                                                                                                            |
 
 <div style="text-align: center">
@@ -83,8 +83,8 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Autor**           | Pedro Henrique                                                                                                                                                   |
 | **Classificação** | _Objeto_                                                                                                                                                       |
 | **Sinônimos**      | _Indicação, orientação, conselho_                                                                                                                          |
-| **Noção**         | São informações diversas para o[usuário](#usuario), desde como usar o aplicativo até a quais lugares são recomendados para visitar e realizar uma hospedagem. |
-| **Impacto**         | O[usuário](#usuario) é informado sobre funcionalidades do aplicativo e sobre lugares novos para poder visitar.                                                    |
+| **Noção**         | São informações diversas para o [usuário](#usuario), desde como usar o aplicativo até a quais lugares são recomendados para visitar e realizar uma hospedagem. |
+| **Impacto**         | O [usuário](#usuario) é informado sobre funcionalidades do aplicativo e sobre lugares novos para poder visitar.                                                    |
 | **Rastro**          | [OBS016](../elicitacao/brainstorm.md)                                                                                                                               |
 
 <div style="text-align: center">
@@ -98,7 +98,7 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Autor**           | Pedro Henrique                                                                                                                  |
 | **Classificação** | Estado                                                                                                                          |
 | **Sinônimos**      | _Diferenciado, Especial_                                                                                                      |
-| **Noção**         | É uma condição que o[usuário](#usuario) pode comprar para ter acesso a funcionalidade exclusivas ou prioridade no aplicativo  |
+| **Noção**         | É uma condição que o [usuário](#usuario) pode comprar para ter acesso a funcionalidade exclusivas ou prioridade no aplicativo  |
 | **Impacto**         | _Os [usuários](#usuario) que são especiais podem ter acesso a funcionalidade exclusivas ou prioridade em relação aos demais_ |
 | **Rastro**          | [OBS020](../elicitacao/brainstorm.md)                                                                                              |
 
@@ -128,7 +128,7 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Autor**           | Pedro Henrique                                                                                      |
 | **Classificação** | _Objeto_                                                                                          |
 | **Sinônimos**      | Placar, contagem, escore                                                                            |
-| **Noção**         | São números acumulativos fornecidos ao[usuário](#usuario)                                           |
+| **Noção**         | São números acumulativos fornecidos ao [usuário](#usuario)                                           |
 | **Impacto**         | _Os [usuários](#usuario) podem acumular pontos para trocar por descontos em reservas no aplicativo_ |
 | **Rastro**          | [OBS026](../elicitacao/brainstorm.md)                                                                  |
 
@@ -143,7 +143,7 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Autor**           | Pedro Henrique                                                                           |
 | **Classificação** | Verbo                                                                                    |
 | **Sinônimos**      | Julgar, criticar                                                                         |
-| **Noção**         | Campo destinado para o[usuário](#usuario) avaliar o sua experiência com a hospedagem.    |
+| **Noção**         | Campo destinado para o [usuário](#usuario) avaliar o sua experiência com a hospedagem.    |
 | **Impacto**         | _Os [usuários](#usuario) tem acesso a opinião de outros usuarios sobre o a hospedagem._ |
 | **Rastro**          | [OBS28](../elicitacao/brainstorm.md)                                                        |
 
@@ -163,7 +163,7 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Classificação** | Verbo                                                                                                                                                                                             |
 | **Sinônimos**      | Procurar, pesquisar, investigar                                                                                                                                                                   |
 | **Noção**         | Ação de buscar por acomodações ou atividades disponíveis no aplicativo.                                                                                                                      |
-| **Impacto**         | A busca é a primeira etapa para que o[usuário](#usuario) possa encontrar e [reservar](#reservar) acomodações ou atividades de interesse, portanto, é fundamental para a usabilidade do aplicativo. |
+| **Impacto**         | A busca é a primeira etapa para que o [usuário](#usuario) possa encontrar e [reservar](#reservar) acomodações ou atividades de interesse, portanto, é fundamental para a usabilidade do aplicativo. |
 | **Rastro**          | [FOBS02](../elicitacao/observacao.md)                                                                                                                                                                |
 
 <div style="text-align: center">
@@ -178,7 +178,7 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Classificação** | Verbo                                                                                                                                                                          |
 | **Sinônimos**      | Desmarcar, anular, rescindir                                                                                                                                                   |
 | **Noção**         | Ação de cancelar uma reserva previamente feita.                                                                                                                              |
-| **Impacto**         | O cancelamento pode ter impacto financeiro na plataforma e também afetar a experiência do[usuário](#usuario), sendo importante que o processo seja claro e fácil de realizar. |
+| **Impacto**         | O cancelamento pode ter impacto financeiro na plataforma e também afetar a experiência do [usuário](#usuario), sendo importante que o processo seja claro e fácil de realizar. |
 | **Rastro**          | [FB04](../elicitacao/brainstorm.md)                                                                                                                                               |
 
 <div style="text-align: center">
@@ -193,7 +193,7 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Classificação** | Verbo                                                                                                                                                              |
 | **Sinônimos**      | Quitar, pagar, liquidar                                                                                                                                            |
 | **Noção**         | Ação de realizar o pagamento pela acomodação ou atividade reservada.                                                                                           |
-| **Impacto**         | O pagamento é uma etapa importante da reserva e deve ser seguro e fácil para o[usuário](#usuario), a fim de evitar problemas e garantir a satisfação do cliente. |
+| **Impacto**         | O pagamento é uma etapa importante da reserva e deve ser seguro e fácil para o [usuário](#usuario), a fim de evitar problemas e garantir a satisfação do cliente. |
 | **Rastro**          | [FB02](../elicitacao/brainstorm.md)                                                                                                                                   |
 
 <div style="text-align: center">
@@ -208,7 +208,7 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Classificação** | Objeto                                                                                                                                                                              |
 | **Sinônimos**      | Localizador, guia, roteiro                                                                                                                                                          |
 | **Noção**         | Ferramenta de visualização das acomodações, atividades e atrações disponíveis em determinada região.                                                                        |
-| **Impacto**         | O mapa é importante para ajudar os[usuários](#usuario) a localizarem as opções disponíveis e também para oferecer uma visão geral da oferta disponível em determinada região. |
+| **Impacto**         | O mapa é importante para ajudar os [usuários](#usuario) a localizarem as opções disponíveis e também para oferecer uma visão geral da oferta disponível em determinada região. |
 | **Rastro**          | [FOBS010](../elicitacao/observacao.md)                                                                                                                                                 |
 
 <div style="text-align: center">
@@ -222,8 +222,8 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Ator**            | Samuel Gomes                                                                                                                                                                        |
 | **Classificação** | Objeto                                                                                                                                                                              |
 | **Sinônimos**      | Suporte, assistência, orientação                                                                                                                                                 |
-| **Noção**         | Seção de ajuda no aplicativo, onde os[usuários](#usuario) podem encontrar respostas para suas dúvidas e soluções para problemas técnicos.                                       |
-| **Impacto**         | A seção de ajuda é fundamental para garantir que os[usuários](#usuario) possam utilizar o aplicativo de forma eficiente e também para reduzir a sobrecarga de suporte ao cliente. |
+| **Noção**         | Seção de ajuda no aplicativo, onde os [usuários](#usuario) podem encontrar respostas para suas dúvidas e soluções para problemas técnicos.                                     |
+| **Impacto**         | A seção de ajuda é fundamental para garantir que os [usuários](#usuario) possam utilizar o aplicativo de forma eficiente e também para reduzir a sobrecarga de suporte ao cliente. |
 | **Rastro**          | [FOBS014](../elicitacao/observacao.md)                                                                                                                                                 |
 
 <div style="text-align: center">
@@ -237,15 +237,15 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Ator**            | Samuel Gomes                                                                                                                                                                                                      |
 | **Classificação** | Objeto                                                                                                                                                                                                            |
 | **Sinônimos**      | Locação de veículos                                                                                                                                                                                            |
-| **Noção**         | Opção de aluguel de carros no aplicativo, onde os[usuários](#usuario) podem encontrar e [reservar](#reservar) veículos disponíveis em diferentes locais e datas.                                                   |
-| **Impacto**         | O aluguel de carros é uma opção importante para muitos[usuários](#usuario) que precisam se deslocar durante suas viagens e sua inclusão no aplicativo pode aumentar a atratividade e a utilidade da plataforma. |
+| **Noção**         | Opção de aluguel de carros no aplicativo, onde os [usuários](#usuario) podem encontrar e [reservar](#reservar) veículos disponíveis em diferentes locais e datas.                                                 |
+| **Impacto**         | O aluguel de carros é uma opção importante para muitos [usuários](#usuario) que precisam se deslocar durante suas viagens e sua inclusão no aplicativo pode aumentar a atratividade e a utilidade da plataforma. |
 | **Rastro**          | [FOBS08](../elicitacao/observacao.md)                                                                                                                                                                                |
 
 <div style="text-align: center">
     <p> Tabela 15: Léxico 14. (Fonte: Autores. 2023).</p>
 </div>
 
-### `<p id="reservar">` L15 - Reservar `</p>`
+### <p id="reservar"> L15 - Reservar </p>
 
 | **L24**             | Reservar                                                                                                          |
 | :------------------------ | :---------------------------------------------------------------------------------------------------------------- |
@@ -267,7 +267,7 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
 | **Autor**           | Pedro Henrique                                                                               |
 | **Classificação** | Estado                                                                                       |
 | **Sinônimos**      | _Estado, situação, condição_                                                           |
-| **Noção**         | É uma informação a respeito da situação da reserva feita pelo[usuário](#usuario)          |
+| **Noção**         | É uma informação a respeito da situação da reserva feita pelo [usuário](#usuario)        |
 | **Impacto**         | _Os [usuários](#usuario) são informados da situação de suas reservas feitas pelo Booking_ |
 | **Rastro**          | [OBS08](../elicitacao/brainstorm.md)                                                            |
 
@@ -275,7 +275,7 @@ O modelo a ser seguido na apresentação dos léxicos será exemplificado na Tab
     <p> Tabela 17: Léxico 16. (Fonte: Autores. 2023).</p>
 </div>
 
-### `<p id="usuario">` L17 - Usuário `</p>`
+### <p id="usuario"> L17 - Usuário </p>
 
 | **L26**             | _Usuário_                                                                 |
 | :------------------------ | :--------------------------------------------------------------------------- |
