@@ -40,37 +40,33 @@ A tabela a seguir, Tabela 1, apresenta todas as ferramentas utilizadas no projet
 
 ## Métodos de Vericação e Validação
 
-| Etapa Verificada | Artefatos | Metodologia | Autor(es) | Revisor(es) |
-| ---------------- | --------- | ----------- | --------- | ----------- |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
-|                  |           |             |           |             |
+| Etapa Verificada  | Artefato Verificado                                                                           | Autor(es)                                   | Revisor(es)           |
+| ----------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------- | --------------------- |
+| Pré-Planejamento | [Rich Picture](../verificacaoGrupo/prePlanejamento/richPicture.md)                               | Gabriel e Lucas                             | ---                   |
+| Planejamento      | [Lista de Aplicativos](../verificacaoGrupo/planejamento/listaDeAplicativos.md)                   | Pedro                                       | ---                   |
+|                   | [Aplicativo Selecionado](../verificacaoGrupo/planejamento/aplicativoSelecionado.md)              | Pedro                                       | ---                   |
+|                   | [Ferramentas](../verificacaoGrupo/planejamento/ferramenta.md)                                    | Samuel                                      | ---                   |
+|                   | [Cronogramas](../verificacaoGrupo/planejamento/cronograma.md)                                    | Lucas                                       | ---                   |
+| Elicitação      | [Perfil de Usuário](../verificacaoGrupo/elicitacao/perfilUsuario.md)                            | Lucas e Chaydson                            | ---                   |
+|                   | [Personas](../verificacaoGrupo/elicitacao/personas.md)                                           | Henrique e Samuel                           | ---                   |
+|                   | [Storytelling](../verificacaoGrupo/elicitacao/storytelling.md)                                   | Gabriel e Chaydson                          | ---                   |
+|                   | [Observação](../verificacaoGrupo/elicitacao/observacao.md)                                     | Lucas                                       | ---                   |
+|                   | [Brainstorm](../verificacaoGrupo/elicitacao/brainstorm.md)                                       | Henrique e Samuel                           | ---                   |
+| Priorização     | [MOSCOW](../verificacaoGrupo/priorizacao/moscow.md)                                              | Pedro                                       | ---                   |
+|                   | [InOrOut](../verificacaoGrupo/priorizacao/inOrOut.md)                                            | Lucas                                       | ---                   |
+|                   | [Three Level Scale](../verificacaoGrupo/priorizacao/threeLevelScale.md)                          | Pedro e Gabriel                             | ---                   |
+| Modelagem         | [Cenários](../verificacaoGrupo/modelagem/cenarios.md)                                           | Chaydson e Samuel                           | ---                   |
+|                   | [Léxicos](../verificacaoGrupo/modelagem/lexicos.md)                                             | Henrique e Chaydson                         | ---                   |
+|                   | [Casos de Uso](../modelagem/casosDeUso.md)                                                       | Lucas                                       | ---                   |
+|                   | [Especificação Suplementar](../verificacaoGrupo/modelagem/especificacaoSuplementar.md)         | Gabriel e Pedro                             | ---                   |
+| Modelagem - Ágil | [Backlog](../verificacaoGrupo/agil/backlog.md)                                                   | Gabriel e Pedro                             | ---                   |
+|                   | [História de Usuário](../verificacaoGrupo/agil/historiasDeUsuario.md)                          | Henrique e Samuel                           | ---                   |
+|                   | [NRF Framework](../verificacaoGrupo/modelagem/nfrFrameWork.md)                                   | Chaydson e Lucas                            | ---                   |
+| Rastreabilidade   | Backward-From                                                                                 | ---                                         | ---                   |
+|                   | Foward-From                                                                                   | ---                                         | ---                   |
+|                   | Matriz Geral                                                                                  | ---                                         | ---                   |
+| Validação       | [Validação por Comprovação Infomal](../verificacaoGrupo/validacao.md#comprovação-informal) | Chaydson, Gabriel e Henrique                | Lucas, Samuel e Pedro |
+|                   | [Validação por Prototipagem](../verificacaoGrupo/validacao.md#prototipagem)                    | Gabriel, Henrique, Pedro, Lucas e Chaydson | Samuel                |
 
 <div style="text-align: center">
 <p> Tabela 2: Métodos de Verificação e Validação utilizadas durante o projeto (Fonte: Pedro, 2023). </p>
@@ -501,19 +497,18 @@ A tabela a seguir, Tabela 3, apresenta todos os artefatos criados no projeto, or
 
 ## Apresentações do Projeto
 
-A Tabela X contém as apresentações durante o projeto, as apresentações são reflexos do que foi desenvolvido em cada etapa do projeto.
+A Tabela 4 contém as apresentações durante o projeto, as apresentações são reflexos do que foi desenvolvido em cada etapa do projeto.
 
-| Etapa | Apresentação | Participantes                                      |
-| ----- | -------------- | -------------------------------------------------- |
-| 1     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 2     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 3     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 4     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 5     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 6     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 7     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 8     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 9     |                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| Etapa | Apresentação                                                                                        | Participantes                                      |
+| ----- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1     | [Primeira Apresentação -  Pré-Planejamento e Planejamento](../apresentacoes/primeiraApresentacao.md) | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 2     | [Segunda Apresentação - Elicitação e Priorização](../apresentacoes/segundaApresentacao.md)        | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 3     | [Terceira Apresentação - Modelagem ](../apresentacoes/terceiraApresentacao.md)                         | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 4     | [Quarta Apresentação - Modelagem de Requisitos - Ágil ](../apresentacoes/quartaApresentacao.md)       | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 5.1   | [Quinta Apresentação - Verificação sobre o Grupo 03](../apresentacoes/quintaApresentacao.md)         | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 5.2   | [Sexta Apresentação - Verificação e Validação](../apresentacoes/sextaApresentacao.md)              | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 6     | [Sétima Apresentação - Backward-from, Foward-From e Matriz Geral]()                                   | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 7     | [Oitava Apresentação - Entrega Final]()                                                                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
 
 <div style="text-align: center">
 <p> Tabela 4: Apresentações e seus participantes (Fonte: Gabriel, 2023). </p>
