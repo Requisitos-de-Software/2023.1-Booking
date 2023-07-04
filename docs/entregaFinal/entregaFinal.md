@@ -40,6 +40,8 @@ A tabela a seguir, Tabela 1, apresenta todas as ferramentas utilizadas no projet
 
 ## Métodos de Vericação e Validação
 
+Na Tabela 2, está contida dados sobre os artefatos verificados e dados sobre a validação, além de seus autores e revisores se houver.
+
 | Etapa Verificada  | Artefato Verificado                                                                           | Autor(es)                                   | Revisor(es)           |
 | ----------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------- | --------------------- |
 | Pré-Planejamento | [Rich Picture](../verificacaoGrupo/prePlanejamento/richPicture.md)                               | Gabriel e Lucas                             | ---                   |
@@ -499,16 +501,16 @@ A tabela a seguir, Tabela 3, apresenta todos os artefatos criados no projeto, or
 
 A Tabela 4 contém as apresentações durante o projeto, as apresentações são reflexos do que foi desenvolvido em cada etapa do projeto.
 
-| Etapa | Apresentação                                                                                        | Participantes                                      |
-| ----- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 1     | [Primeira Apresentação -  Pré-Planejamento e Planejamento](../apresentacoes/primeiraApresentacao.md) | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 2     | [Segunda Apresentação - Elicitação e Priorização](../apresentacoes/segundaApresentacao.md)        | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 3     | [Terceira Apresentação - Modelagem ](../apresentacoes/terceiraApresentacao.md)                         | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 4     | [Quarta Apresentação - Modelagem de Requisitos - Ágil ](../apresentacoes/quartaApresentacao.md)       | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 5.1   | [Quinta Apresentação - Verificação sobre o Grupo 03](../apresentacoes/quintaApresentacao.md)         | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 5.2   | [Sexta Apresentação - Verificação e Validação](../apresentacoes/sextaApresentacao.md)              | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 6     | [Sétima Apresentação - Backward-from, Foward-From e Matriz Geral](../apresentacoes/setimaApresentacao.md)                                   | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 7     | [Oitava Apresentação - Entrega Final](../apresentacoes/oitavaApresentacao.md)                                                                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| Etapa | Apresentação                                                                                            | Participantes                                      |
+| ----- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1     | [Primeira Apresentação -  Pré-Planejamento e Planejamento](../apresentacoes/primeiraApresentacao.md)     | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 2     | [Segunda Apresentação - Elicitação e Priorização](../apresentacoes/segundaApresentacao.md)            | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 3     | [Terceira Apresentação - Modelagem ](../apresentacoes/terceiraApresentacao.md)                             | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 4     | [Quarta Apresentação - Modelagem de Requisitos - Ágil ](../apresentacoes/quartaApresentacao.md)           | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 5.1   | [Quinta Apresentação - Verificação sobre o Grupo 03](../apresentacoes/quintaApresentacao.md)             | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 5.2   | [Sexta Apresentação - Verificação e Validação](../apresentacoes/sextaApresentacao.md)                  | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 6     | [Sétima Apresentação - Backward-from, Foward-From e Matriz Geral](../apresentacoes/setimaApresentacao.md) | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 7     | [Oitava Apresentação - Entrega Final](../apresentacoes/oitavaApresentacao.md)                              | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
 
 <div style="text-align: center">
 <p> Tabela 4: Apresentações e seus participantes (Fonte: Gabriel, 2023). </p>
