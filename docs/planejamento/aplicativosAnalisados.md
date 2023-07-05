@@ -1,6 +1,6 @@
 # Introdução
 
-Seja bem-vindo à página de aplicativos analisados! Aqui, você encontrará uma lista completa de aplicativos avaliados pelo nosso grupo, juntamente com descrições detalhadas de cada um deles, bem como ilustrações na forma de rich picture para ajudar na visualização e compreensão.
+Seja bem-vindo à página de aplicativos analisados! Aqui, você encontrará uma lista completa de aplicativos avaliados pelo nosso grupo, juntamente com descrições detalhadas de cada um deles, bem como ilustrações na forma de rich picture para ajudar na visualização e compreensão. Um rich picture é uma maneira de explorar, reconhecer e definir uma situação e expressá-la através de diagramas para criar um modelo mental preliminar e pode ajudar a abrir discussão e chegar a um entendimento amplo e compartilhado de uma situação. Este método foi originalmente desenvolvido como parte da Metodologia de Sistemas Suaves (SSM) de Peter Checkland (2008).
 
 ## Booking
 
@@ -10,7 +10,7 @@ O Booking é um aplicativo de reserva de acomodações e viagens disponível par
 
 ### Rich Picture:
 
-Abaixo, na Figura 1, podemos ver o Rich Picture feito, para a análise da equipe, do aplicativo Booking.
+A Figura 1 apresenta o Rich Picture elaborado para análise do aplicativo Booking.
 
 Autor: Lucas Lopes
 
@@ -28,7 +28,7 @@ O Cadastro Único (CadÚnico) é um aplicativo criado pelo Governo Federal do Br
 
 ### Rich Picture:
 
-Abaixo, na Figura 2, podemos ver o Rich Picture feito, para a análise da equipe, do aplicativo Cadastro Único.
+A Figura 2 apresenta o Rich Picture elaborado para análise do aplicativo Cadastro Único.
 
 Autor: Gabriel Ferreira
 
@@ -46,7 +46,7 @@ O aplicativo "Calendário Menstrual - Period Tracker" é uma ferramenta para aco
 
 ### Rich Picture:
 
-Abaixo, na Figura 3, podemos ver o Rich Picture feito, para a análise da equipe, do aplicativo Calendário Menstrual.
+A Figura 3 apresenta o Rich Picture elaborado para análise do aplicativo Calendário Menstrual.
 
 Autor: Chaydson Ferreira
 
@@ -64,7 +64,7 @@ O Dívida Aberta é um aplicativo gratuito que permite aos usuários gerenciar s
 
 ### Rich Picture:
 
-Abaixo, na Figura 4, podemos ver o Rich Picture feito, para a análise da equipe, do aplicativo Dívida Aberta.
+A Figura 4 apresenta o Rich Picture elaborado para análise do aplicativo Dívida Aberta.
 
 Autor: Henrique Pucci
 
@@ -82,7 +82,7 @@ O Localiza é um aplicativo que permite alugar carros de forma simples e rápida
 
 ### Rich Picture:
 
-Abaixo, na Figura 5, podemos ver o Rich Picture feito, para a análise da equipe, do aplicativo Localiza.
+A Figura 5 apresenta o Rich Picture elaborado para análise do aplicativo Localiza.
 
 Autor: Samuel Gomes
 
@@ -100,7 +100,7 @@ O Pinterest é um aplicativo de rede social e plataforma de compartilhamento de 
 
 ### Rich Picture:
 
-Abaixo, na Figura 6, podemos ver o Rich Picture feito, para a análise da equipe, do aplicativo Pinterest.
+A Figura 6 apresenta o Rich Picture elaborado para análise do aplicativo Pinterest.
 
 Autor: Pedro Henrique
 
@@ -110,7 +110,11 @@ Autor: Pedro Henrique
 <p> Figura 6: Rich Picture do aplicativo Pinterest (Fonte: Pedro, 2023). </p>
 </div>
 
-## Referências
+## Bibliografia
+
+BARROS, André. Rich Picture. Disponível em: [https://www.youtube.com/watch?v=NxEPxW_Ku8M&ab_channel=Andr%C3%A9Barro
+sdeSales](https://www.youtube.com/watch?v=NxEPxW_Ku8M&ab_channel=Andr%C3%A9Barro
+sdeSales). Acesso em: 11 abr.. 2023.
 
 BOOKING.COM B.V. Booking.com: Hotéis, casas e muito mais. Disponível em: [https://play.google.com/store/apps/details?id=com.booking&amp;hl=pt_BR&amp;gl=US](https://play.google.com/store/apps/details?id=com.booking&hl=pt_BR&gl=US). Acesso em: 11 abr. 2023.
 
@@ -126,6 +130,8 @@ LOCALIZA HERTZ S.A. Localiza Hertz - Aluguel de carros e venda de seminovos. Dis
 
 PINTEREST, INC. Pinterest - Ideias criativas para todos os projetos da vida. Disponível em: [https://play.google.com/store/apps/details?id=com.pinterest&amp;hl=pt_BR&amp;gl=US](https://play.google.com/store/apps/details?id=com.pinterest&hl=pt_BR&gl=US). Acesso em: 11 abr. 2023.
 
+Better Evaluation. Rich pictures. Better Evaluation. Disponível em: [https://www.betterevaluation.org/methods-approaches/methods/rich-pictures](https://www.betterevaluation.org/methods-approaches/methods/rich-pictures). Acesso em: 11 abr. 2023
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es) | Revisor(es)                                        |
@@ -134,3 +140,4 @@ PINTEREST, INC. Pinterest - Ideias criativas para todos os projetos da vida. Dis
 | 1.1     | 20/04/2023 | Adicionando legendas nas imagems     | Lucas     | Henrique                                           |
 | 1.2     | 24/04/2023 | Padronizando referências            | Samuel    | Pedro                                              |
 | 1.3     | 24/04/2023 | Adicionando descrição para imagens | Henrique  | Lucas                                              |
+| 1.4     | 05/07/2023 | Realizando correções               | Samuel    | Pedro                                              |
