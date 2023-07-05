@@ -1,30 +1,28 @@
 ## Introdução
 
-Bem-vindo à página do aplicativo selecionado. Aqui serão apresentados os detalhes do aplicativo escolhido dentre a [lista de aplicativos](aplicativosAnalisados.md).
+Bem-vindo à página do aplicativo selecionado para ser estudado na disciplina. Aqui serão apresentados os detalhes do aplicativo escolhido dentre a [lista de aplicativos](aplicativosAnalisados.md). O aplicativo escolhido para este projeto é o Booking, uma plataforma popular que oferece uma ampla gama de opções de hospedagem e serviços relacionados a viajantes de todo o mundo.
 
-## Qual foi o aplicativo selecionado?
+## Sobre o aplicativo
 
-O aplicativo escolhido é o booking, que oferece diversas opções de hospedagem, desde hotéis, apartamentos, resorts e pousadas, até aluguéis de carros e pacotes de viagem completos. Ele pode ser encontrado tanto na Play Store quanto na App Store. Para saber mais detalhes consulte a [lista de aplicativos](aplicativosAnalisados.md).
+O [Booking](https://www.booking.com/apps.pt-br.html) oferece diversas opções de hospedagem, desde hotéis, apartamentos, resorts e pousadas, até aluguéis de carros e pacotes de viagem completos. Ele pode ser encontrado tanto na Play Store quanto na App Store. Para saber mais detalhes consulte a [lista de aplicativos](aplicativosAnalisados.md).
 
 ## Por que foi escolhido o Booking?
 
-O aplicativo Booking foi escolhido para o projeto na disciplina de requisitos de software devido à sua grande popularidade e ampla utilização em todo o mundo. Com uma ampla gama de acomodações disponíveis em diferentes países e cidades, ele oferece uma variedade de funcionalidades e recursos, incluindo pesquisa e reserva de acomodações, gerenciamento de reservas, suporte ao cliente e muito mais. Estudar os requisitos de software de um aplicativo tão complexo pode ser uma oportunidade valiosa para aprender técnicas de elicitação e análise de requisitos, bem como desenvolver habilidades em gerenciamento de projetos de software e boas práticas de engenharia de software. Portanto, o Booking pode ser um desafio significativo e uma oportunidade de aplicar conceitos e metodologias aprendidos na disciplina de requisitos de software.
+O aplicativo Booking foi escolhido para o projeto na disciplina de Requisitos de Software devido à sua grande popularidade e ampla utilização em todo o mundo, além de fácil acesso aos seus usuários. Com uma ampla gama de acomodações disponíveis em diferentes países e cidades, ele oferece uma variedade de funcionalidades e recursos, incluindo pesquisa e reserva de acomodações, gerenciamento de reservas, suporte ao cliente e muito mais. Estudar os requisitos de um aplicativo tão complexo oferece uma oportunidade valiosa para aprender técnicas de elicitação e análise de requisitos. Portanto, o Booking pode ser um desafio significativo e uma oportunidade de aplicar conceitos e metodologias aprendidos na disciplina de Requisitos de Software.
 
 ## Imagens do aplicativo
 
-Abaixo, na figura 1, podemos ver algumas imagens demonstrando algumas funcionalidades do aplicativo booking.
+Na Figura 1, podemos ver algumas imagens demonstrando algumas funcionalidades do aplicativo booking.
 
 ![Imagens do aplicativo Booking](../assets/appSelecionado/imagensBooking.jpg)
 
 <div style="text-align: center">
-<p> Figura 1: Imagens do aplicativo (Fonte: Apple store, 2023). </p>
+<p> Figura 1: Imagens do aplicativo (Fonte: Booking.com, 2023). </p>
 </div>
-
-Disponível em: [Apple Store](https://apps.apple.com/br/app/ofertas-de-viagem-booking-com/id367003839)
 
 ## Direito de Uso ou Propriedade Intelectual
 
-O aplicativo do Booking, possui uma politica de uso, no seus termos, sendo localizado em seu site, pode ser localizado no termo A14(A14.2 e A14.3), que  as únicas restrições quanto ao uso da plataforma do Booking.com referece a proibição do uso comercial do mesmo, sem a expressa autorização assinada de pessoas licenciadas ou do próprio booking.com, o nosso objetivo é apenas de apredizado, ficando claro que o projeto não tem nenhum objetivo comercial apenas de aprendizado. Abaixo, na Figura 2, está a imagem dos termos encontrados e nas referências bibliográficas o link para site do mesmo.
+O aplicativo do Booking.com possui uma política de uso, que pode ser encontrada em seus termos no site. De acordo com os itens A14.2 e A14.3, as únicas restrições quanto ao uso da plataforma referem-se à proibição do uso comercial sem autorização expressa assinada por pessoas licenciadas ou pelo próprio Booking.com. Nosso objetivo é apenas de aprendizado, deixando claro que o projeto não tem nenhum objetivo comercial. Na Figura 2, é possível visualizar a imagem dos termos encontrados. O link para o site com esses termos pode ser encontrado nas referências bibliográficas.
 
 ![Direito de Imagem](../images/direito_de_imagem.png)
 
@@ -32,15 +30,18 @@ O aplicativo do Booking, possui uma politica de uso, no seus termos, sendo local
 <p> Figura 2: Direito de Propriedade Intelectual (Fonte: Booking.com, 2023). </p>
 </div>
 
-## Referências Bibliográfica
+## Bibliografia
 
-[1] Termos e Condições do Bookinkg.com. https://www.booking.com/content/terms.pt-br.html.Acesso em 20 de abril de 2023.
+BOOKING.COM. Booking.com: Hotéis e Viagens. Disponível em: https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839. Acesso em: 11 abr. 2023.
+
+Booking.com. Termos e Condições. Disponível em: https://www.booking.com/content/terms.pt-br.html.Acesso em 20 abr. 2023.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)    | Revisor(es) |
-| ------- | ---------- | ---------------------- | ------------ | ----------- |
-| 1.0     | 11/05/2023 | Criação do documento | Samuel Gomes | Lucas Lopes |
-| 1.1     | 20/04/2023 | Atualização da Escolha | Gabriel      | Lucas       |
-| 1.2     | 20/04/2023 | Adicionando legendas nas imagens                  | Lucas     | Henrique       |
-| 1.3     | 23/04/2023 | Adicionando descrição para imagem                | Henrique     |   Lucas    |
+| Versão | Data       | Descrição                         | Autor(es) | Revisor(es)    |
+| ------- | ---------- | ----------------------------------- | --------- | -------------- |
+| 1.0     | 11/05/2023 | Criação do documento              | Samuel    | Lucas Lopes    |
+| 1.1     | 20/04/2023 | Atualização da Escolha            | Gabriel   | Lucas          |
+| 1.2     | 20/04/2023 | Adicionando legendas nas imagens    | Lucas     | Henrique       |
+| 1.3     | 23/04/2023 | Adicionando descrição para imagem | Henrique  | Lucas          |
+| 1.4     | 04/07/2023 | Realizando correções              | Samuel    | Pedro Henrique |

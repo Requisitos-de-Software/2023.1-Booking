@@ -150,12 +150,12 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
 
-| ID Correção | Ajuste                       |
-| ------------- | ---------------------------- |
-| IDC1          | Foi ajustado x realizando... |
-| IDC2          | Foi incluido x em ...        |
-| IDC3          | Foi removido x ...           |
-| IDC4          | X foi especificaod melhor... |
+| ID Correção | Ajuste                                                     |
+| ------------- | ---------------------------------------------------------- |
+| IDC1          | Foi adicionado legenda e citação de video                |
+| IDC2          | Foi adicionado links para os artefatos mencionados         |
+| IDC3          | Foi mudado "condição de entrada" para "pré-condição" |
+| IDC4          | Foi adicionado tag tag << system >> no ator secundário   |
 
 <div style="text-align: center">
 <p> Tabela 7: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
@@ -172,3 +172,4 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
 | 20/06/2023 |   1.0   | Criação do documento |   Lucas   |
+| 04/07/2023 |   1.1   | Adicionando correção |  Samuel  |
