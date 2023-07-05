@@ -109,74 +109,74 @@ Utilizando as três técnica de modelagem ensinadas em sala de aula, esses 3 art
 
 A seguir, na Tabela 1, serão apresentas as técnicas utilizadas em cada artefato produzindo, tendo em vista também sua etapa e seu respectivo autor(es).
 
-| Etapa | Artefato                    |                            Técnica                            | Autor(es)                                  |
-| :---- | --------------------------- | :-------------------------------------------------------------: | ------------------------------------------ |
-|       | [Aplicativos Analisados](../planejamento/aplicativosAnalisados.md)     |                  Rich Picture e Introspecção                  | Samuel                                     |
-|       | [Aplicativo Selecionado](../planejamento/aplicativoSelecionado.md)     |                  Rich Picture e Introspecção                  | Samuel                                     |
-|       | [Cronograma Planejado](../planejamento/cronograma.md)     |                    Scrum e Pair Programming                    | Chaydson                                   |
-|       | [Ferramentas](../planejamento/ferramentas.md)                 |                                -                                | Pedro                                      |
-|       | [Cronograma Realizado](../planejamento/cronogramaRealizado.md)       |                                -                                | Lucas                                      |
-|       | [Rich Picture](../prePlanejamento/richPicture.md)                |                          Rich Picture                          | Gabriel e Lucas                            |
-|       | [Disponibilidade de Membros](../planejamento/disponibilidade.md) |                             Heatmap                             | Gabriel                                    |
-|       | [Metodologia](../planejamento/metodologia.md)                 |                                -                                | Gabriel                                    |
-|       | [Perfil de Usuário](../elicitacao/perfilDeUsuario.md)          |                          Questionário                          | Henrique e Pedro                           |
-|       | [Personas](../elicitacao/personas.md)                    |                        Personificação                        | Chaydson e Gabriel                         |
-|       | [Brainstorming](../elicitacao/brainstorm.md)               |                           Brainstorm                           | Gabriel e Samuel                           |
-|       | [Observação](../elicitacao/observacao.md)                |                          Observação                          | Pedro e Chaydson                           |
-|       | [Storytelling](../elicitacao/storytelling.md)                |          Personificação, Encenação e Storytelling          | Lucas e Samuel                             |
-|       | [Three Level-Scale](../elicitacao/threeLevelScale.md)           | Personificação, Encenação e Priorização Three level-scale | Henrique e Lucas                           |
-|       | [In or Out](../elicitacao/inOrOut.md)                  |          Priorização Three level-scale e Entrevista          | Pedro e Samuel                             |
-|       | [MoSCoW](../elicitacao/moscow.md)                     |                             MoSCoW                             | Lucas, Henrique e Chaydson                 |
-|       | [Cenários](../modelagem/cenarios.md)                   |                            Cenários                            | Lucas e Gabriel                            |
-|       | [Léxicos](../modelagem/lexicos.md)                    |                            Léxicos                            | Pedro e Samuel                             |
-|       | [Casos de Uso](../modelagem/casosDeUso.md)                |                    Diagrama de Casos de uso                    | Samuel                                     |
-|       | [Especificação Suplementar](../modelagem/especificacaoSuplementar.md) |                             FURPS+                             | Henrique e Chaydson                        |
-|       | [Backlog](../modelagem/modelo-agil/backlog.md)                     |              Tema, Épico e Histórias de Usuário              | Lucas e Chaydson                           |
-|       | [História de Usuário](../modelagem/modelo-agil/historiasDeUsuario.md)      |               Historias de Usuário e Entrevista               | Pedro e Gabriel                            |
-|       | [NFR Framework](../modelagem/modelo-agil/nfrFramework.md)               |             Softgoal Interdependency Graphs (SIGs)             | Henrique e Samuel                          |
-|       | [Metodologia](../verificacao3/metodologia.md)                 |                                -                                | Lucas                                      |
-|       | [Cronograma](../verificacao3/planejamento/cronograma.md)                |                     Inspeção e Checklist                     | Lucas                                      |
-|       | [Lista de Aplicativos](../verificacao3/planejamento/listaDeAplicativos.md)        |                     Inspeção e Checklist                     | Pedro                                      |
-|       | [Ferramentas](../verificacao3/planejamento/ferramenta.md)                 |                     Inspeção e Checklist                     | Samuel                                     |
-|       | [Rich Picture](../verificacao3/prePlanejamento/richPicture.md)                |                     Inspeção e Checklist                     | Henrique e Chaydson                        |
-|       | [Perfil de Usuário](../verificacao3/elicitacao/perfilUsuario.md)         |                     Inspeção e Checklist                     | Lucas e Chaydson                           |
-|       | [Personas](../verificacao3/elicitacao/personas.md)                    |                     Inspeção e Checklist                     | Henrique e Samuel                          |
-|       | [Storytelling](../verificacao3/elicitacao/storytelling.md)               |                     Inspeção e Checklist                     | Chaydson e Gabriel                         |
-|       | [In or Out](../verificacao3/priorizacao/inOrOut.md)                   |                     Inspeção e Checklist                     | Lucas e Henrique                           |
-|       | [First Things First](../verificacao3/priorizacao/firstThingsFirst.md)         |                     Inspeção e Checklist                     | Pedro e Gabriel                            |
-|       | [Moscow](../verificacao3/priorizacao/moscow.md)                      |                     Inspeção e Checklist                     | Pedro e Samuel                             |
-|       | [Casos de Uso](../verificacao3/modelagem/casoUso.md)               |                     Inspeção e Checklist                     | Lucas                                      |
-|       | [Especificação Suplementar](../verificacao3/modelagem/especificacaoSuplementar.md) |                     Inspeção e Checklist                     | Pedro e Gabriel                            |
-|       | [Léxicos](../verificacao3/modelagem/lexicos.md)                    |                     Inspeção e Checklist                     | Henrique e Chaydson                        |
-|       | [Cenários](../verificacao3/modelagem/cenarios.md)                   |                     Inspeção e Checklist                     | Chaydson e Samuel                          |
-|       | [Backlog](../verificacao3/agil/backlog.md)                     |                     Inspeção e Checklist                     | Pedro e Gabriel                            |
-|       | [Histórias de Usuário](../verificacao3/agil/historiasDeUsuario.md)      |                     Inspeção e Checklist                     | Henrique e Samuel                          |
-|       | [NFR Framework](../verificacao3/agil/nfrFramework.md)              |                     Inspeção e Checklist                     | Lucas e Chaydson                           |
-|       | [Metodologia](../verificacaoGrupo/metodologia.md)                 |                                -                                | Pedro, Lucas e Samuel                      |
-|       | [Cronograma](../verificacaoGrupo/planejamento/cronograma.md)                  |                     Inspeção e Checklist                     | Lucas                                      |
-|       | [Aplicativos Analisados](../verificacaoGrupo/planejamento/listaDeAplicativos.md)      |                     Inspeção e Checklist                     | Pedro                                      |
-|       | [Aplicativo Selecionado](../verificacaoGrupo/planejamento/aplicativoSelecionado.md)      |                     Inspeção e Checklist                     | Pedro                                      |
-|       | [Ferramentas](../verificacaoGrupo/planejamento/ferramenta.md)                 |                     Inspeção e Checklist                     | Samuel                                     |
-|       | [Rich Picture](../verificacaoGrupo/prePlanejamento/richPicture.md)                |                     Inspeção e Checklist                     | Henrique e Chaydson                        |
-|       | [Perfil de Usuário](../verificacaoGrupo/elicitacao/perfilUsuario.md)          |                     Inspeção e Checklist                     | Lucas e Chaydson                           |
-|       | [Personas](../verificacaoGrupo/elicitacao/personas.md)                    |                     Inspeção e Checklist                     | Henrique e Samuel                          |
-|       | [Brainstorming](../verificacaoGrupo/elicitacao/brainstorm.md)               |                     Inspeção e Checklist                     | Henrique e Samuel                          |
-|       | [Storytelling](../verificacaoGrupo/elicitacao/storytelling.md)                |                     Inspeção e Checklist                     | Chaydson e Samuel                          |
-|       | [Observação](../verificacaoGrupo/elicitacao/observacao.md)                |                     Inspeção e Checklist                     | Lucas                                      |
-|       | [In or Out](../verificacaoGrupo/priorizacao/inOrOut.md)                   |                     Inspeção e Checklist                     | Lucas                                      |
-|       | [Three Level-Scale](../verificacaoGrupo/priorizacao/threeLevelScale.md)           |                     Inspeção e Checklist                     | Pedro                                      |
-|       | [Moscow](../verificacaoGrupo/priorizacao/moscow.md)                      |                     Inspeção e Checklist                     | Pedro                                      |
-|       | [Casos de Uso](../verificacaoGrupo/modelagem/casoUso.md)                |                     Inspeção e Checklist                     | Lucas                                      |
-|       | [Especificação Suplemnetar](../verificacaoGrupo/modelagem/especificacaoSuplementar.md) |                     Inspeção e Checklist                     | Gabriel e Pedro                            |
-|       | [Léxicos](../verificacaoGrupo/modelagem/lexicos.md)                    |                     Inspeção e Checklist                     | Henrique e Chaydson                        |
-|       | [Cenários](../verificacaoGrupo/modelagem/cenarios.md)                   |                     Inspeção e Checklist                     | Chaydson e Samuel                          |
-|       | [Backlog](../verificacaoGrupo/agil/backlog.md)                     |                     Inspeção e Checklist                     | Gabriel e Pedro                            |
-|       | [Histórias de Usuário](../verificacaoGrupo/agil/historiasDeUsuario.md)      |                     Inspeção e Checklist                     | Henrique e Samuel                          |
-|       | [NFR Framework](../verificacaoGrupo/modelagem/nfrFrameWork.md)              |                     Inspeção e Checklist                     | Chaydson e Lucas                           |
-|       | [Validação](../verificacaoGrupo/validacao.md)                 |             Comprovação Informal e Prototipação             | Chaydson, Gabriel, Henrique, Lucas e Pedro |
-|       | [Backward From](../rastreabilidade/backward.md)               |                     Meta-modelo de Toranzo                     | Pedro e Henrique                           |
-|       | [Forward From](../rastreabilidade/forwardFrom.md)                |                     Meta-modelo de Toranzo                     | Lucas e Samuel                             |
-|       | [Matriz Geral](../rastreabilidade/matrizRastreabilidade.md)                |                     Inspeção e Checklist                     | Gabriel e Chaydson                         |
+| Etapa     | Artefato                                                                              |                            Técnica                            | Autor(es)                                  |
+| :-------- | ------------------------------------------------------------------------------------- | :-------------------------------------------------------------: | ------------------------------------------ |
+| Etapa 1   | [Aplicativos Analisados](../planejamento/aplicativosAnalisados.md)                       |                  Rich Picture e Introspecção                  | Samuel                                     |
+|           | [Aplicativo Selecionado](../planejamento/aplicativoSelecionado.md)                       |                  Rich Picture e Introspecção                  | Samuel                                     |
+|           | [Cronograma Planejado](../planejamento/cronograma.md)                                    |                    Scrum e Pair Programming                    | Chaydson                                   |
+|           | [Ferramentas](../planejamento/ferramentas.md)                                            |                                -                                | Pedro                                      |
+|           | [Cronograma Realizado](../planejamento/cronogramaRealizado.md)                           |                                -                                | Lucas                                      |
+|           | [Rich Picture](../prePlanejamento/richPicture.md)                                        |                          Rich Picture                          | Gabriel e Lucas                            |
+|           | [Disponibilidade de Membros](../planejamento/disponibilidade.md)                         |                             Heatmap                             | Gabriel                                    |
+|           | [Metodologia](../planejamento/metodologia.md)                                            |                                -                                | Gabriel                                    |
+| Etapa 2   | [Perfil de Usuário](../elicitacao/perfilDeUsuario.md)                                   |                          Questionário                          | Henrique e Pedro                           |
+|           | [Personas](../elicitacao/personas.md)                                                    |                        Personificação                        | Chaydson e Gabriel                         |
+|           | [Brainstorming](../elicitacao/brainstorm.md)                                             |                           Brainstorm                           | Gabriel e Samuel                           |
+|           | [Observação](../elicitacao/observacao.md)                                              |                          Observação                          | Pedro e Chaydson                           |
+|           | [Storytelling](../elicitacao/storytelling.md)                                            |          Personificação, Encenação e Storytelling          | Lucas e Samuel                             |
+|           | [Three Level-Scale](../elicitacao/threeLevelScale.md)                                    | Personificação, Encenação e Priorização Three level-scale | Henrique e Lucas                           |
+|           | [In or Out](../elicitacao/inOrOut.md)                                                    |          Priorização Three level-scale e Entrevista          | Pedro e Samuel                             |
+|           | [MoSCoW](../elicitacao/moscow.md)                                                        |                             MoSCoW                             | Lucas, Henrique e Chaydson                 |
+| Etapa 3   | [Cenários](../modelagem/cenarios.md)                                                    |                            Cenários                            | Lucas e Gabriel                            |
+|           | [Léxicos](../modelagem/lexicos.md)                                                      |                            Léxicos                            | Pedro e Samuel                             |
+|           | [Casos de Uso](../modelagem/casosDeUso.md)                                               |                    Diagrama de Casos de uso                    | Samuel                                     |
+|           | [Especificação Suplementar](../modelagem/especificacaoSuplementar.md)                  |                             FURPS+                             | Henrique e Chaydson                        |
+| Etapa 4   | [Backlog](../modelagem/modelo-agil/backlog.md)                                           |              Tema, Épico e Histórias de Usuário              | Lucas e Chaydson                           |
+|           | [História de Usuário](../modelagem/modelo-agil/historiasDeUsuario.md)                  |               Historias de Usuário e Entrevista               | Pedro e Gabriel                            |
+|           | [NFR Framework](../modelagem/modelo-agil/nfrFramework.md)                                |             Softgoal Interdependency Graphs (SIGs)             | Henrique e Samuel                          |
+| Etapa 5.1 | [Verificação Grupo 3 - Metodologia](../verificacao3/metodologia.md)                                            |                                -                                | Lucas                                      |
+|           | [Verificação Grupo 3 - Cronograma](../verificacao3/planejamento/cronograma.md)                                 |                     Inspeção e Checklist                     | Lucas                                      |
+|           | [Verificação Grupo 3 - Lista de Aplicativos](../verificacao3/planejamento/listaDeAplicativos.md)               |                     Inspeção e Checklist                     | Pedro                                      |
+|           | [Verificação Grupo 3 - Ferramentas](../verificacao3/planejamento/ferramenta.md)                                |                     Inspeção e Checklist                     | Samuel                                     |
+|           | [Verificação Grupo 3 - Rich Picture](../verificacao3/prePlanejamento/richPicture.md)                           |                     Inspeção e Checklist                     | Henrique e Chaydson                        |
+|           | [Verificação Grupo 3 - Perfil de Usuário](../verificacao3/elicitacao/perfilUsuario.md)                        |                     Inspeção e Checklist                     | Lucas e Chaydson                           |
+|           | [Verificação Grupo 3 - Personas](../verificacao3/elicitacao/personas.md)                                       |                     Inspeção e Checklist                     | Henrique e Samuel                          |
+|           | [Verificação Grupo 3 - Storytelling](../verificacao3/elicitacao/storytelling.md)                               |                     Inspeção e Checklist                     | Chaydson e Gabriel                         |
+|           | [Verificação Grupo 3 - In or Out](../verificacao3/priorizacao/inOrOut.md)                                      |                     Inspeção e Checklist                     | Lucas e Henrique                           |
+|           | [Verificação Grupo 3 - First Things First](../verificacao3/priorizacao/firstThingsFirst.md)                    |                     Inspeção e Checklist                     | Pedro e Gabriel                            |
+|           | [Verificação Grupo 3 - Moscow](../verificacao3/priorizacao/moscow.md)                                          |                     Inspeção e Checklist                     | Pedro e Samuel                             |
+|           | [Verificação Grupo 3 - Casos de Uso](../verificacao3/modelagem/casoUso.md)                                     |                     Inspeção e Checklist                     | Lucas                                      |
+|           | [Verificação Grupo 3 - Especificação Suplementar](../verificacao3/modelagem/especificacaoSuplementar.md)     |                     Inspeção e Checklist                     | Pedro e Gabriel                            |
+|           | [Verificação Grupo 3 - Léxicos](../verificacao3/modelagem/lexicos.md)                                         |                     Inspeção e Checklist                     | Henrique e Chaydson                        |
+|           | [Verificação Grupo 3 - Cenários](../verificacao3/modelagem/cenarios.md)                                       |                     Inspeção e Checklist                     | Chaydson e Samuel                          |
+|           | [Verificação Grupo 3 - Backlog](../verificacao3/agil/backlog.md)                                               |                     Inspeção e Checklist                     | Pedro e Gabriel                            |
+|           | [Verificação Grupo 3 - Histórias de Usuário](../verificacao3/agil/historiasDeUsuario.md)                     |                     Inspeção e Checklist                     | Henrique e Samuel                          |
+|           | [Verificação Grupo 3 - NFR Framework](../verificacao3/agil/nfrFramework.md)                                    |                     Inspeção e Checklist                     | Lucas e Chaydson                           |
+| Etapa 5.2 | [Verificação - Metodologia](../verificacaoGrupo/metodologia.md)                                        |                                -                                | Pedro, Lucas e Samuel                      |
+|           | [Verificação - Cronograma](../verificacaoGrupo/planejamento/cronograma.md)                             |                     Inspeção e Checklist                     | Lucas                                      |
+|           | [Verificação - Aplicativos Analisados](../verificacaoGrupo/planejamento/listaDeAplicativos.md)         |                     Inspeção e Checklist                     | Pedro                                      |
+|           | [Verificação - Aplicativo Selecionado](../verificacaoGrupo/planejamento/aplicativoSelecionado.md)      |                     Inspeção e Checklist                     | Pedro                                      |
+|           | [Verificação - Ferramentas](../verificacaoGrupo/planejamento/ferramenta.md)                            |                     Inspeção e Checklist                     | Samuel                                     |
+|           | [Verificação - Rich Picture](../verificacaoGrupo/prePlanejamento/richPicture.md)                       |                     Inspeção e Checklist                     | Henrique e Chaydson                        |
+|           | [Verificação - Perfil de Usuário](../verificacaoGrupo/elicitacao/perfilUsuario.md)                    |                     Inspeção e Checklist                     | Lucas e Chaydson                           |
+|           | [Verificação - Personas](../verificacaoGrupo/elicitacao/personas.md)                                   |                     Inspeção e Checklist                     | Henrique e Samuel                          |
+|           | [Verificação - Brainstorming](../verificacaoGrupo/elicitacao/brainstorm.md)                            |                     Inspeção e Checklist                     | Henrique e Samuel                          |
+|           | [Verificação - Storytelling](../verificacaoGrupo/elicitacao/storytelling.md)                           |                     Inspeção e Checklist                     | Chaydson e Samuel                          |
+|           | [Verificação - Observação](../verificacaoGrupo/elicitacao/observacao.md)                             |                     Inspeção e Checklist                     | Lucas                                      |
+|           | [Verificação - In or Out](../verificacaoGrupo/priorizacao/inOrOut.md)                                  |                     Inspeção e Checklist                     | Lucas                                      |
+|           | [Verificação - Three Level-Scale](../verificacaoGrupo/priorizacao/threeLevelScale.md)                  |                     Inspeção e Checklist                     | Pedro                                      |
+|           | [Verificação - Moscow](../verificacaoGrupo/priorizacao/moscow.md)                                      |                     Inspeção e Checklist                     | Pedro                                      |
+|           | [Verificação - Casos de Uso](../verificacaoGrupo/modelagem/casoUso.md)                                 |                     Inspeção e Checklist                     | Lucas                                      |
+|           | [Verificação - Especificação Suplemnetar](../verificacaoGrupo/modelagem/especificacaoSuplementar.md) |                     Inspeção e Checklist                     | Gabriel e Pedro                            |
+|           | [Verificação - Léxicos](../verificacaoGrupo/modelagem/lexicos.md)                                     |                     Inspeção e Checklist                     | Henrique e Chaydson                        |
+|           | [Verificação - Cenários](../verificacaoGrupo/modelagem/cenarios.md)                                   |                     Inspeção e Checklist                     | Chaydson e Samuel                          |
+|           | [Verificação - Backlog](../verificacaoGrupo/agil/backlog.md)                                           |                     Inspeção e Checklist                     | Gabriel e Pedro                            |
+|           | [Verificação - Histórias de Usuário](../verificacaoGrupo/agil/historiasDeUsuario.md)                 |                     Inspeção e Checklist                     | Henrique e Samuel                          |
+|           | [Verificação - NFR Framework](../verificacaoGrupo/modelagem/nfrFrameWork.md)                           |                     Inspeção e Checklist                     | Chaydson e Lucas                           |
+|           | [Validação](../verificacaoGrupo/validacao.md)                                          |             Comprovação Informal e Prototipação             | Chaydson, Gabriel, Henrique, Lucas e Pedro |
+| Etapa 6   | [Backward From](../rastreabilidade/backward.md)                                          |                     Meta-modelo de Toranzo                     | Pedro e Henrique                           |
+|           | [Forward From](../rastreabilidade/forwardFrom.md)                                        |                     Meta-modelo de Toranzo                     | Lucas e Samuel                             |
+|           | [Matriz Geral](../rastreabilidade/matrizRastreabilidade.md)                              |                     Inspeção e Checklist                     | Gabriel e Chaydson                         |
 
 <div style="text-align: center">
 <p> Tabela 1: Técnicas utilizadas em cada artefato, junto com seu autor(es) (Fonte: Henrique, 2023). </p>
@@ -701,3 +701,4 @@ A Tabela 5 contém as apresentações durante o projeto, as apresentações são
 | 1.2     | 04/07/2023 | Adicionando execução do projeto                                               | Lucas     | Chaydson    |
 | 1.3     | 04/07/2023 | Adicionando Seção de Métodos de Verificação e Validação, Apresentações | Gabriel   | Henrique    |
 | 1.4     | 04/07/2023 | Adicionando resultados alcançados                                              | Lucas     | Pedro       |
+| 1.5     | 05/07/2023 | Adicionando tabela de técnicas utilizadas                                              | Henrique     | Samuel      |
