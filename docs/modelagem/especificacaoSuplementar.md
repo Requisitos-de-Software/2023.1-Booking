@@ -27,20 +27,20 @@ No nosso projeto, cada categoria do acrônimo - Funcionalidade, Usabilidade, Con
 
 ### 1. Funcionalidades
 
-As funcionalidades já foram definidas nos outros documentos de modelagem.
+As funcionalidades já foram definidas nos documentos de [Casos de Uso](../modelagem/casosDeUso.md), [Léxicos](../modelagem/lexicos.md) e [Cenários](../modelagem/cenarios.md)
 
 ### 2. Usabilidade
 
 Na Tabela 1 estão registrados os requisitos de usabilidade
 
-| ID    | Descrição                                                                                                                        |
-|-------|----------------------------------------------------------------------------------------------------------------------------------|
-| USAB01 | o sistema deve ser intuitivo.                                                                                                    |
-| USAB02 | o sistema deve ser facilmente aprendido pelo usuário.                                                                            |
-| USAB03 | o sistema deve deve dar feedbacks ao usuário sobre o que está acontecendo enquanto ele está realizando ações no software.        |
-| USAB04 | as tarefas devem ser realizadas rapidamente e com poucos cliques e etapas.                                                       |
-| USAB05 | o software proporciona uma experiência agradável, intuitiva, feedback adequado e sensação de controle sobre as ações realizadas. |
-| USAB06 | o software deve ser capaz de atender pessoas com necessidades especiais de uso.                                                  |
+| ID     | Descrição                                                                                                                                         |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| USAB01 | o sistema deve ser intuitivo para o usuário.                                                                                                       |
+| USAB02 | o sistema deve ser facilmente aprendido pelo usuário.                                                                                              |
+| USAB03 | o sistema deve deve dar feedbacks ao usuário sobre o que está acontecendo enquanto ele está realizando ações no software.                      |
+| USAB04 | as tarefas devem ser realizadas rapidamente pelo usuário, com poucos cliques e etapas.                                                            |
+| USAB05 | o software proporciona ao usuário, uma experiência agradável, intuitiva, feedback adequado e sensação de controle sobre as ações realizadas. |
+| USAB06 | o software deve ser capaz de atender pessoas com necessidades especiais(visuais e auditivas) de uso.                                                |
 
 <div style="text-align: center">
     <p> Tabela 1: Requisitos de Usabilidade. (Fonte: Autores. 2023).</p>
@@ -50,13 +50,12 @@ Na Tabela 1 estão registrados os requisitos de usabilidade
 
 Na Tabela 2 estão registrados os requisitos de confiabilidade
 
-
-| ID     | Descrição                                                                                                |
-|--------|----------------------------------------------------------------------------------------------------------|
-| CONF01 | o sistema deve manter os dados seguros de ataques.                                                       |
-| CONF02 | o sistema deve garantir a integridade dos dados, ou seja, não permitir que modificações não autorizadas. |
-| CONF03 | O sistema deve estar em conformidade com as leis e regulamentações de privacidade de dados aplicáveis.   |
-| CONF04 | o sistema deve estar disponível todos os dias em todas as horas do dia.                                  |
+| ID     | Descrição                                                                                                                                       |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CONF01 | o sistema deve manter os dados seguros de ataques.                                                                                                |
+| CONF02 | o sistema deve garantir a integridade dos dados, ou seja, não permitir que modificações não autorizadas.                                      |
+| CONF03 | O sistema deve estar em conformidade com as leis e regulamentações, da região em que poderá ser baixado, de privacidade de dados aplicáveis. |
+| CONF04 | o sistema deve estar disponível todos os dias em todas as horas do dia.                                                                          |
 
 <div style="text-align: center">
     <p> Tabela 2: Requisitos de Confiabilidade. (Fonte: Autores. 2023).</p>
@@ -66,13 +65,12 @@ Na Tabela 2 estão registrados os requisitos de confiabilidade
 
 Na Tabela 3 estão registrados os requisitos de performance
 
-
-| ID     | Descrição                                                                                                           |
-|--------|---------------------------------------------------------------------------------------------------------------------|
-| PERF01 | o sistema não deve ter um tempo de resposta maior que 2 segundos.                                                   |
-| PERF02 | o sistema não deve sobrecarregar o processador do dispositivo.                                                      |
+| ID     | Descrição                                                                                                            |
+| ------ | ---------------------------------------------------------------------------------------------------------------------- |
+| PERF01 | o sistema não deve ter um tempo de resposta maior que 2 segundos.                                                     |
+| PERF02 | o sistema não deve sobrecarregar o processador do dispositivo.                                                        |
 | PERF03 | o sistema deve ser capaz de suportar um aumento de 100% na média de usuários simultâneos sem degradar o desempenho. |
-| PERF04 | o sistema deve ter um baixo consumo energético.                                                                     |
+| PERF04 | o sistema deve ter um baixo consumo energético.                                                                       |
 
 <div style="text-align: center">
     <p> Tabela 3: Requisitos de Performance. (Fonte: Autores. 2023).</p>
@@ -82,12 +80,11 @@ Na Tabela 3 estão registrados os requisitos de performance
 
 Na Tabela 4 estão registrados os requisitos de suportabilidade
 
-
-| ID     | Descrição                                                                                         |
-|--------|---------------------------------------------------------------------------------------------------|
-| SUPT01 | o aplicativo deve ser compatível com uma ampla variedade de dispositivos e sistemas operacionais. |
-| SUPT02 | O sistema deve rodar nas principais plataformas mobile Android e iOS.                             |
-| SUPT03 | O sistema deve possuir uma responsividade para os diferentes tipos de aparelhos e dispositivos.   |
+| ID     | Descrição                                                                                           |
+| ------ | ----------------------------------------------------------------------------------------------------- |
+| SUPT01 | o aplicativo deve ser compatível com uma ampla variedade de dispositivos e sistemas operacionais.    |
+| SUPT02 | O sistema deve rodar nas principais plataformas mobile Android 5.5 ou superior e iOS 6.X ou superior. |
+| SUPT03 | O sistema deve possuir uma responsividade para os diferentes tipos de aparelhos e dispositivos.       |
 
 <div style="text-align: center">
     <p> Tabela 4: Requisitos de Suportabilidade. (Fonte: Autores. 2023).</p>
@@ -97,9 +94,8 @@ Na Tabela 4 estão registrados os requisitos de suportabilidade
 
 Na Tabela 5 estão registrados os requisitos de design
 
-
 | ID     | Descrição                                                                                                                                                                                                          |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | DSGN01 | O sistema deve seguir um conjunto consistente de diretrizes visuais, incluindo a escolha de cores, tipografia, ícones e outros elementos de design pré-estabelecidos pela equipe de design.                        |
 | DSGN02 | O sistema deve refletir a marca da empresa ou organização que o desenvolveu. Para isso, deve-se incluir a escolha de cores e estilos de design que estejam alinhados com a marca e a identidade visual da empresa. |
 
@@ -111,10 +107,9 @@ Na Tabela 5 estão registrados os requisitos de design
 
 Na Tabela 6 estão registrados os requisitos de implementação
 
-
-| ID     | Descrição                                                                                                 |
-|--------|-----------------------------------------------------------------------------------------------------------|
-| IMPL01 | O aplicativo deve ser construído seguindo o padrão proposto pela empresa que o desenvolve.                |
+| ID     | Descrição                                                                                                |
+| ------ | ---------------------------------------------------------------------------------------------------------- |
+| IMPL01 | O aplicativo deve ser construído seguindo o padrão proposto pela empresa que o desenvolve.               |
 | IMPL02 | O aplicativo deve seguir o padrão de arquitetura proposto pela equipe de arquitetura presente no projeto. |
 
 <div style="text-align: center">
@@ -125,10 +120,9 @@ Na Tabela 6 estão registrados os requisitos de implementação
 
 Na Tabela 7 estão registrados os requisitos de interface
 
-
-| ID     | Descrição                                                                                                                       |
-|--------|---------------------------------------------------------------------------------------------------------------------------------|
-| INTF01 | O aplicativo deve ter uma interface intuitiva, com uma navegação clara e objetiva.                                              |
+| ID     | Descrição                                                                                                                         |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| INTF01 | O aplicativo deve ter uma interface intuitiva, com uma navegação clara e objetiva.                                                |
 | INTF02 | A interface do usuário deve ter uma hierarquia visual clara e fornecer feedback imediato para as ações realizadas pelo usuário. |
 
 <div style="text-align: center">
@@ -139,11 +133,10 @@ Na Tabela 7 estão registrados os requisitos de interface
 
 Na Tabela 8 estão registrados os requisitos de físicos
 
-
-| ID     | Descrição                                                       |
-|--------|-----------------------------------------------------------------|
-| FISC01 | O dispositivo Android deve estar em uma versão 5.5 ou superior. |
-| FISC02 | O dispositivo iOS deve estar em uma versão 6.x ou superior.     |
+| ID     | Descrição                                      |
+| ------ | ------------------------------------------------ |
+| FISC01 | O Sistema deve funcionar em em PCs e Laptops     |
+| FISC02 | O Sistea deve funcionar em Tablets e Smartphones |
 
 <div style="text-align: center">
     <p> Tabela 8: Requisitos de Físicos. (Fonte: Autores. 2023).</p>
@@ -159,7 +152,8 @@ GRASSHOPPER. Fevereiro de 2023. Disponível em: https://requisitos-de-software.g
 
 ## Histórico de versão
 
-| Versão |    Data    |      Descrição      |        Autor        | Revisor |
-| :-----: | :--------: | :--------------------: | :-----------------: | :-----: |
-|   1.0   | 13/05/2023 | Criação do documento | Henrique e Chaydson |  Pedro  |
-|   1.1   | 28/06/2023 | Colocando os requisitos em tabelas | Henrique e Chaydson |  Pedro  |
+| Versão |    Data    |             Descrição             |        Autor        | Revisor |
+| :-----: | :--------: | :----------------------------------: | :-----------------: | :-----: |
+|   1.0   | 13/05/2023 |        Criação do documento        | Henrique e Chaydson |  Pedro  |
+|   1.1   | 28/06/2023 |  Colocando os requisitos em tabelas  | Henrique e Chaydson |  Pedro  |
+|   1.2   | 05/07/2023 | Fazendo correções da verificação | Henrique e Chaydson |  Pedro  |

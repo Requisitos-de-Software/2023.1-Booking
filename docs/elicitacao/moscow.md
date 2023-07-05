@@ -177,3 +177,4 @@ Moscow do grupo Lichess. Disponível em: [https://requisitos-de-software.github.
 | 1.0     | 25/04/2023 | Criação da página                                 | Lucas, Henrique e Chaydson | Pedro, Samuel      |
 | 1.1     | 30/04/2023 | Adicionando entrevista com o usuário                | Lucas                      | Chaydson, Henrique |
 | 1.2     | 30/04/2023 | Atualizando tabela moscow de acordo com a entrevista | Chaydson, Henrique         | Lucas              |
+| 1.3     | 21/06/2023 | Adicionando correções da verificação             | Henrique                   | Pedro, Samuel      |
