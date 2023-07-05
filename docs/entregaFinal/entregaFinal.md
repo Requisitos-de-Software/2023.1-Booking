@@ -2,6 +2,10 @@
 
 ## Introdução
 
+## Aplicativo Selecionado
+
+O [Aplicativo Selecionado](../planejamento/aplicativoSelecionado.md) para estudo na disciplina é o Booking. Ele é uma plataforma de viagens que oferece a possibilidade de pesquisar, reservar e gerenciar acomodações, aluguéis de carros e pacotes turísticos. O Booking é amplamente utilizado em todo o mundo, sendo reconhecido por sua popularidade. Ele foi escolhido como objeto de estudo para o projeto de Requisitos de Software devido à sua complexidade e à diversidade de funcionalidades que oferece. Além disso, é relativamente fácil de contatar usuários.
+
 ## Cronograma Planejado
 
 ## Cronograma Executado
