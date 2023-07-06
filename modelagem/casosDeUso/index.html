@@ -471,6 +471,34 @@
 
             
           
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/setimaApresentacao/" class="md-nav__link">
+        Sétima Apresentação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/oitavaApresentacao/" class="md-nav__link">
+        Oitava Apresentação
+      </a>
+    </li>
+  
+
+            
+          
         </ul>
       </nav>
     </li>
@@ -1066,6 +1094,13 @@
         <li class="md-nav__item">
   <a href="#validacao-do-diagrama-de-casos-de-uso-com-o-cliente" class="md-nav__link">
     Validação do Diagrama de Casos de Uso com o cliente
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#participantes" class="md-nav__link">
+    Participantes
   </a>
   
 </li>
@@ -2344,6 +2379,21 @@
   
 
     
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entregaFinal/entregaFinal/" class="md-nav__link">
+        Entrega Final
+      </a>
+    </li>
+  
+
+    
   </ul>
 </nav>
                   </div>
@@ -2468,6 +2518,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#participantes" class="md-nav__link">
+    Participantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#termo-de-consentimento" class="md-nav__link">
     Termo de consentimento
   </a>
@@ -2511,7 +2568,7 @@
 <h2 id="introducao">Introdução</h2>
 <p>Um diagrama de casos de uso é uma ferramenta que permite representar graficamente as interações entre os usuários e um sistema. Ele mostra quais são os atores envolvidos, quais são os cenários possíveis e quais são os objetivos que o sistema deve atender. Um diagrama de casos de uso é composto por elementos como atores, casos de uso, relacionamentos e limites do sistema. Ele faz parte da linguagem de modelagem unificada (UML), que é um padrão para especificar e documentar sistemas de software.</p>
 <h2 id="metodologia">Metodologia</h2>
-<p>O diagrama de casos de uso foi elaborado a partir dos principais requisitos identificados através dos métodos de brainstorming, observação e storytelling. Posteriormente, o diagrama foi validado por um participante que interpretou o papel do cliente e não possuía vínculo com o grupo.</p>
+<p>O diagrama de casos de uso foi elaborado a partir dos principais requisitos identificados através dos métodos de <a href="../../elicitacao/brainstorm/">brainstorming</a>, <a href="../../elicitacao/observacao/">observação</a> e <a href="../../elicitacao/storytelling/">storytelling</a>. Posteriormente, o diagrama foi validado por um participante que interpretou o papel do cliente e não possuía vínculo com o grupo.</p>
 <h2 id="componentes">Componentes</h2>
 <p>A Tabela 1 fornece uma visão geral dos componentes de um diagrama de caso de uso e sua descrição.</p>
 <table>
@@ -2541,6 +2598,10 @@
 <tr>
 <td><img alt="Extends" src="../../images/casosDeUso/extends.png" /></td>
 <td>Indica que um caso de uso pode ser estendido por outro caso de uso em certas condições.</td>
+</tr>
+<tr>
+<td><img alt="Borda" src="../../images/casosDeUso/borda.png" /></td>
+<td>As bordas dos casos de uso definem os limites e interações entre os atores externos e o sistema.</td>
 </tr>
 </tbody>
 </table>
@@ -2581,7 +2642,7 @@
 <td>O Hóspede deve fornecer informações pessoais e de contato válidas.</td>
 </tr>
 <tr>
-<td><strong>Condição de entrada</strong></td>
+<td><strong>pré-condição</strong></td>
 <td>O Hóspede acessa a página de registro do sistema.</td>
 </tr>
 <tr>
@@ -2594,7 +2655,7 @@
 </tr>
 <tr>
 <td><strong>Fluxos de exceção</strong></td>
-<td>Nenhum.</td>
+<td>2a. Se o Hóspede tentar enviar o formulário sem preencher todos os campos obrigatórios, o sistema exibe uma mensagem de erro e destaca os campos que devem ser preenchidos.<br />3b. Se o sistema não conseguir se conectar ao servidor de autenticação, o sistema exibe uma mensagem de erro e informa que a criação da conta não pode ser realizada no momento.<br />3a. Se as informações de contato fornecidas pelo Hóspede forem inválidas, o sistema exibe uma mensagem de erro específica, informando que as informações de contato são inválidas.</td>
 </tr>
 <tr>
 <td><strong>Pós-condição</strong></td>
@@ -2629,7 +2690,7 @@
 <td>O sistema deve possuir a funcionalidade de pesquisa de acomodações</td>
 </tr>
 <tr>
-<td><strong>Condição de entrada</strong></td>
+<td><strong>pré-condição</strong></td>
 <td>O Hóspede acessa a página de pesquisa do sistema.</td>
 </tr>
 <tr>
@@ -2642,7 +2703,7 @@
 </tr>
 <tr>
 <td><strong>Fluxos de exceção</strong></td>
-<td>Nenhum</td>
+<td>1b. Se o Hóspede inserir critérios de pesquisa inválidos, como uma data de check-in posterior à data de check-out, o sistema exibe uma mensagem de erro e solicita que o Hóspede corrija os dados.<br />2c. Se o sistema não conseguir se conectar ao banco de dados das acomodações, o sistema exibe uma mensagem de erro e informa que a pesquisa não pode ser realizada no momento.<br />3d. Se o Hóspede clicar em uma acomodação nos resultados da pesquisa, mas a acomodação não estiver mais disponível, o sistema exibe uma mensagem informando que a acomodação foi reservada por outro usuário e atualiza os resultados da pesquisa.</td>
 </tr>
 <tr>
 <td><strong>Pós-condição</strong></td>
@@ -2677,7 +2738,7 @@
 <td>O Hóspede deve estar logado no sistema e haver pelo menos uma acomodação disponível para as datas selecionadas.</td>
 </tr>
 <tr>
-<td><strong>Condição de entrada</strong></td>
+<td><strong>pré-condição</strong></td>
 <td>O Hóspede seleciona uma acomodação disponível para reserva.</td>
 </tr>
 <tr>
@@ -2725,7 +2786,7 @@
 <td>O Hóspede deve ter uma reserva confirmada e deve escolher um dos métodos de pagamento disponíveis.</td>
 </tr>
 <tr>
-<td><strong>Condição de entrada</strong></td>
+<td><strong>pré-condição</strong></td>
 <td>O Hóspede acessa a página de pagamento do sistema.</td>
 </tr>
 <tr>
@@ -2773,7 +2834,7 @@
 <td>O Hóspede deve estar logado no sistema e deve haver pelo menos um carro disponível para aluguel.</td>
 </tr>
 <tr>
-<td><strong>Condição de entrada</strong></td>
+<td><strong>pré-condição</strong></td>
 <td>O Hóspede seleciona um carro disponível para aluguel.</td>
 </tr>
 <tr>
@@ -2821,7 +2882,7 @@
 <td>O Hóspede deve estar logado no sistema e deve haver pelo menos um voo disponível para reserva.</td>
 </tr>
 <tr>
-<td><strong>Condição de entrada</strong></td>
+<td><strong>pré-condição</strong></td>
 <td>O Hóspede seleciona um voo disponível para reserva.</td>
 </tr>
 <tr>
@@ -2851,15 +2912,40 @@
 </div>
 
 <h2 id="validacao-do-diagrama-de-casos-de-uso-com-o-cliente">Validação do Diagrama de Casos de Uso com o cliente</h2>
-<p>Foi realizado a validação do Diagrama de Casos de Uso por meio da interpretação de um cliente por um convidado externo, sem vínculo com o grupo. A validação completa pode ser encontrada no video abaixo:</p>
+<p>Foi realizado a validação do Diagrama de Casos de Uso por meio da interpretação de um cliente por um convidado externo, sem vínculo com o grupo. A validação completa pode ser encontrada no Video 1:</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vnYu-vbHGOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Video 1: Entrevista (Fonte: Samuel, 2023). </p>
+</div>
+
+<h2 id="participantes">Participantes</h2>
+<p>A Tabela 7 apresenta os participantes da entrevista.</p>
+<table>
+<thead>
+<tr>
+<th>Entrevistador</th>
+<th>Entrevistado</th>
+<th>Local, data e hora</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Samuel Gomes de Souza</td>
+<td>Pedro Gonçalves Rosa</td>
+<td>Teams - 14/05/2023 às 19:52</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 7: Participantes da entrevista (Fonte: Autor, 2023). </p>
+</div>
 
 <h2 id="termo-de-consentimento">Termo de consentimento</h2>
 <p><a href="../../assets/pdfs/Termo%20de%20Consentimento%20Validacao%20Diagrama%20de%20Casos%20de%20Uso%20-%20Clicksign.pdf">Termo de consentimento</a></p>
 <h2 id="bibliografia">Bibliografia</h2>
 <p>COCKBURN, A. Escrevendo casos de uso eficazes: um guia prático para os requisitos de software. 2. ed. Porto Alegre: Bookman, 2005.</p>
 <p>JACOBSON, I.; BOOCH, G.; RUMBAUGH, J. O processo unificado explicado. São Paulo: Addison Wesley, 2000.</p>
-<p>Engenharia de Software Moderna. Casos de uso. <a href="https://engsoftmoderna.info/cap4.html">https://engsoftmoderna.info/cap4.html</a>. Acesso em: 14 maio 2023.</p>
 <h2 id="historico-de-versao">Histórico de versão</h2>
 <table>
 <thead>
@@ -2878,6 +2964,13 @@
 <td align="center">Criação do documento</td>
 <td align="center">Samuel</td>
 <td align="center">Henrique</td>
+</tr>
+<tr>
+<td align="center">1.1</td>
+<td align="center">04/07/2023</td>
+<td align="center">Correção do artefato</td>
+<td align="center">Samuel</td>
+<td align="center">Lucas</td>
 </tr>
 </tbody>
 </table>
