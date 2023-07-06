@@ -1022,7 +1022,7 @@ Positivo: Ter contato com diversos artefatos e técnicas.
 
 Negativo: A matéria exige uma grande quantidade de tempo, além de ter entregas quase todas as semanas, o que pode dificultar a criação de artefatos com mais cuidado e atenção aos detalhes, além de interferir no tempo disponível para outras matérias.
 
-Positivo: O conhecimento adquirido sobre IHC e a oportunidade de desenvolver habilidades de trabalho em equipe.
+Positivo: O conhecimento adquirido sobre elicitação de requisitos e a oportunidade de desenvolver habilidades de trabalho em equipe.
 
 ### Pedro Henrique Rodrigues de Carvalho
 
