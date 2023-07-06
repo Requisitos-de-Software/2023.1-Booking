@@ -11,18 +11,19 @@ O [Aplicativo Selecionado](../planejamento/aplicativoSelecionado.md) para estudo
 ## Cronograma Planejado
 
 <!-- Inicio tabela cronograma geral-->
+
 <center>
 
-| Entrega                             |   Início   | Entrega    |
-| :---------------------------------- | :--------: | ---------- |
-| Planejamento                        | 01/04/2023 | 13/04/2023 |
-| Elicitação                          | 12/04/2023 | 01/05/2023 |
-| Modelagem de Requisitos - Padrão    | 02/05/2023 | 17/05/2023 |
-| Modelagem de Requisitos - Ágil      | 18/05/2023 | 24/05/2023 |
+| Entrega                                  |  Início  | Entrega    |
+| :--------------------------------------- | :--------: | ---------- |
+| Planejamento                             | 01/04/2023 | 13/04/2023 |
+| Elicitação                             | 12/04/2023 | 01/05/2023 |
+| Modelagem de Requisitos - Padrão        | 02/05/2023 | 17/05/2023 |
+| Modelagem de Requisitos - Ágil          | 18/05/2023 | 24/05/2023 |
 | Verificação e Validação – Grupo + 1 | 25/05/2023 | 07/06/2023 |
-| Verificação e Validação             | 08/06/2023 | 14/06/2023 |
-| Pós-Rastreabilidade - Gerência II   | 15/06/2023 | 21/06/2023 |
-| Entrega Final                       | 22/06/2023 | 05/07/2023 |
+| Verificação e Validação              | 08/06/2023 | 14/06/2023 |
+| Pós-Rastreabilidade - Gerência II      | 15/06/2023 | 21/06/2023 |
+| Entrega Final                            | 22/06/2023 | 05/07/2023 |
 
 </center>
 <!-- Fim tabela cronograma geral -->
@@ -35,22 +36,22 @@ A entrega da apresentação do projeto etapa 1 é um momento crucial para o dese
 
 Cada um desses elementos é fundamental para o sucesso do projeto e deve ser cuidadosamente planejado e executado. Os pontos planejados podem ser observados na Tabela 2.
 
-| Tarefa                                         |                     Autor(es)                      | Período de desenvolvimento | Período de revisão |                     Revisores                      |
-| ---------------------------------------------- | :------------------------------------------------: | :------------------------: | :----------------: | :------------------------------------------------: |
-| Criação da documentação do projeto             |                      Chaydson                      |  01/04/2023 à 03/04/2023   |     12/04/2023     |                       Lucas                        |
-| Equipe                                         |                      Henrique                      |  03/04/2023 à 11/04/2023   |     12/04/2023     |                      Chaydson                      |
-| Planejamento do Projeto                        | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |  03/04/2023 à 11/04/2023   |     12/04/2023     |                      Gabriel                       |
-| Atas                                           |                  Lucas - Gabriel                   |  03/04/2023 à 11/04/2023   |     12/04/2023     |                       Pedro                        |
-| Lista de apps                                  |                       Samuel                       |  03/04/2023 à 11/04/2023   |     12/04/2023     | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| App selecionado para o projeto da disciplina   |                       Samuel                       |  03/04/2023 à 11/04/2023   |     12/04/2023     |                   Lucas e Pedro                    |
-| Ferramentas do projeto                         |                       Pedro                        |  03/04/2023 à 11/04/2023   |     12/04/2023     |                      Chaydson                      |
-| Cronograma detalhado das atividades do projeto |                      Chaydson                      |  03/04/2023 à 11/04/2023   |     12/04/2023     | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Rich Picture                                   |                  Lucas - Gabriel                   |  03/04/2023 à 11/04/2023   |     12/04/2023     |                      Henrique                      |
-| Quadro de Disponibilidade de Membros           |                      Gabriel                       |  03/04/2023 à 11/04/2023   |     12/04/2023     |                       Lucas                        |
-| Metodologia e Politicas                        |                      Gabriel                       |  03/04/2023 à 11/04/2023   |     12/04/2023     |                      Henrique                      |
-| Gravação da apresentação                       | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |         12/04/2023         |     13/04/2023     |                       Samuel                       |
-| Criação do cronograma realizado                |                       Lucas                        |  03/04/2023 à 11/04/2023   |     13/04/2023     |                      Chaydson                      |
-| Finalização                                    | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |         13/04/2023         |     13/04/2023     | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                                         |                     Autor(es)                     | Período de desenvolvimento | Período de revisão |                     Revisores                     |
+| ---------------------------------------------- | :------------------------------------------------: | :-------------------------: | :------------------: | :------------------------------------------------: |
+| Criação da documentação do projeto         |                      Chaydson                      |  01/04/2023 à 03/04/2023  |      12/04/2023      |                       Lucas                       |
+| Equipe                                         |                      Henrique                      |  03/04/2023 à 11/04/2023  |      12/04/2023      |                      Chaydson                      |
+| Planejamento do Projeto                        | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |  03/04/2023 à 11/04/2023  |      12/04/2023      |                      Gabriel                      |
+| Atas                                           |                  Lucas - Gabriel                  |  03/04/2023 à 11/04/2023  |      12/04/2023      |                       Pedro                       |
+| Lista de apps                                  |                       Samuel                       |  03/04/2023 à 11/04/2023  |      12/04/2023      | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| App selecionado para o projeto da disciplina   |                       Samuel                       |  03/04/2023 à 11/04/2023  |      12/04/2023      |                   Lucas e Pedro                   |
+| Ferramentas do projeto                         |                       Pedro                       |  03/04/2023 à 11/04/2023  |      12/04/2023      |                      Chaydson                      |
+| Cronograma detalhado das atividades do projeto |                      Chaydson                      |  03/04/2023 à 11/04/2023  |      12/04/2023      | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Rich Picture                                   |                  Lucas - Gabriel                  |  03/04/2023 à 11/04/2023  |      12/04/2023      |                      Henrique                      |
+| Quadro de Disponibilidade de Membros           |                      Gabriel                      |  03/04/2023 à 11/04/2023  |      12/04/2023      |                       Lucas                       |
+| Metodologia e Politicas                        |                      Gabriel                      |  03/04/2023 à 11/04/2023  |      12/04/2023      |                      Henrique                      |
+| Gravação da apresentação                   | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |         12/04/2023         |      13/04/2023      |                       Samuel                       |
+| Criação do cronograma realizado              |                       Lucas                       |  03/04/2023 à 11/04/2023  |      13/04/2023      |                      Chaydson                      |
+| Finalização                                  | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |         13/04/2023         |      13/04/2023      | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 2 - Cronograma da entrega 1. (Fonte: Autores. 2023).</p>
@@ -60,19 +61,19 @@ Cada um desses elementos é fundamental para o sucesso do projeto e deve ser cui
 
 A priorização é fundamental para garantir que as funcionalidades mais importantes sejam implementadas primeiro. Dessa forma, as tarefas referentes a segunda entrega estão apresentadas na Tabela 3 as técnicas de priorização utilizadas no projeto.
 
-| Tarefa                   | Autor(es)                                          | Período de desenvolvimento | Período de revisão      | Revisores                                          |
-| ------------------------ | -------------------------------------------------- | -------------------------- | ----------------------- | -------------------------------------------------- |
-| Perfil dos usuários      | Pedro e Henrique                                   | 12/04/2023 à 19/04/2023    | 20/04/2023 à 21/04/2023 | Gabriel                                            |
-| Personas                 | Chaydson e Gabriel                                 | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Lucas                                              |
-| Storytelling             | Lucas e Samuel                                     | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Gabriel                                            |
-| Observação               | Pedro e Chaydson                                   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Samuel                                             |
-| Brainstorming            | Samuel e Gabriel                                   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique                                           |
-| Three Level-Scale        | Henrique e Lucas                                   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Pedro                                              |
-| In or Out                | Samuel e Pedro                                     | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Lucas                                              |
-| MoSCoW                   | Chaydson, Lucas e Henrique                         | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Pedro                                              |
-| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 28/04/2023                 | 28/04/2023              | Chaydson                                           |
-| Atas                     | Gabriel                                            | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique                                           |
-| Finalização              | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 29/04/2023                 | 30/04/2023 à 01/05/2023 | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento | Período de revisão     | Revisores                                          |
+| ---------------------------- | -------------------------------------------------- | --------------------------- | ------------------------ | -------------------------------------------------- |
+| Perfil dos usuários         | Pedro e Henrique                                   | 12/04/2023 à 19/04/2023    | 20/04/2023 à 21/04/2023 | Gabriel                                            |
+| Personas                     | Chaydson e Gabriel                                 | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Lucas                                              |
+| Storytelling                 | Lucas e Samuel                                     | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Gabriel                                            |
+| Observação                 | Pedro e Chaydson                                   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Samuel                                             |
+| Brainstorming                | Samuel e Gabriel                                   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique                                           |
+| Three Level-Scale            | Henrique e Lucas                                   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Pedro                                              |
+| In or Out                    | Samuel e Pedro                                    | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Lucas                                              |
+| MoSCoW                       | Chaydson, Lucas e Henrique                         | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Pedro                                              |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 28/04/2023                  | 28/04/2023               | Chaydson                                           |
+| Atas                         | Gabriel                                            | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique                                           |
+| Finalização                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 29/04/2023                  | 30/04/2023 à 01/05/2023 | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 3 - Cronograma da entrega 2. (Fonte: Autores. 2023).</p>
@@ -82,15 +83,15 @@ A priorização é fundamental para garantir que as funcionalidades mais importa
 
 Nesta entrega, serão apresentados os cenários, o léxico, o use case e a especificação suplementar que foram definidos durante o desenvolvimento do projeto. Cada um desses elementos é fundamental para garantir que os requisitos do projeto sejam entendidos e atendidos corretamente, garantindo a qualidade e efetividade do produto final. Encontra-se na Tabela 4 o planejamento dessa entrega.
 
-| Tarefa                    | Autor(es)                                          | Período de desenvolvimento | Período de revisão      | Revisores                                          |
-| ------------------------- | -------------------------------------------------- | -------------------------- | ----------------------- | -------------------------------------------------- |
-| Cenários                  | Lucas e Gabriel                                    | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Chaydson                                           |
-| Léxico                    | Pedro e Samuel                                     | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Lucas                                              |
-| Use Case                  | Samuel                                             | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Henrique                                           |
-| Especificação Suplementar | Chaydson e Henrique                                | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Pedro                                              |
-| Atas                      | Lucas                                              | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Samuel                                             |
-| Gravação da apresentação  | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 14/05/2023                 | 15/05/2023              | Gabriel                                            |
-| Finalização               | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 16/05/2023                 | 17/05/2023              | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento | Período de revisão     | Revisores                                          |
+| ---------------------------- | -------------------------------------------------- | --------------------------- | ------------------------ | -------------------------------------------------- |
+| Cenários                    | Lucas e Gabriel                                    | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Chaydson                                           |
+| Léxico                      | Pedro e Samuel                                     | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Lucas                                              |
+| Use Case                     | Samuel                                             | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Henrique                                           |
+| Especificação Suplementar  | Chaydson e Henrique                                | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Pedro                                              |
+| Atas                         | Lucas                                              | 02/05/2023 à 11/05/2023    | 12/05/2023 à 13/05/2023 | Samuel                                             |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 14/05/2023                  | 15/05/2023               | Gabriel                                            |
+| Finalização                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 16/05/2023                  | 17/05/2023               | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 4 - Cronograma da entrega 3. (Fonte: Autores. 2023).</p>
@@ -100,14 +101,14 @@ Nesta entrega, serão apresentados os cenários, o léxico, o use case e a espec
 
 Nesta etapa, serão apresentadas as histórias de usuário, o backlog do produto e do sprint, além do framework de requisitos não-funcionais (NFR). Esses elementos são fundamentais para o sucesso de um projeto ágil, pois permitem a gestão eficiente dos requisitos do produto e garantem que as necessidades dos usuários sejam atendidas de forma satisfatória. O planejamento completo se encontra na Tabela 5.
 
-| Tarefa                   | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
-| ------------------------ | -------------------------------------------------- | -------------------------- | ------------------ | -------------------------------------------------- |
-| Backlogs                 | Lucas e Chaydson                                   | 18/05/2023 à 21/05/2023    | 21/05/2023         | Henrique                                           |
-| Histórias de Usuário     | Pedro e Gabriel                                    | 21/05/2023 à 23/05/2023    | 24/05/2023         | Samuel                                             |
-| NFR Framework            | Samuel e Henrique                                  | 21/05/2023 à 23/05/2023    | 24/05/2023         | Chaydson                                           |
-| Atas                     | Lucas                                              | 21/05/2023 à 23/05/2023    | 24/05/2023         | Samuel                                             |
-| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 24/05/2023                 | 24/05/2023         | Lucas                                              |
-| Finalização              | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 24/05/2023                 | 24/05/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
+| ---------------------------- | -------------------------------------------------- | --------------------------- | -------------------- | -------------------------------------------------- |
+| Backlogs                     | Lucas e Chaydson                                   | 18/05/2023 à 21/05/2023    | 21/05/2023           | Henrique                                           |
+| Histórias de Usuário       | Pedro e Gabriel                                    | 21/05/2023 à 23/05/2023    | 24/05/2023           | Samuel                                             |
+| NFR Framework                | Samuel e Henrique                                  | 21/05/2023 à 23/05/2023    | 24/05/2023           | Chaydson                                           |
+| Atas                         | Lucas                                              | 21/05/2023 à 23/05/2023    | 24/05/2023           | Samuel                                             |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 24/05/2023                  | 24/05/2023           | Lucas                                              |
+| Finalização                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 24/05/2023                  | 24/05/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 5 - Cronograma da entrega 4. (Fonte: Autores. 2023).</p>
@@ -121,28 +122,28 @@ Além disso, a entrega da etapa 5.1 é uma etapa importante no processo de desen
 
 O planejamento completo está presente na Tabela 6.
 
-| Tarefa                    | Autor(es)                                          | Período de desenvolvimento |
-| ------------------------- | -------------------------------------------------- | -------------------------- |
-| Cronogramas               | Lucas                                              | 02/06/2023 - 07/06/2023    |
-| Lista de aplicativos      | Pedro                                              | 02/06/2023 - 07/06/2023    |
-| Ferramentas               | Samuel                                             | 02/06/2023 - 07/06/2023    |
-| Rich picture              | Chaydson e Henrique                                | 02/06/2023 - 07/06/2023    |
-| Perfil de usuário         | Lucas e Chaydson                                   | 02/06/2023 - 07/06/2023    |
-| Personas                  | Samuel e Henrique                                  | 02/06/2023 - 07/06/2023    |
-| Questionario              | Lucas                                              | 02/06/2023 - 07/06/2023    |
-| Storytelling              | Gabriel e Chaydson                                 | 02/06/2023 - 07/06/2023    |
-| First Things First        | Pedro e Gabriel                                    | 02/06/2023 - 07/06/2023    |
-| In or Out                 | Lucas e Henrique                                   | 02/06/2023 - 07/06/2023    |
-| MoSCoW                    | Samuel e Pedro                                     | 02/06/2023 - 07/06/2023    |
-| Casos de uso              | Lucas                                              | 02/06/2023 - 07/06/2023    |
-| Cenários                  | Chaydson e Samuel                                  | 02/06/2023 - 07/06/2023    |
-| Léxico                    | Henrique e Chaydson                                | 02/06/2023 - 07/06/2023    |
-| Especificação suplementar | Gabriel e Pedro                                    | 02/06/2023 - 07/06/2023    |
-| Histórias de usuário      | Henrique e Samuel                                  | 02/06/2023 - 07/06/2023    |
-| Backlog                   | Pedro e Gabriel                                    | 02/06/2023 - 07/06/2023    |
-| NFR Framework             | Chaydson e Lucas                                   | 02/06/2023 - 07/06/2023    |
-| Gravação da apresentação  | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 07/06/2023                 |
-| Finalização               | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 08/06/2023 - 15/06/2023    |
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento |
+| ---------------------------- | -------------------------------------------------- | --------------------------- |
+| Cronogramas                  | Lucas                                              | 02/06/2023 - 07/06/2023     |
+| Lista de aplicativos         | Pedro                                              | 02/06/2023 - 07/06/2023     |
+| Ferramentas                  | Samuel                                             | 02/06/2023 - 07/06/2023     |
+| Rich picture                 | Chaydson e Henrique                                | 02/06/2023 - 07/06/2023     |
+| Perfil de usuário           | Lucas e Chaydson                                   | 02/06/2023 - 07/06/2023     |
+| Personas                     | Samuel e Henrique                                  | 02/06/2023 - 07/06/2023     |
+| Questionario                 | Lucas                                              | 02/06/2023 - 07/06/2023     |
+| Storytelling                 | Gabriel e Chaydson                                 | 02/06/2023 - 07/06/2023     |
+| First Things First           | Pedro e Gabriel                                    | 02/06/2023 - 07/06/2023     |
+| In or Out                    | Lucas e Henrique                                   | 02/06/2023 - 07/06/2023     |
+| MoSCoW                       | Samuel e Pedro                                     | 02/06/2023 - 07/06/2023     |
+| Casos de uso                 | Lucas                                              | 02/06/2023 - 07/06/2023     |
+| Cenários                    | Chaydson e Samuel                                  | 02/06/2023 - 07/06/2023     |
+| Léxico                      | Henrique e Chaydson                                | 02/06/2023 - 07/06/2023     |
+| Especificação suplementar  | Gabriel e Pedro                                    | 02/06/2023 - 07/06/2023     |
+| Histórias de usuário       | Henrique e Samuel                                  | 02/06/2023 - 07/06/2023     |
+| Backlog                      | Pedro e Gabriel                                    | 02/06/2023 - 07/06/2023     |
+| NFR Framework                | Chaydson e Lucas                                   | 02/06/2023 - 07/06/2023     |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 07/06/2023                  |
+| Finalização                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 08/06/2023 - 15/06/2023     |
 
 <div style="text-align: center">
     <p> Tabela 6 - Cronograma da entrega 5.1. (Fonte: Autores. 2023).</p>
@@ -152,27 +153,27 @@ O planejamento completo está presente na Tabela 6.
 
 Nesta etapa, o grupo responsável pela atividade de verificação e validação dos requisitos irá apresentar os resultados obtidos durante a análise, bem como as atividades realizadas para garantir a qualidade e a adequação dos requisitos definidos para o produto. O cronograma desta entrega pode ser observada na Tabela 7.
 
-| Tarefa                              | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
-| ----------------------------------- | -------------------------------------------------- | -------------------------- | ------------------ | -------------------------------------------------- |
-| Verificar Rich Picture              | Henrique, Pedro                                    | 08/06/2023 à 12/06/2023    | 12/06/2023         | Samuel                                             |
-| Verificar Personas                  | Lucas, Chaydson                                    | 08/06/2023 à 12/06/2023    | 12/06/2023         | Pedro                                              |
-| Verificar Storytelling              | Gabriel, Samuel                                    | 08/06/2023 à 12/06/2023    | 12/06/2023         | Lucas                                              |
-| Verificar Observação                | Pedro, Chaydson                                    | 08/06/2023 à 12/06/2023    | 12/06/2023         | Gabriel                                            |
-| Verificar Brainstorming             | Lucas, Henrique                                    | 08/06/2023 à 12/06/2023    | 12/06/2023         | Chaydson                                           |
-| Verificar Three Level-Scale         | Gabriel, Pedro                                     | 08/06/2023 à 12/06/2023    | 12/06/2023         | Henrique                                           |
-| Verificar In or Out                 | Lucas, Henrique                                    | 08/06/2023 à 12/06/2023    | 12/06/2023         | Samuel                                             |
-| Verificar MoSCoW                    | Pedro, Samuel                                      | 08/06/2023 à 12/06/2023    | 12/06/2023         | Gabriel                                            |
-| Verificar Cenários                  | Chaydson, Gabriel                                  | 08/06/2023 à 12/06/2023    | 12/06/2023         | Pedro                                              |
-| Verificar Léxicos                   | Samuel, Henrique                                   | 08/06/2023 à 12/06/2023    | 12/06/2023         | Lucas                                              |
-| Verificar Use Case                  | Lucas, Chaydson                                    | 08/06/2023 à 12/06/2023    | 12/06/2023         | Gabriel                                            |
-| Verificar Especificação Suplementar | Gabriel, Samuel                                    | 08/06/2023 à 12/06/2023    | 12/06/2023         | Chaydson                                           |
-| Verificar Histórias de Usuário      | Pedro, Lucas                                       | 08/06/2023 à 12/06/2023    | 12/06/2023         | Henrique                                           |
-| Verificar Backlogs                  | Henrique, Gabriel                                  | 08/06/2023 à 12/06/2023    | 12/06/2023         | Samuel                                             |
-| Verificar NFR Framework             | Lucas, Chaydson                                    | 08/06/2023 à 12/06/2023    | 12/06/2023         | Pedro                                              |
-| Verificar Prototipação              | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 08/06/2023 à 12/06/2023    | 12/06/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Atas                                | Samuel                                             | 08/06/2023 à 12/06/2023    | 12/06/2023         | Lucas                                              |
-| Gravação da apresentação            | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 13/06/2023                 | 13/06/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Finalização                         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 14/06/2023                 | 14/06/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                                | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
+| ------------------------------------- | -------------------------------------------------- | --------------------------- | -------------------- | -------------------------------------------------- |
+| Verificar Rich Picture               | Henrique, Pedro                                    | 08/06/2023 à 12/06/2023    | 12/06/2023           | Samuel                                             |
+| Verificar Personas                    | Lucas, Chaydson                                    | 08/06/2023 à 12/06/2023    | 12/06/2023           | Pedro                                              |
+| Verificar Storytelling                | Gabriel, Samuel                                    | 08/06/2023 à 12/06/2023    | 12/06/2023           | Lucas                                              |
+| Verificar Observação                | Pedro, Chaydson                                    | 08/06/2023 à 12/06/2023    | 12/06/2023           | Gabriel                                            |
+| Verificar Brainstorming               | Lucas, Henrique                                    | 08/06/2023 à 12/06/2023    | 12/06/2023           | Chaydson                                           |
+| Verificar Three Level-Scale           | Gabriel, Pedro                                     | 08/06/2023 à 12/06/2023    | 12/06/2023           | Henrique                                           |
+| Verificar In or Out                   | Lucas, Henrique                                    | 08/06/2023 à 12/06/2023    | 12/06/2023           | Samuel                                             |
+| Verificar MoSCoW                      | Pedro, Samuel                                      | 08/06/2023 à 12/06/2023    | 12/06/2023           | Gabriel                                            |
+| Verificar Cenários                   | Chaydson, Gabriel                                  | 08/06/2023 à 12/06/2023    | 12/06/2023           | Pedro                                              |
+| Verificar Léxicos                    | Samuel, Henrique                                   | 08/06/2023 à 12/06/2023    | 12/06/2023           | Lucas                                              |
+| Verificar Use Case                    | Lucas, Chaydson                                    | 08/06/2023 à 12/06/2023    | 12/06/2023           | Gabriel                                            |
+| Verificar Especificação Suplementar | Gabriel, Samuel                                    | 08/06/2023 à 12/06/2023    | 12/06/2023           | Chaydson                                           |
+| Verificar Histórias de Usuário      | Pedro, Lucas                                       | 08/06/2023 à 12/06/2023    | 12/06/2023           | Henrique                                           |
+| Verificar Backlogs                    | Henrique, Gabriel                                  | 08/06/2023 à 12/06/2023    | 12/06/2023           | Samuel                                             |
+| Verificar NFR Framework               | Lucas, Chaydson                                    | 08/06/2023 à 12/06/2023    | 12/06/2023           | Pedro                                              |
+| Verificar Prototipação              | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 08/06/2023 à 12/06/2023    | 12/06/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Atas                                  | Samuel                                             | 08/06/2023 à 12/06/2023    | 12/06/2023           | Lucas                                              |
+| Gravação da apresentação          | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 13/06/2023                  | 13/06/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Finalização                         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 14/06/2023                  | 14/06/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 7 - Cronograma da entrega 5.2. (Fonte: Autores. 2023).</p>
@@ -184,11 +185,11 @@ Nesta etapa, serão apresentadas as atividades de pós-rastreabilidade, que visa
 
 Segue na Tabela 8 o cronograma da etapa.
 
-| Tarefa                           | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
-| -------------------------------- | -------------------------------------------------- | -------------------------- | ------------------ | -------------------------------------------------- |
-| Pós-Rastreabilidade - Gerência I | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 15/06/2023 à 20/06/2023    | 20/06/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Gravação da apresentação         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 20/06/2023                 | 20/06/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Finalização                      | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 21/06/2023                 | 21/06/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                             | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
+| ---------------------------------- | -------------------------------------------------- | --------------------------- | -------------------- | -------------------------------------------------- |
+| Pós-Rastreabilidade - Gerência I | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 15/06/2023 à 20/06/2023    | 20/06/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Gravação da apresentação       | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 20/06/2023                  | 20/06/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Finalização                      | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 21/06/2023                  | 21/06/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 8 - Cronograma da entrega 6. (Fonte: Autores. 2023).</p>
@@ -198,11 +199,11 @@ Segue na Tabela 8 o cronograma da etapa.
 
 A entrega final do projeto é um momento aguardado por toda a equipe, pois representa o resultado de um trabalho conjunto de análise, modelagem e desenvolvimento. Nesta entrega, serão apresentados todos os artefatos produzidos ao longo do projeto, desde a definição dos requisitos até a implementação e testes do produto. O planejamento para essa entrega encontra-se na Tabela 9.
 
-| Tarefa                   | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
-| ------------------------ | -------------------------------------------------- | -------------------------- | ------------------ | -------------------------------------------------- |
-| Correção geral           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 22/06/2023 à 02/07/2023    | 03/07/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 04/07/2023                 | 04/07/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Finalização              | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 04/07/2023                 | 05/07/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
+| ---------------------------- | -------------------------------------------------- | --------------------------- | -------------------- | -------------------------------------------------- |
+| Correção geral             | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 22/06/2023 à 02/07/2023    | 03/07/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 04/07/2023                  | 04/07/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Finalização                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 04/07/2023                  | 05/07/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 9 - Cronograma da entrega final. (Fonte: Autores. 2023).</p>
@@ -214,22 +215,22 @@ A entrega final do projeto é um momento aguardado por toda a equipe, pois repre
 
 Esse tópico é referente ao que o grupo efetivamente conseguiu entregar durante a Entrega 1 e quais foram os prazos reais para tal. Segue na Tabela 10 os detalhes.
 
-| Tarefa                                         |                     Autor(es)                      | Período de desenvolvimento | Período de revisão |                     Revisores                      |
-| ---------------------------------------------- | :------------------------------------------------: | :------------------------: | :----------------: | :------------------------------------------------: |
-| Criação da documentação do projeto             |                      Chaydson                      |  01/04/2023 à 03/04/2023   |     12/04/2023     |                       Lucas                        |
-| Equipe                                         |                      Henrique                      |  03/04/2023 à 11/04/2023   |     12/04/2023     |                      Chaydson                      |
-| Planejamento do Projeto                        | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |  03/04/2023 à 11/04/2023   |     12/04/2023     |                      Gabriel                       |
-| Atas                                           |                  Lucas - Gabriel                   |  03/04/2023 à 11/04/2023   |     12/04/2023     |                       Pedro                        |
-| Lista de apps                                  |                       Samuel                       |  03/04/2023 à 11/04/2023   |     12/04/2023     | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| App selecionado para o projeto da disciplina   |                       Samuel                       |  03/04/2023 à 11/04/2023   |     12/04/2023     |                   Lucas e Pedro                    |
-| Ferramentas do projeto                         |                       Pedro                        |  03/04/2023 à 11/04/2023   |     12/04/2023     |                      Chaydson                      |
-| Cronograma detalhado das atividades do projeto |                      Chaydson                      |  03/04/2023 à 11/04/2023   |     12/04/2023     | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Rich Picture                                   |                  Lucas - Gabriel                   |  03/04/2023 à 11/04/2023   |     12/04/2023     |                      Henrique                      |
-| Quadro de Disponibilidade de Membros           |                      Gabriel                       |  03/04/2023 à 11/04/2023   |     12/04/2023     |                       Lucas                        |
-| Metodologia e Politicas                        |                      Gabriel                       |  03/04/2023 à 11/04/2023   |     12/04/2023     |                      Henrique                      |
-| Gravação da apresentação                       | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |         17/04/2023         |     17/04/2023     |                       Samuel                       |
-| Criação do cronograma realizado                |                       Lucas                        |         17/04/2023         |     17/04/2023     |                      Chaydson                      |
-| Finalização                                    | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |  17/04/2023 - 21/04/2023   |     22/04/2023     | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                                         |                     Autor(es)                     | Período de desenvolvimento | Período de revisão |                     Revisores                     |
+| ---------------------------------------------- | :------------------------------------------------: | :-------------------------: | :------------------: | :------------------------------------------------: |
+| Criação da documentação do projeto         |                      Chaydson                      |  01/04/2023 à 03/04/2023  |      12/04/2023      |                       Lucas                       |
+| Equipe                                         |                      Henrique                      |  03/04/2023 à 11/04/2023  |      12/04/2023      |                      Chaydson                      |
+| Planejamento do Projeto                        | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |  03/04/2023 à 11/04/2023  |      12/04/2023      |                      Gabriel                      |
+| Atas                                           |                  Lucas - Gabriel                  |  03/04/2023 à 11/04/2023  |      12/04/2023      |                       Pedro                       |
+| Lista de apps                                  |                       Samuel                       |  03/04/2023 à 11/04/2023  |      12/04/2023      | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| App selecionado para o projeto da disciplina   |                       Samuel                       |  03/04/2023 à 11/04/2023  |      12/04/2023      |                   Lucas e Pedro                   |
+| Ferramentas do projeto                         |                       Pedro                       |  03/04/2023 à 11/04/2023  |      12/04/2023      |                      Chaydson                      |
+| Cronograma detalhado das atividades do projeto |                      Chaydson                      |  03/04/2023 à 11/04/2023  |      12/04/2023      | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Rich Picture                                   |                  Lucas - Gabriel                  |  03/04/2023 à 11/04/2023  |      12/04/2023      |                      Henrique                      |
+| Quadro de Disponibilidade de Membros           |                      Gabriel                      |  03/04/2023 à 11/04/2023  |      12/04/2023      |                       Lucas                       |
+| Metodologia e Politicas                        |                      Gabriel                      |  03/04/2023 à 11/04/2023  |      12/04/2023      |                      Henrique                      |
+| Gravação da apresentação                   | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |         17/04/2023         |      17/04/2023      |                       Samuel                       |
+| Criação do cronograma realizado              |                       Lucas                       |         17/04/2023         |      17/04/2023      |                      Chaydson                      |
+| Finalização                                  | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |   17/04/2023 - 21/04/2023   |      22/04/2023      | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 10 - Cronograma da entrega 1. (Fonte: Autores. 2023).</p>
@@ -239,19 +240,19 @@ Esse tópico é referente ao que o grupo efetivamente conseguiu entregar durante
 
 A priorização é fundamental para garantir que as funcionalidades mais importantes sejam implementadas primeiro. Dessa forma, as tarefas referentes a segunda entrega estão apresentadas na Tabela 11 as técnicas de priorização utilizadas no projeto.
 
-| Tarefa                   | Autor(es)                                          | Período de desenvolvimento | Período de revisão      | Revisores                                          |
-| ------------------------ | -------------------------------------------------- | -------------------------- | ----------------------- | -------------------------------------------------- |
-| Perfil dos usuários      | Pedro e Henrique                                   | 12/04/2023 à 19/04/2023    | 20/04/2023 à 21/04/2023 | Gabriel                                            |
-| Personas                 | Chaydson e Gabriel                                 | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Lucas                                              |
-| Storytelling             | Lucas e Samuel                                     | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Gabriel                                            |
-| Observação               | Pedro e Chaydson                                   | 19/04/2023 à 28/04/2023    | 28/04/2023 à 29/04/2023 | Samuel                                             |
-| Brainstorming            | Samuel e Gabriel                                   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique                                           |
-| Three Level-Scale        | Henrique e Lucas                                   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Pedro                                              |
-| In or Out                | Samuel e Pedro                                     | 19/04/2023 à 28/04/2023    | 28/04/2023 à 29/04/2023 | Lucas                                              |
-| MoSCoW                   | Chaydson, Lucas e Henrique                         | 19/04/2023 à 30/04/2023    | 30/04/2023 à 01/05/2023 | Pedro                                              |
-| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 01/05/2023                 | 01/05/2023              | Chaydson                                           |
-| Atas                     | Gabriel                                            | 19/04/2023 à 28/04/2023    | 26/04/2023 à 01/05/2023 | Henrique, Lucas                                    |
-| Finalização              | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 02/05/2023 à 04/05/2023    | 30/04/2023 à 01/05/2023 | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento | Período de revisão     | Revisores                                          |
+| ---------------------------- | -------------------------------------------------- | --------------------------- | ------------------------ | -------------------------------------------------- |
+| Perfil dos usuários         | Pedro e Henrique                                   | 12/04/2023 à 19/04/2023    | 20/04/2023 à 21/04/2023 | Gabriel                                            |
+| Personas                     | Chaydson e Gabriel                                 | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Lucas                                              |
+| Storytelling                 | Lucas e Samuel                                     | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Gabriel                                            |
+| Observação                 | Pedro e Chaydson                                   | 19/04/2023 à 28/04/2023    | 28/04/2023 à 29/04/2023 | Samuel                                             |
+| Brainstorming                | Samuel e Gabriel                                   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Henrique                                           |
+| Three Level-Scale            | Henrique e Lucas                                   | 19/04/2023 à 25/04/2023    | 26/04/2023 à 27/04/2023 | Pedro                                              |
+| In or Out                    | Samuel e Pedro                                    | 19/04/2023 à 28/04/2023    | 28/04/2023 à 29/04/2023 | Lucas                                              |
+| MoSCoW                       | Chaydson, Lucas e Henrique                         | 19/04/2023 à 30/04/2023    | 30/04/2023 à 01/05/2023 | Pedro                                              |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 01/05/2023                  | 01/05/2023               | Chaydson                                           |
+| Atas                         | Gabriel                                            | 19/04/2023 à 28/04/2023    | 26/04/2023 à 01/05/2023 | Henrique, Lucas                                    |
+| Finalização                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 02/05/2023 à 04/05/2023    | 30/04/2023 à 01/05/2023 | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 11 - Cronograma da entrega 2. (Fonte: Autores. 2023).</p>
@@ -261,15 +262,15 @@ A priorização é fundamental para garantir que as funcionalidades mais importa
 
 Nesta entrega, serão apresentados os cenários, o léxico, o use case e a especificação suplementar que foram definidos durante o desenvolvimento do projeto. Cada um desses elementos é fundamental para garantir que os requisitos do projeto sejam entendidos e atendidos corretamente, garantindo a qualidade e efetividade do produto final. Encontra-se na Tabela 12 o planejamento dessa entrega.
 
-| Tarefa                    | Autor(es)                                          | Período de desenvolvimento | Período de revisão      | Revisores                                          |
-| ------------------------- | -------------------------------------------------- | -------------------------- | ----------------------- | -------------------------------------------------- |
-| Cenários                  | Lucas e Gabriel                                    | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Chaydson                                           |
-| Léxico                    | Pedro e Chaydson                                   | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Lucas                                              |
-| Use Case                  | Samuel                                             | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Henrique                                           |
-| Especificação Suplementar | Chaydson e Henrique                                | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Pedro                                              |
-| Atas                      | Lucas                                              | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Samuel                                             |
-| Gravação da apresentação  | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 17/05/2023                 | 17/05/2023              | Gabriel                                            |
-| Finalização               | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 18/05/2023                 | 19/05/2023              | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento | Período de revisão     | Revisores                                          |
+| ---------------------------- | -------------------------------------------------- | --------------------------- | ------------------------ | -------------------------------------------------- |
+| Cenários                    | Lucas e Gabriel                                    | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Chaydson                                           |
+| Léxico                      | Pedro e Chaydson                                   | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Lucas                                              |
+| Use Case                     | Samuel                                             | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Henrique                                           |
+| Especificação Suplementar  | Chaydson e Henrique                                | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Pedro                                              |
+| Atas                         | Lucas                                              | 05/05/2023 à 15/05/2023    | 16/05/2023 à 17/05/2023 | Samuel                                             |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 17/05/2023                  | 17/05/2023               | Gabriel                                            |
+| Finalização                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 18/05/2023                  | 19/05/2023               | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 12 - Cronograma da entrega 3. (Fonte: Autores. 2023).</p>
@@ -279,14 +280,14 @@ Nesta entrega, serão apresentados os cenários, o léxico, o use case e a espec
 
 Nesta etapa, serão apresentadas as histórias de usuário, o backlog do produto e do sprint, além do framework de requisitos não-funcionais (NFR). Esses elementos são fundamentais para o sucesso de um projeto ágil, pois permitem a gestão eficiente dos requisitos do produto e garantem que as necessidades dos usuários sejam atendidas de forma satisfatória. O planejamento completo se encontra na Tabela 13.
 
-| Tarefa                   | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
-| ------------------------ | -------------------------------------------------- | -------------------------- | ------------------ | -------------------------------------------------- |
-| Backlogs                 | Lucas e Chaydson                                   | 18/05/2023 à 21/05/2023    | 21/05/2023         | Henrique                                           |
-| Histórias de Usuário     | Pedro e Gabriel                                    | 21/05/2023 à 23/05/2023    | 24/05/2023         | Samuel                                             |
-| NFR Framework            | Samuel e Henrique                                  | 21/05/2023 à 23/05/2023    | 24/05/2023         | Chaydson                                           |
-| Atas                     | Lucas                                              | 21/05/2023 à 23/05/2023    | 24/05/2023         | Samuel                                             |
-| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 24/05/2023                 | 24/05/2023         | Lucas                                              |
-| Finalização              | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 24/05/2023                 | 24/05/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
+| ---------------------------- | -------------------------------------------------- | --------------------------- | -------------------- | -------------------------------------------------- |
+| Backlogs                     | Lucas e Chaydson                                   | 18/05/2023 à 21/05/2023    | 21/05/2023           | Henrique                                           |
+| Histórias de Usuário       | Pedro e Gabriel                                    | 21/05/2023 à 23/05/2023    | 24/05/2023           | Samuel                                             |
+| NFR Framework                | Samuel e Henrique                                  | 21/05/2023 à 23/05/2023    | 24/05/2023           | Chaydson                                           |
+| Atas                         | Lucas                                              | 21/05/2023 à 23/05/2023    | 24/05/2023           | Samuel                                             |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 24/05/2023                  | 24/05/2023           | Lucas                                              |
+| Finalização                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 24/05/2023                  | 24/05/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 13 - Cronograma da entrega 4. (Fonte: Autores. 2023).</p>
@@ -300,28 +301,28 @@ Além disso, a entrega da etapa 5.1 é uma etapa importante no processo de desen
 
 O planejamento completo está presente na Tabela 14.
 
-| Tarefa                    | Autor(es)                                          | Período de desenvolvimento |
-| ------------------------- | -------------------------------------------------- | -------------------------- |
-| Cronogramas               | Lucas                                              | 02/06/2023 - 07/06/2023    |
-| Lista de aplicativos      | Pedro                                              | 02/06/2023 - 07/06/2023    |
-| Ferramentas               | Samuel                                             | 02/06/2023 - 07/06/2023    |
-| Rich picture              | Chaydson e Henrique                                | 02/06/2023 - 07/06/2023    |
-| Perfil de usuário         | Lucas e Chaydson                                   | 02/06/2023 - 07/06/2023    |
-| Personas                  | Samuel e Henrique                                  | 02/06/2023 - 07/06/2023    |
-| Questionario              | Lucas                                              | 02/06/2023 - 07/06/2023    |
-| Storytelling              | Gabriel e Chaydson                                 | 02/06/2023 - 07/06/2023    |
-| First Things First        | Pedro e Gabriel                                    | 02/06/2023 - 07/06/2023    |
-| In or Out                 | Lucas e Henrique                                   | 02/06/2023 - 07/06/2023    |
-| MoSCoW                    | Samuel e Pedro                                     | 02/06/2023 - 07/06/2023    |
-| Casos de uso              | Lucas                                              | 02/06/2023 - 07/06/2023    |
-| Cenários                  | Chaydson e Samuel                                  | 02/06/2023 - 07/06/2023    |
-| Léxico                    | Henrique e Chaydson                                | 02/06/2023 - 07/06/2023    |
-| Especificação suplementar | Gabriel e Pedro                                    | 02/06/2023 - 07/06/2023    |
-| Histórias de usuário      | Henrique e Samuel                                  | 02/06/2023 - 07/06/2023    |
-| Backlog                   | Pedro e Gabriel                                    | 02/06/2023 - 07/06/2023    |
-| NFR Framework             | Chaydson e Lucas                                   | 02/06/2023 - 07/06/2023    |
-| Gravação da apresentação  | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 07/06/2023                 |
-| Finalização               | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 08/06/2023 - 15/06/2023    |
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento |
+| ---------------------------- | -------------------------------------------------- | --------------------------- |
+| Cronogramas                  | Lucas                                              | 02/06/2023 - 07/06/2023     |
+| Lista de aplicativos         | Pedro                                              | 02/06/2023 - 07/06/2023     |
+| Ferramentas                  | Samuel                                             | 02/06/2023 - 07/06/2023     |
+| Rich picture                 | Chaydson e Henrique                                | 02/06/2023 - 07/06/2023     |
+| Perfil de usuário           | Lucas e Chaydson                                   | 02/06/2023 - 07/06/2023     |
+| Personas                     | Samuel e Henrique                                  | 02/06/2023 - 07/06/2023     |
+| Questionario                 | Lucas                                              | 02/06/2023 - 07/06/2023     |
+| Storytelling                 | Gabriel e Chaydson                                 | 02/06/2023 - 07/06/2023     |
+| First Things First           | Pedro e Gabriel                                    | 02/06/2023 - 07/06/2023     |
+| In or Out                    | Lucas e Henrique                                   | 02/06/2023 - 07/06/2023     |
+| MoSCoW                       | Samuel e Pedro                                     | 02/06/2023 - 07/06/2023     |
+| Casos de uso                 | Lucas                                              | 02/06/2023 - 07/06/2023     |
+| Cenários                    | Chaydson e Samuel                                  | 02/06/2023 - 07/06/2023     |
+| Léxico                      | Henrique e Chaydson                                | 02/06/2023 - 07/06/2023     |
+| Especificação suplementar  | Gabriel e Pedro                                    | 02/06/2023 - 07/06/2023     |
+| Histórias de usuário       | Henrique e Samuel                                  | 02/06/2023 - 07/06/2023     |
+| Backlog                      | Pedro e Gabriel                                    | 02/06/2023 - 07/06/2023     |
+| NFR Framework                | Chaydson e Lucas                                   | 02/06/2023 - 07/06/2023     |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 07/06/2023                  |
+| Finalização                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 08/06/2023 - 15/06/2023     |
 
 <div style="text-align: center">
     <p> Tabela 14 - Cronograma da entrega 5.1. (Fonte: Autores. 2023).</p>
@@ -331,28 +332,28 @@ O planejamento completo está presente na Tabela 14.
 
 Nesta etapa, o grupo responsável pela atividade de verificação e validação dos requisitos irá apresentar os resultados obtidos durante a análise, bem como as atividades realizadas para garantir a qualidade e a adequação dos requisitos definidos para o produto. O cronograma desta entrega pode ser observada na Tabela 15.
 
-| Tarefa                    | Autor(es)                                          | Período de desenvolvimento |
-| ------------------------- | -------------------------------------------------- | -------------------------- |
-| Cronogramas               | Lucas                                              | 16/06/2023 - 23/06/2023    |
-| Lista de aplicativos      | Pedro                                              | 16/06/2023 - 23/06/2023    |
-| Ferramentas               | Samuel                                             | 16/06/2023 - 23/06/2023    |
-| Rich picture              | Chaydson e Henrique                                | 16/06/2023 - 23/06/2023    |
-| Perfil de usuário         | Lucas e Chaydson                                   | 16/06/2023 - 23/06/2023    |
-| Personas                  | Samuel e Henrique                                  | 16/06/2023 - 23/06/2023    |
-| Questionario              | Lucas                                              | 16/06/2023 - 23/06/2023    |
-| Storytelling              | Gabriel e Chaydson                                 | 16/06/2023 - 23/06/2023    |
-| First Things First        | Pedro e Gabriel                                    | 16/06/2023 - 23/06/2023    |
-| In or Out                 | Lucas e Henrique                                   | 16/06/2023 - 23/06/2023    |
-| MoSCoW                    | Samuel e Pedro                                     | 16/06/2023 - 23/06/2023    |
-| Casos de uso              | Lucas                                              | 16/06/2023 - 23/06/2023    |
-| Cenários                  | Chaydson e Samuel                                  | 16/06/2023 - 23/06/2023    |
-| Léxico                    | Henrique e Chaydson                                | 16/06/2023 - 23/06/2023    |
-| Especificação suplementar | Gabriel e Pedro                                    | 16/06/2023 - 23/06/2023    |
-| Histórias de usuário      | Henrique e Samuel                                  | 16/06/2023 - 23/06/2023    |
-| Backlog                   | Pedro e Gabriel                                    | 16/06/2023 - 23/06/2023    |
-| NFR Framework             | Chaydson e Lucas                                   | 16/06/2023 - 23/06/2023    |
-| Gravação da apresentação  | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 23/06/2023                 |
-| Finalização               | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 23/06/2023 - 05/07/2023    |
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento |
+| ---------------------------- | -------------------------------------------------- | --------------------------- |
+| Cronogramas                  | Lucas                                              | 16/06/2023 - 23/06/2023     |
+| Lista de aplicativos         | Pedro                                              | 16/06/2023 - 23/06/2023     |
+| Ferramentas                  | Samuel                                             | 16/06/2023 - 23/06/2023     |
+| Rich picture                 | Chaydson e Henrique                                | 16/06/2023 - 23/06/2023     |
+| Perfil de usuário           | Lucas e Chaydson                                   | 16/06/2023 - 23/06/2023     |
+| Personas                     | Samuel e Henrique                                  | 16/06/2023 - 23/06/2023     |
+| Questionario                 | Lucas                                              | 16/06/2023 - 23/06/2023     |
+| Storytelling                 | Gabriel e Chaydson                                 | 16/06/2023 - 23/06/2023     |
+| First Things First           | Pedro e Gabriel                                    | 16/06/2023 - 23/06/2023     |
+| In or Out                    | Lucas e Henrique                                   | 16/06/2023 - 23/06/2023     |
+| MoSCoW                       | Samuel e Pedro                                     | 16/06/2023 - 23/06/2023     |
+| Casos de uso                 | Lucas                                              | 16/06/2023 - 23/06/2023     |
+| Cenários                    | Chaydson e Samuel                                  | 16/06/2023 - 23/06/2023     |
+| Léxico                      | Henrique e Chaydson                                | 16/06/2023 - 23/06/2023     |
+| Especificação suplementar  | Gabriel e Pedro                                    | 16/06/2023 - 23/06/2023     |
+| Histórias de usuário       | Henrique e Samuel                                  | 16/06/2023 - 23/06/2023     |
+| Backlog                      | Pedro e Gabriel                                    | 16/06/2023 - 23/06/2023     |
+| NFR Framework                | Chaydson e Lucas                                   | 16/06/2023 - 23/06/2023     |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 23/06/2023                  |
+| Finalização                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 23/06/2023 - 05/07/2023     |
 
 <div style="text-align: center">
     <p> Tabela 15 - Cronograma da entrega 5.2. (Fonte: Autores. 2023).</p>
@@ -364,11 +365,11 @@ Nesta etapa, serão apresentadas as atividades de pós-rastreabilidade, que visa
 
 Segue na Tabela 16 o cronograma da etapa.
 
-| Tarefa                         | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
-| ------------------------------ | -------------------------------------------------- | -------------------------- | ------------------ | -------------------------------------------------- |
-| Pós-Rastreabilidade - Gerência | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 21/06/2023 à 27/06/2023    | 28/06/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Gravação da apresentação       | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 28/06/2023                 | 28/06/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Finalização                    | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 28/06/2023                 | 05/07/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                           | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
+| -------------------------------- | -------------------------------------------------- | --------------------------- | -------------------- | -------------------------------------------------- |
+| Pós-Rastreabilidade - Gerência | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 21/06/2023 à 27/06/2023    | 28/06/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Gravação da apresentação     | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 28/06/2023                  | 28/06/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Finalização                    | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 28/06/2023                  | 05/07/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 16 - Cronograma da entrega 6. (Fonte: Autores. 2023).</p>
@@ -378,11 +379,11 @@ Segue na Tabela 16 o cronograma da etapa.
 
 A entrega final do projeto é um momento aguardado por toda a equipe, pois representa o resultado de um trabalho conjunto de análise, modelagem e desenvolvimento. Nesta entrega, serão apresentados todos os artefatos produzidos ao longo do projeto, desde a definição dos requisitos até a implementação e testes do produto. O planejamento para essa entrega encontra-se na Tabela 17.
 
-| Tarefa                   | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
-| ------------------------ | -------------------------------------------------- | -------------------------- | ------------------ | -------------------------------------------------- |
-| Correção geral           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 22/06/2023 à 02/07/2023    | 03/07/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Entrega final            | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 28/06/2023 - 04/07/2023    | 05/07/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
-| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 05/07/2023                 | 04/07/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Tarefa                       | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
+| ---------------------------- | -------------------------------------------------- | --------------------------- | -------------------- | -------------------------------------------------- |
+| Correção geral             | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 22/06/2023 à 02/07/2023    | 03/07/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Entrega final                | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 28/06/2023 - 04/07/2023     | 05/07/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 05/07/2023                  | 04/07/2023           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
     <p> Tabela 17 - Cronograma da entrega 6. (Fonte: Autores. 2023).</p>
@@ -473,74 +474,74 @@ Utilizando as três técnica de modelagem ensinadas em sala de aula, esses 3 art
 
 A seguir, na Tabela 18, serão apresentas as técnicas utilizadas em cada artefato produzindo, tendo em vista também sua etapa e seu respectivo autor(es).
 
-| Etapa     | Artefato                                                                                                 |                          Técnica                          | Autor(es)                                  |
-| :-------- | -------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------: | ------------------------------------------ |
-| Etapa 1   | [Aplicativos Analisados](../planejamento/aplicativosAnalisados.md)                                       |                Rich Picture e Introspecção                | Samuel                                     |
-|           | [Aplicativo Selecionado](../planejamento/aplicativoSelecionado.md)                                       |                Rich Picture e Introspecção                | Samuel                                     |
-|           | [Cronograma Planejado](../planejamento/cronograma.md)                                                    |                 Scrum e Pair Programming                  | Chaydson                                   |
-|           | [Ferramentas](../planejamento/ferramentas.md)                                                            |                             -                             | Pedro                                      |
-|           | [Cronograma Realizado](../planejamento/cronogramaRealizado.md)                                           |                             -                             | Lucas                                      |
-|           | [Rich Picture](../prePlanejamento/richPicture.md)                                                        |                       Rich Picture                        | Gabriel e Lucas                            |
-|           | [Disponibilidade de Membros](../planejamento/disponibilidade.md)                                         |                          Heatmap                          | Gabriel                                    |
-|           | [Metodologia](../planejamento/metodologia.md)                                                            |                             -                             | Gabriel                                    |
-| Etapa 2   | [Perfil de Usuário](../elicitacao/perfilDeUsuario.md)                                                    |                       Questionário                        | Henrique e Pedro                           |
-|           | [Personas](../elicitacao/personas.md)                                                                    |                      Personificação                       | Chaydson e Gabriel                         |
-|           | [Brainstorming](../elicitacao/brainstorm.md)                                                             |                        Brainstorm                         | Gabriel e Samuel                           |
-|           | [Observação](../elicitacao/observacao.md)                                                                |                        Observação                         | Pedro e Chaydson                           |
-|           | [Storytelling](../elicitacao/storytelling.md)                                                            |         Personificação, Encenação e Storytelling          | Lucas e Samuel                             |
-|           | [Three Level-Scale](../elicitacao/threeLevelScale.md)                                                    | Personificação, Encenação e Priorização Three level-scale | Henrique e Lucas                           |
-|           | [In or Out](../elicitacao/inOrOut.md)                                                                    |        Priorização Three level-scale e Entrevista         | Pedro e Samuel                             |
-|           | [MoSCoW](../elicitacao/moscow.md)                                                                        |                          MoSCoW                           | Lucas, Henrique e Chaydson                 |
-| Etapa 3   | [Cenários](../modelagem/cenarios.md)                                                                     |                         Cenários                          | Lucas e Gabriel                            |
-|           | [Léxicos](../modelagem/lexicos.md)                                                                       |                          Léxicos                          | Pedro e Samuel                             |
-|           | [Casos de Uso](../modelagem/casosDeUso.md)                                                               |                 Diagrama de Casos de uso                  | Samuel                                     |
-|           | [Especificação Suplementar](../modelagem/especificacaoSuplementar.md)                                    |                          FURPS+                           | Henrique e Chaydson                        |
-| Etapa 4   | [Backlog](../modelagem/modelo-agil/backlog.md)                                                           |            Tema, Épico e Histórias de Usuário             | Lucas e Chaydson                           |
-|           | [História de Usuário](../modelagem/modelo-agil/historiasDeUsuario.md)                                    |             Historias de Usuário e Entrevista             | Pedro e Gabriel                            |
-|           | [NFR Framework](../modelagem/modelo-agil/nfrFramework.md)                                                |          Softgoal Interdependency Graphs (SIGs)           | Henrique e Samuel                          |
-| Etapa 5.1 | [Verificação Grupo 3 - Metodologia](../verificacao3/metodologia.md)                                      |                             -                             | Lucas                                      |
-|           | [Verificação Grupo 3 - Cronograma](../verificacao3/planejamento/cronograma.md)                           |                   Inspeção e Checklist                    | Lucas                                      |
-|           | [Verificação Grupo 3 - Lista de Aplicativos](../verificacao3/planejamento/listaDeAplicativos.md)         |                   Inspeção e Checklist                    | Pedro                                      |
-|           | [Verificação Grupo 3 - Ferramentas](../verificacao3/planejamento/ferramenta.md)                          |                   Inspeção e Checklist                    | Samuel                                     |
-|           | [Verificação Grupo 3 - Rich Picture](../verificacao3/prePlanejamento/richPicture.md)                     |                   Inspeção e Checklist                    | Henrique e Chaydson                        |
-|           | [Verificação Grupo 3 - Perfil de Usuário](../verificacao3/elicitacao/perfilUsuario.md)                   |                   Inspeção e Checklist                    | Lucas e Chaydson                           |
-|           | [Verificação Grupo 3 - Personas](../verificacao3/elicitacao/personas.md)                                 |                   Inspeção e Checklist                    | Henrique e Samuel                          |
-|           | [Verificação Grupo 3 - Storytelling](../verificacao3/elicitacao/storytelling.md)                         |                   Inspeção e Checklist                    | Chaydson e Gabriel                         |
-|           | [Verificação Grupo 3 - In or Out](../verificacao3/priorizacao/inOrOut.md)                                |                   Inspeção e Checklist                    | Lucas e Henrique                           |
-|           | [Verificação Grupo 3 - First Things First](../verificacao3/priorizacao/firstThingsFirst.md)              |                   Inspeção e Checklist                    | Pedro e Gabriel                            |
-|           | [Verificação Grupo 3 - Moscow](../verificacao3/priorizacao/moscow.md)                                    |                   Inspeção e Checklist                    | Pedro e Samuel                             |
-|           | [Verificação Grupo 3 - Casos de Uso](../verificacao3/modelagem/casoUso.md)                               |                   Inspeção e Checklist                    | Lucas                                      |
-|           | [Verificação Grupo 3 - Especificação Suplementar](../verificacao3/modelagem/especificacaoSuplementar.md) |                   Inspeção e Checklist                    | Pedro e Gabriel                            |
-|           | [Verificação Grupo 3 - Léxicos](../verificacao3/modelagem/lexicos.md)                                    |                   Inspeção e Checklist                    | Henrique e Chaydson                        |
-|           | [Verificação Grupo 3 - Cenários](../verificacao3/modelagem/cenarios.md)                                  |                   Inspeção e Checklist                    | Chaydson e Samuel                          |
-|           | [Verificação Grupo 3 - Backlog](../verificacao3/agil/backlog.md)                                         |                   Inspeção e Checklist                    | Pedro e Gabriel                            |
-|           | [Verificação Grupo 3 - Histórias de Usuário](../verificacao3/agil/historiasDeUsuario.md)                 |                   Inspeção e Checklist                    | Henrique e Samuel                          |
-|           | [Verificação Grupo 3 - NFR Framework](../verificacao3/agil/nfrFramework.md)                              |                   Inspeção e Checklist                    | Lucas e Chaydson                           |
-| Etapa 5.2 | [Verificação - Metodologia](../verificacaoGrupo/metodologia.md)                                          |                             -                             | Pedro, Lucas e Samuel                      |
-|           | [Verificação - Cronograma](../verificacaoGrupo/planejamento/cronograma.md)                               |                   Inspeção e Checklist                    | Lucas                                      |
-|           | [Verificação - Aplicativos Analisados](../verificacaoGrupo/planejamento/listaDeAplicativos.md)           |                   Inspeção e Checklist                    | Pedro                                      |
-|           | [Verificação - Aplicativo Selecionado](../verificacaoGrupo/planejamento/aplicativoSelecionado.md)        |                   Inspeção e Checklist                    | Pedro                                      |
-|           | [Verificação - Ferramentas](../verificacaoGrupo/planejamento/ferramenta.md)                              |                   Inspeção e Checklist                    | Samuel                                     |
-|           | [Verificação - Rich Picture](../verificacaoGrupo/prePlanejamento/richPicture.md)                         |                   Inspeção e Checklist                    | Henrique e Chaydson                        |
-|           | [Verificação - Perfil de Usuário](../verificacaoGrupo/elicitacao/perfilUsuario.md)                       |                   Inspeção e Checklist                    | Lucas e Chaydson                           |
-|           | [Verificação - Personas](../verificacaoGrupo/elicitacao/personas.md)                                     |                   Inspeção e Checklist                    | Henrique e Samuel                          |
-|           | [Verificação - Brainstorming](../verificacaoGrupo/elicitacao/brainstorm.md)                              |                   Inspeção e Checklist                    | Henrique e Samuel                          |
-|           | [Verificação - Storytelling](../verificacaoGrupo/elicitacao/storytelling.md)                             |                   Inspeção e Checklist                    | Chaydson e Samuel                          |
-|           | [Verificação - Observação](../verificacaoGrupo/elicitacao/observacao.md)                                 |                   Inspeção e Checklist                    | Lucas                                      |
-|           | [Verificação - In or Out](../verificacaoGrupo/priorizacao/inOrOut.md)                                    |                   Inspeção e Checklist                    | Lucas                                      |
-|           | [Verificação - Three Level-Scale](../verificacaoGrupo/priorizacao/threeLevelScale.md)                    |                   Inspeção e Checklist                    | Pedro                                      |
-|           | [Verificação - Moscow](../verificacaoGrupo/priorizacao/moscow.md)                                        |                   Inspeção e Checklist                    | Pedro                                      |
-|           | [Verificação - Casos de Uso](../verificacaoGrupo/modelagem/casoUso.md)                                   |                   Inspeção e Checklist                    | Lucas                                      |
-|           | [Verificação - Especificação Suplemnetar](../verificacaoGrupo/modelagem/especificacaoSuplementar.md)     |                   Inspeção e Checklist                    | Gabriel e Pedro                            |
-|           | [Verificação - Léxicos](../verificacaoGrupo/modelagem/lexicos.md)                                        |                   Inspeção e Checklist                    | Henrique e Chaydson                        |
-|           | [Verificação - Cenários](../verificacaoGrupo/modelagem/cenarios.md)                                      |                   Inspeção e Checklist                    | Chaydson e Samuel                          |
-|           | [Verificação - Backlog](../verificacaoGrupo/agil/backlog.md)                                             |                   Inspeção e Checklist                    | Gabriel e Pedro                            |
-|           | [Verificação - Histórias de Usuário](../verificacaoGrupo/agil/historiasDeUsuario.md)                     |                   Inspeção e Checklist                    | Henrique e Samuel                          |
-|           | [Verificação - NFR Framework](../verificacaoGrupo/modelagem/nfrFrameWork.md)                             |                   Inspeção e Checklist                    | Chaydson e Lucas                           |
-|           | [Validação](../verificacaoGrupo/validacao.md)                                                            |            Comprovação Informal e Prototipação            | Chaydson, Gabriel, Henrique, Lucas e Pedro |
-| Etapa 6   | [Backward From](../rastreabilidade/backward.md)                                                          |                  Meta-modelo de Toranzo                   | Pedro e Henrique                           |
-|           | [Forward From](../rastreabilidade/forwardFrom.md)                                                        |                  Meta-modelo de Toranzo                   | Lucas e Samuel                             |
-|           | [Matriz Geral](../rastreabilidade/matrizRastreabilidade.md)                                              |                   Inspeção e Checklist                    | Gabriel e Chaydson                         |
+| Etapa     | Artefato                                                                                                  |                            Técnica                            | Autor(es)                                  |
+| :-------- | --------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------: | ------------------------------------------ |
+| Etapa 1   | [Aplicativos Analisados](../planejamento/aplicativosAnalisados.md)                                           |                  Rich Picture e Introspecção                  | Samuel                                     |
+|           | [Aplicativo Selecionado](../planejamento/aplicativoSelecionado.md)                                           |                  Rich Picture e Introspecção                  | Samuel                                     |
+|           | [Cronograma Planejado](../planejamento/cronograma.md)                                                        |                    Scrum e Pair Programming                    | Chaydson                                   |
+|           | [Ferramentas](../planejamento/ferramentas.md)                                                                |                                -                                | Pedro                                      |
+|           | [Cronograma Realizado](../planejamento/cronogramaRealizado.md)                                               |                                -                                | Lucas                                      |
+|           | [Rich Picture](../prePlanejamento/richPicture.md)                                                            |                          Rich Picture                          | Gabriel e Lucas                            |
+|           | [Disponibilidade de Membros](../planejamento/disponibilidade.md)                                             |                             Heatmap                             | Gabriel                                    |
+|           | [Metodologia](../planejamento/metodologia.md)                                                                |                                -                                | Gabriel                                    |
+| Etapa 2   | [Perfil de Usuário](../elicitacao/perfilDeUsuario.md)                                                       |                          Questionário                          | Henrique e Pedro                           |
+|           | [Personas](../elicitacao/personas.md)                                                                        |                        Personificação                        | Chaydson e Gabriel                         |
+|           | [Brainstorming](../elicitacao/brainstorm.md)                                                                 |                           Brainstorm                           | Gabriel e Samuel                           |
+|           | [Observação](../elicitacao/observacao.md)                                                                  |                          Observação                          | Pedro e Chaydson                           |
+|           | [Storytelling](../elicitacao/storytelling.md)                                                                |          Personificação, Encenação e Storytelling          | Lucas e Samuel                             |
+|           | [Three Level-Scale](../elicitacao/threeLevelScale.md)                                                        | Personificação, Encenação e Priorização Three level-scale | Henrique e Lucas                           |
+|           | [In or Out](../elicitacao/inOrOut.md)                                                                        |          Priorização Three level-scale e Entrevista          | Pedro e Samuel                             |
+|           | [MoSCoW](../elicitacao/moscow.md)                                                                            |                             MoSCoW                             | Lucas, Henrique e Chaydson                 |
+| Etapa 3   | [Cenários](../modelagem/cenarios.md)                                                                        |                            Cenários                            | Lucas e Gabriel                            |
+|           | [Léxicos](../modelagem/lexicos.md)                                                                          |                            Léxicos                            | Pedro e Samuel                             |
+|           | [Casos de Uso](../modelagem/casosDeUso.md)                                                                   |                    Diagrama de Casos de uso                    | Samuel                                     |
+|           | [Especificação Suplementar](../modelagem/especificacaoSuplementar.md)                                      |                             FURPS+                             | Henrique e Chaydson                        |
+| Etapa 4   | [Backlog](../modelagem/modelo-agil/backlog.md)                                                               |              Tema, Épico e Histórias de Usuário              | Lucas e Chaydson                           |
+|           | [História de Usuário](../modelagem/modelo-agil/historiasDeUsuario.md)                                      |               Historias de Usuário e Entrevista               | Pedro e Gabriel                            |
+|           | [NFR Framework](../modelagem/modelo-agil/nfrFramework.md)                                                    |             Softgoal Interdependency Graphs (SIGs)             | Henrique e Samuel                          |
+| Etapa 5.1 | [Verificação Grupo 3 - Metodologia](../verificacao3/metodologia.md)                                        |                                -                                | Lucas                                      |
+|           | [Verificação Grupo 3 - Cronograma](../verificacao3/planejamento/cronograma.md)                             |                     Inspeção e Checklist                     | Lucas                                      |
+|           | [Verificação Grupo 3 - Lista de Aplicativos](../verificacao3/planejamento/listaDeAplicativos.md)           |                     Inspeção e Checklist                     | Pedro                                      |
+|           | [Verificação Grupo 3 - Ferramentas](../verificacao3/planejamento/ferramenta.md)                            |                     Inspeção e Checklist                     | Samuel                                     |
+|           | [Verificação Grupo 3 - Rich Picture](../verificacao3/prePlanejamento/richPicture.md)                       |                     Inspeção e Checklist                     | Henrique e Chaydson                        |
+|           | [Verificação Grupo 3 - Perfil de Usuário](../verificacao3/elicitacao/perfilUsuario.md)                    |                     Inspeção e Checklist                     | Lucas e Chaydson                           |
+|           | [Verificação Grupo 3 - Personas](../verificacao3/elicitacao/personas.md)                                   |                     Inspeção e Checklist                     | Henrique e Samuel                          |
+|           | [Verificação Grupo 3 - Storytelling](../verificacao3/elicitacao/storytelling.md)                           |                     Inspeção e Checklist                     | Chaydson e Gabriel                         |
+|           | [Verificação Grupo 3 - In or Out](../verificacao3/priorizacao/inOrOut.md)                                  |                     Inspeção e Checklist                     | Lucas e Henrique                           |
+|           | [Verificação Grupo 3 - First Things First](../verificacao3/priorizacao/firstThingsFirst.md)                |                     Inspeção e Checklist                     | Pedro e Gabriel                            |
+|           | [Verificação Grupo 3 - Moscow](../verificacao3/priorizacao/moscow.md)                                      |                     Inspeção e Checklist                     | Pedro e Samuel                             |
+|           | [Verificação Grupo 3 - Casos de Uso](../verificacao3/modelagem/casoUso.md)                                 |                     Inspeção e Checklist                     | Lucas                                      |
+|           | [Verificação Grupo 3 - Especificação Suplementar](../verificacao3/modelagem/especificacaoSuplementar.md) |                     Inspeção e Checklist                     | Pedro e Gabriel                            |
+|           | [Verificação Grupo 3 - Léxicos](../verificacao3/modelagem/lexicos.md)                                     |                     Inspeção e Checklist                     | Henrique e Chaydson                        |
+|           | [Verificação Grupo 3 - Cenários](../verificacao3/modelagem/cenarios.md)                                   |                     Inspeção e Checklist                     | Chaydson e Samuel                          |
+|           | [Verificação Grupo 3 - Backlog](../verificacao3/agil/backlog.md)                                           |                     Inspeção e Checklist                     | Pedro e Gabriel                            |
+|           | [Verificação Grupo 3 - Histórias de Usuário](../verificacao3/agil/historiasDeUsuario.md)                 |                     Inspeção e Checklist                     | Henrique e Samuel                          |
+|           | [Verificação Grupo 3 - NFR Framework](../verificacao3/agil/nfrFramework.md)                                |                     Inspeção e Checklist                     | Lucas e Chaydson                           |
+| Etapa 5.2 | [Verificação - Metodologia](../verificacaoGrupo/metodologia.md)                                            |                                -                                | Pedro, Lucas e Samuel                      |
+|           | [Verificação - Cronograma](../verificacaoGrupo/planejamento/cronograma.md)                                 |                     Inspeção e Checklist                     | Lucas                                      |
+|           | [Verificação - Aplicativos Analisados](../verificacaoGrupo/planejamento/listaDeAplicativos.md)             |                     Inspeção e Checklist                     | Pedro                                      |
+|           | [Verificação - Aplicativo Selecionado](../verificacaoGrupo/planejamento/aplicativoSelecionado.md)          |                     Inspeção e Checklist                     | Pedro                                      |
+|           | [Verificação - Ferramentas](../verificacaoGrupo/planejamento/ferramenta.md)                                |                     Inspeção e Checklist                     | Samuel                                     |
+|           | [Verificação - Rich Picture](../verificacaoGrupo/prePlanejamento/richPicture.md)                           |                     Inspeção e Checklist                     | Henrique e Chaydson                        |
+|           | [Verificação - Perfil de Usuário](../verificacaoGrupo/elicitacao/perfilUsuario.md)                        |                     Inspeção e Checklist                     | Lucas e Chaydson                           |
+|           | [Verificação - Personas](../verificacaoGrupo/elicitacao/personas.md)                                       |                     Inspeção e Checklist                     | Henrique e Samuel                          |
+|           | [Verificação - Brainstorming](../verificacaoGrupo/elicitacao/brainstorm.md)                                |                     Inspeção e Checklist                     | Henrique e Samuel                          |
+|           | [Verificação - Storytelling](../verificacaoGrupo/elicitacao/storytelling.md)                               |                     Inspeção e Checklist                     | Chaydson e Samuel                          |
+|           | [Verificação - Observação](../verificacaoGrupo/elicitacao/observacao.md)                                 |                     Inspeção e Checklist                     | Lucas                                      |
+|           | [Verificação - In or Out](../verificacaoGrupo/priorizacao/inOrOut.md)                                      |                     Inspeção e Checklist                     | Lucas                                      |
+|           | [Verificação - Three Level-Scale](../verificacaoGrupo/priorizacao/threeLevelScale.md)                      |                     Inspeção e Checklist                     | Pedro                                      |
+|           | [Verificação - Moscow](../verificacaoGrupo/priorizacao/moscow.md)                                          |                     Inspeção e Checklist                     | Pedro                                      |
+|           | [Verificação - Casos de Uso](../verificacaoGrupo/modelagem/casoUso.md)                                     |                     Inspeção e Checklist                     | Lucas                                      |
+|           | [Verificação - Especificação Suplemnetar](../verificacaoGrupo/modelagem/especificacaoSuplementar.md)     |                     Inspeção e Checklist                     | Gabriel e Pedro                            |
+|           | [Verificação - Léxicos](../verificacaoGrupo/modelagem/lexicos.md)                                         |                     Inspeção e Checklist                     | Henrique e Chaydson                        |
+|           | [Verificação - Cenários](../verificacaoGrupo/modelagem/cenarios.md)                                       |                     Inspeção e Checklist                     | Chaydson e Samuel                          |
+|           | [Verificação - Backlog](../verificacaoGrupo/agil/backlog.md)                                               |                     Inspeção e Checklist                     | Gabriel e Pedro                            |
+|           | [Verificação - Histórias de Usuário](../verificacaoGrupo/agil/historiasDeUsuario.md)                     |                     Inspeção e Checklist                     | Henrique e Samuel                          |
+|           | [Verificação - NFR Framework](../verificacaoGrupo/modelagem/nfrFrameWork.md)                               |                     Inspeção e Checklist                     | Chaydson e Lucas                           |
+|           | [Validação](../verificacaoGrupo/validacao.md)                                                              |             Comprovação Informal e Prototipação             | Chaydson, Gabriel, Henrique, Lucas e Pedro |
+| Etapa 6   | [Backward From](../rastreabilidade/backward.md)                                                              |                     Meta-modelo de Toranzo                     | Pedro e Henrique                           |
+|           | [Forward From](../rastreabilidade/forwardFrom.md)                                                            |                     Meta-modelo de Toranzo                     | Lucas e Samuel                             |
+|           | [Matriz Geral](../rastreabilidade/matrizRastreabilidade.md)                                                  |                     Inspeção e Checklist                     | Gabriel e Chaydson                         |
 
 <div style="text-align: center">
 <p> Tabela 18: Técnicas utilizadas em cada artefato, junto com seu autor(es) (Fonte: Henrique, 2023). </p>
@@ -550,26 +551,26 @@ A seguir, na Tabela 18, serão apresentas as técnicas utilizadas em cada artefa
 
 A tabela a seguir, Tabela 19, apresenta todas as ferramentas utilizadas no projeto, bem como sua aplicação em cada etapa correspondente.
 
-| Logo                                                                   | Ferramenta                 | Etapa                                             | Descrição                                                                                                                                                                                                                                                                                                      |
-| ---------------------------------------------------------------------- | -------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <figure><img src="../../images/github.png" width="80px"/></figure>     | GitHub                     | Todo o projeto                                    | O GitHub é usado para hospedar o projeto em um repositório público.                                                                                                                                                                                                                                            |
-| <img src="../../images/git.png" width="90px"/>                         | Git                        | Todo o projeto                                    | O Git é usado para controlar as versões do projeto.                                                                                                                                                                                                                                                            |
-| <img src="../../images/telegram.png" width="80px"/>                    | Telegram                   | Todo o projeto                                    | O Telegram é usado para a comunicação entre os colaboradores do projeto.                                                                                                                                                                                                                                       |
-| <img src="../../images/discord.png" width="80px"/>                     | Discord                    | Todo o projeto                                    | O Discord é usado para a comunicação por voz e texto entre os colaboradores do projeto.                                                                                                                                                                                                                        |
-| <img src="../../images/mkdocs.png" width="80px"/>                      | MkDocs                     | Todo o projeto                                    | O MkDocs é usado para criar documentação de projetos em formato HTML ou outros formatos, a partir de arquivos em formato Markdown                                                                                                                                                                              |
-| <img src="../../images/mkdocsMaterial.png" width="80px"/>              | MkDocs                     | Todo o projeto                                    | O MkDocs Material é um tema de documentação para o MkDocs que oferece uma aparência moderna e responsiva para a documentação do projeto.                                                                                                                                                                       |
-| <img src="../../images/teams.png" width="80px" />                      | Teams                      | Todo o projeto                                    | O Teams é um aplicativo web e app para realizar reuniões de pessoas desenvolvida pela microsoft, sendo utilizada no projeto como principal ferramenta para a reunião semanal e gravações                                                                                                                       |
-| <img src="../../images/officerViewer.png" width="80px"/>               | Officer Viewer             | Todo o projeto                                    | O Officer Viewer(Markdown Editor) é uma extensão do Visual Studio Code utilizada para editar de maneira mais fácil documento com extensão  .md(markdown)                                                                                                                                                       |
-| <img src="../../images/googleForms.png" width="80px"/>                 | Google Forms               | Elicitação, Priorização e Modelagem               | O Google Forms é uma ferramenta de criação de formulários on-line gratuita oferecida pelo Google. Será utilizado para fazer questionários para a pesquisa de perfil de usuário do projeto, além de elaborar os termos de consentimento.                                                                        |
-| <img src="../../images/vscode.png" width="80px"/>                      | VsCode                     | Todo o projeto                                    | O VsCode é usado para editar o código markdown que gera a página.                                                                                                                                                                                                                                              |
-| <img src="../../images/youtube.png" width="80px"/>                     | YouTube                    | Atas Apresentações                                | O YouTube é o site pelo qual o grupo hospeda as gravações.                                                                                                                                                                                                                                                     |
-| <img src="../../images/lucidchart.png" width="80px"/>                  | Lucidchart                 | [Casos de uso](../modelagem/casosDeUso.md)        | O Lucidchart é usado para fazer a diagramação e visualização de informações.                                                                                                                                                                                                                                   |
-| <img src="../../images/lucidspark.png" width="80px">                   | Lucidspark                 | Priorização e Modelagem Ágil                      | O Lucidspark é uma ferramenta de colaboração online projetada para facilitar a colaboração visual e a geração de ideias em equipe. Ele oferece uma plataforma virtual onde os membros da equipe podem colaborar em tempo real, compartilhar ideias, organizar informações e tomar decisões conjuntas.          |
-| <img src="../../images/whiteboard.png" width="80px"/>                  | WhiteBoard                 | [Rich Picture](../prePlanejamento/richPicture.md) | O WhiteBoard é usado para fazer diagramas e organizar informações.                                                                                                                                                                                                                                             |
-| <img src="../../images/excel.png"width="80px"/>                        | Excel                      | Planejamento                                      | O Excel é um programa de planilha eletrônica desenvolvido pela Microsoft e é amplamente utilizado em ambientes profissionais e pessoais. Ele oferece uma ampla gama de recursos e funcionalidades que o tornam uma ferramenta versátil para realizar várias tarefas relacionadas a dados, cálculos e análises. |
-| <img src="../../images/logoThisPersonDoesNotExist.jpeg" width="80px"/> | This Person Does Not Exist | Elicitação                                        | O This Person Does Not Exist é um aplicativo para geração de fotos de pessoas que não existem, o mesmo será utilizado para elaborar imagens de pessoas que não existem a fim de construir as personas do projeto.                                                                                              |
-| <img src="../../images/figma.png">                                     | Figma                      | [Validação](../verificacaoGrupo/validacao.md)     | O Figma é uma ferramenta de design de interface de usuário (UI) e prototipagem, que será utilizada para elaborar os protótipos de alta fidelidade do projeto.                                                                                                                                                  |
-| <img src="../../images/photoshop.png">                                 | Photoshop                  | [Validação](../verificacaoGrupo/validacao.md)     | O Photoshop é um software de edição de imagens digitais que será utilizado em conjunto com o Figma para elaboração do protótipo de alta fidelidade.                                                                                                                                                            |
+| Logo                                                                       | Ferramenta                 | Etapa                                          | Descrição                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------- | -------------------------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `<figure><img src="../../images/github.png" width="80px"/>``</figure>` | GitHub                     | Todo o projeto                                 | O GitHub é usado para hospedar o projeto em um repositório público.                                                                                                                                                                                                                                                |
+| `<img src="../../images/git.png" width="90px"/>`                         | Git                        | Todo o projeto                                 | O Git é usado para controlar as versões do projeto.                                                                                                                                                                                                                                                                 |
+| `<img src="../../images/telegram.png" width="80px"/>`                    | Telegram                   | Todo o projeto                                 | O Telegram é usado para a comunicação entre os colaboradores do projeto.                                                                                                                                                                                                                                           |
+| `<img src="../../images/discord.png" width="80px"/>`                     | Discord                    | Todo o projeto                                 | O Discord é usado para a comunicação por voz e texto entre os colaboradores do projeto.                                                                                                                                                                                                                            |
+| `<img src="../../images/mkdocs.png" width="80px"/>`                      | MkDocs                     | Todo o projeto                                 | O MkDocs é usado para criar documentação de projetos em formato HTML ou outros formatos, a partir de arquivos em formato Markdown                                                                                                                                                                                  |
+| `<img src="../../images/mkdocsMaterial.png" width="80px"/>`              | MkDocs                     | Todo o projeto                                 | O MkDocs Material é um tema de documentação para o MkDocs que oferece uma aparência moderna e responsiva para a documentação do projeto.                                                                                                                                                                       |
+| `<img src="../../images/teams.png" width="80px" />`                      | Teams                      | Todo o projeto                                 | O Teams é um aplicativo web e app para realizar reuniões de pessoas desenvolvida pela microsoft, sendo utilizada no projeto como principal ferramenta para a reunião semanal e gravações                                                                                                                       |
+| `<img src="../../images/officerViewer.png" width="80px"/>`               | Officer Viewer             | Todo o projeto                                 | O Officer Viewer(Markdown Editor) é uma extensão do Visual Studio Code utilizada para editar de maneira mais fácil documento com extensão  .md(markdown)                                                                                                                                                        |
+| `<img src="../../images/googleForms.png" width="80px"/>`                 | Google Forms               | Elicitação, Priorização e Modelagem        | O Google Forms é uma ferramenta de criação de formulários on-line gratuita oferecida pelo Google. Será utilizado para fazer questionários para a pesquisa de perfil de usuário do projeto, além de elaborar os termos de consentimento.                                                                       |
+| `<img src="../../images/vscode.png" width="80px"/>`                      | VsCode                     | Todo o projeto                                 | O VsCode é usado para editar o código markdown que gera a página.                                                                                                                                                                                                                                                  |
+| `<img src="../../images/youtube.png" width="80px"/>`                     | YouTube                    | Atas Apresentações                           | O YouTube é o site pelo qual o grupo hospeda as gravações.                                                                                                                                                                                                                                                         |
+| `<img src="../../images/lucidchart.png" width="80px"/>`                  | Lucidchart                 | [Casos de uso](../modelagem/casosDeUso.md)        | O Lucidchart é usado para fazer a diagramação e visualização de informações.                                                                                                                                                                                                                                   |
+| `<img src="../../images/lucidspark.png" width="80px">`                   | Lucidspark                 | Priorização e Modelagem Ágil                | O Lucidspark é uma ferramenta de colaboração online projetada para facilitar a colaboração visual e a geração de ideias em equipe. Ele oferece uma plataforma virtual onde os membros da equipe podem colaborar em tempo real, compartilhar ideias, organizar informações e tomar decisões conjuntas.       |
+| `<img src="../../images/whiteboard.png" width="80px"/>`                  | WhiteBoard                 | [Rich Picture](../prePlanejamento/richPicture.md) | O WhiteBoard é usado para fazer diagramas e organizar informações.                                                                                                                                                                                                                                                 |
+| <img src="../../images/excel.png"width="80px"/>                            | Excel                      | Planejamento                                   | O Excel é um programa de planilha eletrônica desenvolvido pela Microsoft e é amplamente utilizado em ambientes profissionais e pessoais. Ele oferece uma ampla gama de recursos e funcionalidades que o tornam uma ferramenta versátil para realizar várias tarefas relacionadas a dados, cálculos e análises. |
+| `<img src="../../images/logoThisPersonDoesNotExist.jpeg" width="80px"/>` | This Person Does Not Exist | Elicitação                                   | O This Person Does Not Exist é um aplicativo para geração de fotos de pessoas que não existem, o mesmo será utilizado para elaborar imagens de pessoas que não existem a fim de construir as personas do projeto.                                                                                               |
+| `<img src="../../images/figma.png">`                                     | Figma                      | [Validação](../verificacaoGrupo/validacao.md)   | O Figma é uma ferramenta de design de interface de usuário (UI) e prototipagem, que será utilizada para elaborar os protótipos de alta fidelidade do projeto.                                                                                                                                                     |
+| `<img src="../../images/photoshop.png">`                                 | Photoshop                  | [Validação](../verificacaoGrupo/validacao.md)   | O Photoshop é um software de edição de imagens digitais que será utilizado em conjunto com o Figma para elaboração do protótipo de alta fidelidade.                                                                                                                                                            |
 
 <div style="text-align: center">
 <p> Tabela 19: Ferramentas utilizadas durante o projeto (Fonte: Pedro, 2023). </p>
@@ -577,35 +578,32 @@ A tabela a seguir, Tabela 19, apresenta todas as ferramentas utilizadas no proje
 
 ## Métodos de Verificação e Validação
 
-Na Tabela 20, está contida dados sobre os artefatos verificados e dados sobre a validação, além de seus autores e revisores se houver.
+Na Tabela 20, está contida dados sobre os artefatos verificados e dados sobre a validação, além de seus autores e revisores se houver. Foi definido nesse mesmo artefato que a pessoa que revisaria o artefato de verificação seria o autor do artefato que est[a sendo corrigido.
 
-| Etapa Verificada | Artefato Verificado                                                                        | Autor(es)                                  | Revisor(es)           |
-| ---------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------ | --------------------- |
-| Pré-Planejamento | [Rich Picture](../verificacaoGrupo/prePlanejamento/richPicture.md)                         | Gabriel e Lucas                            | ---                   |
-| Planejamento     | [Lista de Aplicativos](../verificacaoGrupo/planejamento/listaDeAplicativos.md)             | Pedro                                      | ---                   |
-|                  | [Aplicativo Selecionado](../verificacaoGrupo/planejamento/aplicativoSelecionado.md)        | Pedro                                      | ---                   |
-|                  | [Ferramentas](../verificacaoGrupo/planejamento/ferramenta.md)                              | Samuel                                     | ---                   |
-|                  | [Cronogramas](../verificacaoGrupo/planejamento/cronograma.md)                              | Lucas                                      | ---                   |
-| Elicitação       | [Perfil de Usuário](../verificacaoGrupo/elicitacao/perfilUsuario.md)                       | Lucas e Chaydson                           | ---                   |
-|                  | [Personas](../verificacaoGrupo/elicitacao/personas.md)                                     | Henrique e Samuel                          | ---                   |
-|                  | [Storytelling](../verificacaoGrupo/elicitacao/storytelling.md)                             | Gabriel e Chaydson                         | ---                   |
-|                  | [Observação](../verificacaoGrupo/elicitacao/observacao.md)                                 | Lucas                                      | ---                   |
-|                  | [Brainstorm](../verificacaoGrupo/elicitacao/brainstorm.md)                                 | Henrique e Samuel                          | ---                   |
-| Priorização      | [MOSCOW](../verificacaoGrupo/priorizacao/moscow.md)                                        | Pedro                                      | ---                   |
-|                  | [InOrOut](../verificacaoGrupo/priorizacao/inOrOut.md)                                      | Lucas                                      | ---                   |
-|                  | [Three Level Scale](../verificacaoGrupo/priorizacao/threeLevelScale.md)                    | Pedro e Gabriel                            | ---                   |
-| Modelagem        | [Cenários](../verificacaoGrupo/modelagem/cenarios.md)                                      | Chaydson e Samuel                          | ---                   |
-|                  | [Léxicos](../verificacaoGrupo/modelagem/lexicos.md)                                        | Henrique e Chaydson                        | ---                   |
-|                  | [Casos de Uso](../modelagem/casosDeUso.md)                                                 | Lucas                                      | ---                   |
-|                  | [Especificação Suplementar](../verificacaoGrupo/modelagem/especificacaoSuplementar.md)     | Gabriel e Pedro                            | ---                   |
-| Modelagem - Ágil | [Backlog](../verificacaoGrupo/agil/backlog.md)                                             | Gabriel e Pedro                            | ---                   |
-|                  | [História de Usuário](../verificacaoGrupo/agil/historiasDeUsuario.md)                      | Henrique e Samuel                          | ---                   |
-|                  | [NRF Framework](../verificacaoGrupo/modelagem/nfrFrameWork.md)                             | Chaydson e Lucas                           | ---                   |
-| Rastreabilidade  | Backward-From                                                                              | ---                                        | ---                   |
-|                  | Foward-From                                                                                | ---                                        | ---                   |
-|                  | Matriz Geral                                                                               | ---                                        | ---                   |
-| Validação        | [Validação por Comprovação Infomal](../verificacaoGrupo/validacao.md#comprovação-informal) | Chaydson, Gabriel e Henrique               | Lucas, Samuel e Pedro |
-|                  | [Validação por Prototipagem](../verificacaoGrupo/validacao.md#prototipagem)                | Gabriel, Henrique, Pedro, Lucas e Chaydson | Samuel                |
+| Etapa Verificada  | Artefato Verificado                                                                           | Autor(es)                                   | Revisor(es)           |
+| ----------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------- | --------------------- |
+| Pré-Planejamento | [Rich Picture](../verificacaoGrupo/prePlanejamento/richPicture.md)                               | Gabriel e Lucas                             | ---                   |
+| Planejamento      | [Lista de Aplicativos](../verificacaoGrupo/planejamento/listaDeAplicativos.md)                   | Pedro                                       | ---                   |
+|                   | [Aplicativo Selecionado](../verificacaoGrupo/planejamento/aplicativoSelecionado.md)              | Pedro                                       | ---                   |
+|                   | [Ferramentas](../verificacaoGrupo/planejamento/ferramenta.md)                                    | Samuel                                      | ---                   |
+|                   | [Cronogramas](../verificacaoGrupo/planejamento/cronograma.md)                                    | Lucas                                       | ---                   |
+| Elicitação      | [Perfil de Usuário](../verificacaoGrupo/elicitacao/perfilUsuario.md)                            | Lucas e Chaydson                            | ---                   |
+|                   | [Personas](../verificacaoGrupo/elicitacao/personas.md)                                           | Henrique e Samuel                           | ---                   |
+|                   | [Storytelling](../verificacaoGrupo/elicitacao/storytelling.md)                                   | Gabriel e Chaydson                          | ---                   |
+|                   | [Observação](../verificacaoGrupo/elicitacao/observacao.md)                                     | Lucas                                       | ---                   |
+|                   | [Brainstorm](../verificacaoGrupo/elicitacao/brainstorm.md)                                       | Henrique e Samuel                           | ---                   |
+| Priorização     | [MOSCOW](../verificacaoGrupo/priorizacao/moscow.md)                                              | Pedro                                       | ---                   |
+|                   | [InOrOut](../verificacaoGrupo/priorizacao/inOrOut.md)                                            | Lucas                                       | ---                   |
+|                   | [Three Level Scale](../verificacaoGrupo/priorizacao/threeLevelScale.md)                          | Pedro e Gabriel                             | ---                   |
+| Modelagem         | [Cenários](../verificacaoGrupo/modelagem/cenarios.md)                                           | Chaydson e Samuel                           | ---                   |
+|                   | [Léxicos](../verificacaoGrupo/modelagem/lexicos.md)                                             | Henrique e Chaydson                         | ---                   |
+|                   | [Casos de Uso](../modelagem/casosDeUso.md)                                                       | Lucas                                       | ---                   |
+|                   | [Especificação Suplementar](../verificacaoGrupo/modelagem/especificacaoSuplementar.md)         | Gabriel e Pedro                             | ---                   |
+| Modelagem - Ágil | [Backlog](../verificacaoGrupo/agil/backlog.md)                                                   | Gabriel e Pedro                             | ---                   |
+|                   | [História de Usuário](../verificacaoGrupo/agil/historiasDeUsuario.md)                          | Henrique e Samuel                           | ---                   |
+|                   | [NRF Framework](../verificacaoGrupo/modelagem/nfrFrameWork.md)                                   | Chaydson e Lucas                            | ---                   |
+| Validação       | [Validação por Comprovação Infomal](../verificacaoGrupo/validacao.md#comprovação-informal) | Chaydson, Gabriel e Henrique                | Lucas, Samuel e Pedro |
+|                   | [Validação por Prototipagem](../verificacaoGrupo/validacao.md#prototipagem)                    | Gabriel, Henrique, Pedro, Lucas e Chaydson | Samuel                |
 
 <div style="text-align: center">
 <p> Tabela 20: Métodos de Verificação e Validação utilizadas durante o projeto (Fonte: Gabriel, 2023). </p>
@@ -1038,16 +1036,16 @@ A tabela a seguir, Tabela 21, apresenta todos os artefatos criados no projeto, o
 
 A Tabela 22 contém as apresentações durante o projeto, as apresentações são reflexos do que foi desenvolvido em cada etapa do projeto.
 
-| Etapa | Apresentação                                                                                              | Participantes                                      |
+| Etapa | Apresentação                                                                                            | Participantes                                      |
 | ----- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 1     | [Primeira Apresentação -  Pré-Planejamento e Planejamento](../apresentacoes/primeiraApresentacao.md)      | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 2     | [Segunda Apresentação - Elicitação e Priorização](../apresentacoes/segundaApresentacao.md)                | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 3     | [Terceira Apresentação - Modelagem ](../apresentacoes/terceiraApresentacao.md)                            | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 1     | [Primeira Apresentação -  Pré-Planejamento e Planejamento](../apresentacoes/primeiraApresentacao.md)     | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 2     | [Segunda Apresentação - Elicitação e Priorização](../apresentacoes/segundaApresentacao.md)            | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 3     | [Terceira Apresentação - Modelagem ](../apresentacoes/terceiraApresentacao.md)                             | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
 | 4     | [Quarta Apresentação - Modelagem de Requisitos - Ágil ](../apresentacoes/quartaApresentacao.md)           | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 5.1   | [Quinta Apresentação - Verificação sobre o Grupo 03](../apresentacoes/quintaApresentacao.md)              | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 5.2   | [Sexta Apresentação - Verificação e Validação](../apresentacoes/sextaApresentacao.md)                     | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 5.1   | [Quinta Apresentação - Verificação sobre o Grupo 03](../apresentacoes/quintaApresentacao.md)             | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 5.2   | [Sexta Apresentação - Verificação e Validação](../apresentacoes/sextaApresentacao.md)                  | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
 | 6     | [Sétima Apresentação - Backward-from, Foward-From e Matriz Geral](../apresentacoes/setimaApresentacao.md) | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
-| 7     | [Oitava Apresentação - Entrega Final](../apresentacoes/oitavaApresentacao.md)                             | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
+| 7     | [Oitava Apresentação - Entrega Final](../apresentacoes/oitavaApresentacao.md)                              | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
 
 <div style="text-align: center">
 <p> Tabela 22: Apresentações e seus participantes (Fonte: Gabriel, 2023). </p>
@@ -1093,11 +1091,11 @@ Positivo: Matéria orientada a projeto é melhor para aprender
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                                              | Autor(es) | Revisor(es) |
-| ------ | ---------- | ---------------------------------------------------------------------- | --------- | ----------- |
-| 1.0    | 01/07/2023 | Criação da Página e Adicionando Ferramentas                            | Pedro     | Lucas       |
-| 1.1    | 04/07/2023 | Adicionando títulos e padrões no artefato                              | Gabriel   | ----        |
-| 1.2    | 04/07/2023 | Adicionando execução do projeto                                        | Lucas     | Chaydson    |
-| 1.3    | 04/07/2023 | Adicionando Seção de Métodos de Verificação e Validação, Apresentações | Gabriel   | Henrique    |
-| 1.4    | 04/07/2023 | Adicionando resultados alcançados                                      | Lucas     | Pedro       |
-| 1.5    | 05/07/2023 | Adicionando tabela de técnicas utilizadas                              | Henrique  | Samuel      |
+| Versão | Data       | Descrição                                                                     | Autor(es) | Revisor(es) |
+| ------- | ---------- | ------------------------------------------------------------------------------- | --------- | ----------- |
+| 1.0     | 01/07/2023 | Criação da Página e Adicionando Ferramentas                                  | Pedro     | Lucas       |
+| 1.1     | 04/07/2023 | Adicionando títulos e padrões no artefato                                     | Gabriel   | ----        |
+| 1.2     | 04/07/2023 | Adicionando execução do projeto                                               | Lucas     | Chaydson    |
+| 1.3     | 04/07/2023 | Adicionando Seção de Métodos de Verificação e Validação, Apresentações | Gabriel   | Henrique    |
+| 1.4     | 04/07/2023 | Adicionando resultados alcançados                                              | Lucas     | Pedro       |
+| 1.5     | 05/07/2023 | Adicionando tabela de técnicas utilizadas                                      | Henrique  | Samuel      |
