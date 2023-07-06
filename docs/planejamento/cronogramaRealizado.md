@@ -121,6 +121,67 @@ O planejamento completo está presente na Tabela 5.
     <p> Tabela 5 - Cronograma da entrega 5.1. (Fonte: Autores. 2023).</p>
 </div>
 
+## Entrega 5.2 - Análise de Requisitos: Verificação e Validação
+
+Nesta etapa, o grupo responsável pela atividade de verificação e validação dos requisitos irá apresentar os resultados obtidos durante a análise, bem como as atividades realizadas para garantir a qualidade e a adequação dos requisitos definidos para o produto. O cronograma desta entrega pode ser observada na Tabela 7.
+
+| Tarefa                    | Autor(es)                                          | Período de desenvolvimento |
+| ------------------------- | -------------------------------------------------- | -------------------------- |
+| Cronogramas               | Lucas                                              | 16/06/2023 - 23/06/2023    |
+| Lista de aplicativos      | Pedro                                              | 16/06/2023 - 23/06/2023    |
+| Ferramentas               | Samuel                                             | 16/06/2023 - 23/06/2023    |
+| Rich picture              | Chaydson e Henrique                                | 16/06/2023 - 23/06/2023    |
+| Perfil de usuário         | Lucas e Chaydson                                   | 16/06/2023 - 23/06/2023    |
+| Personas                  | Samuel e Henrique                                  | 16/06/2023 - 23/06/2023    |
+| Questionario              | Lucas                                              | 16/06/2023 - 23/06/2023    |
+| Storytelling              | Gabriel e Chaydson                                 | 16/06/2023 - 23/06/2023    |
+| First Things First        | Pedro e Gabriel                                    | 16/06/2023 - 23/06/2023    |
+| In or Out                 | Lucas e Henrique                                   | 16/06/2023 - 23/06/2023    |
+| MoSCoW                    | Samuel e Pedro                                     | 16/06/2023 - 23/06/2023    |
+| Casos de uso              | Lucas                                              | 16/06/2023 - 23/06/2023    |
+| Cenários                  | Chaydson e Samuel                                  | 16/06/2023 - 23/06/2023    |
+| Léxico                    | Henrique e Chaydson                                | 16/06/2023 - 23/06/2023    |
+| Especificação suplementar | Gabriel e Pedro                                    | 16/06/2023 - 23/06/2023    |
+| Histórias de usuário      | Henrique e Samuel                                  | 16/06/2023 - 23/06/2023    |
+| Backlog                   | Pedro e Gabriel                                    | 16/06/2023 - 23/06/2023    |
+| NFR Framework             | Chaydson e Lucas                                   | 16/06/2023 - 23/06/2023    |
+| Gravação da apresentação  | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 23/06/2023                 |
+| Finalização               | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 23/06/2023 - 05/07/2023    |
+
+<div style="text-align: center">
+    <p> Tabela 6 - Cronograma da entrega 5.2. (Fonte: Autores. 2023).</p>
+</div>
+
+## Entrega 6 - Pós-Rastreabilidade
+
+Nesta etapa, serão apresentadas as atividades de pós-rastreabilidade, que visam garantir que os requisitos definidos para o produto sejam atendidos corretamente ao longo do ciclo de vida do projeto.
+
+Segue na Tabela 8 o cronograma da etapa.
+
+| Tarefa                         | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
+| ------------------------------ | -------------------------------------------------- | -------------------------- | ------------------ | -------------------------------------------------- |
+| Pós-Rastreabilidade - Gerência | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 21/06/2023 à 27/06/2023    | 28/06/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Gravação da apresentação       | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 28/06/2023                 | 28/06/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Finalização                    | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 28/06/2023                 | 05/07/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+
+<div style="text-align: center">
+    <p> Tabela 7 - Cronograma da entrega 6. (Fonte: Autores. 2023).</p>
+</div>
+
+## Entrega Final
+
+A entrega final do projeto é um momento aguardado por toda a equipe, pois representa o resultado de um trabalho conjunto de análise, modelagem e desenvolvimento. Nesta entrega, serão apresentados todos os artefatos produzidos ao longo do projeto, desde a definição dos requisitos até a implementação e testes do produto. O planejamento para essa entrega encontra-se na Tabela 9.
+
+| Tarefa                   | Autor(es)                                          | Período de desenvolvimento | Período de revisão | Revisores                                          |
+| ------------------------ | -------------------------------------------------- | -------------------------- | ------------------ | -------------------------------------------------- |
+| Correção geral           | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 22/06/2023 à 02/07/2023    | 03/07/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Entrega final            | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 28/06/2023 - 04/07/2023    | 05/07/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+| Gravação da apresentação | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 05/07/2023                 | 04/07/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
+
+<div style="text-align: center">
+    <p> Tabela 8 - Cronograma da entrega final. (Fonte: Autores. 2023).</p>
+</div>
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                          | Autor(es) | Revisor(es)                                 |
@@ -131,3 +192,4 @@ O planejamento completo está presente na Tabela 5.
 | 2.0    | 01/05/2023 | Adicionando entrega 2                              | Lucas     | Chaydson, Gabriel, Samuel, Henrique e Pedro |
 | 2.1    | 05/05/2023 | Adicionando entrega 3                              | Lucas     | Chaydson, Gabriel, Samuel, Henrique e Pedro |
 | 2.1    | 14/06/2023 | Adicionando entrega 4 e 5                          | Lucas     | Chaydson, Gabriel, Samuel, Henrique e Pedro |
+| 2.1    | 14/06/2023 | Adicionando entrega 5.2, 6 e entrega final         | Lucas     | Chaydson, Gabriel, Samuel, Henrique e Pedro |
