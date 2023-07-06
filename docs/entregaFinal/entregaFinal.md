@@ -2,6 +2,8 @@
 
 ## Introdução
 
+Neste artefato, apresentaremos a entrega final do projeto, incluindo um resumo conciso de tudo o que foi desenvolvido ao longo do semestre.
+
 ## Aplicativo Selecionado
 
 O [Aplicativo Selecionado](../planejamento/aplicativoSelecionado.md) para estudo na disciplina é o Booking. Ele é uma plataforma de viagens que oferece a possibilidade de pesquisar, reservar e gerenciar acomodações, aluguéis de carros e pacotes turísticos. O Booking é amplamente utilizado em todo o mundo, sendo reconhecido por sua popularidade. Ele foi escolhido como objeto de estudo para o projeto de Requisitos de Software devido à sua complexidade e à diversidade de funcionalidades que oferece. Além disso, é relativamente fácil de contatar usuários.
@@ -9,6 +11,7 @@ O [Aplicativo Selecionado](../planejamento/aplicativoSelecionado.md) para estudo
 ## Cronograma Planejado
 
 <!-- Inicio tabela cronograma geral-->
+<center>
 
 | Entrega                                  |  Início  | Entrega    |
 | :--------------------------------------- | :--------: | ---------- |
@@ -21,6 +24,7 @@ O [Aplicativo Selecionado](../planejamento/aplicativoSelecionado.md) para estudo
 | Pós-Rastreabilidade - Gerência II      | 15/06/2023 | 21/06/2023 |
 | Entrega Final                            | 22/06/2023 | 05/07/2023 |
 
+</center>
 <!-- Fim tabela cronograma geral -->
 
 Tabela 1 - Cronograma geral da equipe. (Fonte: Autores. 2023).
@@ -228,7 +232,7 @@ Esse tópico é referente ao que o grupo efetivamente conseguiu entregar durante
 | Finalização                                    | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |  17/04/2023 - 21/04/2023   |     22/04/2023     | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
-    <p> Tabela 1 - Cronograma da entrega 1. (Fonte: Autores. 2023).</p>
+    <p> Tabela 10 - Cronograma da entrega 1. (Fonte: Autores. 2023).</p>
 </div>
 
 ### Entrega 2 - Elicitação – Técnicas e Priorização
@@ -250,7 +254,7 @@ A priorização é fundamental para garantir que as funcionalidades mais importa
 | Finalização              | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 02/05/2023 à 04/05/2023    | 30/04/2023 à 01/05/2023 | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
-    <p> Tabela 2 - Cronograma da entrega 2. (Fonte: Autores. 2023).</p>
+    <p> Tabela 11 - Cronograma da entrega 2. (Fonte: Autores. 2023).</p>
 </div>
 
 ### Entrega 3 - Modelagem de Requisitos - Padrão
@@ -268,7 +272,7 @@ Nesta entrega, serão apresentados os cenários, o léxico, o use case e a espec
 | Finalização               | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 18/05/2023                 | 19/05/2023              | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
-    <p> Tabela 3 - Cronograma da entrega 3. (Fonte: Autores. 2023).</p>
+    <p> Tabela 12 - Cronograma da entrega 3. (Fonte: Autores. 2023).</p>
 </div>
 
 ### Entrega 4 - Modelagem de Requisitos - Ágil
@@ -285,7 +289,7 @@ Nesta etapa, serão apresentadas as histórias de usuário, o backlog do produto
 | Finalização              | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 24/05/2023                 | 24/05/2023         | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro |
 
 <div style="text-align: center">
-    <p> Tabela 4 - Cronograma da entrega 4. (Fonte: Autores. 2023).</p>
+    <p> Tabela 13 - Cronograma da entrega 4. (Fonte: Autores. 2023).</p>
 </div>
 
 ### Entrega 5.1 - Análise de Requisitos: Verificação e Validação – Grupo 03 - VLC
@@ -320,7 +324,7 @@ O planejamento completo está presente na Tabela 5.
 | Finalização               | Chaydson, Lucas, Gabriel, Samuel, Henrique e Pedro | 08/06/2023 - 15/06/2023    |
 
 <div style="text-align: center">
-    <p> Tabela 5 - Cronograma da entrega 5.1. (Fonte: Autores. 2023).</p>
+    <p> Tabela 14 - Cronograma da entrega 5.1. (Fonte: Autores. 2023).</p>
 </div>
 
 
@@ -380,20 +384,6 @@ Na sexta etapa, fizemos uma autoanálise e [verificamos](../verificacaoGrupo/met
 ### Sétima etapa
 
 Para finalizar o projeto com êxito, criamos os artefatos relacionados à Pós-Rastreabilidade e entregamos o [Backward-from](../rastreabilidade/backward.md), o [Forward-from](../rastreabilidade/forwardFrom.md) e a [Matriz Geral do projeto](../rastreabilidade/matrizRastreabilidade.md). Essa etapa teve como objetivo principal rastrear os requisitos e suas conexões em todas as fases do projeto. Além disso, a rastreabilidade pode ser vista como um fator que auxilia a gestão da qualidade.
-
-### Apresentações das etapas
-
-Para representar melhor cada etapa da execução do projeto, na tabela x, se encontra todas as apresentações realizadas pelo grupo durante o semestre, mostrando os principais artefatos de cada fase. Esses vídeos podem ser encontrados a seguir:
-
-| Etapa    | Vídeo                                                              |
-| -------- | ------------------------------------------------------------------- |
-| Primeira | [Primeira apresentação](https://www.youtube.com/watch?v=UrGXgPkrcv0) |
-| Segunda  | [Segunda apresentação](https://www.youtube.com/watch?v=bjGH3zkUKA8)  |
-| Terceira | [Terceira apresentação](https://www.youtube.com/watch?v=jh5o-5CX664) |
-| Quarta   | [Quarta apresentação](https://www.youtube.com/watch?v=-9E9GPUd3qs)   |
-| Quinta   | [Quinta apresentação](https://www.youtube.com/watch?v=FTI1URbYTKw)   |
-| Sexta    | [Sexta apresentação](https://www.youtube.com/watch?v=ighf_jHBFLU)    |
-| Sétima  | [Sétima apresentação](https://www.youtube.com/watch?v=13CB0Y88SOA)  |
 
 ## Resultados alcançados
 
@@ -493,7 +483,7 @@ A seguir, na Tabela 1, serão apresentas as técnicas utilizadas em cada artefat
 |           | [Matriz Geral](../rastreabilidade/matrizRastreabilidade.md)                              |                     Inspeção e Checklist                     | Gabriel e Chaydson                         |
 
 <div style="text-align: center">
-<p> Tabela 1: Técnicas utilizadas em cada artefato, junto com seu autor(es) (Fonte: Henrique, 2023). </p>
+<p> Tabela 15: Técnicas utilizadas em cada artefato, junto com seu autor(es) (Fonte: Henrique, 2023). </p>
 </div>
 
 ## Ferramentas
@@ -522,7 +512,7 @@ A tabela a seguir, Tabela 2, apresenta todas as ferramentas utilizadas no projet
 | <img src="../../images/photoshop.png">                                     | Photoshop                      | [Validação](../verificacaoGrupo/validacao.md)   | O Photoshop é um software de edição de imagens digitais que será utilizado em conjunto com o Figma para elaboração do protótipo de alta fidelidade.                                                                                                                                                      |
 
 <div style="text-align: center">
-<p> Tabela 2: Ferramentas utilizadas durante o projeto (Fonte: Pedro, 2023). </p>
+<p> Tabela 16: Ferramentas utilizadas durante o projeto (Fonte: Pedro, 2023). </p>
 </div>
 
 ## Métodos de Vericação e Validação
@@ -558,7 +548,7 @@ Na Tabela 3, está contida dados sobre os artefatos verificados e dados sobre a 
 |                   | [Validação por Prototipagem](../verificacaoGrupo/validacao.md#prototipagem)                    | Gabriel, Henrique, Pedro, Lucas e Chaydson | Samuel                |
 
 <div style="text-align: center">
-<p> Tabela 3: Métodos de Verificação e Validação utilizadas durante o projeto (Fonte: Gabriel, 2023). </p>
+<p> Tabela 17: Métodos de Verificação e Validação utilizadas durante o projeto (Fonte: Gabriel, 2023). </p>
 </div>
 
 ## Artefatos criados no projeto
@@ -981,7 +971,7 @@ A tabela a seguir, Tabela 4, apresenta todos os artefatos criados no projeto, or
 </table>
 
 <div style="text-align: center">
-<p> Tabela 4: Listagem de todos os artefatos com as etapas do projeto, autor(es) e revisor(es). (Fonte: Pedro, 2023). </p>
+<p> Tabela 16: Listagem de todos os artefatos com as etapas do projeto, autor(es) e revisor(es). (Fonte: Pedro, 2023). </p>
 </div>
 
 ## Apresentações do Projeto
@@ -1000,12 +990,45 @@ A Tabela 5 contém as apresentações durante o projeto, as apresentações são
 | 7     | [Oitava Apresentação - Entrega Final](../apresentacoes/oitavaApresentacao.md)                              | Chaydson, Gabriel, Henrique, Lucas, Pedro e Samuel |
 
 <div style="text-align: center">
-<p> Tabela 5: Apresentações e seus participantes (Fonte: Gabriel, 2023). </p>
+<p> Tabela 17: Apresentações e seus participantes (Fonte: Gabriel, 2023). </p>
 </div>
 
-## Bibliografia
+## Facilidades e dificuldades
 
-## Referências Bibliográficas
+### Lucas Lopes Frazão
+
+Negativo: O cronograma estabelecido foi bastante rigoroso, com entregas semanais, o que dificultou a execução de alguns artefatos com excelência.
+
+Positivo: O livro de Simone foi extremamente útil, pois grande parte do conteúdo da disciplina de Requisitos de Software estava presente nele. A comunicação com os membros do grupo foi eficaz, o que facilitou a realização das atividades. Além disso, a matéria proporcionou um grande aprendizado, especialmente em relação às técnicas de elicitação, priorização e modelagem de requisitos, que foi abordada de forma prática.
+
+### Henrique Pucci da Silva Pinto
+
+Negativo: Acredito que a matéria possui certas entregas com prazos muito curtos, as vezes dando uma semana entre uma entrega e outra, com isso, por conta desses prazos, em certos momentos o desempenho e detalhamento na entrega pode ficar um pouco comprometida.
+
+Positivo: Os materiais e as bibliografias disponíveis ajudaram bastante na contrução dos artefatos. E a experiência adquirida nessa construção desses artefatos, está me ajudando na construção dos mesmos, em outras matérias e projetos externos da faculdade.
+
+### Gabriel Ferreira da Silva
+Negativo: A matéria possui prazos apertados,  que se possuir outras matérias pode atrapalhar em muito a desenvolvimento do projeto e seu desempenho na matéria, com uma melhor definição e explicação dos conceitos poderia seria apresentada e desenvolvida.
+
+Positivo:  A matéria possui um bibliografia muito rica e que traz muito aprendizado para a pessoa que faz a matéria, mas devidos aos motivos negativos, é necessário que se tenha uma tempo para se dedicar. O qual pode ser muito satisfatório caso a pessoa se dedique. 
+
+### Chaydson Ferreira de Aparecida
+
+Negativo: Pela quantidade de demanda exigida semanalmente acredito que não teve tempo suficiente.
+
+Positivo: Ter contato com diversos artefatos e técnicas.
+
+### Samuel Gomes de Souza
+
+Negativo: A matéria exige uma grande quantidade de tempo, além de ter entregas quase todas as semanas, o que pode dificultar a criação de artefatos com mais cuidado e atenção aos detalhes, além de interferir no tempo disponível para outras matérias.
+
+Positivo: O conhecimento adquirido sobre IHC e a oportunidade de desenvolver habilidades de trabalho em equipe.
+
+### Pedro Henrique Rodrigues de Carvalho
+
+Negativo: Cronograma muito apertado para a entrega dos artefatos com a qualidade que queríamos entregar
+
+Positivo: Matéria orientada a projeto é melhor para aprender
 
 ## Histórico de Versão
 
