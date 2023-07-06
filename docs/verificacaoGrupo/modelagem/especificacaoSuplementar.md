@@ -143,20 +143,15 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
 
-| ID Correção | Ajuste |
-| ------------- | ------ |
-| IDC1          |        |
-| IDC2          |        |
-| IDC3          |        |
-| IDC4          |        |
-| IDC5          |        |
-| IDC6          |        |
-| IDC7          |        |
-| IDC8          |        |
-| IDC9          |        |
-| IDC10         |        |
-| IDC11         |        |
-| IDC12         |        |
+| ID Correção | Ajuste                                                             |
+| ------------- | ------------------------------------------------------------------ |
+| IDC1          | Foi adicionado link para os artefatos citados em funcionalidades   |
+| IDC2          | Foi adicionado o usuário na facilidade de uso                     |
+| IDC3          | Foi definido os tipos de pessoas com necessidades especiais        |
+| IDC4          | Foi definido exatamente de onde as regulamentações devem seguir. |
+| IDC5          | Foi adiconado as versões do ios e android                         |
+| IDC6          | Foram removidos os requisitos que não faziam parte dos fisicos    |
+| IDC7          | Adicionado novos requisitos físicos                               |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Henrique e Chaydson, 2023). </p>
@@ -172,8 +167,9 @@ Concept: Requisitos Suplementares. Ufpe.br. Disponível em: [https://www.cin.ufp
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                             | Autor(es)       |
-| ------- | ---------- | --------------------------------------- | --------------- |
-| 1.0     | 20/06/2023 | Criação do documento de verificação | Gabriel e Pedro |
+| Versão | Data       | Descrição                             | Autor(es)           |
+| ------- | ---------- | --------------------------------------- | ------------------- |
+| 1.0     | 20/06/2023 | Criação do documento de verificação | Gabriel e Pedro     |
+| 1.1     | 05/07/2023 | Adicionando as correções              | Henrique e Chaydson |
 
 ‌

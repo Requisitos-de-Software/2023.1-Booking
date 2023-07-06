@@ -143,12 +143,11 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4
 
-| ID Correção | Ajuste                       |
-| ------------- | ---------------------------- |
-| IDC1          | Foi ajustado x realizando... |
-| IDC2          | Foi incluido x em ...        |
-| IDC3          | Foi removido x ...           |
-| IDC4          | X foi especificaod melhor... |
+| ID Correção | Ajuste                                      |
+| ------------- | ------------------------------------------- |
+| IDC1          | Foi adicionado explicação de Rich Picture |
+| IDC2          | Foi corrigido o nome da bibliografia        |
+| IDC3          | Foi melhorado as citações no texto.       |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Pedro Henrique, 2023). </p>
@@ -167,3 +166,4 @@ BARROS, André. Rich Picture. Disponível em: [https://www.youtube.com/watch?v=N
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
 | 20/06/2023 |   1.0   | Criação do documento |   Pedro   |
+| 04/07/2023 |   1.1   | Adicionando correção |  Samuel  |
